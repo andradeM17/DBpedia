@@ -2,7 +2,7 @@
 
 This project validates the semantic consistency and data quality of resources on [DBpedia](https://dbpedia.org/page/DBpedia).  
 It evaluates whether the types of properties and relationships in DBpedia conform to their expected ontology ranges.  
-The latest version is **4.5**.
+The latest version is **5.1**.
 
 ---
 
@@ -100,3 +100,11 @@ This contains tables of properties led to triples being marked as invalid.
 #### **4.5**
 
 Work in progress - the aim for this version is to expanded entities that are directly related to other entities, marked with a double underscore **"__"**.
+
+---
+
+### Version 5
+
+#### **5.1**
+Files and documents related to the most recent experiment.
+
