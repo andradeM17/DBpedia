@@ -1,0 +1,5 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Sandar Church,architect,Hans_Christian_Lind,outgoing,http://dbpedia.org/ontology/Architect,
+Sandar Church,restingPlace,Sandar Church,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+Niotaze Methodist Episcopal Church,nrhpReferenceNumber,05001512,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Niotaze Methodist Episcopal Church,yearOfConstruction,1895,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year

@@ -1,0 +1,907 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Antoninus of Piacenza,deathYear,0303,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Antoninus of Piacenza,veneratedIn,Roman_Catholic_Church,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+James MacCullagh,deathDate,1847-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lee Hyun-wook,activeYearsStartYear,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Hyun-wook,birthDate,1985-06-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lee Hyun-wook,birthYear,1985,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Hyun-wook,starring,Lee Hyun-wook,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Leena Chandavarkar,activeYearsEndYear,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Leena Chandavarkar,activeYearsStartYear,1968,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leena Chandavarkar,birthDate,1950-08-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Leena Chandavarkar,birthYear,1950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leena Chandavarkar,starring,Leena Chandavarkar,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+E. R. Tambimuttu,originalName,ஈ. ஆர். தம்பிமுத்து,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Darren Shapland,birthName,Darren Mark Shapland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Matías Rodrigo Pérez,height,192.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Matías Rodrigo Pérez,birthDate,1994-01-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Matías Rodrigo Pérez,height,1.92,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Matías Rodrigo Pérez,team,Club_Rubio_Ñu,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Matías Rodrigo Pérez,team,Paraguay_national_under-17_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Matías Rodrigo Pérez,team,Paraguay_national_under-20_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jaylon Moore (wide receiver),number,83,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Jaylon Moore (wide receiver),status,Practice squad,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jaylon Moore (wide receiver),undraftedYear,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+"Nathan (footballer, born 1996)",height,177.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Nathan (footballer, born 1996)",birthDate,1996-03-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Nathan (footballer, born 1996)",height,1.77,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Nathan (footballer, born 1996)",number,13,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",team,Amiens_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,Brazil_national_under-17_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,Brazil_national_under-20_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,C.F._Os_Belenenses,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,Chelsea_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,Clube_Atlético_Mineiro,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,Fluminense_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Nathan (footballer, born 1996)",team,SBV_Vitesse,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Shafqat Amanat Ali,activeYearsStartYear,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shafqat Amanat Ali,birthDate,1965-02-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shafqat Amanat Ali,birthYear,1965,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shafqat Amanat Ali,artist,Shafqat Amanat Ali,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Shafqat Amanat Ali,associatedBand,Shafqat Amanat Ali,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Shafqat Amanat Ali,openingTheme,Shafqat Amanat Ali,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Giancarlo Valt,birthDate,1941-05-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Karina Zhumabaikyzy,height,171.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Karina Zhumabaikyzy,birthDate,1996-08-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Karina Zhumabaikyzy,height,1.71,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Karina Zhumabaikyzy,team,BIIK_Kazygurt,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Karina Zhumabaikyzy,team,Kazakhstan_women's_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Karina Zhumabaikyzy,team,Ryazan-VDV,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Latice Crawford,activeYearsStartYear,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Latice Crawford,birthDate,1982-07-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Daniel H. Hastings,birthDate,1849-02-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Daniel H. Hastings,deathDate,1903-01-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kenji Hasegawa,birthDate,1960-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommaso Ceccarelli,height,178.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tommaso Ceccarelli,birthDate,1992-06-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommaso Ceccarelli,height,1.78,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tommaso Ceccarelli,number,18,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,team,A.C._Monza,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,A.C._Prato,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,Calcio_Catania,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,Feralpisalò,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,L'Aquila_Calcio_1927,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,Lupa_Roma_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,S.S._Juve_Stabia,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,S.S._Lazio,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,S.S._Virtus_Lanciano_1924,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tommaso Ceccarelli,team,U.S._Avellino_1912,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tora Teje,activeYearsEndYear,1960,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tora Teje,activeYearsStartYear,1910,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tora Teje,birthDate,1893-01-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tora Teje,birthYear,1893,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tora Teje,deathDate,1970-04-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tora Teje,deathYear,1970,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),weight,96.1632,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mattias Lindström (ice hockey),activeYearsStartYear,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),birthDate,1991-03-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mattias Lindström (ice hockey),draft,88th overall,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mattias Lindström (ice hockey),draftYear,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),height,1.905,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mattias Lindström (ice hockey),shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mattias Lindström (ice hockey),weight,96163.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Anna May Wong,award,Hollywood_Walk_of_Fame,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Museum
+Anna May Wong,award,Vine_Street,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/RouteOfTransportation; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Road
+Anna May Wong,birthDate,1905-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anna May Wong,birthName,Wong Liu Tsong,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Anna May Wong,birthYear,1905,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Anna May Wong,deathDate,1961-02-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anna May Wong,deathYear,1961,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Anna May Wong,starring,Anna May Wong,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Star
+George W. Stone,birthDate,1811-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George W. Stone,birthName,George Washington Stone,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+George W. Stone,deathDate,1894-03-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roland Zwahlen,birthDate,1977-05-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carrie Munn,alias,Carolyn Nunder (stage name),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carrie Munn,birthDate,1898-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carrie Munn,birthName,Caroline Neunder,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carrie Munn,birthYear,1898,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Carrie Munn,deathDate,1984-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carrie Munn,deathYear,1984,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abbas Mohamed,birthDate,1963-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Thamer Shaker,birthYear,1975,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Paul Hauff,height,197.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paul Hauff,weight,101.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paul Hauff,height,1.97,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paul Hauff,weight,101000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Di Fábio (footballer),height,185.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Di Fábio (footballer),birthDate,1979-02-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Di Fábio (footballer),height,1.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Di Fábio (footballer),team,Agremiação_Sportiva_Arapiraquense,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Di Fábio (footballer),team,América_Futebol_Clube_(SP),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Di Fábio (footballer),team,Busan_I'Park,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Di Fábio (footballer),team,Cagliari_Calcio,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Di Fábio (footballer),team,Como_Calcio,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Di Fábio (footballer),team,Portimonense_S.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Robbie Gould,number,9,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Robbie Gould,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Robbie Gould,undraftedYear,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Annon Lee Silver,birthDate,1938-11-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Annon Lee Silver,birthPlace,Cape_Breton,outgoing,http://dbpedia.org/ontology/Place,
+Annon Lee Silver,birthYear,1938,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Annon Lee Silver,deathDate,1971-07-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Annon Lee Silver,deathYear,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arlyn E. Danker,birthDate,1927-05-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Arlyn E. Danker,deathDate,2016-01-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hans-Uwe Pilz,height,171.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hans-Uwe Pilz,birthDate,1958-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hans-Uwe Pilz,height,1.71,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hans-Uwe Pilz,managerClub,FSV_Zwickau,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hans-Uwe Pilz,team,Dynamo_Dresden,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hans-Uwe Pilz,team,East_Germany_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hans-Uwe Pilz,team,FSV_Zwickau,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hans-Uwe Pilz,team,Fortuna_Köln,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Hans-Uwe Pilz,team,Sachsenring_Zwickau,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Suhail Yusuf Khan,activeYearsStartYear,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Suhail Yusuf Khan,birthDate,1988-02-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Suhail Yusuf Khan,associatedBand,Suhail Yusuf Khan,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+William Dorrance Beach,award,Legion_of_Honour,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Eukaryote
+William Dorrance Beach,militaryCommand,176th Brigade,outgoing,http://www.w3.org/2001/XMLSchema#string,
+William Dorrance Beach,militaryCommand,88th Division,outgoing,http://www.w3.org/2001/XMLSchema#string,
+William Dorrance Beach,militaryCommand,8th Cavalry Regiment,outgoing,http://www.w3.org/2001/XMLSchema#string,
+William Dorrance Beach,serviceEndYear,1920,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+William Dorrance Beach,serviceNumber,0-13443,outgoing,http://www.w3.org/2001/XMLSchema#string,
+William Dorrance Beach,serviceStartYear,1879,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michaël Bodegas,height,192.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Michaël Bodegas,weight,102.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Michaël Bodegas,birthDate,1987-05-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Michaël Bodegas,club,CN_Marseille,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent
+Michaël Bodegas,height,1.92,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Michaël Bodegas,weight,102000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Cistercian Monks of Stift Heiligenkreuz,activeYearsStartYear,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Cistercian Monks of Stift Heiligenkreuz,hometown,Austria,outgoing,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+The Cistercian Monks of Stift Heiligenkreuz,recordLabel,Obsculta_Music,outgoing,http://dbpedia.org/ontology/RecordLabel,
+The Cistercian Monks of Stift Heiligenkreuz,recordLabel,Preiser_Records,outgoing,http://dbpedia.org/ontology/RecordLabel,
+The Cistercian Monks of Stift Heiligenkreuz,recordLabel,UCJ_Music,outgoing,http://dbpedia.org/ontology/RecordLabel,
+Paul E. Meehl,award,National_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Paul E. Meehl,birthDate,1920-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul E. Meehl,birthName,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paul E. Meehl,birthName,Paul Everett Swedal,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paul E. Meehl,deathDate,2003-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ernest G. Eagleson,birthDate,1864-01-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ernest G. Eagleson,deathDate,1956-08-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Momma Dee,activeYearsStartYear,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Momma Dee,birthDate,1963-09-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Momma Dee,birthName,Deborah Gaither,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Momma Dee,birthYear,1963,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Haydn,activeYearsEndYear,1985,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Haydn,activeYearsStartYear,1938,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Haydn,birthDate,1905-03-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Haydn,birthName,George Richard Haydon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Haydn,birthYear,1905,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Haydn,deathDate,1985-04-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Haydn,deathYear,1985,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Haydn,starring,Richard Haydn,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+John Nelson Hinkle,birthDate,1854-01-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Nelson Hinkle,deathDate,1905-10-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Nelson Hinkle,restingPlace,"Green_Lawn_Cemetery,_Columbus,_Ohio",outgoing,http://dbpedia.org/ontology/Place,
+J. S. Rajput,award,UNESCO,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Herbert H. Lehman,birthDate,1878-03-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Herbert H. Lehman,birthName,Herbert Henry Lehman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,deathDate,1963-12-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Herbert H. Lehman,relation,Lehman_family,outgoing,http://dbpedia.org/ontology/Person,
+Joy Hanna,activeYearsStartYear,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Joy Hanna,alias,Joy Lippard-Hanna,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Joy Hanna,birthDate,1990-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tunku Abdul Rahman,almaMater,History,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Tunku Abdul Rahman,almaMater,Law,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Tunku Abdul Rahman,birthDate,1903-02-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tunku Abdul Rahman,deathDate,1990-12-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tunku Abdul Rahman,restingPlace,Kedah_Royal_Mausoleum,outgoing,http://dbpedia.org/ontology/Place,
+Tunku Abdul Rahman,spouse,Bibi_Chong,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,spouse,Meriam_Chong,outgoing,http://dbpedia.org/ontology/Person,
+Sid Smith (ice hockey),weight,78.4728,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sid Smith (ice hockey),activeYearsEndYear,1958,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sid Smith (ice hockey),activeYearsStartYear,1946,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Sid Smith (ice hockey),birthDate,1925-07-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sid Smith (ice hockey),deathDate,2004-04-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sid Smith (ice hockey),formerTeam,American_Hockey_League,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SportsLeague; http://dbpedia.org/ontology/IceHockeyLeague
+Sid Smith (ice hockey),formerTeam,National_Hockey_League,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerLeague; http://dbpedia.org/ontology/SportsLeague; http://dbpedia.org/ontology/IceHockeyLeague
+Sid Smith (ice hockey),height,1.778,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sid Smith (ice hockey),shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sid Smith (ice hockey),weight,78472.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Remi Wolf,activeYearsStartYear,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Remi Wolf,associatedBand,Benee,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Remi Wolf,associatedBand,Dominic_Fike,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Remi Wolf,associatedBand,Lorde,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Remi Wolf,associatedMusicalArtist,Wallows,outgoing,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+Remi Wolf,birthDate,1996-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Remi Wolf,associatedBand,Remi Wolf,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Albert Young (American football),number,343941,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Albert Young (American football),undraftedYear,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Lilla Cabot Perry,birthDate,1848-01-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lilla Cabot Perry,birthName,Lydia Cabot,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lilla Cabot Perry,deathDate,1933-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kai Eide,birthDate,1949-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kai Eide,birthName,Kai Aage Eide,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kai Eide,birthYear,1949,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Jerod-Eddie,number,63,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Tony Jerod-Eddie,undraftedYear,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fritz Stern,birthDate,1926-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fritz Stern,birthPlace,Lower_Silesia_Province_(Prussia),outgoing,http://dbpedia.org/ontology/Place,
+Fritz Stern,deathDate,2016-05-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wilhelm Possak,managerClub,Sporting_Clube_de_Portugal,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Wilhelm Possak,team,CA_Timișoara,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Wilhelm Possak,team,Sporting_Clube_de_Portugal,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Wilhelm Possak,team,Vasas_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Anne Knüpp,birthDate,1954-01-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anne Knüpp,team,Germany_women's_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Svend Olling,birthDate,1967-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Svend Olling,birthYear,1967,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Paula Ritchie,bowlingSide,right arm medium,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andrea Fabbri,height,175.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Andrea Fabbri,activeYearsEndYear,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Andrea Fabbri,height,1.75,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Isaac Taylor,birthDate,1787-08-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isaac Taylor,deathDate,1865-06-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Boris Zhukov,height,187.96,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Boris Zhukov,weight,115.2144,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Boris Zhukov,activeYearsEndYear,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boris Zhukov,activeYearsStartYear,1978,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boris Zhukov,birthDate,1959-12-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Boris Zhukov,height,1.8796,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Boris Zhukov,weight,115214.4,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Michaelle C. Solages,birthDate,1985-03-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Coffey (cricketer),battingSide,Unknown,outgoing,http://www.w3.org/2001/XMLSchema#string,
+William Coffey (cricketer),bowlingSide,Unknown,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Nieves Panadell,birthDate,1956-07-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Beatrice of Brandenburg,deathDate,1316-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Lee Junior,birthDate,1958-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Lee Junior,birthYear,1958,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,height,180.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hernán Cristante,birthDate,1969-09-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hernán Cristante,birthPlace,"La_Plata,_Argentina",outgoing,http://dbpedia.org/ontology/Place,
+Hernán Cristante,height,1.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hernán Cristante,managerClub,Coras_de_Tepic,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,managerClub,Deportivo_Toluca_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,managerClub,FC_Juárez,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,managerClub,Querétaro_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Argentina_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Club_Atlético_Huracán,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Club_Atlético_Platense,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Club_Universidad_de_Guadalajara,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Club_de_Gimnasia_y_Esgrima_La_Plata,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Deportivo_Toluca_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,FC_Juárez,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Hernán Cristante,team,Newell's_Old_Boys,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Sarpar Abejdan,originalName,سرپرابجدان,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sarpar Abejdan,populationTotal,83,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Sarpar Abejdan,utcOffset,+3:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sarpar Abejdan,utcOffset,+4:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+František Fadrhonc,birthDate,1914-12-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Fadrhonc,deathDate,1981-10-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Fadrhonc,managerClub,AEK_Athens_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Go_Ahead_Eagles,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Keravnos_Strovolou_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Netherlands_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Panachaiki_G.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Sportclub_Enschede,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Fadrhonc,managerClub,Willem_II_Tilburg,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Peter Osterhoff,birthDate,1937-08-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Peter Osterhoff,team,FC_St._Pauli,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Martín Ríos (judoka),birthDate,1978-07-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ibrahim Bek,birthName,Ibrahimbek Chaqaboev,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ibrahim Bek,birthYear,1889,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ibrahim Bek,deathDate,1931-08-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ibrahim Bek,deathYear,1931,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,birthDate,1924-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Michele C. Edmondson,allegiance,United States,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,2nd Space Warning Squadron,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,381st Training Group,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,737th Training Group,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,81st Training Wing,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,Commandant of Cadets,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,militaryCommand,Second Air Force,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,serviceStartYear,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chad Copeland,weight,77.112,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chad Copeland,award,Southern_Conference_men's_basketball_tournament,outgoing,http://dbpedia.org/ontology/Award,
+Chad Copeland,birthDate,1971-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chad Copeland,college,Florida_State_Seminoles_men's_basketball,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Chad Copeland,height,1.8034,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chad Copeland,weight,77112.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wenceslas Kalibushi,birthDate,1919-06-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wenceslas Kalibushi,deathDate,1997-12-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chester Barnes,birthDate,1947-01-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chester Barnes,birthName,George Barnes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chester Barnes,birthYear,1947,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chester Barnes,deathDate,2021-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chester Barnes,deathYear,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+István Fehér,birthDate,1954-03-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lay Khurin,originalName,لاي خورين,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lay Khurin,populationTotal,7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Lay Khurin,utcOffset,+3:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Lay Khurin,utcOffset,+4:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sultan Al-Anazi,birthDate,2001-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sultan Al-Anazi,number,22,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Sultan Al-Anazi,team,Al-Nassr_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Sultan Al-Anazi,team,Al-Qaisumah_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Sultan Al-Anazi,team,Al_Nassr_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Sultan Al-Anazi,team,Saudi_Arabia_national_under-20_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Roger Laurin,race,Matron_Stakes_(Belmont_Park),outgoing,http://dbpedia.org/ontology/Race,
+Roger Laurin,raceHorse,Great_Contractor,outgoing,http://dbpedia.org/ontology/Horse,http://dbpedia.org/ontology/RaceHorse
+Roger Laurin,wins,689,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+John Guard,alias,Jack Guard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Guard,birthName,John Guard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Guard,birthYear,1791,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+John Guard,deathDate,1857-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Guard,deathYear,1857,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pheidippides,birthYear,0530,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Pheidippides,deathYear,0490,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Abdulla Atief,height,175.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Abdulla Atief,birthDate,1985-12-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Abdulla Atief,height,1.75,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Abdulla Atief,team,Al-Arabi_SC_(Qatar),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Abdulla Atief,team,Al-Khor_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Abdulla Atief,team,Al-Mesaimeer_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Abdulla Atief,team,Al-Sailiya_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Abdulla Atief,team,Al-Shamal_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Abdulla Atief,team,Al-Waab_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Abdulla Atief,team,Muaither_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+David Teivonen,birthDate,1889-06-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ignacio Walker,birthDate,1956-01-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ignacio Walker,birthName,Ignacio Walker Prieto,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Isabella Calthorpe,activeYearsStartYear,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Isabella Calthorpe,birthDate,1980-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isabella Calthorpe,birthName,Isabella Amaryllis Charlotte Anstruther-Gough-Calthorpe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Isabella Calthorpe,birthYear,1980,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Isabella Calthorpe,imdbId,1671115,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Isabella Calthorpe,starring,Isabella Calthorpe,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Lee Glover,height,180.34,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Lee Glover,birthDate,1970-04-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lee Glover,height,1.8034,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Lee Glover,managerClub,Corby_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,managerClub,Grantham_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,managerClub,Kettering_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Barnsley_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Burton_Albion_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Corby_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Grantham_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Huddersfield_Town_A.F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Leicester_City_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Luton_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Macclesfield_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Mansfield_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Nottingham_Forest_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Port_Vale_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Rotherham_United_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Lee Glover,team,Scotland_national_under-21_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,birthDate,1979-10-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Layton Maxwell,managerClub,Cardiff_Draconians_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Aberaman_Athletic_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Bangor_City_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Barry_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Cardiff_City_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Carmarthen_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Liverpool_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Mansfield_Town_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Rhyl_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Stockport_County_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Layton Maxwell,team,Swansea_City_A.F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Harold D. Cooley,birthDate,1897-07-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Harold D. Cooley,deathDate,1974-01-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tyrone Trice,birthDate,1963-10-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Goasguen,birthDate,1945-03-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Goasguen,deathDate,2020-05-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommy Butler,birthDate,1912-07-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Masataka Sakamoto,height,171.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Masataka Sakamoto,birthDate,1978-02-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Masataka Sakamoto,height,1.71,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Masataka Sakamoto,team,Albirex_Niigata,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Masataka Sakamoto,team,JEF_United_Chiba,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Masataka Sakamoto,team,Nippon_Sport_Science_University,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub; http://dbpedia.org/ontology/University
+Masataka Sakamoto,team,Urawa_Higashi_High_School,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Ricky Aramendi,height,181.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ricky Aramendi,birthDate,1937-03-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ricky Aramendi,height,1.81,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ricky Aramendi,team,Club_Atlético_Huracán,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ricky Aramendi,team,Real_Valladolid,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Wang Dong (swimmer),height,184.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wang Dong (swimmer),weight,78.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wang Dong (swimmer),birthDate,1986-02-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wang Dong (swimmer),height,1.84,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wang Dong (swimmer),weight,78000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Fodé Doucouré,height,172.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Fodé Doucouré,birthDate,2001-02-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fodé Doucouré,height,1.72,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Fodé Doucouré,team,Diambars_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fodé Doucouré,team,Red_Star_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fodé Doucouré,team,Stade_de_Reims,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),birthDate,1970-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tony Ward (footballer),team,Chorley_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),team,Doncaster_Rovers_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),team,Everton_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),team,Marine_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),team,Runcorn_F.C._Halton,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Tony Ward (footballer),team,Wigan_Athletic_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Henry Calvert Simons,birthDate,1899-10-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Calvert Simons,deathDate,1946-06-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paulo Baya,height,186.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paulo Baya,birthDate,1999-07-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paulo Baya,height,1.86,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paulo Baya,team,FC_Cascavel,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Paulo Baya,team,Raça_Sport_Brazil,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Paulo Baya,team,Ventforet_Kofu,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Su Yiming,birthDate,2004-02-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tim Wilson (British politician),activeYearsStartYear,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tim Wilson (British politician),alias,Zontul Films Ltd,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tim Wilson (British politician),birthDate,1961-05-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tim Wilson (British politician),birthYear,1961,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Courtney Jaye,activeYearsStartYear,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Courtney Jaye,birthDate,1978-02-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Koh Eng Kian,birthDate,1956-11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Pugsley,birthDate,1910-03-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Pugsley,birthYear,1910,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Albert Pugsley,deathDate,2002-11-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Pugsley,deathYear,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Rodman Teltull,height,170.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rodman Teltull,weight,57.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rodman Teltull,birthDate,1994-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rodman Teltull,height,1.7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rodman Teltull,weight,57000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mariló López Garrido,employer,Grupo_PRISA,outgoing,http://dbpedia.org/ontology/Organisation,
+Alfred Eisenack,birthDate,1891-05-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alfred Eisenack,deathDate,1982-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Iva Jurišić,height,186.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Iva Jurišić,weight,69.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Iva Jurišić,birthDate,1994-03-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Iva Jurišić,height,1.86,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Iva Jurišić,nationalTeam,Croatia_women's_national_volleyball_team,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Iva Jurišić,weight,69000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Desmond Lardner-Burke,birthDate,1909-10-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pearl (drag queen),activeYearsStartYear,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pearl (drag queen),birthDate,1990-09-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pearl (drag queen),birthName,Matthew James Lent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pearl (drag queen),birthYear,1990,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eric Pohlmann,activeYearsEndYear,1979,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eric Pohlmann,activeYearsStartYear,1948,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eric Pohlmann,birthDate,1913-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eric Pohlmann,birthName,Erich Pollak,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eric Pohlmann,birthYear,1913,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eric Pohlmann,deathDate,1979-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eric Pohlmann,deathYear,1979,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eric Pohlmann,imdbId,0688384,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eric Pohlmann,starring,Eric Pohlmann,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Larry Manetti,activeYearsStartYear,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Manetti,birthDate,1947-07-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Larry Manetti,birthName,Lawrence Francis Manetti,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Manetti,birthYear,1947,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Manetti,producer,Larry Manetti,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Larry Manetti,starring,Larry Manetti,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+David McDowall (criminologist),award,American_Society_of_Criminology,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation
+Tonislav Hristov,activeYearsStartYear,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tonislav Hristov,birthDate,1978-12-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tonislav Hristov,birthName,Tonislav Hristov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tonislav Hristov,birthPlace,Vratza,outgoing,http://dbpedia.org/ontology/Place,
+Tonislav Hristov,birthYear,1978,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Vijayachandra,activeYearsEndYear,1169,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Vijayachandra,activeYearsStartYear,1155,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Alessandro Zisa,birthDate,1965-04-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rob Bourdon,activeYearsStartYear,1996,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Rob Bourdon,associatedMusicalArtist,Linkin_Park,outgoing,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Band
+Rob Bourdon,background,non_vocal_instrumentalist,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rob Bourdon,birthDate,1979-01-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Green (American football),birthDate,1967-03-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Green (American football),draftPick,130,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Mark Green (American football),draftRound,5,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Mark Green (American football),draftYear,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Mark Green (American football),number,31,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"Arthur Smith (footballer, born 1887)",team,Birmingham_City_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Arthur Smith (footballer, born 1887)",team,Brierley_Hill_Alliance_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+"Arthur Smith (footballer, born 1887)",team,Queens_Park_Rangers_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Larry Robinson,weight,102.06,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Larry Robinson,activeYearsEndYear,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,activeYearsStartYear,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,birthDate,1951-06-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Larry Robinson,birthPlace,Canada_men's_national_ice_hockey_team,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/SportsTeam
+Larry Robinson,birthPlace,"Winchester,_Ontario",outgoing,http://dbpedia.org/ontology/Place,
+Larry Robinson,draft,20th overall,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Larry Robinson,draftYear,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,hallOfFame,1995,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,height,1.9304,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Larry Robinson,shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Larry Robinson,weight,102060.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ramkrishna Ghosh,occupation,Assam_Legislative_Assembly,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Ramkrishna Ghosh,originalName,ৰামকৃষ্ণ ঘোষ,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gilbert Dussier,height,178.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gilbert Dussier,birthDate,1949-12-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gilbert Dussier,birthPlace,Oïcha-Beri,outgoing,http://dbpedia.org/ontology/Place,
+Gilbert Dussier,deathDate,1979-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gilbert Dussier,height,1.78,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gilbert Dussier,team,AS_Nancy,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Gilbert Dussier,team,FA_Red_Boys_Differdange,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Gilbert Dussier,team,Jeunesse_Esch,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Gilbert Dussier,team,K._Waterschei_S.V._Thor_Genk,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Gilbert Dussier,team,Lille_OSC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Gilbert Dussier,team,SV_Röchling_Völklingen,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Christina Pazsitzky,birthDate,1976-06-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mehdi Karbalaei,height,189.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mehdi Karbalaei,birthDate,1993-03-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mehdi Karbalaei,height,1.89,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mehdi Karbalaei,number,26,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,team,Esteghlal_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,F.C._Khooneh_be_Khooneh,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Mehdi Karbalaei,team,Fajr_Sepasi_Shiraz_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Gol_Gohar_Sirjan_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Gostaresh_Foolad_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Malavan_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Mes_Kerman,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Mes_Rafsanjan_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Mehdi Karbalaei,team,Naft_Novin_Tehran_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Louise Overacker,award,John_Simon_Guggenheim_Fellowship,outgoing,http://dbpedia.org/ontology/Award,
+Louise Overacker,birthDate,1891-11-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Louise Overacker,deathPlace,Los_Gatos,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band
+Oh Hu-seong,height,173.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Oh Hu-seong,birthDate,1999-08-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Oh Hu-seong,height,1.73,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Oh Hu-seong,number,13,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Oh Hu-seong,team,Daegu_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,height,180.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Filipe da Costa,birthDate,1984-08-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Filipe da Costa,height,1.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Filipe da Costa,team,A.C._Reggiana_1919,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Amora_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Athlitiki_Enosi_Larissa_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,C.D._Nacional,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,C.F._Os_Belenenses,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Enosis_Neon_Paralimni,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,FC_Politehnica_Timișoara,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,G.D._Estoril_Praia,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Ionikos_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Leeds_United_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,PFC_CSKA_Sofia,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,PFC_Levski_Sofia,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Panachaiki_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Panserraikos_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,S.L._Benfica,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Filipe da Costa,team,Veria_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jean Renaux,birthDate,1933-06-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jean Renaux,deathDate,2018-02-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jeff Manday,weight,80.2872,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jeff Manday,activeYearsStartYear,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Jeff Manday,birthDate,1995-03-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jeff Manday,college,Colegio_de_Santa_Ana_de_Victorias,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Jeff Manday,height,1.8288,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jeff Manday,league,PBA_3x3,outgoing,http://dbpedia.org/ontology/SportsLeague,
+Jeff Manday,number,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Jeff Manday,weight,80287.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ante Milicic,height,181.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ante Milicic,birthDate,1974-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ante Milicic,height,1.81,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ante Milicic,managerClub,Australia_national_soccer_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Australia_national_under-20_soccer_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Australia_national_under-23_soccer_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Australia_women's_national_soccer_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Macarthur_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Melbourne_Heart_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Sydney_United_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,managerClub,Western_Sydney_Wanderers_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Australia_national_association_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Australia_national_under-20_association_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Australia_national_under-23_association_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Australian_Institute_of_Sport_-_Football_(soccer),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Brisbane_Roar_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Canberra_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Dandenong_City_Soccer_Club,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Hurstville_ZFC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,NAC_Breda,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,NK_Rijeka,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Newcastle_Jets_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Pahang_FA,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Parramatta_Power,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Shahzan_Muda_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Sydney_Olympic_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Sydney_United,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Ante Milicic,team,Sydney_United_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Peter Cronjé,height,182.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Peter Cronjé,weight,86.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Peter Cronjé,height,1.82,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Peter Cronjé,weight,86000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Nikolay Noritsyn,birthDate,1991-05-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Nikolay Noritsyn,birthPlace,"Kaliningrad,_Russia",outgoing,http://dbpedia.org/ontology/Place,
+Teodoro R. Yangco,birthDate,1861-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Teodoro R. Yangco,deathDate,1939-04-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bill LaFortune,birthDate,1957-08-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tieta,imdbId,0117910,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tieta,isbn,0-380-75477-0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Richard Coates (footballer),team,Annfield_Plain_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Richard Coates (footballer),team,Stoke_City_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Adam Christian Thebesius,birthDate,1686-01-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Adam Christian Thebesius,deathDate,1732-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Logan Warmoth,birthDate,1995-09-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Clotworthy Upton (Royal Navy officer),allegiance,United Kingdom,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Clotworthy Upton (Royal Navy officer),restingPlace,Burial_at_sea,outgoing,http://dbpedia.org/ontology/Place,
+Mark Ortmann,birthDate,1986-06-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Ortmann,undraftedYear,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Andreas Molinder,weight,78.9264,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Andreas Molinder,activeYearsStartYear,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Andreas Molinder,birthDate,1987-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Andreas Molinder,formerTeam,Swedish_Hockey_League,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerLeague; http://dbpedia.org/ontology/SportsLeague; http://dbpedia.org/ontology/IceHockeyLeague
+Andreas Molinder,height,1.8288,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Andreas Molinder,shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andreas Molinder,team,Free_agent,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/SoccerClub
+Andreas Molinder,weight,78926.39999999999,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jānis Poruks,birthDate,1871-10-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jānis Poruks,birthPlace,Druviena_parish,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+Jānis Poruks,deathDate,1911-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cherif Hamia,birthDate,1931-03-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cherif Hamia,deathDate,1991-06-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cherif Hamia,nationality,Algerain,outgoing,http://dbpedia.org/ontology/Country,
+Leslie Cree,birthDate,1941-07-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Leslie Cree,birthName,Robin Leslie Cree,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Péter Bajzát,height,183.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Péter Bajzát,birthDate,1981-06-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Péter Bajzát,height,1.83,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Péter Bajzát,team,Debreceni_VSC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Diósgyőri_VTK,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Egri_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Győri_ETO_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Mezőkövesd-Zsóry_SE,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Nyíregyháza_Spartacus_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Pécsi_MFC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Rot-Weiß_Oberhausen,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Péter Bajzát,team,Soroksár_SC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Emilio Bizzi,award,United_States_National_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Award,
+Emilio Bizzi,birthDate,1933-02-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Zdenko Runjić,birthDate,1942-10-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Zdenko Runjić,birthYear,1942,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Zdenko Runjić,deathDate,2004-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Zdenko Runjić,deathYear,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Hiroshi Naka,height,168.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hiroshi Naka,activeYearsStartYear,1980,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hiroshi Naka,birthDate,1960-11-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hiroshi Naka,birthName,Hiroaki Nakamura,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hiroshi Naka,birthYear,1960,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hiroshi Naka,height,1.68,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Niq Mhlongo,birthDate,1973-06-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Niq Mhlongo,birthYear,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ivan Johnson,battingSide,Left-handed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ivan Johnson,birthDate,1953-06-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ivan Johnson,bowlingSide,Slow left arm orthodox,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ivan Johnson,deathDate,2021-10-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Aneta Michałek,height,164.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Aneta Michałek,activeYearsEndYear,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Aneta Michałek,height,1.64,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Guillermo Pfund,height,185.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Guillermo Pfund,birthDate,1989-05-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Guillermo Pfund,height,1.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Guillermo Pfund,team,AC_Bellinzona,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Barracas_Central,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Boca_Juniors,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,C.D._Luis_Ángel_Firpo,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Cienciano,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Club_Atlético_Brown,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Club_Atlético_Vélez_Sarsfield,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Club_Comunicaciones,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Club_Olimpo,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Guillermo Pfund,team,Deportivo_Merlo,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Ferenc A. Jolesz,birthDate,1946-05-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ferenc A. Jolesz,deathDate,2014-12-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gary Nelson (bishop),birthDate,1952-05-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gary Nelson (bishop),birthName,Gary Neville Nelson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Nelson (bishop),diocese,Province_of_Western_Australia,outgoing,http://dbpedia.org/ontology/Diocese,http://dbpedia.org/ontology/Settlement
+Edward Truelove,birthDate,1809-10-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Edward Truelove,birthYear,1809,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Edward Truelove,deathDate,1899-04-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Edward Truelove,deathYear,1899,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,height,185.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bojan Mališić,birthDate,1984-01-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bojan Mališić,height,1.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bojan Mališić,team,Badak_Lampung_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,Davao_Aguilas,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Bojan Mališić,team,FC_Hoverla_Uzhhorod,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,FC_Nasaf_Qarshi,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,FK_Javor_Ivanjica,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,FK_Rad,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,FK_Radnički_Kragujevac,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,FK_Sinđelić_Beograd,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,Persib_Bandung,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bojan Mališić,team,South_China_AA,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Yuji Iga,birthDate,1965-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Cipro,birthDate,1947-04-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Cipro,managerClub,1._FC_Brno,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,managerClub,AEL_Limassol,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Cipro,managerClub,Chmel_Blšany,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,managerClub,LASK_Linz,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,managerClub,SK_Slavia_Prague,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Cipro,managerClub,Tirol_Innsbruck,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,team,Dynamo_České_Budějovice,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,team,FC_Fastav_Zlín,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+František Cipro,team,SK_Slavia_Prague,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+František Cipro,team,VCHZ_Pardubice,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Chris Samnee,award,Harvey_Award,outgoing,http://dbpedia.org/ontology/Award,
+Kochu Thampuratti,starring,Cochin_Haneefa,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Kochu Thampuratti,starring,Vincent_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+George Gillpatrick,birthDate,1875-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George Gillpatrick,deathDate,1941-12-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dougie Lawrence,battingSide,Right-handed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dougie Lawrence,birthDate,1929-10-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dougie Lawrence,bowlingSide,Right-armfast-medium,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dougie Lawrence,deathDate,2000-07-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Juan Francisco Guevara,birthDate,1995-08-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Leandra Ramm,activeYearsStartYear,1998,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leandra Ramm,birthName,Leandra Erin Ramm,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carlos Rodríguez (darts player),birthDate,1979-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,activeYearsEndYear,1933,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roy Van Graflan,activeYearsStartYear,1927,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roy Van Graflan,birthDate,1894-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,birthName,Roy R. Van Graafeiland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Roy Van Graflan,birthYear,1894,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roy Van Graflan,deathDate,1953-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,deathYear,1953,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kandi Wyatt,height,170.18,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kandi Wyatt,birthDate,1991-03-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kandi Wyatt,height,1.7018,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chaz Davies,birthDate,1987-02-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+José María Esquerdo,birthDate,1842-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+José María Esquerdo,deathDate,1912-01-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+José María Esquerdo,nationality,Spaniards,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/EthnicGroup
+Jacques Botherel,birthDate,1946-12-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Horace M. Albright,birthDate,1890-01-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Horace M. Albright,birthYear,1890,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Horace M. Albright,deathDate,1987-03-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Horace M. Albright,deathYear,1987,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Horace M. Albright,occupation,National_Park_Service,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Armine Pickett,birthDate,1800-07-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Armine Pickett,deathDate,1875-04-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jessica Dickson,weight,61.236,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jessica Dickson,award,South_Florida_Bulls_women's_basketball,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/University
+Jessica Dickson,birthDate,1984-09-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jessica Dickson,college,South_Florida_Bulls,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsTeam; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jessica Dickson,draftLeague,WNBA,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jessica Dickson,draftPick,21,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Jessica Dickson,draftRound,2,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Jessica Dickson,draftYear,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jessica Dickson,height,1.778,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jessica Dickson,weight,61236.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Cathy Vitale,birthDate,1964-08-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rebecca Downes,activeYearsStartYear,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maurice Moutat,birthDate,1954-12-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ajay Pohankar,birthDate,1947-02-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ajay Pohankar,hometown,India,outgoing,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Ajay Pohankar,occupation,Indian_classical_music,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Yngve Brodd,birthDate,1930-06-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yngve Brodd,birthPlace,Seglora,outgoing,http://dbpedia.org/ontology/Place,
+Yngve Brodd,deathDate,2016-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yngve Brodd,managerClub,IFK_Göteborg,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,FC_Sochaux-Montbéliard,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,Fritsla_IF,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,IFK_Göteborg,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,Rydals_GOIF,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,Sweden_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Yngve Brodd,team,Örebro_SK,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Garrett Wilson,draftPick,10,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Garrett Wilson,draftRound,1,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Garrett Wilson,draftYear,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Garrett Wilson,number,17,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Garrett Wilson,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eivind Melleby,birthDate,1972-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Phoebe Waterman Haas,birthDate,1882-09-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Phoebe Waterman Haas,spouse,Otto_Haas,outgoing,http://dbpedia.org/ontology/Person,
+Hugh Duffy,birthDate,1866-11-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hugh Duffy,deathDate,1954-10-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Franz Fuchsberger,birthDate,1910-09-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Franz Fuchsberger,deathDate,1992-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Franz Fuchsberger,team,Austria_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fred Grossinger,activeYearsEndYear,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fred Grossinger,activeYearsStartYear,1958,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fred Grossinger,alias,Fred Holliday,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fred Grossinger,birthDate,1936-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fred Grossinger,birthYear,1936,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fred Grossinger,deathDate,1995-11-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fred Grossinger,deathYear,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fred Grossinger,restingPlace,Mount_Sinai_Memorial_Park_Cemetery,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+Fred Grossinger,starring,Fred Grossinger,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Philippa Cross,birthDate,1966-07-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bob Rigby,height,182.88,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bob Rigby,birthDate,1951-07-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bob Rigby,birthPlace,USMNT,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/SoccerClub
+Bob Rigby,height,1.8288,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bob Rigby,team,Golden_Bay_Earthquakes,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bob Rigby,team,New_York_Cosmos_(1971–85),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bob Rigby,team,Philadelphia_Fever_(MISL),outgoing,http://dbpedia.org/ontology/SportsTeam,
+Bob Rigby,team,San_Jose_Earthquakes_(1974–88),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bob Rigby,team,Tacoma_Stars_(MISL),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Bob Rigby,team,USMNT,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+"Henrique (footballer, born 1966)",height,180.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Henrique (footballer, born 1966)",birthDate,1966-03-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Henrique (footballer, born 1966)",height,1.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Henrique (footballer, born 1966)",team,Associação_Portuguesa_de_Desportos,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Henrique (footballer, born 1966)",team,Grêmio_F.B.P.A.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+"Henrique (footballer, born 1966)",team,S.C._Corinthians_Paulista,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+"Henrique (footballer, born 1966)",team,Tokyo_Verdy,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+"Henrique (footballer, born 1966)",team,União_São_João_Esporte_Clube,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Adam Ingram (Labour politician),birthDate,1947-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Caroline Ducey,activeYearsStartYear,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Caroline Ducey,birthDate,1976-12-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Caroline Ducey,birthName,Caroline Trousselard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Caroline Ducey,birthYear,1976,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Caroline Ducey,imdbId,0239764,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Caroline Ducey,starring,Caroline Ducey,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Allan Marquand,birthDate,1853-12-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Allan Marquand,birthYear,1853,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Allan Marquand,deathDate,1924-09-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Allan Marquand,deathYear,1924,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Allan Marquand,spouse,Eleanor_Cross_Marquand,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation
+Jacob Post,birthYear,1774,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jacob Post,deathYear,1855,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Steve Fox (American football),overallRecord,4–7,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Fethi Demircan,birthDate,1938-06-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fethi Demircan,managerClub,Boluspor,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fethi Demircan,managerClub,Bursaspor,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fethi Demircan,managerClub,Düzcespor,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fethi Demircan,managerClub,Galatasaray_S.K._(football),outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Fethi Demircan,managerClub,Turkey_national_football_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Malvika Bansod,activeYearsStartYear,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ursula Mancusi Ungaro,birthDate,1951-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,birthDate,1837-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,birthName,María Rosalía Rita de Castro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rosalía de Castro,birthPlace,Galicia_(autonomous_community),outgoing,http://dbpedia.org/ontology/Place,
+Rosalía de Castro,deathDate,1885-07-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,deathPlace,Galicia_(autonomous_community),outgoing,http://dbpedia.org/ontology/Place,
+Claude Overton,weight,88.452,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Claude Overton,bbr,overtcl01,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Overton,birthDate,1927-12-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Overton,deathDate,1996-04-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Overton,draftPick,52,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Claude Overton,draftRound,5,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Claude Overton,draftYear,1950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Claude Overton,height,1.8796,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Claude Overton,number,14,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Claude Overton,weight,88452.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jo Tae-keun,height,185.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jo Tae-keun,birthDate,1985-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jo Tae-keun,birthPlace,Gyeongsangbuk-do,outgoing,http://dbpedia.org/ontology/Place,
+Jo Tae-keun,height,1.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jo Tae-keun,number,15,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Jo Tae-keun,team,Ayutthaya_United_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Busan_Transportation_Corporation_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Chainat_Hornbill_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Chiangmai_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Daeryun_High_School,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/School; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Eastern_Sports_Club,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jo Tae-keun,team,Jeonju_University,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub; http://dbpedia.org/ontology/University
+Jo Tae-keun,team,Suwon_FC,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+McKayla Fricker,height,152.4,outgoing,http://www.w3.org/2001/XMLSchema#double,
+McKayla Fricker,birthDate,1992-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+McKayla Fricker,club,Brooks_Sports,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+McKayla Fricker,height,1.524,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tsai Wan-lin,birthDate,1924-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tsai Wan-lin,birthYear,1924,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tsai Wan-lin,deathDate,2004-09-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tsai Wan-lin,deathYear,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Tsai Wan-lin,foundedBy,Tsai Wan-lin,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Monjarás,populationDensity,13.6,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Monjarás,areaLand,43100000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Monjarás,populationDensity,13.6,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Monjarás,populationTotal,585,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Monjarás,utcOffset,−5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Raúl Lacabanne,birthDate,1914-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Raúl Lacabanne,deathDate,1985-03-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Morven Christie,activeYearsStartYear,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Morven Christie,birthDate,1981-09-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Morven Christie,birthYear,1981,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Morven Christie,starring,Morven Christie,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Cyril Cartwright (cyclist),height,152.4,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Cyril Cartwright (cyclist),birthDate,1924-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cyril Cartwright (cyclist),deathDate,2015-09-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cyril Cartwright (cyclist),height,1.524,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kamaruzaman Mohamad,alias,Also known as Pok Me',outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kamaruzaman Mohamad,birthDate,1961-11-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kamaruzaman Mohamad,birthYear,1961,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jason Parris,birthDate,1982-06-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Curtis McDaniel,birthDate,1952-01-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul Vallely,birthDate,1951-11-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Bacon (politician),birthDate,1962-12-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+R. Scott Dingle,allegiance,United States,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,award,Army_Distinguished_Service_Medal,outgoing,http://dbpedia.org/ontology/Award,
+R. Scott Dingle,award,Bronze_Star_Medal,outgoing,http://dbpedia.org/ontology/Award,
+R. Scott Dingle,militaryCommand,261st Multifunctional Medical Battalion,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,militaryCommand,30th Medical Command,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,militaryCommand,Regional Health Command—Atlantic,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,militaryCommand,Surgeon General of the Army,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,militaryCommand,United States Army Medical Command,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,militaryCommand,United States Army Medical Recruiting Brigade,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,serviceStartYear,1988,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Inayatullah Khan,activeYearsEndYear,1929,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Inayatullah Khan,activeYearsStartYear,1929,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Inayatullah Khan,parent,Jamal_Begum,outgoing,http://dbpedia.org/ontology/Person,

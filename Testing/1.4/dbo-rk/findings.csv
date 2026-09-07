@@ -1,0 +1,55 @@
+Section,Subsection,Subsubsection,Low,Average (mean),High,Properties score (mean),Properties count (mean),Is_Of Score (mean),Is_Of Score count (mean),Note
+Biography,,,0%,49%,100%,47%,8,29%,1,
+Biography,N/A,,0%,41%,100%,39%,8,23%,0,The is_of score is rounded down
+Biography,Philosophers and social scientists,,50%,70%,100%,69%,9,19%,1,
+Biography,Religious figures and theologians,,50%,55%,60%,52%,5,50%,1,
+Biography,Political leaders,,0%,71%,100%,70%,7,50%,2,
+Biography,"Inventors, scientists and mathematicians",,40%,65%,100%,64%,8,50%,1,
+Biography,Artists and architects,,67%,70%,73%,69%,8,50%,1,
+Biography,Composers and musicians,,28%,59%,83%,58%,8,38%,1,
+Biography,"Film directors, screenwriters and actors",,25%,42%,68%,43%,10,43%,2,
+Biography,"Authors, playwrights and poets",,50%,79%,100%,78%,6,17%,0,The is_of score is rounded down
+Philosophy,,,50%,50%,50%,50%,1,0%,0,
+Religion,,,50%,74%,100%,77%,3,8%,0,The is_of score is rounded down
+Social sciences,,,0%,37%,100%,36%,7,21%,0,The is_of score is rounded down
+Social sciences,N/A,,0%,36%,88%,35%,9,27%,0,The is_of score is rounded down
+Social sciences,Politics,,0%,24%,59%,23%,5,11%,0,The is_of score is rounded down
+Social sciences,Business and economics,,17%,50%,100%,47%,5,33%,0,The is_of score is rounded down
+Social sciences,Law,,57%,57%,57%,57%,7,0%,0,
+Social sciences,War and military,,8%,35%,50%,35%,7,0%,0,
+Social sciences,Social issues,,58%,59%,59%,55%,8,50%,1,
+Science,,,0%,43%,100%,43%,7,0%,0,
+Science,Astronomy,,13%,14%,14%,14%,15,0%,0,
+Science,Biology,,0%,53%,100%,53%,7,6%,0,The is_of score is rounded down
+Science,Biology,N/A,0%,38%,75%,38%,7,0%,0,
+Science,Biology,Organisms,36%,52%,71%,52%,7,7%,0,The is_of score is rounded down
+Science,Biology,Anatomy,100%,100%,100%,100%,2,0%,0,
+Science,Health and medicine,,6%,6%,6%,6%,8,0%,0,
+Science,Chemistry,,0%,0%,0%,0%,2,0%,0,
+Food and agriculture,,,25%,65%,100%,65%,3,10%,0,The is_of score is rounded down
+Food and agriculture,Food,,50%,67%,100%,67%,3,17%,0,The is_of score is rounded down
+Food and agriculture,Beverage,,25%,63%,100%,63%,3,0%,0,
+Technology,,,0%,32%,80%,31%,8,13%,0,The is_of score is rounded down
+Technology,N/A,,55%,55%,55%,55%,11,0%,0,
+Technology,Electronics,,22%,63%,80%,53%,7,17%,0,
+Technology,Energy and fuels,,25%,33%,41%,31%,12,38%,1,
+Technology,Materials,,0%,0%,0%,0%,1,0%,0,
+Technology,Transportation,,0%,25%,75%,24%,8,12%,0,The is_of score is rounded down
+Technology,Weapons,,50%,50%,50%,50%,1,0%,0,
+Arts and recreation,,,0%,48%,100%,47%,9,21%,1,
+Arts and recreation,N/A,,67%,91%,100%,91%,2,0%,0,
+Arts and recreation,Architecture and civil engineering,,25%,48%,100%,49%,5,6%,0,The is_of score is rounded down
+Arts and recreation,"Film, radio and television",,0%,40%,67%,38%,11,16%,0,The is_of score is rounded down
+Arts and recreation,Music,,0%,61%,100%,59%,9,50%,1,
+Arts and recreation,Recreation,,0%,36%,75%,37%,7,28%,1,
+History,,,50%,56%,64%,46%,8,67%,1,
+History,N/A,,50%,50%,50%,25%,2,100%,1,
+History,Early modern and modern periods,,64%,64%,46%,57%,12,50%,1,
+Geography,,,0%,40%,100%,37%,8,22%,1,
+Geography,NA,,0%,40%,100%,38%,8,20%,1,
+Geography,Cities,,11%,18%,27%,15%,16,37%,1,
+Geography,Cities,Asia,27%,27%,27%,22%,9,50%,2,
+Geography,Cities,Europe,25%,25%,25%,25%,8,0%,0,
+Geography,Cities,North America,11%,13%,17%,9%,22,44%,2,
+Geography,Bodies of water,,0%,46%,75%,44%,4,14%,0,The is_of score is rounded down
+Geography,Mountains and deserts,,40%,54%,62%,49%,6,50%,1,

@@ -1,0 +1,35 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Agriculture,50,14,0,0,50,14
+Irrigation,57,7,0,0,57,7
+Plough,50,2,0,0,50,2
+Domestication,50,1,0,0,50,1
+Food,56,9,0,0,56,9
+Bread,43,7,33,3,50,4
+Cereal,50,5,0,0,50,5
+Barley,38,4,0,0,38,4
+Maize,40,5,0,0,40,5
+Rice,44,8,0,0,44,8
+Sorghum bicolor,50,1,0,0,50,1
+Wheat,42,6,0,0,42,6
+Cheese,44,9,0,0,44,9
+Chocolate,46,12,50,5,43,7
+Honey,50,4,0,0,50,4
+Apple,67,6,0,0,67,6
+Banana,59,11,57,7,62,4
+Citrus,43,7,0,0,43,7
+Grape,50,3,0,0,50,3
+Nut (fruit),0,0,0,0,0,0
+Soybean,50,3,0,0,50,3
+Meat,50,6,0,0,50,6
+Sugar,45,11,0,0,45,11
+Spice,50,4,0,0,50,4
+Table salt,50,2,0,0,50,2
+Vegetable,50,4,0,0,50,4
+Potato,62,4,0,0,62,4
+Beer,50,10,0,0,50,10
+Coffee,38,8,0,0,38,8
+Juice,50,4,0,0,50,4
+Milk,50,7,0,0,50,7
+Tea,58,6,0,0,58,6
+Water,45,10,0,0,45,10
+Wine,43,15,50,6,39,9

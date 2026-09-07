@@ -1,0 +1,1845 @@
+property,dbp_property,status
+Culture,caption,no result
+Culture,designation1Type,no result
+Culture,method,no result
+Culture,field,no result
+Culture,genres,no result
+Culture,knownFor,no result
+Culture,longtype,valid
+Culture,date,valid
+Culture,movement,no result
+Culture,genre,valid
+Culture,parent,valid
+Culture,subjects,no result
+Culture,fields,no result
+Culture,focus,no result
+Culture,image,no result
+Culture,topics,no result
+Culture,areaServed,no result
+Culture,align,no result
+Culture,subject,no result
+Culture,reason,no result
+Culture,content,no result
+Culture,type,no result
+Culture,mainInterests,no result
+Culture,width,valid
+Culture,url,no result
+Culture,direction,no result
+Culture,format,no result
+Culture,small,no result
+Culture,category,no result
+Culture,discipline,no result
+Art,colwidth,no result
+Art,field,no result
+Art,researchField,no result
+Art,data,no result
+Art,about,no result
+Art,genres,no result
+Art,occupation,valid
+Art,label,no result
+Art,knownFor,no result
+Art,movement,no result
+Art,purpose,valid
+Art,genre,valid
+Art,area,valid
+Art,industry,no result
+Art,fields,no result
+Art,focus,no result
+Art,topics,no result
+Art,otherDiscipline,no result
+Art,schooltype,no result
+Art,collections,no result
+Art,emphasis,no result
+Art,subject,no result
+Art,free,valid
+Art,onlinebooks,no result
+Art,type,no result
+Art,mainInterests,no result
+Art,others,no result
+Art,products,no result
+Art,by,no result
+Art,small,no result
+Art,category,no result
+Art,faculty,no result
+Art,discipline,no result
+Comics,caption,no result
+Comics,6y,no result
+Comics,1p,no result
+Comics,field,no result
+Comics,alt,no result
+Comics,mediaType,no result
+Comics,totalWidth,no result
+Comics,3a,no result
+Comics,6p,no result
+Comics,knownFor,no result
+Comics,4a,no result
+Comics,3p,no result
+Comics,genre,valid
+Comics,services,no result
+Comics,1y,no result
+Comics,footer,no result
+Comics,industry,no result
+Comics,2p,no result
+Comics,5y,no result
+Comics,image,no result
+Comics,topics,no result
+Comics,5p,no result
+Comics,6a,no result
+Comics,align,no result
+Comics,p,no result
+Comics,collections,no result
+Comics,3pp,no result
+Comics,2pp,no result
+Comics,subject,no result
+Comics,5a,no result
+Comics,publications,no result
+Comics,3y,no result
+Comics,1pp,no result
+Comics,type,no result
+Comics,1a,no result
+Comics,4y,no result
+Comics,width,valid
+Comics,mainInterests,no result
+Comics,scope,no result
+Comics,height,valid
+Comics,4p,no result
+Comics,2a,no result
+Comics,products,no result
+Comics,2y,no result
+Comics,category,no result
+Comics,discipline,no result
+Painting,field,no result
+Painting,occupation,valid
+Painting,knownFor,no result
+Painting,movement,no result
+Painting,genre,valid
+Painting,subDiscipline,no result
+Painting,area,valid
+Painting,uses,no result
+Painting,activity,no result
+Painting,fields,no result
+Painting,nota,no result
+Painting,occupations,no result
+Painting,patronage,no result
+Painting,collections,no result
+Painting,notableWorks,no result
+Painting,subject,no result
+Painting,type,no result
+Painting,education,no result
+Painting,profession,no result
+Painting,training,valid
+Painting,style,no result
+Painting,discipline,no result
+Photography,caption,no result
+Photography,field,no result
+Photography,otherName,valid
+Photography,data,no result
+Photography,occupation,valid
+Photography,knownFor,no result
+Photography,movement,no result
+Photography,genre,valid
+Photography,services,no result
+Photography,types,no result
+Photography,namedAfter,no result
+Photography,subDiscipline,no result
+Photography,related,no result
+Photography,industry,no result
+Photography,fields,no result
+Photography,nota,no result
+Photography,topics,no result
+Photography,imageSize,valid
+Photography,otherDiscipline,no result
+Photography,collections,no result
+Photography,subject,no result
+Photography,inventor,no result
+Photography,technologies,no result
+Photography,type,no result
+Photography,name,valid
+Photography,medium,no result
+Photography,products,no result
+Photography,profession,no result
+Photography,product,no result
+Photography,style,no result
+Photography,category,no result
+Photography,discipline,no result
+Sculpture,architecturalStyle,no result
+Sculpture,field,no result
+Sculpture,occupation,valid
+Sculpture,knownFor,no result
+Sculpture,date,valid
+Sculpture,movement,no result
+Sculpture,genre,valid
+Sculpture,subDiscipline,no result
+Sculpture,industry,no result
+Sculpture,activity,no result
+Sculpture,fields,no result
+Sculpture,patronage,no result
+Sculpture,collections,no result
+Sculpture,skills,no result
+Sculpture,notableWorks,no result
+Sculpture,subject,no result
+Sculpture,type,no result
+Sculpture,url,no result
+Sculpture,medium,no result
+Sculpture,style,no result
+Sculpture,category,no result
+Sculpture,discipline,no result
+Pottery,align,no result
+Pottery,direction,no result
+Pottery,header,no result
+Pottery,occupation,valid
+Pottery,field,no result
+Pottery,products,no result
+Pottery,profession,no result
+Pottery,footer,no result
+Pottery,totalWidth,no result
+Pottery,industry,no result
+Pottery,content,no result
+Pottery,style,no result
+Pottery,type,no result
+Pottery,image,no result
+Pottery,knownFor,no result
+Pottery,footerAlign,no result
+Dance,field,no result
+Dance,genres,no result
+Dance,occupation,valid
+Dance,knownFor,no result
+Dance,movement,no result
+Dance,commons,no result
+Dance,genre,valid
+Dance,sport,valid
+Dance,fields,no result
+Dance,emphasis,no result
+Dance,sports,no result
+Dance,s,no result
+Dance,mainInterests,no result
+Dance,medium,no result
+Dance,format,no result
+Dance,products,no result
+Dance,otherdata,no result
+Dance,athletics,no result
+Dance,category,no result
+Dance,discipline,no result
+Fashion,awardedFor,no result
+Fashion,field,no result
+Fashion,source,no result
+Fashion,occupation,valid
+Fashion,knownFor,no result
+Fashion,title,valid
+Fashion,genre,valid
+Fashion,services,no result
+Fashion,industry,no result
+Fashion,activity,no result
+Fashion,fields,no result
+Fashion,topics,no result
+Fashion,websiteType,no result
+Fashion,activitySector,no result
+Fashion,subject,no result
+Fashion,type,no result
+Fashion,author,valid
+Fashion,medium,no result
+Fashion,text,no result
+Fashion,pictureFormat,no result
+Fashion,products,no result
+Fashion,style,no result
+Fashion,category,no result
+Fashion,discipline,no result
+Theatre,field,no result
+Theatre,designation,no result
+Theatre,totalWidth,no result
+Theatre,about,no result
+Theatre,data,no result
+Theatre,occupation,valid
+Theatre,label,no result
+Theatre,knownFor,no result
+Theatre,works,no result
+Theatre,purpose,valid
+Theatre,commons,no result
+Theatre,genre,valid
+Theatre,services,no result
+Theatre,perrow,no result
+Theatre,types,no result
+Theatre,stylisticOrigins,no result
+Theatre,employmentField,no result
+Theatre,footer,no result
+Theatre,industry,no result
+Theatre,buildingType,no result
+Theatre,image,no result
+Theatre,q,no result
+Theatre,currentuse,no result
+Theatre,bSearch,no result
+Theatre,freeText,no result
+Theatre,subject,no result
+Theatre,v,no result
+Theatre,onlinebooks,no result
+Theatre,type,no result
+Theatre,mainInterests,no result
+Theatre,medium,no result
+Theatre,b,no result
+Theatre,others,no result
+Theatre,products,no result
+Theatre,education,no result
+Theatre,by,no result
+Theatre,style,no result
+Theatre,category,no result
+Theatre,discipline,no result
+Theatre,ancestor,no result
+Calligraphy,caption,no result
+Calligraphy,field,no result
+Calligraphy,wikt,no result
+Calligraphy,totalWidth,no result
+Calligraphy,knownFor,no result
+Calligraphy,date,valid
+Calligraphy,portal,no result
+Calligraphy,classifications,no result
+Calligraphy,genre,valid
+Calligraphy,perrow,no result
+Calligraphy,footer,no result
+Calligraphy,image,no result
+Calligraphy,commonscat,no result
+Calligraphy,tradition,no result
+Calligraphy,align,no result
+Calligraphy,auto,no result
+Calligraphy,reason,no result
+Calligraphy,mainInterests,no result
+Calligraphy,width,valid
+Calligraphy,direction,no result
+Architecture,architecturalStyle,no result
+Architecture,field,no result
+Architecture,researchField,no result
+Architecture,occupation,valid
+Architecture,knownFor,no result
+Architecture,date,valid
+Architecture,movement,no result
+Architecture,architecture,no result
+Architecture,genre,valid
+Architecture,services,no result
+Architecture,firmType,no result
+Architecture,area,valid
+Architecture,industry,no result
+Architecture,fields,no result
+Architecture,almaMater,valid
+Architecture,topics,no result
+Architecture,domains,no result
+Architecture,activitySector,no result
+Architecture,architectureStyle,no result
+Architecture,subject,no result
+Architecture,type,no result
+Architecture,mainInterests,no result
+Architecture,url,no result
+Architecture,scope,no result
+Architecture,practice,no result
+Architecture,products,no result
+Architecture,distinctions,no result
+Architecture,education,no result
+Architecture,profession,no result
+Architecture,style,no result
+Architecture,category,no result
+Architecture,discipline,no result
+Arch,buildingType,no result
+Arch,design,no result
+Arch,neighboringMunicipalities,no result
+Arch,type,no result
+Bridge,date,valid
+Bridge,type,no result
+Bridge,architecture,no result
+Bridge,services,no result
+Bridge,products,no result
+Bridge,symbolDescription,no result
+Bridge,fields,no result
+Bridge,design,no result
+Bridge,url,no result
+Canal,date,valid
+Canal,bot,no result
+Canal,colwidth,no result
+Canal,fixAttempted,no result
+Canal,small,no result
+Canal,type,no result
+Dam,damType,no result
+Dam,type,no result
+Dam,extinctTitle,no result
+Dam,customLabel,no result
+Dome,caption,no result
+Dome,align,no result
+Dome,architecture,no result
+Dome,height,valid
+Dome,alt,no result
+Dome,roof,no result
+Dome,totalWidth,no result
+Dome,captionAlign,no result
+Dome,headerAlign,no result
+Dome,type,no result
+Dome,image,no result
+Dome,width,valid
+Dome,buildingType,no result
+House,commons,no result
+House,architecture,no result
+House,genre,valid
+House,commonsSearch,no result
+House,designations,no result
+House,occupation,valid
+House,products,no result
+House,d,no result
+House,dSearch,no result
+House,buildingType,no result
+House,type,no result
+House,focus,no result
+House,q,no result
+House,lbl,no result
+House,originalUse,no result
+Angkor Wat,caption,no result
+Angkor Wat,nativeName,no result
+Angkor Wat,mapCaption,valid
+Angkor Wat,location,valid
+Angkor Wat,totalWidth,no result
+Angkor Wat,architecturalStyles,no result
+Angkor Wat,header,no result
+Angkor Wat,perrow,no result
+Angkor Wat,built,no result
+Angkor Wat,venue,no result
+Angkor Wat,footer,no result
+Angkor Wat,image,no result
+Angkor Wat,align,no result
+Angkor Wat,mapType,no result
+Angkor Wat,headerAlign,no result
+Angkor Wat,direction,no result
+Angkor Wat,altitudeM,no result
+Angkor Wat,builder,no result
+Angkor Wat,cultures,no result
+Colosseum,caption,no result
+Colosseum,mapCaption,valid
+Colosseum,mapLabelPosition,no result
+Colosseum,mapframeWikidata,no result
+Colosseum,location,valid
+Colosseum,mapframeCaption,no result
+Colosseum,mapframe,no result
+Colosseum,mapframeFrameWidth,no result
+Colosseum,portal,no result
+Colosseum,mapframeMarker,no result
+Colosseum,built,no result
+Colosseum,mapSize,no result
+Colosseum,imageSize,valid
+Colosseum,mapType,no result
+Colosseum,mapframeZoom,no result
+Colosseum,type,no result
+Colosseum,name,valid
+Colosseum,list,no result
+Colosseum,markTitle,no result
+Colosseum,builder,no result
+Colosseum,next,no result
+Colosseum,curr,no result
+Colosseum,mapOverlay,no result
+Colosseum,mapDotLabel,no result
+Colosseum,prev,no result
+Great Wall of China,caption,no result
+Great Wall of China,nativeName,no result
+Great Wall of China,mapCaption,valid
+Great Wall of China,wordnet_type,no result
+Great Wall of China,location,valid
+Great Wall of China,w,no result
+Great Wall of China,date,valid
+Great Wall of China,mapframe,no result
+Great Wall of China,poj,no result
+Great Wall of China,locationCountry,valid
+Great Wall of China,footer,no result
+Great Wall of China,buildingType,no result
+Great Wall of China,p,no result
+Great Wall of China,nativeNameLang,no result
+Great Wall of China,t,no result
+Great Wall of China,imageMap,no result
+Great Wall of China,s,no result
+Great Wall of China,lit,no result
+Great Wall of China,j,no result
+Great Wall of China,name,valid
+Great Wall of China,base,no result
+Great Wall of China,url,no result
+Great Wall of China,y,no result
+Great Wall of China,first,no result
+Great Wall of China,tl,no result
+Great Wall of China,l,no result
+Great Wall of China,wuu,no result
+Eiffel Tower,caption,no result
+Eiffel Tower,building,valid
+Eiffel Tower,nativeName,no result
+Eiffel Tower,model,valid
+Eiffel Tower,alt,no result
+Eiffel Tower,wordnet_type,no result
+Eiffel Tower,references,no result
+Eiffel Tower,location,valid
+Eiffel Tower,before,no result
+Eiffel Tower,title,valid
+Eiffel Tower,opening,no result
+Eiffel Tower,id,valid
+Eiffel Tower,owner,valid
+Eiffel Tower,highestStart,no result
+Eiffel Tower,venue,no result
+Eiffel Tower,startDate,valid
+Eiffel Tower,after,no result
+Eiffel Tower,mainContractor,no result
+Eiffel Tower,structuralEngineer,no result
+Eiffel Tower,years,valid
+Eiffel Tower,buildingType,no result
+Eiffel Tower,architect,valid
+Eiffel Tower,q,no result
+Eiffel Tower,commonscat,no result
+Eiffel Tower,mw,no result
+Eiffel Tower,nativeNameLang,no result
+Eiffel Tower,highestEnd,no result
+Eiffel Tower,mapframeZoom,no result
+Eiffel Tower,v,no result
+Eiffel Tower,d,no result
+Eiffel Tower,completionDate,valid
+Eiffel Tower,n,no result
+Eiffel Tower,elevatorCount,valid
+Eiffel Tower,name,valid
+Eiffel Tower,text,no result
+Eiffel Tower,significantBuildings,no result
+Eiffel Tower,species,valid
+Eiffel Tower,b,no result
+Eiffel Tower,height,valid
+Eiffel Tower,management,no result
+Eiffel Tower,significantProjects,no result
+Eiffel Tower,m,no result
+Eiffel Tower,rows,no result
+Eiffel Tower,voy,no result
+Eiffel Tower,floorCount,valid
+Eiffel Tower,style,no result
+Empire State Building,caption,no result
+Empire State Building,display,no result
+Empire State Building,architecturalStyle,no result
+Empire State Building,nrhp,no result
+Empire State Building,opened,no result
+Empire State Building,wordnet_type,no result
+Empire State Building,wikt,no result
+Empire State Building,references,no result
+Empire State Building,location,valid
+Empire State Building,before,no result
+Empire State Building,totalWidth,no result
+Empire State Building,otherDimensions,no result
+Empire State Building,title,valid
+Empire State Building,commons,no result
+Empire State Building,owner,valid
+Empire State Building,highestStart,no result
+Empire State Building,observatory,valid
+Empire State Building,startDate,valid
+Empire State Building,footer,no result
+Empire State Building,after,no result
+Empire State Building,mainContractor,no result
+Empire State Building,structuralEngineer,no result
+Empire State Building,years,valid
+Empire State Building,buildingType,no result
+Empire State Building,developer,valid
+Empire State Building,architect,valid
+Empire State Building,image,no result
+Empire State Building,q,no result
+Empire State Building,imageSize,valid
+Empire State Building,hqLocation,no result
+Empire State Building,align,no result
+Empire State Building,highestEnd,no result
+Empire State Building,notableWorks,no result
+Empire State Building,v,no result
+Empire State Building,d,no result
+Empire State Building,status,valid
+Empire State Building,completionDate,valid
+Empire State Building,n,no result
+Empire State Building,s,no result
+Empire State Building,site,no result
+Empire State Building,elevatorCount,valid
+Empire State Building,name,valid
+Empire State Building,significantBuildings,no result
+Empire State Building,b,no result
+Empire State Building,cost,valid
+Empire State Building,highestPrev,no result
+Empire State Building,highestNext,no result
+Empire State Building,rows,no result
+Empire State Building,floorCount,valid
+Empire State Building,voy,no result
+Empire State Building,space,valid
+Hagia Sophia,caption,no result
+Hagia Sophia,mapName,no result
+Hagia Sophia,mapCaption,valid
+Hagia Sophia,source,no result
+Hagia Sophia,location,valid
+Hagia Sophia,material,no result
+Hagia Sophia,label,no result
+Hagia Sophia,restingPlace,valid
+Hagia Sophia,monumentName,no result
+Hagia Sophia,title,valid
+Hagia Sophia,designer,valid
+Hagia Sophia,website,no result
+Hagia Sophia,image,no result
+Hagia Sophia,dedication,no result
+Hagia Sophia,imageSize,valid
+Hagia Sophia,coronation,no result
+Hagia Sophia,align,no result
+Hagia Sophia,dedicatedTo,no result
+Hagia Sophia,nativeNameLang,no result
+Hagia Sophia,headquarters,no result
+Hagia Sophia,type,no result
+Hagia Sophia,width,valid
+Hagia Sophia,author,valid
+Hagia Sophia,text,no result
+Parthenon,caption,no result
+Parthenon,nativeName,no result
+Parthenon,architecturalStyle,no result
+Parthenon,location,valid
+Parthenon,about,no result
+Parthenon,material,no result
+Parthenon,label,no result
+Parthenon,otherDimensions,no result
+Parthenon,date,valid
+Parthenon,video,no result
+Parthenon,destructionDate,valid
+Parthenon,startDate,valid
+Parthenon,otherDesigners,no result
+Parthenon,buildingType,no result
+Parthenon,architect,valid
+Parthenon,imageSize,valid
+Parthenon,align,no result
+Parthenon,burialPlace,no result
+Parthenon,completionDate,valid
+Parthenon,onlinebooks,no result
+Parthenon,name,valid
+Parthenon,width,valid
+Parthenon,url,no result
+Parthenon,others,no result
+Parthenon,by,no result
+Parthenon,headerimage,no result
+Giza_pyramid_complex,caption,no result
+Giza_pyramid_complex,date,valid
+Giza_pyramid_complex,relief,valid
+Giza_pyramid_complex,deathPlace,valid
+Giza_pyramid_complex,region,valid
+Giza_pyramid_complex,subject,no result
+Giza_pyramid_complex,mapType,no result
+Giza_pyramid_complex,wordnet_type,no result
+Giza_pyramid_complex,location,valid
+Giza_pyramid_complex,name,valid
+Giza_pyramid_complex,discoveredPlace,no result
+Giza_pyramid_complex,type,no result
+Giza_pyramid_complex,epochs,no result
+Giza_pyramid_complex,imageSize,valid
+Giza_pyramid_complex,url,no result
+Statue of Liberty,designation1Type,no result
+Statue of Liberty,colwidth,no result
+Statue of Liberty,designation1Date,no result
+Statue of Liberty,photos,no result
+Statue of Liberty,wordnet_type,no result
+Statue of Liberty,designation5Type,no result
+Statue of Liberty,designation,no result
+Statue of Liberty,visitationNum,no result
+Statue of Liberty,data,no result
+Statue of Liberty,beginningDate,no result
+Statue of Liberty,designation5Date,no result
+Statue of Liberty,location,valid
+Statue of Liberty,beginningLabel,no result
+Statue of Liberty,governingBody,valid
+Statue of Liberty,title,valid
+Statue of Liberty,id,valid
+Statue of Liberty,designation3Offname,no result
+Statue of Liberty,cap,no result
+Statue of Liberty,venue,no result
+Statue of Liberty,designation3Number,no result
+Statue of Liberty,website,no result
+Statue of Liberty,theme,no result
+Statue of Liberty,designation4Date,no result
+Statue of Liberty,restored,no result
+Statue of Liberty,reverseDesign,no result
+Statue of Liberty,basis,no result
+Statue of Liberty,designation1Free1name,no result
+Statue of Liberty,notableWorks,no result
+Statue of Liberty,subject,no result
+Statue of Liberty,v,no result
+Statue of Liberty,designation5Number,no result
+Statue of Liberty,sculptor,no result
+Statue of Liberty,designation1Free1value,no result
+Statue of Liberty,n,no result
+Statue of Liberty,s,no result
+Statue of Liberty,designation1Number,no result
+Statue of Liberty,name,valid
+Statue of Liberty,designation2Free1name,no result
+Statue of Liberty,designation4Offname,no result
+Statue of Liberty,survey,no result
+Statue of Liberty,b,no result
+Statue of Liberty,designation1Criteria,no result
+Statue of Liberty,height,valid
+Statue of Liberty,visitationYear,no result
+Statue of Liberty,designation2Free1value,no result
+Statue of Liberty,designation4Number,no result
+Statue of Liberty,designation2Date,no result
+Statue of Liberty,obverseDesign,no result
+Statue of Liberty,dwgs,no result
+Statue of Liberty,designation3Date,no result
+Statue of Liberty,voy,no result
+Statue of Liberty,space,valid
+Statue of Liberty,color,no result
+Statue of Liberty,link,no result
+Taj Mahal,architecture,no result
+Taj Mahal,builtFor,no result
+Taj Mahal,burialPlace,no result
+Taj Mahal,visitationYear,no result
+Taj Mahal,mapCaption,valid
+Taj Mahal,visitorsNum,no result
+Taj Mahal,built,no result
+Taj Mahal,wordnet_type,no result
+Taj Mahal,significantProjects,no result
+Taj Mahal,visitationNum,no result
+Taj Mahal,website,no result
+Taj Mahal,location,valid
+Taj Mahal,locmapin,no result
+Taj Mahal,architect,valid
+Taj Mahal,governingBody,valid
+Taj Mahal,name,valid
+Taj Mahal,imageSize,valid
+Three Gorges Dam,caption,no result
+Three Gorges Dam,plantCommission,no result
+Three Gorges Dam,locationMapCaption,no result
+Three Gorges Dam,constructionBegan,no result
+Three Gorges Dam,location,valid
+Three Gorges Dam,plantHydraulicHead,no result
+Three Gorges Dam,resName,no result
+Three Gorges Dam,plantType,no result
+Three Gorges Dam,opening,no result
+Three Gorges Dam,purpose,valid
+Three Gorges Dam,bpmf,no result
+Three Gorges Dam,owner,valid
+Three Gorges Dam,order,no result
+Three Gorges Dam,damCrosses,no result
+Three Gorges Dam,image,no result
+Three Gorges Dam,downriver,no result
+Three Gorges Dam,imageSize,valid
+Three Gorges Dam,plantTurbines,no result
+Three Gorges Dam,align,no result
+Three Gorges Dam,country,valid
+Three Gorges Dam,imageCaption,no result
+Three Gorges Dam,p,no result
+Three Gorges Dam,dam,valid
+Three Gorges Dam,plantCapacity,no result
+Three Gorges Dam,t,no result
+Three Gorges Dam,zhDungan,no result
+Three Gorges Dam,status,valid
+Three Gorges Dam,s,no result
+Three Gorges Dam,name,valid
+Three Gorges Dam,width,valid
+Three Gorges Dam,direction,no result
+Three Gorges Dam,cost,valid
+Three Gorges Dam,plantCapacityFactor,no result
+Three Gorges Dam,upriver,no result
+Three Gorges Dam,locationMap,no result
+Three Gorges Dam,damType,no result
+Three Gorges Dam,start,valid
+Pyramid,caption,no result
+Pyramid,align,no result
+Pyramid,direction,no result
+Pyramid,header,no result
+Pyramid,perrow,no result
+Pyramid,associatedActs,no result
+Pyramid,footer,no result
+Pyramid,totalWidth,no result
+Pyramid,captionAlign,no result
+Pyramid,symbol,valid
+Pyramid,type,no result
+Pyramid,image,no result
+Pyramid,label,no result
+Tower,meaning,valid
+Tower,buildingType,no result
+Tower,type,no result
+Tower,symbolDescription,no result
+Film,field,no result
+Film,source,no result
+Film,production,valid
+Film,genres,no result
+Film,camera,no result
+Film,occupation,valid
+Film,knownFor,no result
+Film,movement,no result
+Film,purpose,valid
+Film,genre,valid
+Film,services,no result
+Film,types,no result
+Film,employmentField,no result
+Film,industry,no result
+Film,activity,no result
+Film,fields,no result
+Film,theme,no result
+Film,occupations,no result
+Film,align,no result
+Film,extraColumn,no result
+Film,subject,no result
+Film,quoted,no result
+Film,type,no result
+Film,mainInterests,no result
+Film,width,valid
+Film,medium,no result
+Film,border,valid
+Film,pictureFormat,no result
+Film,products,no result
+Film,education,no result
+Film,style,no result
+Film,category,no result
+Film,discipline,no result
+Animation,caption,no result
+Animation,field,no result
+Animation,alt,no result
+Animation,wikt,no result
+Animation,data,no result
+Animation,about,no result
+Animation,production,valid
+Animation,camera,no result
+Animation,occupation,valid
+Animation,label,no result
+Animation,knownFor,no result
+Animation,movement,no result
+Animation,genre,valid
+Animation,services,no result
+Animation,industry,no result
+Animation,story,no result
+Animation,image,no result
+Animation,footerAlign,no result
+Animation,align,no result
+Animation,auto,no result
+Animation,subject,no result
+Animation,onlinebooks,no result
+Animation,type,no result
+Animation,width,valid
+Animation,direction,no result
+Animation,height,valid
+Animation,others,no result
+Animation,format,no result
+Animation,products,no result
+Animation,education,no result
+Animation,by,no result
+Animation,style,no result
+Animation,category,no result
+Radio,caption,no result
+Radio,affiliations,no result
+Radio,totalWidth,no result
+Radio,industries,no result
+Radio,occupation,valid
+Radio,label,no result
+Radio,knownFor,no result
+Radio,sub,no result
+Radio,genre,valid
+Radio,services,no result
+Radio,employmentField,no result
+Radio,footer,no result
+Radio,industry,no result
+Radio,focus,no result
+Radio,image,no result
+Radio,align,no result
+Radio,subject,no result
+Radio,note,valid
+Radio,type,no result
+Radio,width,valid
+Radio,networkType,no result
+Radio,medium,no result
+Radio,direction,no result
+Radio,format,no result
+Radio,products,no result
+Radio,instruments,no result
+Radio,audioFormat,no result
+Radio,groups,no result
+Television,display,no result
+Television,awardedFor,no result
+Television,field,no result
+Television,data,no result
+Television,about,no result
+Television,otherTopics,no result
+Television,createdFor,no result
+Television,genres,no result
+Television,occupation,valid
+Television,label,no result
+Television,knownFor,no result
+Television,movement,no result
+Television,genre,valid
+Television,services,no result
+Television,types,no result
+Television,employmentField,no result
+Television,divisions,no result
+Television,industry,no result
+Television,media,no result
+Television,websiteType,no result
+Television,subject,no result
+Television,onlinebooks,no result
+Television,otheroccupation,no result
+Television,type,no result
+Television,affiliates,no result
+Television,networkType,no result
+Television,medium,no result
+Television,pictureFormat,no result
+Television,others,no result
+Television,products,no result
+Television,significantProjects,no result
+Television,groups,no result
+Television,by,no result
+Television,significantAdvance,no result
+Television,category,no result
+Television,discipline,no result
+Music,colwidth,no result
+Music,awardedFor,no result
+Music,influenced,no result
+Music,features,valid
+Music,field,no result
+Music,occupation,valid
+Music,knownFor,no result
+Music,sub,no result
+Music,title,valid
+Music,purpose,valid
+Music,genre,valid
+Music,services,no result
+Music,archiveType,no result
+Music,divisions,no result
+Music,instrument,valid
+Music,description,valid
+Music,basedOn,valid
+Music,industry,no result
+Music,fields,no result
+Music,intendeduse,no result
+Music,theme,no result
+Music,occupations,no result
+Music,topics,no result
+Music,filename,valid
+Music,websiteType,no result
+Music,emphasis,no result
+Music,sports,no result
+Music,plain,no result
+Music,subject,no result
+Music,pos,no result
+Music,free,valid
+Music,music,no result
+Music,type,no result
+Music,mainInterests,no result
+Music,rtitle,no result
+Music,medium,no result
+Music,dept,no result
+Music,format,no result
+Music,products,no result
+Music,classesOffered,no result
+Music,distinctions,no result
+Music,education,no result
+Music,otherdata,no result
+Music,group,no result
+Music,style,no result
+Music,reward,no result
+Music,category,no result
+Music,discipline,no result
+Song,meaning,valid
+Song,type,no result
+Song,genre,valid
+Song,prefix,valid
+Song,instrument,valid
+Song,instruments,no result
+Song,genres,no result
+Song,occupation,valid
+Blues,form,no result
+Blues,source,no result
+Blues,about,no result
+Blues,knownFor,no result
+Blues,label,no result
+Blues,title,valid
+Blues,genre,valid
+Blues,stylisticOrigins,no result
+Blues,lcheading,no result
+Blues,derivatives,no result
+Blues,q,no result
+Blues,styles,no result
+Blues,align,no result
+Blues,subject,no result
+Blues,v,no result
+Blues,d,no result
+Blues,onlinebooks,no result
+Blues,s,no result
+Blues,n,no result
+Blues,name,valid
+Blues,width,valid
+Blues,b,no result
+Blues,culturalOrigins,no result
+Blues,format,no result
+Blues,by,no result
+Blues,style,no result
+Blues,quote,valid
+Blues,otherTopics,no result
+Classical music,commonsSearch,no result
+Classical music,field,no result
+Classical music,voySearch,no result
+Classical music,totalWidth,no result
+Classical music,data,no result
+Classical music,occupation,valid
+Classical music,knownFor,no result
+Classical music,label,no result
+Classical music,date,valid
+Classical music,portal,no result
+Classical music,commons,no result
+Classical music,title,valid
+Classical music,genre,valid
+Classical music,perrow,no result
+Classical music,stylisticOrigins,no result
+Classical music,style,no result
+Classical music,footer,no result
+Classical music,fields,no result
+Classical music,image,no result
+Classical music,q,no result
+Classical music,focus,no result
+Classical music,occupations,no result
+Classical music,subject,no result
+Classical music,period,no result
+Classical music,d,no result
+Classical music,reason,no result
+Classical music,dSearch,no result
+Classical music,type,no result
+Classical music,format,no result
+Classical music,distinctions,no result
+Classical music,qSearch,no result
+Classical music,voy,no result
+Classical music,category,no result
+Classical music,discipline,no result
+Classical music,link,no result
+Opera,field,no result
+Opera,data,no result
+Opera,production,valid
+Opera,occupation,valid
+Opera,knownFor,no result
+Opera,title,valid
+Opera,genre,valid
+Opera,stylisticOrigins,no result
+Opera,description,valid
+Opera,industry,no result
+Opera,buildingType,no result
+Opera,occupations,no result
+Opera,filename,valid
+Opera,genreHeader,no result
+Opera,subject,no result
+Opera,type,no result
+Opera,mainInterests,no result
+Opera,format,no result
+Opera,style,no result
+Opera,category,no result
+Symphony,date,valid
+Symphony,title,valid
+Symphony,genre,valid
+Symphony,header,no result
+Symphony,form,no result
+Symphony,description,valid
+Symphony,reference,valid
+Symphony,reason,no result
+Symphony,type,no result
+Symphony,filename,valid
+Electronic music,caption,no result
+Electronic music,field,no result
+Electronic music,data,no result
+Electronic music,about,no result
+Electronic music,occupation,valid
+Electronic music,knownFor,no result
+Electronic music,date,valid
+Electronic music,genre,valid
+Electronic music,stylisticOrigins,no result
+Electronic music,instrument,valid
+Electronic music,footer,no result
+Electronic music,discipline,no result
+Electronic music,industry,no result
+Electronic music,image,no result
+Electronic music,derivatives,no result
+Electronic music,wikititle,no result
+Electronic music,align,no result
+Electronic music,onlinebooks,no result
+Electronic music,reason,no result
+Electronic music,type,no result
+Electronic music,name,valid
+Electronic music,width,valid
+Electronic music,url,no result
+Electronic music,otherNames,no result
+Electronic music,direction,no result
+Electronic music,format,no result
+Electronic music,by,no result
+Electronic music,reference,valid
+Electronic music,style,no result
+Electronic music,category,no result
+Electronic music,otherTopics,no result
+Flamenco,caption,no result
+Flamenco,knownFor,no result
+Flamenco,date,valid
+Flamenco,id,valid
+Flamenco,genre,valid
+Flamenco,stylisticOrigins,no result
+Flamenco,subgenres,no result
+Flamenco,derivatives,no result
+Flamenco,session,no result
+Flamenco,styles,no result
+Flamenco,stateParty,no result
+Flamenco,domains,no result
+Flamenco,year,valid
+Flamenco,reason,no result
+Flamenco,name,valid
+Flamenco,list,no result
+Flamenco,url,no result
+Flamenco,otherNames,no result
+Flamenco,region,valid
+Flamenco,ich,no result
+Flamenco,culturalOrigins,no result
+Flamenco,instruments,no result
+Flamenco,reference,valid
+Flamenco,dances,no result
+Flamenco,style,no result
+Flamenco,otherTopics,no result
+Hip hop,movement,no result
+Hip hop,genre,valid
+Hip hop,occupation,valid
+Hip hop,stylisticOrigins,no result
+Hip hop,format,no result
+Hip hop,subject,no result
+Hip hop,data,no result
+Hip hop,dances,no result
+Hip hop,category,no result
+Hip hop,otherTopics,no result
+Jazz,caption,no result
+Jazz,subgenrelist,no result
+Jazz,data,no result
+Jazz,about,no result
+Jazz,title,valid
+Jazz,genre,valid
+Jazz,currentYear,no result
+Jazz,stylisticOrigins,no result
+Jazz,description,valid
+Jazz,lcheading,no result
+Jazz,discipline,no result
+Jazz,derivatives,no result
+Jazz,filename,valid
+Jazz,d,no result
+Jazz,onlinebooks,no result
+Jazz,content,no result
+Jazz,n,no result
+Jazz,s,no result
+Jazz,type,no result
+Jazz,name,valid
+Jazz,width,valid
+Jazz,b,no result
+Jazz,c,no result
+Jazz,culturalOrigins,no result
+Jazz,format,no result
+Jazz,instruments,no result
+Jazz,by,no result
+Jazz,dances,no result
+Jazz,voy,no result
+Jazz,category,no result
+Jazz,otherTopics,no result
+Reggae,caption,no result
+Reggae,subgenrelist,no result
+Reggae,data,no result
+Reggae,movement,no result
+Reggae,id,valid
+Reggae,genre,valid
+Reggae,regionalScenes,no result
+Reggae,stylisticOrigins,no result
+Reggae,subgenres,no result
+Reggae,derivatives,no result
+Reggae,stateParty,no result
+Reggae,year,valid
+Reggae,domain,no result
+Reggae,name,valid
+Reggae,region,valid
+Reggae,fusiongenres,no result
+Reggae,culturalOrigins,no result
+Reggae,ich,no result
+Reggae,format,no result
+Reggae,otherTopics,no result
+Reggae,link,no result
+Rock music,awardedFor,no result
+Rock music,localScenes,no result
+Rock music,alt,no result
+Rock music,show,valid
+Rock music,source,no result
+Rock music,wikt,no result
+Rock music,subgenrelist,no result
+Rock music,data,no result
+Rock music,about,no result
+Rock music,title,valid
+Rock music,genre,valid
+Rock music,currentYear,no result
+Rock music,regionalScenes,no result
+Rock music,stylisticOrigins,no result
+Rock music,subgenres,no result
+Rock music,derivatives,no result
+Rock music,mw,no result
+Rock music,align,no result
+Rock music,wikititle,no result
+Rock music,v,no result
+Rock music,d,no result
+Rock music,onlinebooks,no result
+Rock music,quoted,no result
+Rock music,n,no result
+Rock music,s,no result
+Rock music,name,valid
+Rock music,width,valid
+Rock music,species,valid
+Rock music,b,no result
+Rock music,c,no result
+Rock music,culturalOrigins,no result
+Rock music,fusiongenres,no result
+Rock music,format,no result
+Rock music,instruments,no result
+Rock music,m,no result
+Rock music,voy,no result
+Rock music,by,no result
+Rock music,style,no result
+Rock music,category,no result
+Rock music,quote,valid
+Rock music,otherTopics,no result
+Samba,caption,no result
+Samba,date,valid
+Samba,title,valid
+Samba,text,no result
+Samba,genre,valid
+Samba,culturalOrigins,no result
+Samba,stylisticOrigins,no result
+Samba,description,valid
+Samba,otherTopics,no result
+Samba,reason,no result
+Samba,prevTitle,no result
+Samba,subgenres,no result
+Samba,type,no result
+Samba,name,valid
+Samba,filename,valid
+Samba,author,valid
+Drum,title,valid
+Drum,instrumentation,no result
+Drum,classification,valid
+Drum,extra,no result
+Drum,instrument,valid
+Drum,instruments,no result
+Drum,description,valid
+Drum,related,no result
+Drum,filename,valid
+Drum,identificationSymbol5Label,no result
+Flute,caption,no result
+Flute,field,no result
+Flute,alt,no result
+Flute,occupation,valid
+Flute,date,valid
+Flute,instrumentation,no result
+Flute,instrument,valid
+Flute,related,no result
+Flute,image,no result
+Flute,align,no result
+Flute,captionAlign,no result
+Flute,reason,no result
+Flute,note,valid
+Flute,headerAlign,no result
+Flute,width,valid
+Flute,currentMembers,no result
+Flute,products,no result
+Flute,instruments,no result
+Flute,drum,no result
+Guitar,caption,no result
+Guitar,alt,no result
+Guitar,background,valid
+Guitar,data,no result
+Guitar,developed,no result
+Guitar,occupation,valid
+Guitar,knownFor,no result
+Guitar,title,valid
+Guitar,drum,no result
+Guitar,genre,valid
+Guitar,instrumentation,no result
+Guitar,instrument,valid
+Guitar,description,valid
+Guitar,footer,no result
+Guitar,related,no result
+Guitar,image,no result
+Guitar,filename,valid
+Guitar,align,no result
+Guitar,hornbostelSachsDesc,no result
+Guitar,captionAlign,no result
+Guitar,imageCapt,no result
+Guitar,width,valid
+Guitar,name,valid
+Guitar,currentMembers,no result
+Guitar,range,valid
+Guitar,pastMembers,no result
+Guitar,classification,valid
+Guitar,instruments,no result
+Guitar,names,valid
+Guitar,hornbostelSachs,no result
+Guitar,category,no result
+Piano,background,valid
+Piano,data,no result
+Piano,developed,no result
+Piano,scoring,no result
+Piano,occupation,valid
+Piano,knownFor,no result
+Piano,title,valid
+Piano,drum,no result
+Piano,genre,valid
+Piano,header,no result
+Piano,instrumentation,no result
+Piano,instrument,valid
+Piano,description,valid
+Piano,footer,no result
+Piano,inventors,no result
+Piano,industry,no result
+Piano,related,no result
+Piano,image,no result
+Piano,filename,valid
+Piano,align,no result
+Piano,musicians,valid
+Piano,instrumental,no result
+Piano,hornbostelSachsDesc,no result
+Piano,imageCapt,no result
+Piano,type,no result
+Piano,width,valid
+Piano,name,valid
+Piano,range,valid
+Piano,format,no result
+Piano,products,no result
+Piano,education,no result
+Piano,instruments,no result
+Piano,training,valid
+Piano,hornbostelSachs,no result
+Trumpet,caption,no result
+Trumpet,drum,no result
+Trumpet,attributes,no result
+Trumpet,range,valid
+Trumpet,instrumentation,no result
+Trumpet,hornbostelSachsDesc,no result
+Trumpet,classification,valid
+Trumpet,background,valid
+Trumpet,instrument,valid
+Trumpet,instruments,no result
+Trumpet,data,no result
+Trumpet,related,no result
+Trumpet,hornbostelSachs,no result
+Trumpet,imageCapt,no result
+Trumpet,occupation,valid
+Trumpet,name,valid
+Trumpet,knownFor,no result
+Violin,caption,no result
+Violin,soundSample,no result
+Violin,background,valid
+Violin,developed,no result
+Violin,scoring,no result
+Violin,occupation,valid
+Violin,title,valid
+Violin,genre,valid
+Violin,instrumentation,no result
+Violin,subDiscipline,no result
+Violin,instrument,valid
+Violin,description,valid
+Violin,related,no result
+Violin,filename,valid
+Violin,instrumental,no result
+Violin,musicians,valid
+Violin,hornbostelSachsDesc,no result
+Violin,imageCapt,no result
+Violin,name,valid
+Violin,currentMembers,no result
+Violin,range,valid
+Violin,builders,no result
+Violin,format,no result
+Violin,otherInstruments,no result
+Violin,instruments,no result
+Violin,names,valid
+Violin,hornbostelSachs,no result
+Violin,obverseDesign,no result
+Violin,drum,no result
+Game,genre,valid
+Game,industry,no result
+Game,type,no result
+Game,category,no result
+Game,callsignMeaning,valid
+Backgammon,ages,no result
+Backgammon,footnotes,no result
+Backgammon,italicTitle,valid
+Backgammon,imageCaption,no result
+Backgammon,movement,no result
+Backgammon,title,valid
+Backgammon,products,no result
+Backgammon,players,no result
+Backgammon,wordnet_type,no result
+Backgammon,imageLink,no result
+Backgammon,randomChance,no result
+Backgammon,data,no result
+Backgammon,years,valid
+Backgammon,playingTime,valid
+Backgammon,setupTime,valid
+Chess,game,no result
+Chess,alt,no result
+Chess,wordnet_type,no result
+Chess,nameOoo,no result
+Chess,data,no result
+Chess,games,valid
+Chess,occupation,valid
+Chess,knownFor,no result
+Chess,title,valid
+Chess,purpose,valid
+Chess,italicTitle,valid
+Chess,genre,valid
+Chess,sport,valid
+Chess,basedOn,valid
+Chess,years,valid
+Chess,playingTime,valid
+Chess,imageSize,valid
+Chess,mw,no result
+Chess,imageCaption,no result
+Chess,sports,no result
+Chess,skills,no result
+Chess,subject,no result
+Chess,free,valid
+Chess,d,no result
+Chess,s,no result
+Chess,n,no result
+Chess,type,no result
+Chess,nameAak,no result
+Chess,species,valid
+Chess,players,no result
+Chess,m,no result
+Chess,randomChance,no result
+Chess,voy,no result
+Chess,relatedto,no result
+Chess,category,no result
+Chess,discipline,no result
+Video game,caption,no result
+Video game,align,no result
+Video game,genre,valid
+Video game,events,no result
+Video game,occupation,valid
+Video game,others,no result
+Video game,alt,no result
+Video game,products,no result
+Video game,subject,no result
+Video game,markets,no result
+Video game,category,no result
+Video game,mediaType,no result
+Video game,by,no result
+Video game,onlinebooks,no result
+Video game,totalWidth,no result
+Video game,industry,no result
+Video game,type,no result
+Video game,image,no result
+Gambling,date,valid
+Gambling,title,valid
+Gambling,criminalActivities,no result
+Gambling,family,valid
+Gambling,activities,no result
+Gambling,genre,valid
+Gambling,websiteType,no result
+Gambling,subject,no result
+Gambling,products,no result
+Gambling,markets,no result
+Gambling,charge,no result
+Gambling,industry,no result
+Gambling,type,no result
+Gambling,occupation,valid
+Gambling,url,no result
+Martial arts,purpose,valid
+Martial arts,sub,no result
+Martial arts,topics,no result
+Martial arts,genre,valid
+Martial arts,focus,no result
+Martial arts,hardness,no result
+Martial arts,powers,no result
+Martial arts,occupation,valid
+Martial arts,sport,valid
+Martial arts,contact,no result
+Martial arts,style,no result
+Martial arts,function,no result
+Martial arts,industry,no result
+Martial arts,stip,no result
+Martial arts,athletics,no result
+Martial arts,mainInterests,no result
+Martial arts,category,no result
+Martial arts,knownFor,no result
+Judo,display,no result
+Judo,hardness,no result
+Judo,arts,no result
+Judo,olympic,no result
+Judo,parentStyle,no result
+Judo,class,no result
+Judo,wikt,no result
+Judo,martialArt,no result
+Judo,famousPract,no result
+Judo,data,no result
+Judo,art,no result
+Judo,imagesize,no result
+Judo,occupation,valid
+Judo,event,valid
+Judo,knownFor,no result
+Judo,title,valid
+Judo,ancestorArts,no result
+Judo,commons,no result
+Judo,sport,valid
+Judo,style,no result
+Judo,website,no result
+Judo,nameEee,no result
+Judo,focus,no result
+Judo,q,no result
+Judo,nameIii,no result
+Judo,state,valid
+Judo,country,valid
+Judo,creator,valid
+Judo,descendantArts,no result
+Judo,sports,no result
+Judo,parenthood,no result
+Judo,v,no result
+Judo,d,no result
+Judo,ancestorSchools,no result
+Judo,n,no result
+Judo,s,no result
+Judo,type,no result
+Judo,name,valid
+Judo,stip,no result
+Judo,b,no result
+Judo,imagecaption,no result
+Judo,weightClassType,no result
+Judo,athletics,no result
+Judo,voy,no result
+Judo,nameAas,no result
+Judo,discipline,no result
+Judo,logosize,no result
+Judo,descendants,no result
+Olympic Games,genre,valid
+Olympic Games,nationalteam,no result
+Olympic Games,header,no result
+Olympic Games,occupation,valid
+Olympic Games,pb,no result
+Olympic Games,subject,no result
+Olympic Games,level,no result
+Olympic Games,distinctions,no result
+Olympic Games,olympic,no result
+Olympic Games,meet,no result
+Olympic Games,wrestling,no result
+Olympic Games,profession,no result
+Olympic Games,data,no result
+Olympic Games,mascot,valid
+Olympic Games,events,no result
+Olympic Games,knownFor,no result
+Olympic Games,intlList,no result
+Sport,title,valid
+Sport,type,no result
+Sport,license,no result
+Sport,genre,valid
+Sport,publisher,valid
+Sport,occupation,valid
+Sport,documenturl,no result
+Sport,format,no result
+Sport,subject,no result
+Sport,source,no result
+Sport,class,no result
+Sport,use,no result
+Sport,industry,no result
+Sport,mainInterests,no result
+Sport,production,valid
+Sport,genres,no result
+Sport,category,no result
+Sport,author,valid
+Baseball,caption,no result
+Baseball,activities,no result
+Baseball,features,valid
+Baseball,olympic,no result
+Baseball,contact,no result
+Baseball,field,no result
+Baseball,wikt,no result
+Baseball,imagesize,no result
+Baseball,genres,no result
+Baseball,iwga,no result
+Baseball,mgender,no result
+Baseball,occupation,valid
+Baseball,title,valid
+Baseball,genre,valid
+Baseball,sport,valid
+Baseball,venue,no result
+Baseball,equipment,no result
+Baseball,industry,no result
+Baseball,topics,no result
+Baseball,currentuse,no result
+Baseball,sports,no result
+Baseball,auto,no result
+Baseball,glossary,no result
+Baseball,team,valid
+Baseball,skills,no result
+Baseball,subject,no result
+Baseball,union,no result
+Baseball,seatingCapacity,valid
+Baseball,teams,no result
+Baseball,s,no result
+Baseball,type,no result
+Baseball,name,valid
+Baseball,region,valid
+Baseball,sections,no result
+Baseball,dimensions,no result
+Baseball,first,no result
+Baseball,profession,no result
+Baseball,nameAav,no result
+Baseball,athletics,no result
+Baseball,category,no result
+Basketball,caption,no result
+Basketball,activities,no result
+Basketball,coachSport,no result
+Basketball,features,valid
+Basketball,olympic,no result
+Basketball,contact,no result
+Basketball,data,no result
+Basketball,imagesize,no result
+Basketball,genres,no result
+Basketball,occupation,valid
+Basketball,mgender,no result
+Basketball,knownFor,no result
+Basketball,date,valid
+Basketball,title,valid
+Basketball,nameAar,no result
+Basketball,genre,valid
+Basketball,sport,valid
+Basketball,venue,no result
+Basketball,industry,no result
+Basketball,paralympic,no result
+Basketball,capacity,valid
+Basketball,sports,no result
+Basketball,glossary,no result
+Basketball,team,valid
+Basketball,subject,no result
+Basketball,free,valid
+Basketball,union,no result
+Basketball,seatingCapacity,valid
+Basketball,teams,no result
+Basketball,type,no result
+Basketball,name,valid
+Basketball,url,no result
+Basketball,ball,no result
+Basketball,region,valid
+Basketball,sections,no result
+Basketball,sportingAffiliations,no result
+Basketball,playerPositions,no result
+Basketball,first,no result
+Basketball,group,no result
+Basketball,athletics,no result
+Basketball,category,no result
+Basketball,nameLll,no result
+Cricket,overlay5link,no result
+Cricket,overlay12tip,no result
+Cricket,overlay5top,no result
+Cricket,contact,no result
+Cricket,imagesize,no result
+Cricket,title,valid
+Cricket,overlay6left,no result
+Cricket,overlay3link,no result
+Cricket,sport,valid
+Cricket,overlay4left,no result
+Cricket,image,no result
+Cricket,mw,no result
+Cricket,sports,no result
+Cricket,subject,no result
+Cricket,union,no result
+Cricket,overlay1tip,no result
+Cricket,overlay6tip,no result
+Cricket,overlay8tip,no result
+Cricket,c,no result
+Cricket,overlay8link,no result
+Cricket,group,no result
+Cricket,voy,no result
+Cricket,overlay4link,no result
+Cricket,overlay3left,no result
+Cricket,overlay,no result
+Cricket,overlay10left,no result
+Cricket,mgender,no result
+Cricket,genre,valid
+Cricket,overlay11link,no result
+Cricket,venue,no result
+Cricket,footer,no result
+Cricket,overlay4top,no result
+Cricket,overlay2top,no result
+Cricket,d,no result
+Cricket,overlay7link,no result
+Cricket,overlay7tip,no result
+Cricket,overlay10link,no result
+Cricket,width,valid
+Cricket,overlay1left,no result
+Cricket,species,valid
+Cricket,region,valid
+Cricket,column,no result
+Cricket,athletics,no result
+Cricket,grid,no result
+Cricket,category,no result
+Cricket,overlay8top,no result
+Cricket,data,no result
+Cricket,knownFor,no result
+Cricket,role,valid
+Cricket,overlay1top,no result
+Cricket,overlay9tip,no result
+Cricket,overlay11tip,no result
+Cricket,team,valid
+Cricket,free,valid
+Cricket,overlay12top,no result
+Cricket,overlay4tip,no result
+Cricket,name,valid
+Cricket,overlay9left,no result
+Cricket,first,no result
+Cricket,overlay10top,no result
+Cricket,overlay7top,no result
+Cricket,overlay9top,no result
+Cricket,alt,no result
+Cricket,olympic,no result
+Cricket,wikt,no result
+Cricket,overlay3top,no result
+Cricket,overlay8left,no result
+Cricket,overlay1link,no result
+Cricket,overlay2left,no result
+Cricket,overlay2tip,no result
+Cricket,overlay6top,no result
+Cricket,use,no result
+Cricket,industry,no result
+Cricket,focus,no result
+Cricket,freeText,no result
+Cricket,overlay5left,no result
+Cricket,overlay10tip,no result
+Cricket,glossary,no result
+Cricket,overlay11top,no result
+Cricket,n,no result
+Cricket,overlay11left,no result
+Cricket,type,no result
+Cricket,ball,no result
+Cricket,overlay2link,no result
+Cricket,height,valid
+Cricket,overlay7left,no result
+Cricket,overlay5tip,no result
+Cricket,m,no result
+Cricket,overlay12left,no result
+Cricket,overlay3tip,no result
+Cricket,overlay6link,no result
+Cricket,overlay12link,no result
+Cricket,overlay9link,no result
+Association football,caption,no result
+Association football,activities,no result
+Association football,titlestyle,no result
+Association football,features,valid
+Association football,olympic,no result
+Association football,totalWidth,no result
+Association football,data,no result
+Association football,imagesize,no result
+Association football,occupation,valid
+Association football,mgender,no result
+Association football,knownFor,no result
+Association football,purpose,valid
+Association football,genre,valid
+Association football,sport,valid
+Association football,specialist,valid
+Association football,venue,no result
+Association football,equipment,no result
+Association football,footer,no result
+Association football,description,valid
+Association football,industry,no result
+Association football,tenants,no result
+Association football,theme,no result
+Association football,paralympic,no result
+Association football,image,no result
+Association football,currentuse,no result
+Association football,commonscat,no result
+Association football,origins,no result
+Association football,align,no result
+Association football,sports,no result
+Association football,glossary,no result
+Association football,team,valid
+Association football,subject,no result
+Association football,position,no result
+Association football,free,valid
+Association football,union,no result
+Association football,teams,no result
+Association football,nickname,no result
+Association football,otheroccupation,no result
+Association football,type,no result
+Association football,name,valid
+Association football,width,valid
+Association football,leaderTitle,valid
+Association football,direction,no result
+Association football,region,valid
+Association football,sportingAffiliations,no result
+Association football,dimensions,no result
+Association football,first,no result
+Association football,profession,no result
+Association football,athletics,no result
+Association football,group,no result
+Association football,voy,no result
+Association football,category,no result
+Association football,discipline,no result
+Golf,caption,no result
+Golf,activities,no result
+Golf,olympic,no result
+Golf,contact,no result
+Golf,markets,no result
+Golf,wikt,no result
+Golf,nameAbg,no result
+Golf,data,no result
+Golf,imagesize,no result
+Golf,nameJjj,no result
+Golf,knownFor,no result
+Golf,commons,no result
+Golf,genre,valid
+Golf,sport,valid
+Golf,use,no result
+Golf,equipment,no result
+Golf,industry,no result
+Golf,q,no result
+Golf,nameHhh,no result
+Golf,mw,no result
+Golf,sports,no result
+Golf,glossary,no result
+Golf,subject,no result
+Golf,free,valid
+Golf,union,no result
+Golf,v,no result
+Golf,teams,no result
+Golf,d,no result
+Golf,n,no result
+Golf,s,no result
+Golf,name,valid
+Golf,ball,no result
+Golf,species,valid
+Golf,b,no result
+Golf,sportingAffiliations,no result
+Golf,playerPositions,no result
+Golf,first,no result
+Golf,otherInterests,no result
+Golf,m,no result
+Golf,athletics,no result
+Golf,voy,no result
+Golf,category,no result
+Tennis,caption,no result
+Tennis,activities,no result
+Tennis,olympic,no result
+Tennis,contact,no result
+Tennis,markets,no result
+Tennis,data,no result
+Tennis,imagesize,no result
+Tennis,mgender,no result
+Tennis,knownFor,no result
+Tennis,genre,valid
+Tennis,sport,valid
+Tennis,venue,no result
+Tennis,equipment,no result
+Tennis,footer,no result
+Tennis,industry,no result
+Tennis,paralympic,no result
+Tennis,sports,no result
+Tennis,glossary,no result
+Tennis,team,valid
+Tennis,nameAam,no result
+Tennis,free,valid
+Tennis,union,no result
+Tennis,nameGgg,no result
+Tennis,type,no result
+Tennis,width,valid
+Tennis,name,valid
+Tennis,region,valid
+Tennis,sections,no result
+Tennis,playerPositions,no result
+Tennis,first,no result
+Tennis,athletics,no result
+Tennis,category,no result
+Swimming,date,valid
+Swimming,sport,valid
+Swimming,skills,no result
+Swimming,data,no result
+Swimming,reason,no result
+Swimming,occupation,valid
+Toy,species,valid
+Toy,application,no result
+Toy,industry,no result
+Toy,type,no result
+Toy,occupation,valid

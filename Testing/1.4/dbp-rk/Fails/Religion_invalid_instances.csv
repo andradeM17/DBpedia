@@ -1,0 +1,62 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Secular Shrine Theory,date,April 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Secular Shrine Theory,title,Acts_of_the_Apostles,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Book
+Knock Shrine,capacity,10000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Knock Shrine,date,1879,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Knock Shrine,deanery,Claremorris,outgoing,http://dbpedia.org/ontology/Deanery,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Knock Shrine,name,"Basilica Shrine of Our Lady of Knock, Queen of Ireland",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Knock Shrine,name,Our Lady of Knock,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Knock Shrine,rector,Father Richard Gibbons,outgoing,http://dbpedia.org/ontology/Person,
+Vilwanatheswarar temple,height,2448,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vilwanatheswarar temple,mapCaption,Location in Tamil Nadu,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vilwanatheswarar temple,name,Vilwanatheswarar Temple,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Vilwanatheswarar temple,width,3264,outgoing,http://www.w3.org/2001/XMLSchema#double,
+San Bartolomé Parish (Hueypoxtla),name,San Bartolomé Parish,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+San Bartolomé Parish (Hueypoxtla),status,Parish,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation
+Sandar Church,architect,Hans_Christian_Lind,outgoing,http://dbpedia.org/ontology/Architect,
+Sandar Church,capacity,700,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sandar Church,formerName,"Sandeherred kirke, Frederiks kirke",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sandar Church,name,Sandar Church,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sandar Church,status,Parish_church,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building
+Gajendra Varadha Temple,mapCaption,Location in Tamil Nadu,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gajendra Varadha Temple,name,Gajendra Varadha Perumal Temple,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"German Church, Christchurch",architect,Isaac Jacobsen,outgoing,http://dbpedia.org/ontology/Architect,
+"German Church, Christchurch",author,The Press staff writer,outgoing,http://dbpedia.org/ontology/Person,
+"German Church, Christchurch",capacity,230,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"German Church, Christchurch",country,New Zealand,outgoing,http://dbpedia.org/ontology/Country,
+"German Church, Christchurch",location,"corner Worcester and Montreal Streets, Christchurch",outgoing,http://dbpedia.org/ontology/Place,
+"German Church, Christchurch",name,German Church,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"German Church, Christchurch",status,Parish_church,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building
+Niotaze Methodist Episcopal Church,area,less than one acre,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Niotaze Methodist Episcopal Church,location,301,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Niotaze Methodist Episcopal Church,name,Niotaze Methodist Episcopal Church,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Omkareshwar Temple,location,"Mandhata, near Khandwa city, M.P",outgoing,http://dbpedia.org/ontology/Place,
+Omkareshwar Temple,mapCaption,Location in Madhya Pradesh,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Omkareshwar Temple,name,Omkareshwar Jyothirlinga,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Religion in England,value,0.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,0.4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,0.5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,0.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,0.9,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicalWork; http://dbpedia.org/ontology/Album
+Religion in England,value,1.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,1.4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,1.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,4.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,5.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Religion in England,value,6.7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,6.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,8.699999999999999,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,9.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,15,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Religion in England,value,36.7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,46.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Religion in England,value,47,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Saint Brother Albert Chmielowski Polish Mission,dean,,outgoing,http://dbpedia.org/ontology/Person,
+Saint Brother Albert Chmielowski Polish Mission,dean,Rev. Msgr. Francisco D. Rios,outgoing,http://dbpedia.org/ontology/Person,
+Saint Brother Albert Chmielowski Polish Mission,deanery,Deanery 6,outgoing,http://dbpedia.org/ontology/Deanery,
+Saint Brother Albert Chmielowski Polish Mission,location,10250,outgoing,http://dbpedia.org/ontology/Place,
+Saint Brother Albert Chmielowski Polish Mission,name,Saint Brother Albert Chmielowski Polish Mission,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Saint Brother Albert Chmielowski Polish Mission,pastor,"Rev. Fr. Jan Fiedurek, SChr",outgoing,http://dbpedia.org/ontology/Person,
+Saint Brother Albert Chmielowski Polish Mission,province,Roman_Catholic_Archdiocese_of_San_Francisco,outgoing,http://dbpedia.org/ontology/Province,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/ClericalAdministrativeRegion; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Diocese; http://dbpedia.org/ontology/AdministrativeRegion
+Saint Brother Albert Chmielowski Polish Mission,status,Parish_church,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building

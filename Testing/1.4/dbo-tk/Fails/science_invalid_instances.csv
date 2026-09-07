@@ -1,0 +1,561 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Science,award,Science,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Science,occupation,Science,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Science,specialist,Science,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Nature,occupation,Nature,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Astronomy,almaMater,Astronomy,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Astronomy,award,Astronomy,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Astronomy,occupation,Astronomy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Comet,team,Comet,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Organisation
+Milky Way,notableWork,Milky Way,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Galaxy
+Moon,maximumTemperature,230.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,maximumTemperature,390.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,meanTemperature,150.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,meanTemperature,250.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,minimumTemperature,100.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,albedo,0.136,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Moon,escapeVelocity,8568.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,formerName,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,formerName,Cynthia(poetic),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,formerName,Luna,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,formerName,Selene(poetic),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,maximumTemperature,230.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,maximumTemperature,390.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,meanTemperature,150.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,meanTemperature,250.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,minimumTemperature,100.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,associatedMusicalArtist,Moon,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Moon,museum,Moon,incoming,http://dbpedia.org/ontology/Museum,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Venus,averageSpeed,35.02,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,meanTemperature,737.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,meanTemperature,737.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,orbitalPeriod,1.92,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,volume,8.57E-10,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,albedo,0.6889999999999999,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,albedo,0.76,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,averageSpeed,126072.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Venus,escapeVelocity,37296.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,meanTemperature,737.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,meanTemperature,737.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,orbitalPeriod,165888.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,rotationPeriod,86400.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,volume,0.857,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,apoapsis,1.521E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,averageSpeed,29.78,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,density,5514.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,maximumTemperature,329.8166666666667,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,maximumTemperature,329.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanRadius,6371.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanTemperature,287.0388888888889,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanTemperature,287.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,minimumTemperature,183.95,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,minimumTemperature,183.98333333333335,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,orbitalPeriod,365.256363004,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,periapsis,1.47095E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,surfaceArea,5.10072E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,apoapsis,152100000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,averageSpeed,107208.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,density,5514.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Earth,escapeVelocity,40269.6,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,formerName,"Gaia,Terra,Tellus, theworld, theglobe",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Earth,maximumTemperature,329.8166666666667,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,maximumTemperature,329.85,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanRadius,6371000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanTemperature,287.0388888888889,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,meanTemperature,287.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,minimumTemperature,183.95,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,minimumTemperature,183.9833333333333,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,orbitalPeriod,31558149.7635456,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,periapsis,147095000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,surfaceArea,510072000000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Earth,garrison,Earth,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,apoapsis,2.49261E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,averageSpeed,24.07,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,density,3933.5,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,maximumTemperature,308.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,meanTemperature,213.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,minimumTemperature,163.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,orbitalPeriod,686.98,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,periapsis,2.0665E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,surfaceArea,144.37,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,volume,1.51E-10,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,apoapsis,249261000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,averageSpeed,86652.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,density,3933.5,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mars,escapeVelocity,18097.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,maximumTemperature,308.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,meanTemperature,213.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,minimumTemperature,163.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,orbitalPeriod,59355072.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,periapsis,206650000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,surfaceArea,144370000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,volume,0.151,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,nationality,Mars,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Jupiter,apoapsis,8.16363E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,averageSpeed,13.07,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,density,1326.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,mass,1.8982,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanRadius,69911.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanTemperature,128.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanTemperature,165.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,minimumTemperature,78.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,periapsis,7.40595E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,surfaceArea,6.1469,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,volume,1.4313,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,albedo,0.503,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,albedo,0.538,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,apoapsis,816363000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,averageSpeed,47052.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,density,1326.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jupiter,escapeVelocity,214200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,mass,1898.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanRadius,69911000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanTemperature,128.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,meanTemperature,165.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,minimumTemperature,78.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,periapsis,740595000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,rotationPeriod,35700.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,surfaceArea,6146900.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,volume,1431300000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,averageSpeed,9.68,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,density,687.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,maximumTemperature,151.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanRadius,58232.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanTemperature,134.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanTemperature,97.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,minimumTemperature,88.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,surfaceArea,4.27,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,volume,8.2713,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,albedo,0.342,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,albedo,0.499,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,averageSpeed,34848.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,density,687.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,epoch,J2000.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Saturn,escapeVelocity,127800.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,maximumTemperature,151.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanRadius,58232000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanTemperature,97.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,meanTemperature,134.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,minimumTemperature,88.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,rotationPeriod,37920.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,rotationPeriod,37955.88,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,surfaceArea,4270000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,volume,8271300000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,apoapsis,3.00639E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,averageSpeed,6.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,maximumTemperature,57.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,meanTemperature,53.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,meanTemperature,76.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,minimumTemperature,47.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,periapsis,2.73556E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,volume,6.3086E-8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,albedo,0.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,albedo,0.488,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,apoapsis,3006390000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,apparentMagnitude,5.38,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,averageSpeed,24480.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Uranus,escapeVelocity,76680.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,maximumTemperature,57.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,meanTemperature,53.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,meanTemperature,76.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,minimumTemperature,47.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,periapsis,2735560000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,rotationPeriod,-60337.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,volume,63.086,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,apoapsis,4.537303418331E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,60193.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,60195.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,89666.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,periapsis,4.459512525567E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,volume,5.774E-8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,albedo,0.29,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,albedo,0.442,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,apoapsis,4537303418331.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,apparentMagnitude,7.67,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,discovered,1846-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Neptune,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Neptune,escapeVelocity,84600.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,5200692480.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,5200848000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,orbitalPeriod,7747142400.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,periapsis,4459512525567.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,rotationPeriod,57996.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,volume,57.74,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Star,team,Star,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/ArtificialSatellite
+Sun,team,Sun,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Star
+Biology,award,Biology,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,genre,Biology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,occupation,Biology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Botany,almaMater,Botany,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Botany,award,Botany,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Botany,genre,Botany,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Death,formerBandMember,Death,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Death,spouse,Death,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Suicide,diseasesDB,12641,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Suicide,eMedicineSubject,article,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Suicide,eMedicineTopic,288598,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Suicide,icd10,X60-X84,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Suicide,icd9,E950,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Suicide,medlinePlus,001554,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Suicide,child,Suicide,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Suicide,commander,Suicide,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Ecology,genre,Ecology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,ideology,Ecology,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,occupation,Ecology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Metabolism,occupation,Metabolism,incoming,http://dbpedia.org/ontology/PersonFunction,
+Digestion,latinName,systema digestorium,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,complications,"Miscarriage,high blood pressure of pregnancy,gestational diabetes,iron-deficiency anemia,severe nausea and vomiting",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,diseasesDB,10545,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,eMedicineSubject,article,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pregnancy,eMedicineTopic,259724,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pregnancy,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,icd10,"O00-O99,",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,icd10,Z33.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,icd10,Z34,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,icd10,Z35,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,icd9,650,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pregnancy,medlinePlus,002398,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,meshId,D011247,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,synonym,Gestation,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Animal,genre,Animal,incoming,http://dbpedia.org/ontology/Genre,
+Bird,birthPlace,Bird,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band
+Bird,genre,Bird,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Band
+Bird,species,Bird,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Shark,occupation,Shark,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Shark,team,Shark,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Cat,leaderName,Cat,incoming,http://dbpedia.org/ontology/Person,
+Cat,species,Cat,incoming,http://dbpedia.org/ontology/Species,
+Cattle,currency,Cattle,incoming,http://dbpedia.org/ontology/Currency,http://dbpedia.org/ontology/PersonFunction
+Cattle,spouse,Cattle,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/PersonFunction
+Sheep,team,Sheep,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Animal
+Pig,occupation,Pig,incoming,http://dbpedia.org/ontology/PersonFunction,
+Pig,species,Pig,incoming,http://dbpedia.org/ontology/Species,
+Human,occupation,Human,incoming,http://dbpedia.org/ontology/PersonFunction,
+Human,parentCompany,Human,incoming,http://dbpedia.org/ontology/Company,
+Human,species,Human,incoming,http://dbpedia.org/ontology/Species,
+Dinosaur,species,Dinosaur,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Snake,occupation,Snake,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Reptile
+Flower,species,Flower,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Building
+Fruit,occupation,Fruit,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building
+Anatomy,award,Anatomy,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Blood,latinName,haema,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,greekName,kardía (καρδία),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,latinName,cor,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Endocrine system,latinName,Systema endocrinum,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Large intestine,latinName,Colon or intestinum crassum,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Small intestine,latinName,Intestinum tenue,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Liver,greekName,(root hepat- (ἡπατ-),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Liver,greekName,Hepar (ἧπαρ),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Liver,latinName,"Jecur, iecur",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Nervous system,latinName,systema nervosum,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ear,latinName,Auris,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ear,instrument,Ear,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/AnatomicalStructure
+Nose,latinName,Nasus,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eye,latinName,Oculus,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure
+Taste,innervates,Taste,incoming,http://dbpedia.org/ontology/AnatomicalStructure,http://dbpedia.org/ontology/Fashion
+Reproductive system,latinName,systema reproductionis,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Respiratory system,latinName,systema respiratorium,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Skeleton,greekName,σκελετός,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Skeleton,species,Skeleton,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,latinName,Cutis,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Skin,occupation,Skin,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/AnatomicalStructure
+Medicine,almaMater,Medicine,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,award,Medicine,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,occupation,Medicine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,specialist,Medicine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Dentistry,medicalSpecialty,Dentistry,incoming,http://dbpedia.org/ontology/MedicalSpecialty,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Dentistry,training,Dentistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Health,founder,Health,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Health,superintendent,Health,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Addiction,icd10,F10-F19,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Addiction,icd10,subdivision .2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ethanol,alternativeName,EtOH,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,absolute alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,cologne spirit,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,drinking alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,ethyl alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,ethyl hydrate,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,ethyl hydroxide,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,ethylic alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,ethylol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,grain alcohol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,hydroxyethane,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,alternativeName,methylcarbinol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ethanol,iupacName,Ethanol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound
+Ethanol,engine,Ethanol,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound
+Tobacco,location,Tobacco,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Cancer,diseasesDB,28843,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cancer,icd10,C00-C97,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cancer,icd9,140,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Cancer,icd9,239,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cancer,icd9,—,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cancer,medlinePlus,001289,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cancer,meshId,D009369,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cancer,occupation,Cancer,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Chronic obstructive pulmonary disease,alias,"Chronic obstructive lung disease (COLD), chronic obstructive airway disease (COAD)",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chronic obstructive pulmonary disease,diseasesDB,2672,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,eMedicineSubject,med,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chronic obstructive pulmonary disease,eMedicineTopic,373,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chronic obstructive pulmonary disease,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd10,J40.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd10,J44.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd10,J47.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd10,–,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd9,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,icd9,490,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chronic obstructive pulmonary disease,icd9,492,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chronic obstructive pulmonary disease,icd9,494,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chronic obstructive pulmonary disease,icd9,496,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chronic obstructive pulmonary disease,icd9,–,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,medlinePlus,000091,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,omim,606963,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Common cold,diseasesDB,31088,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Common cold,icd10,J00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Common cold,icd9,460,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Common cold,medlinePlus,000678,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Common cold,meshId,D003139,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Blindness,specialist,Blindness,incoming,http://dbpedia.org/ontology/PersonFunction,
+Mental disorder,complications,"Cognitive impairment, social problems, suicide",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mental disorder,diseasesDB,28852,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mental disorder,icd10,F99.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mental disorder,icd9,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Mental disorder,icd9,290,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mental disorder,icd9,319,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mental disorder,meshId,D001523,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Epilepsy,diseasesDB,4366,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Epilepsy,eMedicineSubject,neuro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Epilepsy,eMedicineTopic,415,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Epilepsy,icd10,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Epilepsy,icd10,G40.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Epilepsy,icd10,G41.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Epilepsy,icd9,345,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Epilepsy,medlinePlus,000694,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Epilepsy,meshId,D004827,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,complications,Dehydration,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Gastroenteritis,diseasesDB,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,diseasesDB,30726,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,eMedicineSubject,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gastroenteritis,eMedicineSubject,emerg,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gastroenteritis,eMedicineTopic,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gastroenteritis,eMedicineTopic,213,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gastroenteritis,icd10,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,A02.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,A08.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,A09.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,J10.8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,J11.8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd10,K52.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,008.8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,009.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,009.1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,icd9,558,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gastroenteritis,medlinePlus,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,medlinePlus,000252,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gastroenteritis,meshId,D005759,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,diseasesDB,19825,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,eMedicineSubject,neuro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Headache,eMedicineTopic,517,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Headache,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,icd10,G43,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,icd10,G44,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person
+Headache,icd10,R51,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,icd9,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,icd9,339,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Headache,icd9,784.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,medlinePlus,003024,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,meshId,D006261,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,synonym,Cephalalgia,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart attack,deathPlace,Heart attack,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Disease
+Heart attack,parent,Heart attack,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Influenza,diseasesDB,6791,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,eMedicineSubject,med,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Influenza,eMedicineTopic,1170,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Influenza,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,icd10,J10.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,icd10,J11.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,icd9,487,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Influenza,medlinePlus,000080,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,meshId,D007251,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Influenza,omim,614680,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Malaria,complications,"seizures,coma,organ failure,anemia,cerebral malaria",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,diseasesDB,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,diseasesDB,7728,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,eMedicineSubject,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Malaria,eMedicineSubject,med,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Malaria,eMedicineTopic,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Malaria,eMedicineTopic,1385,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Malaria,icd10,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,icd10,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Malaria,icd10,B50.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,icd10,B54.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,icd9,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,icd9,084,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,medlinePlus,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,medlinePlus,000621,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,omim,248310,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Malaria,orpha,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,orpha,673,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Malnutrition,eMedicineSubject,ped,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Malnutrition,eMedicineTopic,1360,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Malnutrition,icd10,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Malnutrition,icd10,E40,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malnutrition,icd10,E46,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malnutrition,icd9,263.9,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malnutrition,medlinePlus,000404,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malnutrition,meshId,D044342,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,complications,"Cardiovascular diseases,type 2 diabetes,obstructive sleep apnea, certain types ofcancer,osteoarthritis,depression",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,diseasesDB,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,diseasesDB,9099,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,eMedicineSubject,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Obesity,eMedicineSubject,med,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Obesity,eMedicineTopic,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Obesity,eMedicineTopic,1653,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Obesity,icd10,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,icd10,E66.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,icd9,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,icd9,278,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Obesity,medlinePlus,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,medlinePlus,007297,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,omim,601665,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Pneumonia,diseasesDB,10166,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,eMedicineSubject,search,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pneumonia,eMedicineTopic,pneumonia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pneumonia,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J12.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J13.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J14.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J15.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J16.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J17.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,J18.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd10,P23.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd9,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,icd9,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Pneumonia,icd9,480,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pneumonia,icd9,486,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pneumonia,icd9,770.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,medlinePlus,000145,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,meshId,D011014,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,complications,Muscle weaknessresulting inparalysis;Post-polio syndrome,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,diseasesDB,10209,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,eMedicineSubject,ped,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Polio,eMedicineTopic,1843,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Polio,icd10,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd10,A80.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd10,B91.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd10,P35.8.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd9,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd9,045,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,icd9,138,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Polio,medlinePlus,001402,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sexually_transmitted_infection,diseasesDB,27130,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sexually_transmitted_infection,icd10,A64.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sexually_transmitted_infection,icd9,099.9,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sexually_transmitted_infection,meshId,D012749,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sexually_transmitted_infection,occupation,Sexually_transmitted_infection,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+AIDS,occupation,AIDS,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+Smallpox,complications,"Scarring of the skin, blindness",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,diseasesDB,12219,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,eMedicineSubject,emerg,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Smallpox,eMedicineTopic,885,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Smallpox,icd10,B03.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,icd9,050,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,medlinePlus,001356,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,occupation,Smallpox,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+Stroke,complications,Persistent vegetative state,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,diseasesDB,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,diseasesDB,2247,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,eMedicineSubject,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Stroke,eMedicineSubject,neuro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Stroke,eMedicineTopic,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Stroke,eMedicineTopic,9,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Stroke,icd10,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,icd10,-,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Stroke,icd10,I61.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,icd10,I64.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,icd9,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,icd9,434.91,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,medlinePlus,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,medlinePlus,000726,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,meshId,D020521,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Stroke,omim,601367,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Tuberculosis,diseasesDB,8515,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,eMedicineSubject,med,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tuberculosis,eMedicineTopic,2324,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tuberculosis,icd10,A15-A19,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,icd9,010,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,icd9,018,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,icd9,–,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,medlinePlus,000077,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,meshId,D014376,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,omim,607948,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Tuberculosis,orpha,3389,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tuberculosis,child,Tuberculosis,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Chemistry,award,Chemistry,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,genre,Chemistry,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,occupation,Chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Inorganic chemistry,almaMater,Inorganic chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,
+Inorganic chemistry,award,Inorganic chemistry,incoming,http://dbpedia.org/ontology/Award,
+Inorganic chemistry,genre,Inorganic chemistry,incoming,http://dbpedia.org/ontology/Genre,
+Biochemistry,almaMater,Biochemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Salt,occupation,Salt,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Mineral
+Aluminium,automobilePlatform,Aluminium,incoming,http://dbpedia.org/ontology/Automobile,http://dbpedia.org/ontology/MilitaryUnit
+Aluminium,engine,Aluminium,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/MilitaryUnit
+Gold,colour,Gold,incoming,http://dbpedia.org/ontology/Colour,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Gold,genre,Gold,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Gold,occupation,Gold,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Hydrogen,engine,Hydrogen,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Iron,genre,Iron,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/MilitaryUnit
+Iron,occupation,Iron,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MilitaryUnit
+Silver,colour,Silver,incoming,http://dbpedia.org/ontology/Colour,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Silver,occupation,Silver,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Organic chemistry,occupation,Organic chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/University
+Alcohol,subsequentWork,Alcohol,incoming,http://dbpedia.org/ontology/Work,
+Analytical chemistry,occupation,Analytical chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book
+Physical chemistry,almaMater,Physical chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Physical chemistry,training,Physical chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Climate,occupation,Climate,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/FootballLeagueSeason; http://dbpedia.org/ontology/MusicGenre
+Geology,almaMater,Geology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Geology,genre,Geology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Mineral,childOrganisation,Mineral,incoming,http://dbpedia.org/ontology/Organisation,
+Diamond,associatedBand,Diamond,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Diamond,associatedMusicalArtist,Diamond,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Rock,genre,Rock,incoming,http://dbpedia.org/ontology/Genre,
+Weather,award,Weather,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Weather,occupation,Weather,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Tornado,team,Tornado,incoming,http://dbpedia.org/ontology/SportsTeam,
+Physics,award,Physics,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,genre,Physics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,nobelLaureates,Physics,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,occupation,Physics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Energy,occupation,Energy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,parentCompany,Energy,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,regionServed,Energy,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,subsidiary,Energy,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Ultraviolet,associatedMusicalArtist,Ultraviolet,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Band
+Magnet,recordLabel,Magnet,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/ChemicalCompound
+Steel,automobilePlatform,Steel,incoming,http://dbpedia.org/ontology/Automobile,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,genre,Steel,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,occupation,Steel,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Sound,genre,Sound,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Vacuum,associatedBand,Vacuum,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person
+Vacuum,associatedMusicalArtist,Vacuum,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person
+Mathematics,award,Mathematics,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,genre,Mathematics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,occupation,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,region,Mathematics,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,specialist,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Number,headquarter,Number,incoming,http://dbpedia.org/ontology/PopulatedPlace,
+Angle,location,Angle,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person
+Statistics,almaMater,Statistics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Statistics,occupation,Statistics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre

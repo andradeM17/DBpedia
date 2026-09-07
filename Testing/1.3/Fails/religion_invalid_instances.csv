@@ -1,0 +1,58 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Fundamentalism,ideology,Fundamentalism,incoming,http://dbpedia.org/ontology/Ideology,
+God,starring,God,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Mythology,developer,Mythology,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Mythology,writer,Mythology,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Religion,occupation,Religion,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Religion,previousWork,Religion,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Buddhism,affiliation,Buddhism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,genre,Buddhism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,ideology,Buddhism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,occupation,Buddhism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Christianity,affiliation,Christianity,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,award,Christianity,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,country,Christianity,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,occupation,Christianity,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,tenant,Christianity,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,veneratedIn,Christianity,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Catholic Church,affiliation,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,beatifiedBy,Catholic Church,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,genre,Catholic Church,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,occupation,Catholic Church,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,owner,Catholic Church,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,parentOrganisation,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,publisher,Catholic Church,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,veneratedIn,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Protestantism,affiliation,Protestantism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Protestantism,ideology,Protestantism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Country
+Protestantism,occupation,Protestantism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Country
+Protestantism,veneratedIn,Protestantism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Hinduism,affiliation,Hinduism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,genre,Hinduism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,occupation,Hinduism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,veneratedIn,Hinduism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Islam,affiliation,Islam,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Islam,genre,Islam,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup
+Islam,governmentType,Islam,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/EthnicGroup
+Islam,ideology,Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/EthnicGroup
+Islam,isPartOfMilitaryConflict,Islam,incoming,http://dbpedia.org/ontology/MilitaryConflict,http://dbpedia.org/ontology/EthnicGroup
+Islam,occupation,Islam,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup
+Islam,populationPlace,Islam,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/EthnicGroup
+Islam,region,Islam,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/EthnicGroup
+Islam,relation,Islam,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/EthnicGroup
+Islam,spokenIn,Islam,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/EthnicGroup
+Islam,veneratedIn,Islam,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Shia Islam,commander,Shia Islam,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,ideology,Shia Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,occupation,Shia Islam,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,opponent,Shia Islam,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Sunni Islam,ideology,Sunni Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation
+Jainism,occupation,Jainism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Judaism,affiliation,Judaism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Judaism,genre,Judaism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Country
+Judaism,veneratedIn,Judaism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Sikhism,country,Sikhism,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/EthnicGroup
+Sikhism,veneratedIn,Sikhism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Taoism,affiliation,Taoism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Food
+Taoism,occupation,Taoism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Food
+Zoroastrianism,veneratedIn,Zoroastrianism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Agent

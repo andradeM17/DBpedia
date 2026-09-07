@@ -1,0 +1,293 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Education,almaMater,Education,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Education,occupation,Education,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Education,parentOrganisation,Education,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Education,person,Education,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Education,regionServed,Education,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Emotion,company,Emotion,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/MusicGenre
+Love,associatedBand,Love,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Grape; http://dbpedia.org/ontology/Album
+Love,associatedMusicalArtist,Love,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Grape; http://dbpedia.org/ontology/Album
+Love,genre,Love,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Grape; http://dbpedia.org/ontology/Album
+Psychology,almaMater,Psychology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Psychology,award,Psychology,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Psychology,college,Psychology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Psychology,medicalSpecialty,Psychology,incoming,http://dbpedia.org/ontology/MedicalSpecialty,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Psychology,occupation,Psychology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Psychology,region,Psychology,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Family,training,Family,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/MusicGenre
+Child,keyPerson,Child,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Man,starring,Man,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Politics,almaMater,Politics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Politics,founder,Politics,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Politics,ideology,Politics,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Politics,occupation,Politics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Colonialism,governmentType,Colonialism,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Colonialism,ideology,Colonialism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Colonialism,occupation,Colonialism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Government,affiliation,Government,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/PersonFunction
+Government,genre,Government,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Government,owner,Government,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/PersonFunction
+Government,politicalPartyInLegislature,Government,incoming,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/PersonFunction
+Government,regionServed,Government,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/PersonFunction
+Democracy,governmentType,Democracy,incoming,http://dbpedia.org/ontology/GovernmentType,
+Democracy,ideology,Democracy,incoming,http://dbpedia.org/ontology/Ideology,
+Democracy,party,Democracy,incoming,http://dbpedia.org/ontology/PoliticalParty,
+Dictatorship,governmentType,Dictatorship,incoming,http://dbpedia.org/ontology/GovernmentType,
+Dictatorship,ideology,Dictatorship,incoming,http://dbpedia.org/ontology/Ideology,
+Monarchy,governmentType,Monarchy,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PoliticalParty
+Monarchy,ideology,Monarchy,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PoliticalParty
+Republic,governmentType,Republic,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Anarchism,governmentType,Anarchism,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Anarchism,ideology,Anarchism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Anarchism,occupation,Anarchism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Capitalism,ideology,Capitalism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Capitalism,occupation,Capitalism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Communism,ideology,Communism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Communism,occupation,Communism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Communism,opponent,Communism,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Communism,party,Communism,incoming,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Communism,person,Communism,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Communism,spouse,Communism,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Conservatism,genre,Conservatism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PoliticalParty
+Conservatism,ideology,Conservatism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PoliticalParty
+Fascism,governmentType,Fascism,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PersonFunction
+Fascism,ideology,Fascism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PersonFunction
+Liberalism,genre,Liberalism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Liberalism,governmentType,Liberalism,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Liberalism,ideology,Liberalism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Marxism,genre,Marxism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/Country
+Marxism,ideology,Marxism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/Country
+Marxism,occupation,Marxism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/Country
+Nationalism,genre,Nationalism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Country
+Nationalism,ideology,Nationalism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Country
+Nationalism,occupation,Nationalism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Country
+Socialism,ideology,Socialism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Socialism,occupation,Socialism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Socialism,party,Socialism,incoming,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/MusicGenre
+Imperialism,ideology,Imperialism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation
+Propaganda,occupation,Propaganda,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Economics,award,Economics,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Economics,genre,Economics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Economics,occupation,Economics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Currency,currency,Currency,incoming,http://dbpedia.org/ontology/Currency,http://dbpedia.org/ontology/PersonFunction
+United States dollar,birthPlace,United States dollar,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Currency
+United States dollar,deathPlace,United States dollar,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Currency
+United States dollar,location,United States dollar,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Currency
+United States dollar,locationCountry,United States dollar,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Currency
+United States dollar,usingCountry,United States dollar,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Currency
+Industrial sector,genre,Industrial sector,incoming,http://dbpedia.org/ontology/Genre,
+Tax,ideology,Tax,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Trade,occupation,Trade,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Law,almaMater,Law,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Law,occupation,Law,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+African Union,area,2.9922059E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+African Union,area,29922059000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+African Union,demonym,African,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+African Union,humanDevelopmentIndex,0.5770000219345093,outgoing,http://www.w3.org/2001/XMLSchema#float,
+African Union,membership,55 member states,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+African Union,motto,"""A United and Strong Africa""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+African Union,populationTotal,1321000000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+African Union,award,African Union,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+African Union,battle,African Union,incoming,http://dbpedia.org/ontology/MilitaryConflict,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+African Union,occupation,African Union,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+African Union,presenter,African Union,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Arab League,area,1.313232751440986E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,area,1.3132327E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,populationDensity,27.17,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,populationDensity,27.170008896631916,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,area,13132327000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,area,13132327514409.86,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,demonym,Arabs,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/EthnicGroup
+Arab League,legislature,Arab_Parliament,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Arab League,populationDensity,27.17,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,populationDensity,27.17000889663192,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Arab League,populationTotal,406700000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Arab League,populationTotalRanking,3,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Arab League,utcOffset,+0 to +4,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Arab League,award,Arab League,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Arab League,occupation,Arab League,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+ASEAN,affiliation,ASEAN,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+ASEAN,award,ASEAN,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Country
+ASEAN,parentOrganisation,ASEAN,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Commonwealth of Nations,area,2.995805577380217E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,area,2.995805E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,populationDensity,74.9038187572345,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,populationDensity,75.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,area,29958050000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,area,29958055773802.17,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,membership,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Antigua and Barbuda,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Australia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Bahamas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Bangladesh,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Barbados,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Belize,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Botswana,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Brunei,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Cameroon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Canada,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Cyprus,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Dominica,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Eswatini,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Fiji,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Gabon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Gambia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Ghana,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Grenada,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Guyana,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Jamaica,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Kenya,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Kiribati,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Lesotho,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Malawi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Malaysia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Maldives,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Malta,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Mauritius,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Mozambique,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Namibia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Nauru,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,New Zealand,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Nigeria,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Pakistan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Papua New Guinea,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Rwanda,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Saint Kitts and Nevis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Saint Lucia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Saint Vincent and the Grenadines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Samoa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Seychelles,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Island; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Sierra Leone,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Singapore,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Solomon Islands,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,South Africa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Sri Lanka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Tanzania,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Togo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Tonga,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Trinidad and Tobago,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Tuvalu,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Uganda,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,United Kingdom,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Commonwealth of Nations,membership,Vanuatu,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,membership,Zambia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,populationDensity,74.9038187572345,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,populationDensity,75.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Commonwealth of Nations,populationTotal,2418964000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Commonwealth of Nations,award,Commonwealth of Nations,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,ideology,Commonwealth of Nations,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Commonwealth of Nations,presenter,Commonwealth of Nations,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,area,4233262.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,populationDensity,103.32093762595852,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,populationDensity,106.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,administrativeCenter,European_Central_Bank,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Bank; http://dbpedia.org/ontology/University
+European Union,administrativeCenter,European_Commission,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+European Union,administrativeCenter,European_Council,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+European Union,administrativeCenter,Secretariat_of_the_European_Parliament,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+European Union,area,4233262000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,demonym,European,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+European Union,giniCoefficient,30.0,outgoing,http://www.w3.org/2001/XMLSchema#float,
+European Union,governmentType,Mixed_government,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Drug
+European Union,language,Cyrillic_alphabet,outgoing,http://dbpedia.org/ontology/Language,
+European Union,largestCity,Paris_metropolitan_area,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+European Union,membership,27 members,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+European Union,motto,"""United in Diversity""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+European Union,percentageOfAreaWater,3.079999923706055,outgoing,http://www.w3.org/2001/XMLSchema#float,
+European Union,populationDensity,103.3209376259585,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,populationDensity,106.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Union,populationTotal,446828803,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+European Union,utcOffset,to UTC+2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+European Union,award,European Union,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,hometown,European Union,incoming,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,occupation,European Union,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,person,European Union,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,presenter,European Union,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+European Union,wineRegion,European Union,incoming,http://dbpedia.org/ontology/WineRegion,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+International Red Cross and Red Crescent Movement,abbreviation,ICRC and IFRC,outgoing,http://www.w3.org/2001/XMLSchema#string,
+International Red Cross and Red Crescent Movement,membership,(United Nations General Assembly) CICR and FICR,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+International Red Cross and Red Crescent Movement,motto,(Latin),outgoing,http://www.w3.org/2001/XMLSchema#string,
+International Red Cross and Red Crescent Movement,motto,Inter arma caritas,outgoing,http://www.w3.org/2001/XMLSchema#string,
+International Red Cross and Red Crescent Movement,motto,Per humanitatem ad pacem,outgoing,http://www.w3.org/2001/XMLSchema#string,
+International Red Cross and Red Crescent Movement,numberOfVolunteers,16400000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+International Red Cross and Red Crescent Movement,occupation,International Red Cross and Red Crescent Movement,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+NATO,abbreviation,'',outgoing,http://www.w3.org/2001/XMLSchema#string,
+NATO,abbreviation,"NATO, ''",outgoing,http://www.w3.org/2001/XMLSchema#string,
+NATO,foundingDate,1949-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+NATO,membership,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+NATO,originalName,'',outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+NATO,award,NATO,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,battle,NATO,incoming,http://dbpedia.org/ontology/MilitaryConflict,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,commandStructure,NATO,incoming,http://dbpedia.org/ontology/MilitaryUnit,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,commander,NATO,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,ideology,NATO,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,militaryBranch,NATO,incoming,http://dbpedia.org/ontology/MilitaryUnit,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,occupation,NATO,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,presenter,NATO,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+NATO,significantBuilding,NATO,incoming,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+Nobel Prize,presenter,Nobel_Assembly_at_the_Karolinska_Institute,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Nobel Prize,presenter,Nobel_Prize_in_Chemistry,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Award
+Nobel Prize,presenter,Royal_Swedish_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation
+Nobel Prize,presenter,Swedish_Academy,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation
+OPEC,currency,USD,outgoing,http://dbpedia.org/ontology/Currency,
+OPEC,membership,11 members]],outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+OPEC,membership,13 members]],outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+OPEC,membership,OPEC+: [[#OPEC+,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+OPEC,membership,OPEC: [[#Current member countries,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+United Nations,administrativeCenter,Headquarters_of_the_United_Nations,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+United Nations,membership,193 member states,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+United Nations,membership,2 observer states,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+United Nations,author,United Nations,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+United Nations,award,United Nations,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+United Nations,commander,United Nations,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+United Nations,occupation,United Nations,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+United Nations,presenter,United Nations,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+International Monetary Fund,abbreviation,IMF,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/University
+International Monetary Fund,budget,1.2E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+International Monetary Fund,foundingDate,1945-12-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+International Monetary Fund,membership,190,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+International Monetary Fund,membership,countries (189 UN countries and Kosovo),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+International Monetary Fund,numberOfStaff,2400,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+International Monetary Fund,purpose,"Promote international monetary co-operation, facilitateinternational trade, foster sustainable economic growth, make resources available to members experiencingbalance of paymentsdifficulties, prevent and assist with recovery from international financial crises",outgoing,http://www.w3.org/2001/XMLSchema#string,
+International Monetary Fund,keyPerson,International Monetary Fund,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+International Monetary Fund,occupation,International Monetary Fund,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+UNESCO,abbreviation,UNESCO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,foundingDate,1945-11-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+UNESCO,headquarter,World_Heritage_Centre,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Building
+UNESCO,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+UNESCO,author,UNESCO,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,award,UNESCO,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,museum,UNESCO,incoming,http://dbpedia.org/ontology/Museum,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,occupation,UNESCO,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,presenter,UNESCO,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,recordLabel,UNESCO,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+UNESCO,spouse,UNESCO,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+World Health Organization,abbreviation,WHO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World Health Organization,budget,7.96E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+World Health Organization,foundingDate,1948-04-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World Health Organization,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World Health Organization,award,World Health Organization,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+World Health Organization,occupation,World Health Organization,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+World Health Organization,significantBuilding,World Health Organization,incoming,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+World Bank,occupation,World Bank,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+World Trade Organization,foundingDate,1995-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World Trade Organization,headquarter,Centre_William_Rappard,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+World Trade Organization,membership,"164 members (160 UN member states, the European Union, Hong Kong, Macao, and Taiwan)",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+World Trade Organization,numberOfStaff,640,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+World Trade Organization,originalName,Organisation mondiale du commerce,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+World Trade Organization,originalName,Organización Mundial del Comercio,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+World Trade Organization,purpose,Reduction of tariffs and other barriers to trade,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Military,governmentType,Military,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Military,notableWork,Military,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Military,occupation,Military,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Military,party,Military,incoming,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Military,regionServed,Military,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Terrorism,occupation,Terrorism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Civil war,battle,Civil war,incoming,http://dbpedia.org/ontology/MilitaryConflict,http://dbpedia.org/ontology/MilitaryPerson
+Racism,ideology,Racism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Feminism,ideology,Feminism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Feminism,occupation,Feminism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Globalization,genre,Globalization,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Election
+Human rights,genre,Human rights,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Human rights,ideology,Human rights,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PersonFunction
+Poverty,occupation,Poverty,incoming,http://dbpedia.org/ontology/PersonFunction,

@@ -1,0 +1,36 @@
+Agriculture
+Irrigation
+Plough
+Domestication
+
+Food
+Bread
+Cereal
+Barley
+Maize
+Rice
+Sorghum bicolor
+Wheat
+Cheese
+Chocolate
+Honey
+Apple
+Banana
+Citrus
+Grape
+Nut (fruit)
+Soybean
+Meat
+Sugar
+Spice
+Table salt
+Vegetable
+Potato
+
+Beer
+Coffee
+Juice
+Milk
+Tea
+Water
+Wine

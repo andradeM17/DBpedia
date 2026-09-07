@@ -1,0 +1,21 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Measurement,date,2018-10-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+International System of Units,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+International System of Units,width,153,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kilogram,name,Kilogram,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation
+Kilogram,note,Common prefixed units are in bold face.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Kilogram,symbol,g,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Kilogram,symbol,kg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Kilogram,width,40.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Litre,date,2016-06-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Litre,name,litre,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Litre,symbol,L,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company
+Litre,symbol,l or,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Metre,name,metre,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Metre,symbol,m,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Calendar,month,current,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Clock,width,112,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Clock,width,120,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Clock,classification,Clock,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent
+Second,name,second,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Second,symbol,s,outgoing,http://www.w3.org/2001/XMLSchema#string,

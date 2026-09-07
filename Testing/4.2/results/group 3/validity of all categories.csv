@@ -1,0 +1,11 @@
+Category,Valid,Valid because there was no expected domain or range,Valid range but no expected domain,Valid domain but no expected range,Completely valid,Possibly Valid,Invalid
+arts and recreation,269,163,0,0,106,16,84
+biography,764,365,1,0,398,41,77
+food and agriculture,15,11,0,0,4,0,1
+geography,566,391,0,0,175,7,19
+history,19,15,0,0,4,0,3
+language and literature,18,14,0,0,4,0,0
+religion,6,5,0,0,1,0,0
+science,40,23,0,0,17,0,0
+social sciences,96,83,0,0,13,1,5
+technology,91,55,0,0,36,1,1

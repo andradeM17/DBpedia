@@ -1,0 +1,15 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Spritz (cocktail),name,Spritz,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chunchullo,name,Chunchulines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chunchullo,region,North America and South America,outgoing,http://dbpedia.org/ontology/Place,
+Koval Distillery,foundation,2008,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Koval Distillery,founder,Robert and Sonat Birnecker,outgoing,http://dbpedia.org/ontology/Person,
+Koval Distillery,name,"KOVAL, Inc.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Koval Distillery,owner,Robert and Sonat Birnecker,outgoing,http://dbpedia.org/ontology/Agent,
+Kiping,course,Dessert,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/GolfCourse; http://dbpedia.org/ontology/Food
+Kiping,imageSize,240,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kiping,name,Kiping,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food
+Oronoco Rum,manufacturer,Vicente and Roberto Bastos Ribiero,outgoing,http://dbpedia.org/ontology/Organisation,
+Oronoco Rum,name,Oronoco,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sev mamra,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sev mamra,name,Sev mamra,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,

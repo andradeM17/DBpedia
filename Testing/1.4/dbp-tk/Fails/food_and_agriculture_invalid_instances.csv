@@ -1,0 +1,189 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Agriculture,date,1990-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Agriculture,isbn,978,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Agriculture,publisher,United Nations Environment Programme,outgoing,http://dbpedia.org/ontology/Agent,
+Agriculture,title,Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Agriculture,genre,Agriculture,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Agriculture,office,Agriculture,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Agriculture,purpose,Agriculture,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Irrigation,date,2010-07-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Irrigation,reference,"Bosshard, Peter. “China Dams the World.” World Policy Journal 26, no. 4 : 43–51.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Ekbladh, David. “‘Mr. TVA’: Grass-Roots Development, David Lilienthal, and the Rise and Fall of the Tennessee Valley Authority as a Symbol for U.S. Overseas Development, 1933-1973.” Diplomatic History 29, no. 3 : 335–74.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Johnson, Matthew P. “Swampy Sugar Lands: Irrigation Dams and the Rise and Fall of Malaria in Puerto Rico, 1898–1962.” Journal of Latin American Studies 51, no. 2 : 243–71. https://doi.org/10.1017/S0022216X18000743.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"McCully, Patrick. Silenced Rivers: The Ecology and Politics of Large Dams. Enlarged&Updated ed. London ; New York: Zed Books, 2001.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"McNeill, John Robert. Something New under the Sun: An Environmental History of the Twentieth-Century World. 1st ed. New York: W.W. Norton & Company, 2000.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Parker, James. “A ‘Juggernaut of Progress’? Irrigation and Statecraft in Late-Colonial Kenya.” International Journal of African Historical Studies 53, no. 3 : 335–59.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Peterson, Maya. “US to USSR: American Experts, Irrigation, and Cotton in Soviet Central Asia, 1929–32.” Environmental History 21, no. 3 : 442–66. https://doi.org/10.1093/envhis/emw006.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Pisani, Donald J. Water and American Government: The Reclamation Bureau, National Water Policy, and the West, 1902-1935. Berkeley: University of California Press, 2002.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Ross, Corey. Ecology and Power in the Age of Empire: Europe and the Transformation of the Tropical World. First edition. Oxford: Oxford University Press, 2017.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Visser, Wessel. “Water as Agent for Social Change, 1900–1939 : Two Case Studies of Developmental State Approaches in Establishing Irrigation Schemes.” Historia 63, no. 2 : 40–61. https://doi.org/10.17159/2309-8392/2018/v63n2a3.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,"Worster, Donald. Rivers of Empire: Water, Aridity, and the Growth of the American West. New York ; Oxford, England: Oxford University Press, 1992.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,reference,--05-06,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Irrigation,purpose,Irrigation,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/River
+Plough,date,2010-03-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Plough,weapon,Plough,incoming,http://dbpedia.org/ontology/Weapon,http://dbpedia.org/ontology/Software
+Domestication,date,2010-12-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Food,date,2006-10-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Food,date,2006-10-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Food,date,2007-07-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Food,date,2010-11-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Food,date,2015-04-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bread,name,Bread,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food
+Bread,course,Bread,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Food
+Bread,symbol,Bread,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Food
+Cereal,title,Cereal,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant
+Barley,fat,0.4,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Barley,name,Barley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant
+Barley,name,Cooked barley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Barley,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/170285/nutrients=,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Barley,protein,2.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Barley,species,vulgare,outgoing,http://dbpedia.org/ontology/Species,
+Barley,water,68.8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,date,2017-06-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Maize,fat,1.35,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Maize,name,Maize,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant
+Maize,name,Note: assuming freed niacin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Maize,name,"Sweetcorn, yellow, raw",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Maize,note,One ear of medium size,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,note,maize has 90 grams of seeds,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/169998/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,protein,3.27,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Maize,species,mays,outgoing,http://dbpedia.org/ontology/Species,
+Maize,status,LC,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,water,75.96,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Maize,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Maize,width,175,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maize,occupation,Maize,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Plant
+Rice,date,October 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sorghum bicolor,fat,3.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sorghum bicolor,name,Sorghum,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Insect; http://dbpedia.org/ontology/Plant
+Sorghum bicolor,protein,11.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sorghum bicolor,species,bicolor,outgoing,http://dbpedia.org/ontology/Species,
+Wheat,fat,1.54,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wheat,name,"Wheat, hard red winter",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Wheat,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/168890/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wheat,protein,12.61,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wheat,taxon,Triticum,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Insect
+Wheat,water,13.1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wheat,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Wheat,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Wheat,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wheat,symbol,Wheat,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Plant
+Cheese,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cheese,name,The Complete Book of Cheese,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cheese,plant,cheese,outgoing,http://dbpedia.org/ontology/Plant,
+Cheese,world,23.3,outgoing,http://www.w3.org/2004/02/skos/core#Concept,
+Cheese,year,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cheese,occupation,Cheese,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Food
+Chocolate,fat,29.7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chocolate,imageSize,200,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chocolate,name,"Candies, milk chocolate",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chocolate,name,Chocolate,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food
+Chocolate,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/167587/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chocolate,protein,7.6,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chocolate,water,1.5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Honey,fat,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Honey,name,Honey,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food
+Honey,note,https://web.archive.org/web/20160312070344/https:/ndb.nal.usda.gov/ndb/foods/show/6287%3Ffg=&man=&lfacet=&count=&max=35&sort=&qlookup=honey&offset=&format=Full&new=&measureby=,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Honey,protein,0.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Honey,water,17.1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Honey,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Apple,description,3695.0,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Apple,fat,0.17,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Apple,filename,Wild Apples by Henry David Thoreau - read by Kevin S for LibriVox's Short Nonfiction Collection Vol. 065 .ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Apple,name,Apple,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant
+Apple,name,"Apples, with skin",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Apple,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/1102644/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Apple,protein,0.26,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Apple,species,domestica,outgoing,http://dbpedia.org/ontology/Species,
+Apple,title,"""Wild Apples""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Apple,title,(Read by Kevin S for LibriVox),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Apple,title,by Henry David Thoreau,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Apple,water,85.56,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Apple,champion,Apple,incoming,http://dbpedia.org/ontology/Athlete,http://dbpedia.org/ontology/Plant
+Banana,date,September 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Banana,fat,0.33,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Banana,name,Banana,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Plant
+Banana,name,"Bananas, raw",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Banana,note,"Link to USDA Database entry
+ values are for edible portion",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Banana,protein,1.09,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Banana,water,74.91,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Banana,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Citrus,date,2017-02-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Citrus,taxon,Citrus,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Insect
+Grape,fat,0.16,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Grape,name,"Grapes, red or green",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Grape,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/174683/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Grape,protein,0.72,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Grape,water,81.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soybean,fat,19.94,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Soybean,name,Soybean,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Insect; http://dbpedia.org/ontology/Plant
+Soybean,name,"Soybean, mature seeds, raw",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Soybean,note,https://fdc.nal.usda.gov/fdc-app.html%23/food-details/174270/nutrients,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soybean,protein,36.49,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Soybean,species,max,outgoing,http://dbpedia.org/ontology/Species,
+Soybean,water,8.54,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Meat,date,January 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Meat,date,2018-10-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Meat,date,2018-11-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Meat,title,Number of Land Animals Killed for Meat in 2013,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Meat,value,4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Meat,value,36,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Meat,value,60,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Meat,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Meat,course,Meat,incoming,http://www.w3.org/2001/XMLSchema#double,
+Meat,sport,Meat,incoming,http://dbpedia.org/ontology/Sport,
+Sugar,fat,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sugar,name,"Sugar , brown",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sugar,name,"Sugar , granulated",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sugar,note,Full link to USDA database entry,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sugar,protein,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sugar,water,0.03,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sugar,water,1.77,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sugar,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sugar,occupation,Sugar,incoming,http://dbpedia.org/ontology/PersonFunction,
+Spice,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Potato,date,2022-04-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Potato,species,Solanum tuberosum,outgoing,http://dbpedia.org/ontology/Species,
+Potato,species,tuberosum,outgoing,http://dbpedia.org/ontology/Species,
+Beer,date,June 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Beer,date,2017-04-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Beer,name,Beer,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre
+Beer,title,Beer,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre
+Coffee,date,September 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Coffee,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Coffee,introduced,15,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Year
+Coffee,name,Coffee,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food
+Coffee,region,Horn of Africa and South Arabia,outgoing,http://dbpedia.org/ontology/Place,
+Coffee,county,Coffee,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food
+Coffee,genre,Coffee,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food
+Milk,height,1067,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Milk,height,2448,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Milk,title,Other significant sources of milk,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Milk,width,1600,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Milk,width,3264,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Milk,name,Milk,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tea,height,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tea,introduced,"First recorded in China in 59 BC, though probably originated earlier",outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tea,name,Tea,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/PersonFunction
+Tea,originalName,茶,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tea,species,Camellia sinensis,outgoing,http://dbpedia.org/ontology/Species,
+Tea,note,Tea,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/PersonFunction
+Water,date,2009-02-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2009-02-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2013-01-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2014-12-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2016-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2017-01-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2018-03-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2018-11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Water,date,2020-06-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wine,fat,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wine,name,Red table wine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Wine,name,Wine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food
+Wine,note,Sugar and alcohol content can vary.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wine,note,10.6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wine,note,100,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Wine,protein,0.1,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Wine,genre,Wine,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Beverage; http://dbpedia.org/ontology/Food

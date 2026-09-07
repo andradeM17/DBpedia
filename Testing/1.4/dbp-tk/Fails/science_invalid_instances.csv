@@ -1,0 +1,1003 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Science,purpose,Science,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Science,specialist,Science,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Nature,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nature,foundation,Nature,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Astronomy,date,2008-10-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Astronomy,occupation,Astronomy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Astronomy,purpose,Astronomy,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Asteroid,title,Articles related to Asteroids,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Asteroid,width,256,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Big Bang,date,2020-06-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Big Bang,quote,"""[The] big bang picture is too firmly grounded in data from every area to be proved invalid in its general features.""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Big Bang,width,27.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Big Bang,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Big Bang,title,Big Bang,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Band
+Black hole,date,2017-03-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Black hole,date,2019-05-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Black hole,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Black hole,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Black hole,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Black hole,title,Black hole,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Comet,quote,From his huge vapouring train perhaps to shake,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Comet,quote,"Reviving moisture on the numerous orbs,",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Comet,quote,Thro' which his long ellipsis winds; perhaps,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Comet,quote,"To lend new fuel to declining suns,",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Comet,quote,"To light up worlds, and feed th' ethereal fire.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Comet,mascot,Comet,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation
+Galaxy,date,2015-08-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Galaxy,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Galaxy,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Galaxy,width,230,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Galaxy,width,310,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Galaxy,title,Galaxy,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/RecordLabel
+Milky Way,epoch,Epoch_(astronomy),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Milky Way,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Milky Way,name,Milky Way,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Milky Way,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Milky Way,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Milky Way,notes,Milky Way,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Galaxy
+Moon,albedo,0.136,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,apoapsis,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,apoapsis,km,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,background,#ddd,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Moon,date,2016-08-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Moon,declination,65.64,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Moon,density,( × Earth),outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Moon,inclination,,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Moon,inclination,5.145,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Moon,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,meanRadius,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,name,Moon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Moon,periapsis,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,periapsis,km,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,surfaceArea,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Moon,title,The Moon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,title,Lunar_deity,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Moon,volume,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Moon,width,135,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Moon,meaning,Moon,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Moon,museum,Moon,incoming,http://dbpedia.org/ontology/Museum,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Moon,symbol,Moon,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Planet,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Planet,species,Planet,incoming,http://dbpedia.org/ontology/Species,
+Venus,albedo,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,albedo,0.6889999999999999,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,albedo,0.76,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Venus,declination,67.16,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Venus,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Venus,inclination,,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Venus,inclination,to ecliptic,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Venus,inclination,2.15,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Venus,inclination,3.86,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Venus,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,mass,0.8149999999999999,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,meanRadius,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,name,Venus,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Venus,surfaceArea,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,surfaceArea,0.902,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Venus,volume,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,volume,0.857,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Venus,width,380,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Venus,width,400,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Venus,title,Venus,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Earth,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Earth,epoch,J2000.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Earth,name,Earth,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Earth,note,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Earth,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Earth,title,Other articles related to Earth,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Earth,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Earth,country,Earth,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Earth,origin,Earth,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Earth,title,Earth,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mars,description,Terminology of Martian geological features,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mars,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mars,location,right,outgoing,http://dbpedia.org/ontology/Place,
+Mars,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,name,Mars,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Mars,volume,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mars,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mars,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mars,landingSite,Mars,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,nationality,Mars,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,space,Mars,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,title,Mars,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Jupiter,albedo,0.503,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,albedo,0.538,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jupiter,date,2015-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jupiter,date,2020-06-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jupiter,declination,64.495,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Jupiter,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jupiter,height,2266,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,height,2915,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,inclination,,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Jupiter,inclination,0.32,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Jupiter,inclination,1.303,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Jupiter,inclination,6.09,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Jupiter,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,mass,1.8982,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,mass,1,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Jupiter,meanRadius,69911.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,name,Jupiter,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Jupiter,surfaceArea,6.1469,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Jupiter,volume,1.4313,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,width,2231,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,width,2646,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Jupiter,place,Jupiter,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Saturn,albedo,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,albedo,0.342,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,albedo,0.499,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Saturn,date,2020-08-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Saturn,declination,83.53700000000001,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Saturn,density,Earths,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,epoch,J2000.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Saturn,inclination,,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Saturn,inclination,to Sun's equator,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Saturn,inclination,to ecliptic,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Saturn,inclination,to invariable plane,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Saturn,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,name,Saturn,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Saturn,surfaceArea,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Saturn,symbol,♄,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Saturn,volume,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,albedo,0.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,albedo,0.488,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Uranus,date,2020-06-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Uranus,declination,−15.175°,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Uranus,discovered,j F Y|P575,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Uranus,discoverer,P61,outgoing,http://dbpedia.org/ontology/Person,
+Uranus,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Uranus,escapeVelocity,21.3,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,mass,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,mass,GM=,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,mass,14.536,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,name,Uranus,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Uranus,surfaceArea,15.91,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Uranus,symbol,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Uranus,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Uranus,volume,63.086,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,albedo,0.29,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,albedo,0.442,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,background,#f8f9fa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Neptune,date,2020-09-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Neptune,declination,42.95,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Neptune,discovered,1846-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Neptune,discoverer,,outgoing,http://dbpedia.org/ontology/Person,
+Neptune,discoverer,Johann Galle,outgoing,http://dbpedia.org/ontology/Person,
+Neptune,discoverer,John Couch Adams,outgoing,http://dbpedia.org/ontology/Person,
+Neptune,discoverer,Urbain Le Verrier,outgoing,http://dbpedia.org/ontology/Person,
+Neptune,epoch,J2000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Neptune,escapeVelocity,23.5,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,inclination,to ecliptic,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Neptune,inclination,0.74,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Neptune,inclination,6.43,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Neptune,mass,5.15,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Single
+Neptune,mass,17.147,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,meanRadius,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,name,Neptune,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Neptune,surfaceArea,14.98,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Neptune,symbol,24,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Neptune,volume,57.74,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Solar System,age,1.441551168E17,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Solar System,imageSize,260,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Solar System,inclination,60.19,outgoing,http://www.w3.org/2001/XMLSchema#float,
+Solar System,title,Solar System,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Solar System,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Spaceflight,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Spaceflight,purpose,Spaceflight,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ArtificialSatellite
+Star,mascot,Star,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ArtificialSatellite
+Star,name,Star,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ArtificialSatellite
+Star,symbol,Star,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ArtificialSatellite
+Sun,date,2011-08-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sun,title,Sun 24px|☉,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sun,symbol,Sun,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Star
+Universe,title,Universe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Universe,width,82,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Universe,width,83,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Universe,width,86,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Universe,width,93,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Universe,width,111,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Universe,width,146,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Biology,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Biology,genre,Biology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,interest,Biology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,occupation,Biology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,purpose,Biology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Enzyme,width,325,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Enzyme,width,400,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Protein,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Protein,date,2012-09-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Protein,date,2020-07-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Botany,height,2592,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Botany,height,3216,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Botany,title,Two cacti of very different appearance,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Botany,width,3872,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Botany,width,4288,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Botany,genre,Botany,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Botany,purpose,Botany,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Death,date,January 2014,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Death,complications,Death,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Death,fc,Death,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Disease
+Death,mascot,Death,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Death,sentence,Death,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Suicide,author,American Association of Suicidology,outgoing,http://dbpedia.org/ontology/Person,
+Suicide,deaths,793000,outgoing,http://dbpedia.org/ontology/Disease,
+Suicide,frequency,12,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Suicide,name,Suicide,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Suicide,title,"Precipitating circumstances in the US, 2017",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Suicide,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Suicide,width,500,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Suicide,causeOfDeath,Suicide,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Suicide,complications,Suicide,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Ecology,quote,"Biodiversity refers to the variety of life and its processes. It includes the variety of living organisms, the genetic differences among them, the communities and ecosystems in which they occur, and the ecological and evolutionary processes that keep them functioning, yet ever-changing and adapting.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"By ecology, we mean the whole science of the relations of the organism to the environment including, in the broad sense, all the ""conditions of existence"". Thus, the theory of evolution explains the housekeeping relations of organisms mechanistically as the necessary consequences of effectual causes; and so forms the monistic groundwork of ecology.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"Community ecology examines how interactions among species and their environment affect the abundance, distribution and diversity of species within communities.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,Ecosystem management is not just about science nor is it simply an extension of traditional resource management; it offers a fundamental reframing of how humans may work with nature.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"Metabolism – the rate at which energy and material resources are taken up from the environment, transformed within an organism, and allocated to maintenance, growth and reproduction – is a fundamental physiological trait.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"Nowhere can one see more clearly illustrated what may be called the sensibility of such an organic complex, – expressed by the fact that whatever affects any species belonging to it, must speedily have its influence of some sort upon the whole assemblage. He will thus be made to see the impossibility of studying any form completely, out of relation to the other forms, – the necessity for taking a comprehensive survey of the whole as a condition to a satisfactory understanding of any part.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"System behaviors must first be arrayed into different levels of the organization. Behaviors corresponding to higher levels occur at slow rates. Conversely, lower organizational levels exhibit rapid rates. For example, individual tree leaves respond rapidly to momentary changes in light intensity, CO2 concentration, and the like. The growth of the tree responds more slowly and integrates these short-term changes.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"The history of life on Earth has been a history of interaction between living things and their surroundings. To a large extent, the physical form and the habits of the earth's vegetation and its animal life have been molded by the environment. Considering the whole span of earthly time, the opposite effect, in which life actually modifies its surroundings, has been relatively slight. Only within the moment of time represented by the present century has one species man acquired significant power to alter the nature of his world.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"These ecosystems, as we may call them, are of the most various kinds and sizes. They form one category of the multitudinous physical systems of the universe, which range from the universe as a whole down to the atom.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"This whole chain of poisoning, then, seems to rest on a base of minute plants which must have been the original concentrators. But what of the opposite end of the food chain—the human being who, in probable ignorance of all this sequence of events, has rigged his fishing tackle, caught a string of fish from the waters of Clear Lake, and taken them home to fry for his supper?",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,quote,"Wetland conditions such as shallow water, high plant productivity, and anaerobic substrates provide a suitable environment for important physical, biological, and chemical processes. Because of these processes, wetlands play a vital role in global nutrient and element cycles.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ecology,title,Ecology,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,width,(100 * 1999 / 1277) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ecology,width,(100 * 1999 / 1355) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ecology,width,25.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ecology,width,30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ecology,ideology,Ecology,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,occupation,Ecology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,purpose,Ecology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Endangered species,date,2015-11-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Endangered species,date,2018-09-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Endangered species,date,2019-09-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Life,name,Life,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Life,taxon,Life,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Life,title,Life – related articles,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Life,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Life,meaning,Life,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Life,title,Life,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Species,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Metabolism,date,*,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/MilitaryConflict
+Metabolism,date,2009-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Metabolism,date,2011-11-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Metabolism,title,Articles related to Metabolism,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Metabolism,title,The Nitrogen cycle and Nitrogen fixation,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Digestion,name,Digestive system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Digestion,width,125,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Photosynthesis,date,2011-09-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Evolution,date,2015-01-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Evolution,date,2022-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Evolution,id,philosophiezool06unkngoog,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Evolution,name,Philosophie zoologique,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Evolution,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Reproduction,date,2005-11-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Reproduction,date,2018-01-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pregnancy,complications,Gestational_diabetes,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Pregnancy,complications,High_blood_pressure_of_pregnancy,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pregnancy,complications,Hyperemesis_gravidarum,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Pregnancy,complications,Iron-deficiency_anemia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Pregnancy,complications,Miscarriage,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/Disease
+Pregnancy,deaths,230600,outgoing,http://dbpedia.org/ontology/Disease,
+Pregnancy,duration,~40 weeks from the last menstrual period,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Pregnancy,frequency,213000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Pregnancy,name,Pregnancy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/SportsEvent
+Pregnancy,synonym,Gestation,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sex,date,March 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sex,date,2010-02-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Animal,date,2011-06-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Animal,name,Animals,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Animal,taxon,Animalia,outgoing,http://dbpedia.org/ontology/Taxon,
+Nematode,taxon,Nematoda,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Animal
+Mollusca,date,2016-11-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mollusca,height,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Mollusca,taxon,Mollusca,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Animal
+Mollusca,width,215,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mollusca,width,400,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arthropod,date,May 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Arthropod,height,145,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Arthropod,height,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arthropod,name,Arthropoda,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal
+Arthropod,taxon,Arthropoda,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Animal
+Arthropod,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Arthropod,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Insect,description,Several unidentified grasshoppers stridulating,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Insect,filename,Grasshoppers.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Insect,taxon,Insecta,outgoing,http://dbpedia.org/ontology/Taxon,
+Insect,title,Grasshopper stridulation,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Insect,title,Insect,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal
+Ant,name,Ants,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ant,taxon,Formicidae,outgoing,http://dbpedia.org/ontology/Taxon,
+Ant,mascot,Ant,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Insect
+Bee,name,Bees,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bee,taxon,Anthophila,outgoing,http://dbpedia.org/ontology/Taxon,
+Bee,mascot,Bee,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Insect
+Mosquito,description,describing The Life Cycle of the Mosquito,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mosquito,id,life_cycle_of_the_mosquito,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mosquito,taxon,Culicidae,outgoing,http://dbpedia.org/ontology/Taxon,
+Spider,height,2767,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Spider,height,4440,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Spider,name,Spiders,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spider,taxon,Araneae,outgoing,http://dbpedia.org/ontology/Taxon,
+Spider,width,320,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Spider,width,1930,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Spider,width,3408,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chordate,height,340,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chordate,name,Chordates,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chordate,taxon,Chordata,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Animal
+Chordate,width,320,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chordate,width,400,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Amphibian,date,2011-04-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Amphibian,name,Amphibians,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Amphibian,taxon,Amphibia,outgoing,http://dbpedia.org/ontology/Taxon,
+Amphibian,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Amphibian,title,Amphibian,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,date,2010-08-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bird,date,2013-11-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bird,description,A tooth-billed bowerbird mimicking a spangled drongo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,description,A woodpecker drumming on wood,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,description,"Song of the house wren, a common North American songbird",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,filename,Picidae pecking on wood.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bird,filename,Tooth-billed_Catbird_audio09.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bird,filename,Troglodytes aedon - House Wren - XC79974.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bird,name,Birds,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,species,Aves,outgoing,http://dbpedia.org/ontology/Species,
+Bird,taxon,Aves,outgoing,http://dbpedia.org/ontology/Taxon,
+Bird,title,Bird song,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,title,Drumming,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bird,title,Mimicry,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Bird,meaning,Bird,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band
+Bird,purpose,Bird,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band
+Bird,species,Bird,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Bird,title,Bird,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band
+Chicken,species,gallus,outgoing,http://dbpedia.org/ontology/Species,
+Chicken,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chicken,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chicken,title,Chicken,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant; http://dbpedia.org/ontology/Bird
+Columbidae,date,February 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Columbidae,taxon,Columbidae,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Bird
+Columbidae,width,195,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Columbidae,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Columbidae,meaning,Columbidae,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Bird
+Columbidae,symbol,Columbidae,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Bird
+Fish,date,2008-03-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fish,date,2011-11-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fish,date,2012-12-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fish,date,2021-01-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fish,name,Fish,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fish,parent,Vertebrata,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Animal
+Fish,title,Fischinfos.de – Illustrated database of the freshwater fishes of Germany,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fish,title,Fisheries and Illinois Aquaculture Center – Data outlet for fisheries and aquaculture research center in the central US,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fish,title,The Native Fish Conservancy – Conservation and study of North American freshwater fishes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fish,symbol,Fish,incoming,http://www.w3.org/2001/XMLSchema#string,
+Fish,title,Fish,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shark,date,2016-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shark,name,Sharks,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shark,taxon,Selachimorpha,outgoing,http://dbpedia.org/ontology/Taxon,
+Shark,emblem,Shark,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Shark,mascot,Shark,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Shark,occupation,Shark,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Shark,title,Shark,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Mammal,date,2016-09-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mammal,name,Mammals,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mammal,taxon,Mammalia,outgoing,http://dbpedia.org/ontology/Taxon,
+Mammal,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Mammal,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mammal,title,Mammal,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Camel,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Camel,name,Camel,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Mammal
+Camel,taxon,Camelus,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Insect
+Camel,mascot,Camel,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Mammal
+Camel,subdivisionName,Camel,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Mammal
+Cat,name,Cat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cat,species,catus,outgoing,http://dbpedia.org/ontology/Species,
+Cat,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cat,meaning,Cat,incoming,http://www.w3.org/2001/XMLSchema#string,
+Cat,name,Cat,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cat,species,Cat,incoming,http://dbpedia.org/ontology/Species,
+Cattle,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cattle,date,2008-10-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cattle,date,2014-10-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cattle,filename,Mudchute cow 1.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cattle,species,taurus,outgoing,http://dbpedia.org/ontology/Species,
+Cattle,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cattle,title,"A cow's ""moo""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cattle,title,Mean acidifying emissions  of different foods per 100 g of protein,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cattle,title,Mean eutrophying emissions  of different foods per 100 g of protein,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cattle,title,Mean greenhouse gas emissions for different food types,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cattle,title,Mean land use of different foods,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cattle,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cattle,currency,Cattle,incoming,http://dbpedia.org/ontology/Currency,http://dbpedia.org/ontology/PersonFunction
+Cattle,mascot,Cattle,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Cattle,name,Cattle,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Cattle,species,Cattle,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/PersonFunction
+Cetacea,quote,"Worldwide, use of active sonar has been linked to about 50 marine mammal strandings between 1996 and 2006. In all of these occurrences, there were other contributing factors, such as unusual  underwater geography, limited egress routes, and a specific species of marine mammal — beaked whales — that are suspected to be more sensitive to sound than other marine mammals.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cetacea,taxon,Cetacea,outgoing,http://dbpedia.org/ontology/Taxon,
+Cetacea,title,(Relationship of extinct and extant cetaceans):,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cetacea,width,30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Cetacea,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dog,date,2013-12-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dog,description,A dog making noises and barking,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dog,filename,A dog making noises and barking.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dog,name,Dog,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Mammal; http://dbpedia.org/ontology/MusicGenre
+Dog,species,familiaris,outgoing,http://dbpedia.org/ontology/Species,
+Dog,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dog,title,Dog sounds,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dog,name,Dog,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Mammal; http://dbpedia.org/ontology/MusicGenre
+Dog,title,Dog,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Mammal; http://dbpedia.org/ontology/MusicGenre
+Horse,height,240,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Horse,name,Horse,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,species,ferus,outgoing,http://dbpedia.org/ontology/Species,
+Horse,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Horse,description,Horse,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,mount,Horse,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,name,Horse,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,race,Horse,incoming,http://dbpedia.org/ontology/Race,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,races,Horse,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,sex,Horse,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,symbol,Horse,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Horse,title,Horse,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/PersonFunction
+Sheep,animal,sheep,outgoing,http://dbpedia.org/ontology/Animal,
+Sheep,description,A sheep bleat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sheep,filename,Sheep bleating.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sheep,name,Domestic sheep,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sheep,species,aries,outgoing,http://dbpedia.org/ontology/Species,
+Sheep,status,DOM,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sheep,title,A sheep bleating,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sheep,world,1238.7,outgoing,http://www.w3.org/2004/02/skos/core#Concept,
+Sheep,year,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sheep,mascot,Sheep,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal
+Sheep,mount,Sheep,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal
+Sheep,name,Sheep,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal
+Sheep,symbol,Sheep,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal
+Sheep,teamName,Sheep,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Animal
+Rodent,date,2015-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rodent,taxon,Rodentia,outgoing,http://dbpedia.org/ontology/Taxon,
+Pig,animal,Pig,outgoing,http://dbpedia.org/ontology/Animal,
+Pig,date,2019-07-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pig,name,Pig,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pig,species,domesticus,outgoing,http://dbpedia.org/ontology/Species,
+Pig,world,850.3,outgoing,http://www.w3.org/2004/02/skos/core#Concept,
+Pig,year,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pig,callsignMeaning,Pig,incoming,http://www.w3.org/2001/XMLSchema#string,
+Pig,mount,Pig,incoming,http://www.w3.org/2001/XMLSchema#string,
+Pig,occupation,Pig,incoming,http://dbpedia.org/ontology/PersonFunction,
+Pig,species,Pig,incoming,http://dbpedia.org/ontology/Species,
+Pig,subdivisionName,Pig,incoming,http://dbpedia.org/ontology/Place,
+Primate,description,"Howler monkey roaring, ogg/Vorbis format.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,description,"Indri lemur wailing, ogg/Vorbis format.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,description,"Siamang singing, ogg/Vorbis format.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,description,"Vervet monkey alarm call, ogg/Vorbis format.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,filename,Howler monkey.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Primate,filename,Roep Indri Indri.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Primate,filename,Symphalangus syndactylus 20170623 Doué-la-Fontaine.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Primate,filename,Vervet_Monkey__.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Primate,name,Primates,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,taxon,Primates,outgoing,http://dbpedia.org/ontology/Taxon,
+Primate,title,Howler monkey roaring,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,title,Indri lemur wailing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,title,Siamang singing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,title,Vervet monkey alarm call,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Primate,leaderTitle,Primate,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Mammal
+Human,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Human,name,Human,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Human,species,Homo sapiens,outgoing,http://dbpedia.org/ontology/Species,
+Human,taxon,Homo sapiens,outgoing,http://dbpedia.org/ontology/Taxon,
+Human,title,Human society statistics,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Human,title,Population statisticsref|The world population and population density statistics are updated automatically from a template that uses the CIA World Factbook and United Nations World Population Prospects.|group=n,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Human,affiliation,Human,incoming,http://dbpedia.org/ontology/Organisation,
+Human,parent,Human,incoming,http://dbpedia.org/ontology/Person,
+Human,race,Human,incoming,http://dbpedia.org/ontology/Race,
+Human,species,Human,incoming,http://dbpedia.org/ontology/Species,
+Human,title,Human,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Reptile,name,Reptiles,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Reptile,taxon,Reptilia,outgoing,http://dbpedia.org/ontology/Taxon,
+Reptile,title,Reptile,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band
+Dinosaur,name,Dinosaurs,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dinosaur,taxon,Dinosauria,outgoing,http://dbpedia.org/ontology/Taxon,
+Dinosaur,species,Dinosaur,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Dinosaur,title,Dinosaur,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band
+Snake,date,July 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Snake,id,174118,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Snake,name,Snakes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Snake,taxon,Serpentes,outgoing,http://dbpedia.org/ontology/Taxon,
+Snake,title,A phylogenetic overview of modern snakes.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Snake,symbol,Snake,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Reptile
+Algae,date,June 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Algae,date,2014-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Algae,parent,Life,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Archaea,taxon,Archaea,outgoing,http://dbpedia.org/ontology/Taxon,
+Bacteria,name,Bacteria,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bacteria,taxon,Bacteria,outgoing,http://dbpedia.org/ontology/Taxon,
+Fungus,name,Fungi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fungus,species,Fungi,outgoing,http://dbpedia.org/ontology/Species,
+Fungus,taxon,Fungi,outgoing,http://dbpedia.org/ontology/Taxon,
+Fungus,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Fungus,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Plant,name,Plants,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Plant,taxon,Plantae,outgoing,http://dbpedia.org/ontology/Taxon,
+Plant,title,Plant,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Flower,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Flower,mascot,Flower,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building
+Flower,meaning,Flower,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building
+Fruit,date,2020-07-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fruit,date,2021-01-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fruit,meaning,Fruit,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building
+Tree,mascot,Tree,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Plant
+Tree,title,Tree,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Plant
+Protist,date,April 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Protist,date,May 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Protist,parent,Eukaryota,outgoing,http://dbpedia.org/ontology/Person,
+Anatomy,date,2019-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anatomy,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Circulatory system,name,Circulatory system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Circulatory system,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Blood,book,Luke,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Blood,date,April 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Blood,name,Blood,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Blood,location,Blood,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Heart,artery,"Aorta, pulmonary trunk and right and left pulmonary arteries, right coronary artery, left main coronary artery",outgoing,http://dbpedia.org/ontology/Artery,
+Heart,description,Normal heart sounds as heard with a stethoscope,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,description,Recording of heart sounds from a 16-year-old girl with a cardiac arrhythmia.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,description,"Sounds of a healthy 16-year-old child's heart beating normally, as heard with a stethoscope.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,description,5.049216E8,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,filename,Emily's heartbeat.wav,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,filename,Emily's racing heartbeat.wav,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,filename,Extremely_irregular_heart_sounds.wav,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,filename,HROgg.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,filename,Mitral Valve Prolapse.wav,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Heart,name,Heart,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Heart,title,A racing heartbeat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,title,A teenager's heartbeat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,title,An irregular heartbeat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,title,Mitral Valve Prolapse murmur,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,title,Normal heart sounds,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart,vein,"Superior vena cava, inferior vena cava, right and left pulmonary veins, great cardiac vein, middle cardiac vein, small cardiac vein, anterior cardiac veins",outgoing,http://dbpedia.org/ontology/Vein,
+Heart,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Heart,width,184,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Heart,width,230,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Heart,location,Heart,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Heart,speciality,Heart,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure
+Endocrine system,name,Endocrine system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Large intestine,artery,"Superior mesenteric, inferior mesenteric and iliac arteries",outgoing,http://dbpedia.org/ontology/Artery,
+Large intestine,name,Large Intestine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Large intestine,vein,Superior and inferior mesenteric vein,outgoing,http://dbpedia.org/ontology/Vein,
+Small intestine,name,Small intestine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Small intestine,location,Small intestine,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Liver,name,Liver,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Liver,nerve,Celiac ganglia and vagus nerve,outgoing,http://dbpedia.org/ontology/Nerve,
+Liver,vein,Hepatic vein and hepatic portal vein,outgoing,http://dbpedia.org/ontology/Vein,
+Liver,width,240,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Liver,location,Liver,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Muscle,location,Muscle,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Nervous system,name,Nervous system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Nervous system,location,Nervous system,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Brain,name,Brain,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/Brain
+Brain,location,Brain,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/Brain
+Brain,note,Brain,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/Brain
+Brain,speciality,Brain,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/Brain
+Nerve,name,Nerve,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/Nerve
+Ear,name,Ear,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Ear,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ear,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ear,instrument,Ear,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/AnatomicalStructure
+Ear,location,Ear,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Nose,name,Nose,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Eye,date,June 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eye,name,Eye,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Eye,eyeColor,Eye,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure
+Reproductive system,name,Reproductive system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Respiratory system,name,Respiratory system,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Respiratory system,state,collapsed,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Respiratory system,title,Anatomy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Respiratory system,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Respiratory system,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Skeleton,name,Skeleton,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Skeleton,species,Skeleton,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/AnatomicalStructure
+Skeleton,sport,Skeleton,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/AnatomicalStructure
+Skeleton,title,Skeleton,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,name,Dermis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,name,Skin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Skin,location,Skin,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,occupation,Skin,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/AnatomicalStructure
+Medicine,title,Medicine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,occupation,Medicine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,role,Medicine,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,speciality,Medicine,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,title,Medicine,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Dentistry,name,Dentistry,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Dentistry,speciality,Dentistry,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Medication,name,Pharmaceutical drug,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Health,founder,Health,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Health,purpose,Health,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Menstruation,width,(142 * 400 / 300) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Menstruation,width,(150 * 320 / 216) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Menstruation,width,(150 * 591 / 713) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vaccine,name,Vaccine,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/PersonFunction
+Vaccine,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Virus,taxon,Virus,outgoing,http://dbpedia.org/ontology/Taxon,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Disease
+Virus,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Virus,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Virus,classification,Virus,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Disease
+Addiction,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Addiction,height,440,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Addiction,name,Addiction,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Addiction,synonym,Severe substance use disorder,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Addiction,width,400,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ethanol,height,600,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ethanol,height,1932,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ethanol,height,2304,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ethanol,width,900,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ethanol,width,2580,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ethanol,width,3456,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tobacco,title,Pharmacodynamics,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cancer,deaths,10000000,outgoing,http://dbpedia.org/ontology/Disease,
+Cancer,frequency,24000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Cancer,name,Cancer,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Cancer,width,520,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cancer,complications,Cancer,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Cancer,speciality,Cancer,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Chronic obstructive pulmonary disease,complications,Anxiety_disorder,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/TelevisionStation
+Chronic obstructive pulmonary disease,complications,Major_depressive_disorder,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Chronic obstructive pulmonary disease,complications,Pulmonary_heart_disease,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Chronic obstructive pulmonary disease,complications,Secondary_spontaneous_pneumothorax,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,deaths,3200000,outgoing,http://dbpedia.org/ontology/Disease,
+Chronic obstructive pulmonary disease,description,The sound of wheezing as heard with a stethoscope.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chronic obstructive pulmonary disease,duration,Long term,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chronic obstructive pulmonary disease,filename,Wheeze2O.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chronic obstructive pulmonary disease,frequency,174500000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chronic obstructive pulmonary disease,name,Chronic obstructive pulmonary disease,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chronic obstructive pulmonary disease,omim,606963,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Chronic obstructive pulmonary disease,title,Wheezing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chronic obstructive pulmonary disease,complications,Chronic obstructive pulmonary disease,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Common cold,complications,"Usually none, but occasionally otitis media, sinusitis, pneumonia and sepsis can occur",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Common cold,duration,1,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Common cold,frequency,2,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Common cold,frequency,6,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Common cold,imageSize,220,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Common cold,name,Common cold,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Disability,complications,Disability,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/MusicGenre
+Blindness,complications,Blindness,incoming,http://www.w3.org/2001/XMLSchema#string,
+Blindness,meaning,Blindness,incoming,http://www.w3.org/2001/XMLSchema#string,
+Mental disorder,complications,"Cognitive impairment, social problems, suicide",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mental disorder,date,July 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mental disorder,date,October 2015,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mental disorder,frequency,18,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Mental disorder,motive,Mental disorder,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Mental disorder,speciality,Mental disorder,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Epilepsy,deaths,125000,outgoing,http://dbpedia.org/ontology/Disease,
+Epilepsy,duration,Long term,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Epilepsy,frequency,39000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Epilepsy,name,Epilepsy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Epilepsy,complications,Epilepsy,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Gastroenteritis,complications,Dehydration,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Gastroenteritis,deaths,1300000,outgoing,http://dbpedia.org/ontology/Disease,
+Gastroenteritis,frequency,2400000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gastroenteritis,name,Gastroenteritis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Headache,name,Headache,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Headache,state,collapsed,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Headache,synonym,Cephalalgia,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Headache,title,Articles and topics related to Headache,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart attack,complications,Heart attack,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Influenza,deaths,">290,000–650,000 deaths per year",outgoing,http://dbpedia.org/ontology/Disease,
+Influenza,duration,-691200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Influenza,frequency,3,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Influenza,name,Influenza,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Influenza,omim,614680,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Influenza,species,y,outgoing,http://dbpedia.org/ontology/Species,
+Malaria,complications,Anemia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Malaria,complications,Cerebral_malaria,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Malaria,complications,Coma,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Malaria,complications,Epileptic_seizure,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/TelevisionEpisode
+Malaria,complications,Organ_failure,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Malaria,deaths,627000,outgoing,http://dbpedia.org/ontology/Disease,
+Malaria,frequency,241000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Malaria,name,Malaria,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Malaria,omim,248310,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Malnutrition,date,2010-01-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Malnutrition,deaths,406000,outgoing,http://dbpedia.org/ontology/Disease,
+Malnutrition,frequency,821000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Malnutrition,imageSize,280,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Malnutrition,complications,Malnutrition,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Obesity,border,no,outgoing,http://dbpedia.org/ontology/Area,
+Obesity,complications,"Cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, osteoarthritis, depression",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Obesity,date,February 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Obesity,date,March 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Obesity,deaths,2800000,outgoing,http://dbpedia.org/ontology/Disease,
+Obesity,frequency,700000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Obesity,name,Obesity,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Obesity,omim,601665,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Obesity,width,350,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Obesity,year,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Obesity,complications,Obesity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Pneumonia,deaths,Four million per year,outgoing,http://dbpedia.org/ontology/Disease,
+Pneumonia,description,Crackles heard in the lungs of a person with pneumonia using a stethoscope.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pneumonia,duration,Few weeks,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Pneumonia,filename,Crackles pneumoniaO.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pneumonia,frequency,450000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Pneumonia,name,Pneumonia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Pneumonia,title,Crackles,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Pneumonia,complications,Pneumonia,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Polio,complications,Muscle weakness resulting in paralysis; Post-polio syndrome,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Polio,frequency,6,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Polio,name,Polio,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Sexually_transmitted_infection,complications,Infertility,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Sexually_transmitted_infection,deaths,108000,outgoing,http://dbpedia.org/ontology/Disease,
+Sexually_transmitted_infection,frequency,1100000000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sexually_transmitted_infection,name,Sexually transmitted infection,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sexually_transmitted_infection,party,Sexually_transmitted_infection,incoming,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/Disease
+AIDS,occupation,AIDS,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+Smallpox,complications,"Scarring of the skin, blindness",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Smallpox,date,November 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Smallpox,date,2008-07-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Smallpox,duration,About 4 weeks,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Smallpox,frequency,Eradication_of_infectious_diseases,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Album
+Smallpox,imageSize,225,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Smallpox,taxon,Variola virus,outgoing,http://dbpedia.org/ontology/Taxon,
+Stroke,complications,Persistent_vegetative_state,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Stroke,date,2016-09-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Stroke,date,2020-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Stroke,deaths,6300000,outgoing,http://dbpedia.org/ontology/Disease,
+Stroke,frequency,42400000,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Stroke,name,Stroke,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Stroke,omim,601367,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Stroke,causeOfDeath,Stroke,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Stroke,complications,Stroke,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Stroke,speciality,Stroke,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Tuberculosis,deaths,1500000,outgoing,http://dbpedia.org/ontology/Disease,
+Tuberculosis,frequency,25,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Tuberculosis,name,Tuberculosis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease
+Tuberculosis,omim,607948,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Tuberculosis,species,Mycobacterium tuberculosis,outgoing,http://dbpedia.org/ontology/Species,
+Tuberculosis,speciality,Tuberculosis,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Diabetes mellitus,complications,Diabetes mellitus,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Diabetes mellitus,speciality,Diabetes mellitus,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Chemistry,genre,Chemistry,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,occupation,Chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,projectType,Chemistry,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Inorganic chemistry,genre,Inorganic chemistry,incoming,http://dbpedia.org/ontology/Genre,
+Biochemistry,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Salt,date,April 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Salt,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Salt,location,Salt,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Mineral
+Salt,occupation,Salt,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Mineral
+Periodic table,date,March 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Periodic table,title,"Group 3: Sc, Y, La, Ac",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Periodic table,title,"Group 3: Sc, Y, Lu, Lr",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aluminium,id,gov.archives.arc.38661,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aluminium,name,Aluminum,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aluminium,block,Aluminium,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Aluminium,formula,Aluminium,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Aluminium,head,Aluminium,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MilitaryUnit
+Carbon,formula,Carbon,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Copper,date,April 2014,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Copper,date,June 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Copper,formula,Copper,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Gold,date,April 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gold,date,2008-03-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gold,title,Technical Document on Extraction and Mining of Gold,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gold,meaning,Gold,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Hydrogen,book,Chemical elements,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hydrogen,book,Hydrogen,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Hydrogen,book,Period 1 elements,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hydrogen,engine,Hydrogen,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Iron,width,70,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Iron,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Iron,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Iron,battleHonours,Iron,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Iron,block,Iron,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Iron,foundation,Iron,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Iron,genre,Iron,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/MilitaryUnit
+Iron,head,Iron,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MilitaryUnit
+Oxygen,book,Chalcogens,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Oxygen,book,Chemical elements,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Oxygen,book,Oxygen,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/RecordLabel
+Oxygen,book,Period 2 elements,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Silver,title,"Silver, Silver Compounds, and Silver Alloys",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tin,date,June 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tin,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Tin,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Organic chemistry,width,164,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Carbohydrate,date,August 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Molecule,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Analytical chemistry,occupation,Analytical chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book
+Geology,date,September 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Geology,genre,Geology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Geology,interest,Geology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Mineral,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Mineral,width,161,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Diamond,density,3.5,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Diamond,formula,Carbon,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Diamond,name,Diamond,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Diamond,smiles,C1C3CC5CC1CCC36C3CCCC6CC1C3,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Diamond,title,"""A Contribution to the Understanding of Blue Fluorescence on the Appearance of Diamonds""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Diamond,free,Diamond,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Diamond,mascot,Diamond,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Diamond,symbol,Diamond,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Plate tectonics,date,March 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Plate tectonics,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Plate tectonics,date,2017-01-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rock,genre,Rock,incoming,http://dbpedia.org/ontology/Genre,
+Natural disaster,author,Federal Emergency Management Agency  of the United States,outgoing,http://dbpedia.org/ontology/Person,
+Natural disaster,author,International_Federation_of_Red_Cross_and_Red_Crescent_Societies,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Tsunami,date,2011-03-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Volcano,emblem,Volcano,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/RecordLabel
+Volcano,geology,Volcano,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/RecordLabel
+Volcano,title,Volcano,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Disease; http://dbpedia.org/ontology/RecordLabel
+Weather,occupation,Weather,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Weather,purpose,Weather,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Weather,title,Weather,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Cloud,date,February 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cloud,title,Cloud,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rain,description,The sound of a heavy rain fall in suburban neighborhood,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rain,description,Typical sound of rain with thunder,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rain,filename,"Heavy rain in Glenshaw, PA.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rain,filename,Thunder.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rain,title,"Heavy rain in Glenshaw, Pennsylvania",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rain,title,Rain,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Settlement
+Rain,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Snow,date,2007-06-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Snow,density,0.1,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Snow,meltingPoint,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Snow,name,Snow,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band
+Snow,meaning,Snow,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band
+Tornado,name,Tornado,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tornado,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Tornado,mascot,Tornado,incoming,http://www.w3.org/2001/XMLSchema#string,
+Tornado,teamName,Tornado,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Wind,meaning,Wind,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Album
+Physics,genre,Physics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,occupation,Physics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,projectType,Physics,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,purpose,Physics,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Acceleration,name,Acceleration,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Acceleration,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Acceleration,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Acceleration,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Energy,date,2016-08-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Energy,date,2019-02-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Energy,name,Energy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,occupation,Energy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,title,Energy,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Electromagnetic radiation,border,2,outgoing,http://dbpedia.org/ontology/Area,http://dbpedia.org/ontology/Year
+Infrared,date,January 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ultraviolet,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Light,meaning,Light,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/RecordLabel
+Light,title,Light,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/RecordLabel
+Force,center,yes,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Force,name,Force,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Magnetic field,quote,Units: Tesla for describing a large magnetic force; gauss  for describing a small magnetic force as that at the surface of earth.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Magnet,date,2013-03-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mass,date,January 2014,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mass,name,Mass,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Metal,quote,"""But Iron—Cold Iron—is master of them all.""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Metal,quote,"""Good!"" said the Baron, sitting in his hall,",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Metal,quote,Copper for the craftsman cunning at his trade.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Metal,quote,Gold is for the mistress—silver for the maid—,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Metal,width,25,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Steel,foundation,Steel,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,genre,Steel,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,occupation,Steel,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Nuclear fission,date,2010-02-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+State of matter,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Solid,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Radioactive decay,date,2010-10-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Radioactive decay,date,2011-08-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Radioactive decay,date,2018-10-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+General relativity,date,2014-06-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+General relativity,id,hbmf0bB38h0&list=EC6C8BDEEBA6BDC78D,outgoing,http://www.w3.org/2001/XMLSchema#string,
+General relativity,title,Einstein's General Theory of Relativity,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Special relativity,date,2010-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Special relativity,height,535,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Special relativity,name,Relativity: the Special and General Theory,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Special relativity,quote,"""Reflections of this type made it clear to me as long ago as shortly after 1900, i.e., shortly after Planck's trailblazing work, that neither mechanics nor electrodynamics could  claim exact validity. Gradually I despaired of the possibility of discovering the true laws by means of constructive efforts based on known facts. The longer and the more desperately I tried, the more I came to the conviction that only the discovery of a universal formal principle could lead us to assured results ... How, then, could such a universal principle be found?""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Special relativity,width,40.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Special relativity,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Special relativity,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Special relativity,width,535,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Semiconductor,date,2004-06-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sound,date,2009-01-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sound,description,Drum cadences performed by the United States Navy Band,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sound,filename,Drum - Cadence A.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sound,title,Drum - Cadence A,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sound,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sound,genre,Sound,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Velocity,imageSize,260,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Velocity,name,Velocity,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TelevisionStation
+Speed of light,date,August 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Speed of light,title,Speed of light,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Temperature,name,Temperature,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Time,date,May 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Time,quote,"Time is not an empirical concept. For neither co-existence nor succession would be perceived by us, if the representation of time did not exist as a foundation a priori. Without this presupposition, we could not represent to ourselves that things exist together at one and the same time, or at different times, that is, contemporaneously, or in succession.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Time,title,Time articles: Detailed navigation,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Time,width,35.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mathematics,date,2011-07-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mathematics,height,390,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mathematics,height,559,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mathematics,width,320,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mathematics,width,407,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mathematics,classes,Mathematics,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,genre,Mathematics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,occupation,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,purpose,Mathematics,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,region,Mathematics,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,specialist,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Logarithm,id,p/l060600,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Logarithm,project,v,outgoing,http://dbpedia.org/ontology/Project,
+Logarithm,title,Derivation of the conversion factor between logarithms of arbitrary base,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Logarithm,title,Logarithmic function,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Logarithm,width,80.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Logarithm,width,350,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Number,date,September 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Number,date,2018-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Number,id,Number,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Number,title,Number,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Complex number,date,June 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Complex number,id,c/c024140,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Complex number,title,Complex number,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Complex number,year,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Linear algebra,id,p/l059040,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Linear algebra,title,Linear algebra,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Geometry,date,September 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Geometry,genre,Geometry,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Angle,date,2001,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Angle,id,Angle&oldid=13323,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Angle,title,Angle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person
+Angle,volume,2,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Angle,width,81,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Angle,width,111,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Angle,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Angle,location,Angle,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person
+Area,name,Area,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Area,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Coordinate system,id,C/c026470,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Coordinate system,title,Coordinates,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pi,date,July 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pi,quote,"Initialize
+
+Iterate
+
+
+Then an estimate for  is given by",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pi,quote,The Gauss–Legendre iterative algorithm:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pi,title,Pi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pythagorean theorem,id,Pythagoras's Theorem,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pythagorean theorem,id,p/p075940,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Pythagorean theorem,name,Pythagorean theorem,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pythagorean theorem,title,Pythagorean theorem,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pythagorean theorem,symbol,Pythagorean theorem,incoming,http://www.w3.org/2001/XMLSchema#string,
+Symmetry,date,2004-01-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Trigonometry,id,p/t094210,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Trigonometry,title,Trigonometric Addition Formulas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Trigonometry,title,Trigonometric functions,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mathematical analysis,date,May 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Numerical analysis,date,2009-07-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Numerical analysis,id,p/n120130,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Numerical analysis,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Numerical analysis,title,Numerical analysis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Probability,date,2011-07-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Probability,date,2012-03-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Statistics,date,2019-06-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Statistics,year,Statistics,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Infinity,date,2006-09-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Infinity,date,2008-12-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Infinity,date,2009-11-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Infinity,date,2010-02-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Infinity,number,Infinity,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/RecordLabel
+Infinity,symbol,Infinity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/RecordLabel
+Set theory,id,p/a014310,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Set theory,id,p/s084750,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Set theory,title,Axiomatic set theory,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Set theory,title,Set theory,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,

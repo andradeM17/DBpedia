@@ -1,0 +1,178 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Language,genre,Language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Language,specialist,Language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Arabic,languageRegulator,Algeria,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Egypt,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Institute_for_Studies_and_Research_on_Arabization,outgoing,http://dbpedia.org/ontology/Language,
+Arabic,languageRegulator,Iraq,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Israel,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Jordan,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Libya,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Morocco,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Saudi_Arabia,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Somalia,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Sudan,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Syria,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,languageRegulator,Tunisia,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Arabic,award,Arabic,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Language
+Arabic,genre,Arabic,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Arabic,nationality,Arabic,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Arabic,occupation,Arabic,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Arabic,region,Arabic,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Bengali_language,country,Bengali_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Bengali_language,genre,Bengali_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Bengali_language,publisher,Bengali_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+Chinese_language,languageRegulator,Chinese_Language_Standardisation_Council_of_Malaysia,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Organisation
+Chinese_language,languageRegulator,Civil_Service_Bureau,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Chinese_language,languageRegulator,Education_and_Youth_Affairs_Bureau_(Macau),outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Chinese_language,languageRegulator,Ministry_of_Education_of_the_People's_Republic_of_China,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Chinese_language,languageRegulator,National_Languages_Committee,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Chinese_language,languageRegulator,Promote_Mandarin_Council,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Organisation
+Chinese_language,spokenIn,Sinophone,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Chinese_language,author,Chinese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Chinese_language,nationality,Chinese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Chinese_language,stateOfOrigin,Chinese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+English_language,almaMater,English_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+English_language,anthem,English_language,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Language
+English_language,bandMember,English_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+English_language,editor,English_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+English_language,employer,English_language,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Language
+English_language,genre,English_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+English_language,ideology,English_language,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Language
+French_language,languageRegulator,Académie_Française,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+French_language,languageRegulator,Office_québécois_de_la_langue_française,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+French_language,almaMater,French_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+French_language,award,French_language,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Language
+French_language,country,French_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+French_language,hometown,French_language,incoming,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Language
+French_language,ideology,French_language,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Language
+French_language,march,French_language,incoming,http://dbpedia.org/ontology/MusicalWork,http://dbpedia.org/ontology/Language
+French_language,nationality,French_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+French_language,occupation,French_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+French_language,region,French_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+French_language,stateOfOrigin,French_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+French_language,translator,French_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+French_language,writer,French_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+German_language,almaMater,German_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+German_language,basedOn,German_language,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Language
+German_language,commandStructure,German_language,incoming,http://dbpedia.org/ontology/MilitaryUnit,http://dbpedia.org/ontology/Language
+German_language,editor,German_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+German_language,hometown,German_language,incoming,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Language
+German_language,ideology,German_language,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Language
+German_language,location,German_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+German_language,nationality,German_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+German_language,occupation,German_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+German_language,place,German_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+German_language,publisher,German_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+German_language,region,German_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+German_language,stateOfOrigin,German_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Greek_language,spokenIn,Black_Sea,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Sea; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+Greek_language,spokenIn,Macedonia,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Greek_language,nationality,Greek_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,occupation,Greek_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,productionCompany,Greek_language,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,stateOfOrigin,Greek_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Hebrew,almaMater,Hebrew,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+Hebrew,occupation,Hebrew,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Hebrew,region,Hebrew,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Hindustani_language,languageRegulator,Central_Hindi_Directorate,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Settlement
+Hindustani_language,languageRegulator,National_Council_for_Promotion_of_Urdu_Language,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Hindustani_language,languageRegulator,National_Language_Promotion_Department,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Hindustani_language,spokenIn,Hindi_Belt,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Hindustani_language,occupation,Hindustani_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Korean_language,languageRegulator,National_Institute_of_Korean_Language,outgoing,http://dbpedia.org/ontology/Language,
+Korean_language,country,Korean_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Korean_language,nationality,Korean_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Korean_language,stateOfOrigin,Korean_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Korean_language,voice,Korean_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Korean_language,writer,Korean_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Japanese_language,genre,Japanese_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Japanese_language,nationality,Japanese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Japanese_language,occupation,Japanese_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Japanese_language,region,Japanese_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Japanese_language,stateOfOrigin,Japanese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Japanese_language,voice,Japanese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Japanese_language,writer,Japanese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Latin,colour,Latin,incoming,http://dbpedia.org/ontology/Colour,http://dbpedia.org/ontology/Language
+Latin,genre,Latin,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Latin,occupation,Latin,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Latin,patron,Latin,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Latin,region,Latin,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Persian_language,languageRegulator,Academy_of_Persian_Language_and_Literature,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Persian_language,languageRegulator,Academy_of_Sciences_of_Afghanistan,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Persian_language,languageRegulator,Rudaki_Institute_of_Language_and_Literature,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Persian_language,almaMater,Persian_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,commandStructure,Persian_language,incoming,http://dbpedia.org/ontology/MilitaryUnit,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,genre,Persian_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,nationality,Persian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,notableWork,Persian_language,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,occupation,Persian_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,stateOfOrigin,Persian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Portuguese_language,languageRegulator,Academia_Brasileira_de_Letras,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Portuguese_language,languageRegulator,Lisbon_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Portuguese_language,genre,Portuguese_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Portuguese_language,nationality,Portuguese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Portuguese_language,region,Portuguese_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Portuguese_language,stateOfOrigin,Portuguese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Russian_language,anthem,Russian_language,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Language
+Russian_language,country,Russian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Russian_language,headquarter,Russian_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Russian_language,nationality,Russian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Russian_language,occupation,Russian_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Russian_language,region,Russian_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Russian_language,stateOfOrigin,Russian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Russian_language,translator,Russian_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Sanskrit,genre,Sanskrit,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Sanskrit,notableWork,Sanskrit,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Language
+Sanskrit,occupation,Sanskrit,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Sanskrit,parent,Sanskrit,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Sanskrit,specialist,Sanskrit,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Spanish_language,languageRegulator,Association_of_Spanish_Language_Academies,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Organisation
+Spanish_language,almaMater,Spanish_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+Spanish_language,country,Spanish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Spanish_language,genre,Spanish_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Spanish_language,nationality,Spanish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Spanish_language,person,Spanish_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Spanish_language,publisher,Spanish_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+Spanish_language,region,Spanish_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Spanish_language,stateOfOrigin,Spanish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Turkish_language,languageRegulator,Turkish_Language_Association,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Turkish_language,genre,Turkish_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Turkish_language,nationality,Turkish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Turkish_language,region,Turkish_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Turkish_language,stateOfOrigin,Turkish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Turkish_language,translator,Turkish_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Linguistics,almaMater,Linguistics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Linguistics,genre,Linguistics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Linguistics,institution,Linguistics,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Linguistics,training,Linguistics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Grammar,genre,Grammar,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Chinese characters,hometown,Chinese characters,incoming,http://dbpedia.org/ontology/Settlement,
+Chinese characters,nationality,Chinese characters,incoming,http://dbpedia.org/ontology/Country,
+Literacy,childOrganisation,Literacy,incoming,http://dbpedia.org/ontology/Organisation,
+Translation,genre,Translation,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Translation,openingTheme,Translation,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Literature,award,Literature,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/MusicGenre
+Literature,constituencyDistrict,Literature,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+Literature,designer,Literature,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Literature,notableWork,Literature,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Literature,occupation,Literature,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Prose,occupation,Prose,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Fiction,award,Fiction,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Fiction,occupation,Fiction,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Fiction,recordLabel,Fiction,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Novel,author,Novel,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Novel,neighboringMunicipality,Novel,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Novel,occupation,Novel,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Novel,spouse,Novel,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Novel,writer,Novel,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+The Tale of Genji,translator,Dennis_Washburn,outgoing,http://dbpedia.org/ontology/Person,
+The Tale of Genji,translator,Edward_G._Seidensticker,outgoing,http://dbpedia.org/ontology/Person,
+Poetry,award,Poetry,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/MusicGenre
+Poetry,instrument,Poetry,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicGenre
+Poetry,notableWork,Poetry,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Poetry,occupation,Poetry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Poetry,publisher,Poetry,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/MusicGenre
+Iliad,employer,Iliad,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Poem
+Mahabharata,founder,Mahabharata,incoming,http://dbpedia.org/ontology/Person,
+Mahabharata,notableWork,Mahabharata,incoming,http://dbpedia.org/ontology/Work,

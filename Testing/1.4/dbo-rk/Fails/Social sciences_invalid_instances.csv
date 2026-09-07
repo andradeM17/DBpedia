@@ -1,0 +1,145 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Prezzo Holdings,foundingDate,2000-02-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Prezzo Holdings,foundingYear,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Prezzo Holdings,keyPerson,Chief_executive_officer,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/PersonFunction
+Hawthorne Valley Waldorf School,city,"Ghent,_New_York",outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Hawthorne Valley Waldorf School,facultySize,30,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Hawthorne Valley Waldorf School,foundingYear,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hawthorne Valley Waldorf School,numberOfStudents,240,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hawthorne Valley Waldorf School,officialSchoolColour,Red and blue,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Human Accomplishment,isbn,978-0060192471,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Human Accomplishment,numberOfPages,668,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Human Accomplishment,oclc,52047270,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Human Accomplishment,publicationDate,2003-10-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1976 Illinois elections,country,Illinois,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion
+1976 Illinois elections,startDate,1976-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hamlin School,address,"2120 Broadway,",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hamlin School,facultySize,70,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Hamlin School,foundedBy,Sarah_Dix_Hamlin,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Hamlin School,foundingYear,1896,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hamlin School,motto,Compassion - Courage - Honesty - Respect - Responsibility,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hamlin School,numberOfStudents,435,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hamlin School,officialSchoolColour,"Red, Gold",outgoing,http://www.w3.org/2001/XMLSchema#string,
+1928 United States presidential election in New Hampshire,country,New_Hampshire,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+1928 United States presidential election in New Hampshire,startDate,1928-11-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Research Council for Automobile Repairs,abbreviation,RCAR,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Research Council for Automobile Repairs,alternativeName,Research Committee for Automobile Repairs,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Research Council for Automobile Repairs,membership,26 research institutes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+RAF Harrington,elevation,163.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+RAF Harrington,runwayDesignation,00/00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+RAF Harrington,runwayLength,0.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+RAF Harrington,runwaySurface,Asphalt,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Diva (magazine),publisher,Linda_Riley,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Murder of Rachel McLean,birthYear,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Murder of Rachel McLean,deathDate,1991-04-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Murder of Rachel McLean,deathYear,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+1933 Normanton by-election,startDate,1933-05-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Operation Abanadela,causalties,unknown,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Operation Abanadela,combatant,FRELIMO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Operation Abanadela,date,1970-07-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Operation Abanadela,place,Cahora_Bassa,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/BodyOfWater; http://dbpedia.org/ontology/Lake
+Operation Abanadela,result,Portuguese victory,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2016 Ohio House of Representatives election,country,Ohio,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+2016 Ohio House of Representatives election,startDate,2016-11-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Special Investigations Unit (Ontario),budget,6900000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Special Investigations Unit (Ontario),formationYear,1990,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Special Investigations Unit (Ontario),leader,Hon.,outgoing,http://dbpedia.org/ontology/Person,
+"Electrical, Electronic, Telecommunications and Plumbing Union",affiliation,National_Federation_of_Building_Trades_Operatives,outgoing,http://dbpedia.org/ontology/Organisation,
+Astor Secondary School,address,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Astor Secondary School,address,Astor Avenue,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Astor Secondary School,ageRange,11,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Astor Secondary School,motto,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Astor Secondary School,motto,"Adaptable, Creative, Proud",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Astor Secondary School,numberOfStudents,879,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Astor Secondary School,postalCode,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Astor Secondary School,postalCode,CT17 0AS,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Accentor-class minesweeper,length,29565.6,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Accentor-class minesweeper,length,29.5656,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Accentor-class minesweeper,shipBeam,6.4008,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Accentor-class minesweeper,shipDraft,2.4384,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Accentor-class minesweeper,topSpeed,18.52,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Shoe Zone,formerName,Bensonshoe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shoe Zone,foundingDate,1917-07-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shoe Zone,foundingYear,1917,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shoe Zone,numberOfEmployees,2854,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Shoe Zone,numberOfLocations,410,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Toys for Tots,foundedBy,William_L._Hendricks,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person
+Toys for Tots,keyPerson,United_States_Marine_Corps_Reserve,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/Organisation
+European Grouping of Marketing Professionals,fate,Classified as acult,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+European Grouping of Marketing Professionals,foundingYear,1988,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+1800 United States presidential election in South Carolina,country,South_Carolina,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+1800 United States presidential election in South Carolina,startDate,1800-12-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1869 Massachusetts gubernatorial election,startDate,1869-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Productivity Commission,budget,3.2502E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Productivity Commission,formationYear,1998,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Productivity Commission,headquarter,https://www.pc.gov.au/contact-us,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Productivity Commission,location,https://www.pc.gov.au/contact-us,outgoing,http://dbpedia.org/ontology/Place,
+Productivity Commission,numberOfEmployees,164,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Liberals (Switzerland),colourName,Azure,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Liberals (Switzerland),formationDate,2009-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Liberals (Switzerland),formationYear,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Feldwood High School,address,(formerly located at) 5935 Feldwood Road,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Feldwood High School,mascot,Flames,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Feldwood High School,officialSchoolColour,"Red, white, and blue",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Feldwood High School,postalCode,30349,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),address,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),address,3225 Erindale Station Road,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),foundingYear,1969,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Woodlands School (Mississauga),mascot,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),mascot,Rammy the Ram,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),numberOfStudents,1209,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Woodlands School (Mississauga),officialSchoolColour,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),officialSchoolColour,Red and Yellow/Red and Gold,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),postalCode,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),postalCode,L5C 1Y5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),teamName,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),teamName,The Woodlands Rams,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+VX-23,activeYearsStartYear,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+VX-23,colourName,SD,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+VX-23,garrison,Naval_Air_Station_Patuxent_River,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Airport; http://dbpedia.org/ontology/MilitaryStructure
+Mackinac College (Humbard),city,Mackinac_Island,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Island; http://dbpedia.org/ontology/PopulatedPlace
+Mackinac College (Humbard),formerName,Mackinac College(1966-1970),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mackinac College (Humbard),motto,An adventure in Christian education,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mackinac College (Humbard),numberOfStudents,140,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Mackinac College (Humbard),numberOfUndergraduateStudents,140,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Chengdu Foreign Languages School,address,35 Baicao Road,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chengdu Foreign Languages School,facultySize,745,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chengdu Foreign Languages School,foundingYear,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Chengdu Foreign Languages School,motto,"China's School, World's Languages",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chengdu Foreign Languages School,motto,"立学中华, 语通世界",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chengdu Foreign Languages School,numberOfStudents,7300,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chengdu Foreign Languages School,originalName,成都外国语学校,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chengdu Foreign Languages School,team,Chengdu Foreign Languages School,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/School; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation
+Sweet Water High School,address,440 Main Street,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sweet Water High School,campusType,Rural,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Settlement
+Sweet Water High School,ceeb,012550,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sweet Water High School,city,"Sweet_Water,_Alabama",outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Sweet Water High School,facultySize,37,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Sweet Water High School,foundingYear,1870,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sweet Water High School,mascot,Bulldog,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Mammal
+Sweet Water High School,numberOfStudents,601,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sweet Water High School,officialSchoolColour,Purple and gold,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sweet Water High School,postalCode,36782,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Orang Seletar,populationPlace,Straits_of_Johor,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+Orang Seletar,totalPopulation,3000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Stratford High School (Stratford, Texas)",address,503 North 8th Street,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Stratford High School (Stratford, Texas)",mascot,Elks/Lady Elks,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Stratford High School (Stratford, Texas)",numberOfStudents,175,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Stratford High School (Stratford, Texas)",officialSchoolColour,Royal Blue & White,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Stratford High School (Stratford, Texas)",postalCode,79084-0108,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sigurimi,dissolutionDate,1991-08-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sigurimi,dissolutionYear,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sigurimi,formationDate,1944-12-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sigurimi,formationYear,1944,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Al-Ahliyya Amman University,affiliation,EnAboutAAPIHE.asp,outgoing,http://dbpedia.org/ontology/Organisation,
+Al-Ahliyya Amman University,numberOfStudents,5865,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Fleet Electronic Warfare Center,activeYearsStartYear,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Fleet Electronic Warfare Center,garrison,Joint_Expeditionary_Base_Little_Creek-Fort_Story,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Marxist Unification Movement,dissolutionYear,1978,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Marxist Unification Movement,formationYear,1976,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Marxist Unification Movement,ideology,Anti-fascism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PersonFunction
+Marxist Unification Movement,ideology,Catalan_independence,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Marxist Unification Movement,ideology,Catalanism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PoliticalParty
+Marxist Unification Movement,ideology,Marxism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/Country
+Marxist Unification Movement,ideology,Països_Catalans,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Marxist Unification Movement,ideology,Socialism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre

@@ -1,0 +1,661 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Language,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Language,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Language,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Language,genre,Language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Language,leaderTitle,Language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Language,origin,Language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Language,subdivisionName,Language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Disease
+Arabic,date,2022,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arabic,ethnicity,Arabs and several peoples of the MENA region,outgoing,http://dbpedia.org/ontology/EthnicGroup,
+Arabic,minority,,outgoing,http://dbpedia.org/ontology/Group,
+Arabic,name,Arabic,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Arabic,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Arabic,nation,FIFA,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Arabic,pronunciation,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Arabic,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arabic,alias,Arabic,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Arabic,child,Arabic,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Arabic,description,Arabic,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Arabic,free,Arabic,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Arabic,genre,Arabic,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Arabic,minority,Arabic,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Arabic,motto,Arabic,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Arabic,nationality,Arabic,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Arabic,occupation,Arabic,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Arabic,origin,Arabic,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Arabic,region,Arabic,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Bengali_language,date,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bengali_language,name,Bengali,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bengali_language,nation,"* West Bengal
+* Tripura
+* Assam 
+* Jharkhand",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bengali_language,value,1.5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Bengali_language,value,8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Bengali_language,value,25,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Bengali_language,value,37.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Bengali_language,value,61.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Bengali_language,value,67,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Bengali_language,motto,Bengali_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Bengali_language,note,Bengali_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Bengali_language,origin,Bengali_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Bengali_language,otherLanguage,Bengali_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Bengali_language,subdivisionName,Bengali_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Chinese_language,date,June 2015,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chinese_language,date,2022,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chinese_language,date,2011-07-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chinese_language,name,Chinese,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chinese_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chinese_language,nation,China,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Chinese_language,nation,Hong_Kong,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Chinese_language,nation,Macau,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Chinese_language,nation,Singapore,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Country
+Chinese_language,nation,Taiwan,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Chinese_language,title,Han language,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chinese_language,value,0.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,0.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Chinese_language,value,3.5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,3.9,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,5.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,5.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,6.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,6.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,value,65.7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chinese_language,child,Chinese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Chinese_language,family,Chinese_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+Chinese_language,free,Chinese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Chinese_language,minority,Chinese_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Chinese_language,motto,Chinese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Chinese_language,name,Chinese_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Chinese_language,names,Chinese_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Chinese_language,note,Chinese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Chinese_language,origin,Chinese_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Chinese_language,otherLanguage,Chinese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Chinese_language,otherName,Chinese_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Chinese_language,year,Chinese_language,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Language
+English_language,date,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+English_language,description,An example of a Midwestern U.S. male with a general American accent .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a North Indian woman with an Indian accent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a Queensland male with a cultivated Australian accent .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a Texan male with a Southern U.S. accent .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a male with a New Zealand accent.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a male with a South African accent.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a male with a general Australian accent.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a man with a Cockney accent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a man with a contemporary Liverpool accent .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a man with a 'Received Pronunciation' accent .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a man with one of many Scottish accents spoken across Scotland .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a man with one of many Irish accents spoken across Ireland .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of a woman with an educated Nigerian accent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of an Essex male with a working-class Estuary accent of the region around London .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,description,An example of an Ontario woman with a standard Canadian accent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,ethnicity,English people,outgoing,http://dbpedia.org/ontology/EthnicGroup,
+English_language,filename,AustraliaPart2.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Chimamanda_Ngozi_Adichie_bbc_radio4_front_row_03_05_2013.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Danny Baker BBC Radio4 Desert Island Discs 31 Jul 2007 b012wcl4.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Emery Emery Voice.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Geoffrey Rush bbc radio4 front row 01 05 2013.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,George W. Bush speech on homeland security .ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,John bishop bbc radio4 desert island discs 24 06 2012.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Margaret atwood bbc radio4 front row 27 07 2007 b007tjpb.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Mark Hanna Voice Audio.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Russell brand bbc radio4 desert island discs 21 07 2013.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,South African English.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Terry Wogan BBC Radio4 Desert Island Discs 01 Jan 2012 b018w7rj.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,Vandana Shiva BBC Radio4 Saving Species 23 Dec 2011 b010x8sq.flac,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,--01-14,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,filename,--01-16,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,minority,,outgoing,http://dbpedia.org/ontology/Group,
+English_language,minority,Malaysia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+English_language,minority,Sri Lanka,outgoing,http://dbpedia.org/ontology/Group,
+English_language,name,English,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,ASEAN,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+English_language,nation,ASEAN Economic Community,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,Caribbean Community,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,Commonwealth of Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,Council of Europe,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,ECO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,European Union,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,GUAM Organization for Democracy and Economic Development,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,ICC,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,IMF,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/University
+English_language,nation,IOC,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,ISO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,NAFTA,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,NATO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+English_language,nation,OAS,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,OECD,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+English_language,nation,OIC,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,OPEC,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+English_language,nation,Organization of Turkic States,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,PIF,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,SAARC,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation
+English_language,nation,Türksoy,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,UKUSA Agreement,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,United Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,WTO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,nation,27,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+English_language,nation,59,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+English_language,other,yes,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+English_language,quote,"Although, from the beginning, Englishmen had three manners of speaking, southern, northern and midlands speech in the middle of the country, ... Nevertheless, through intermingling and mixing, first with Danes and then with Normans, amongst many the country language has arisen, and some use strange stammering, chattering, snarling, and grating gnashing.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+English_language,species,no,outgoing,http://dbpedia.org/ontology/Species,
+English_language,title,Speech example,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+English_language,value,3.7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+English_language,value,3.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+English_language,value,4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,4.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+English_language,value,6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,17,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,19,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,26,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,29,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,60,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+English_language,value,231,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+English_language,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+English_language,description,English_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+English_language,editor,English_language,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Language
+English_language,family,English_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+English_language,free,English_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+English_language,genre,English_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+French_language,name,French,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+French_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+French_language,nation,Aosta Valley,outgoing,http://www.w3.org/2001/XMLSchema#string,
+French_language,nation,Louisiana,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion
+French_language,nation,Maine,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+French_language,nation,New Hampshire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+French_language,nation,African_Union,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+French_language,nation,Algeria,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Belgium,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Benin,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Burkina_Faso,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Burundi,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Cambodia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Cameroon,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Canada,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Central_African_Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Chad,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Collectivity_of_Saint_Martin,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+French_language,nation,Comoros,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Council_of_Europe,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation
+French_language,nation,Democratic_Republic_of_the_Congo,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Djibouti,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Equatorial_Guinea,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,European_Union,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+French_language,nation,France,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Francophonie,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+French_language,nation,French_Polynesia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+French_language,nation,Gabon,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Guinea,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Haiti,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,International_Olympic_Committee,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+French_language,nation,Ivory_Coast,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Laos,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Lebanon,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Luxembourg,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Madagascar,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Mali,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Mauritania,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Mauritius,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Monaco,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Morocco,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,NATO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+French_language,nation,New_Caledonia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+French_language,nation,Niger,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Republic_of_the_Congo,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Rwanda,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Saint_Barthélemy,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+French_language,nation,Saint_Pierre_and_Miquelon,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+French_language,nation,Senegal,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Seychelles,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Island; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Switzerland,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Togo,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Tunisia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,United_Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+French_language,nation,Vanuatu,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+French_language,nation,Vietnam,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+French_language,nation,Wallis_and_Futuna,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+French_language,nation,World_Trade_Organization,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+French_language,value,0.24,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,1.31,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,2.12,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,2.41,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,2.67,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,3.43,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,3.81,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,6.45,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,15.26,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,16.83,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,20.65,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,value,25.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+French_language,almaMater,French_language,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Language
+French_language,free,French_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+French_language,ideology,French_language,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Language
+French_language,minority,French_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+French_language,nationality,French_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+French_language,occupation,French_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+French_language,origin,French_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+French_language,otherLanguage,French_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+French_language,pronunciation,French_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+French_language,region,French_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+French_language,year,French_language,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Language
+German_language,date,2014,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Year
+German_language,description,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+German_language,filename,German alphabet-2.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+German_language,minority,,outgoing,http://dbpedia.org/ontology/Group,
+German_language,minority,Brazil,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,minority,Czech Republic,outgoing,http://dbpedia.org/ontology/Group,
+German_language,minority,Denmark,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,minority,Hungary,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,minority,Italy,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,minority,Namibia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,minority,Poland,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,minority,Romania,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,minority,Russia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,minority,Slovakia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,minority,Kazakhstan,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,name,German,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+German_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+German_language,nation,Austria,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,nation,Belgium,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,nation,Germany,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,nation,Liechtenstein,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,nation,Luxembourg,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,nation,Switzerland,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+German_language,nation,Italy,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+German_language,nation,South_Tyrol,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+German_language,region,Geographical_distribution_of_German_speakers,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+German_language,species,no,outgoing,http://dbpedia.org/ontology/Species,
+German_language,title,German alphabet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+German_language,value,0.4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,value,3.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,value,4.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,value,5.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,value,8.4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,value,78.3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+German_language,ideology,German_language,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Language
+German_language,minority,German_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+German_language,nationality,German_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+German_language,occupation,German_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+German_language,origin,German_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+German_language,otherLanguage,German_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+German_language,region,German_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Greek_language,date,October 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Greek_language,date,2012,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Greek_language,name,Greek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Greek_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek_language,child,Greek_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,family,Greek_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,minority,Greek_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,motto,Greek_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,origin,Greek_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,otherLanguage,Greek_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Greek_language,region,Greek_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/Organisation
+Hebrew,ethnicGroup,Hebrew,incoming,http://dbpedia.org/ontology/EthnicGroup,http://dbpedia.org/ontology/Language
+Hebrew,minority,Hebrew,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Hebrew,origin,Hebrew,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Hebrew,region,Hebrew,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Hindustani_language,date,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hindustani_language,date,2009-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hindustani_language,imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Hindustani_language,name,Hindustani,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hindustani_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hindustani_language,region,"Hindustani Belt , Deccan, Pakistan",outgoing,http://dbpedia.org/ontology/Place,
+Hindustani_language,title,Hindustani FAQ,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hindustani_language,occupation,Hindustani_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Korean_language,date,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Korean_language,name,Korean,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Korean_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Korean_language,child,Korean_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Korean_language,logo,Korean_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Korean_language,minority,Korean_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Korean_language,name,Korean_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Korean_language,note,Korean_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Korean_language,otherLanguage,Korean_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Japanese_language,date,September 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Japanese_language,date,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Japanese_language,date,2022-03-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Japanese_language,description,Recording of the first article of the UN Universal Declaration of Human Rights in Japanese.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Japanese_language,ethnicity,Japanese,outgoing,http://dbpedia.org/ontology/EthnicGroup,
+Japanese_language,filename,Universal_Declaration_of_Human_Rights-jpn-Art1.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Japanese_language,name,Japanese,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Japanese_language,pronunciation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Japanese_language,pronunciation,:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Japanese_language,title,Universal Declaration of Human Rights,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Japanese_language,child,Japanese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Japanese_language,minority,Japanese_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Japanese_language,nationality,Japanese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Japanese_language,occupation,Japanese_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Japanese_language,origin,Japanese_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Japanese_language,otherLanguage,Japanese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Japanese_language,region,Japanese_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Latin,date,2016-05-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Latin,ethnicity,Latins_(Italic_tribe),outgoing,http://dbpedia.org/ontology/EthnicGroup,http://dbpedia.org/ontology/Insect
+Latin,name,Latin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Latin,region,"Originally in the Italian Peninsula, and the zone of influence of the Roman Empire. Today, it is official in Vatican City, although Italian is the working language there.",outgoing,http://dbpedia.org/ontology/Place,
+Latin,callsignMeaning,Latin,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Latin,child,Latin,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Latin,genre,Latin,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Latin,motto,Latin,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Latin,origin,Latin,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Latin,region,Latin,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Persian_language,name,Persian,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,nation,"*  
+*  
+*  
+
+
+*",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Persian_language,title,Darī,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,title,"Esmāʿīl, b. Aḥmad b. Asad Sāmānī, Abū Ebrāhīm",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,title,Iran v. Peoples of Iran  A General Survey,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,title,"Iran, vii.—Literature",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,title,Sāmānids,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Persian_language,volume,4,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Persian_language,volume,7,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Persian_language,volume,8,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Persian_language,volume,13,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Persian_language,minority,Persian_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,names,Persian_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Persian_language,origin,Persian_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Language
+Portuguese_language,date,2019-09-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Portuguese_language,date,2020-08-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Portuguese_language,ethnicity,"Lusophones
+* Portuguese
+* Brazilians
+* Luso-Asians
+* Luso-Africans",outgoing,http://dbpedia.org/ontology/EthnicGroup,
+Portuguese_language,minority,,outgoing,http://dbpedia.org/ontology/Group,
+Portuguese_language,minority,List_of_international_organisations_which_have_Portuguese_as_an_official_language,outgoing,http://dbpedia.org/ontology/Group,
+Portuguese_language,minority,South_Africa,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Portuguese_language,minority,Uruguay,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,name,Portuguese,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Portuguese_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Portuguese_language,nation,Macau,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Angola,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Brazil,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Cape_Verde,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,East_Timor,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Equatorial_Guinea,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Guinea-Bissau,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Mozambique,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,Portugal,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Portuguese_language,nation,São_Tomé_and_Príncipe,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Portuguese_language,pronunciation,", , , , ,",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Portuguese_language,child,Portuguese_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Portuguese_language,family,Portuguese_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+Portuguese_language,free,Portuguese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Portuguese_language,genre,Portuguese_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Portuguese_language,nationality,Portuguese_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Portuguese_language,origin,Portuguese_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Portuguese_language,otherLanguage,Portuguese_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Russian_language,date,August 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Russian_language,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Russian_language,date,2012,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Russian_language,description,"Reading of excerpt of Pushkin's ""Winter Evening"" , 1825.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Russian_language,filename,Ru-Zimniy vecher.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,minority,,outgoing,http://dbpedia.org/ontology/Group,
+Russian_language,minority,Armenia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,minority,China,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,minority,Czech Republic,outgoing,http://dbpedia.org/ontology/Group,
+Russian_language,minority,Moldova,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,minority,Mongolia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,minority,Poland,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,minority,Romania,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,minority,Slovakia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,minority,Ukraine,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,name,Russian,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Russian_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,ATS,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Abkhazia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,nation,Artsakh Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Autonomous Republic of Crimea,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Belarus,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,nation,CSTO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Russian_language,nation,Donetsk People's Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,EAEU,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Gagauzia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Settlement
+Russian_language,nation,IAEA,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,ICAO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,ISO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Kazakhstan,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,nation,Kyrgyzstan,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,nation,Left Bank of the Dniester,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Lugansk People's Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Moldova:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,OSCE,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Russia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,nation,SCO,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,South Ossetia,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,Tajikistan,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Russian_language,nation,Transnistria,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Russian_language,nation,UNESCO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Russian_language,nation,Ukraine:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,United Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,"WHO
+CIS",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,nation,--11-13,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russian_language,region,Geographical_distribution_of_Russian_speakers,outgoing,http://dbpedia.org/ontology/Place,
+Russian_language,title,Winter Evening,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Russian_language,child,Russian_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Russian_language,family,Russian_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+Russian_language,free,Russian_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Russian_language,legislature,Russian_language,incoming,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Language
+Russian_language,minority,Russian_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Russian_language,nationality,Russian_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Russian_language,occupation,Russian_language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language
+Russian_language,officialName,Russian_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Russian_language,origin,Russian_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Russian_language,otherLanguage,Russian_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Russian_language,otherName,Russian_language,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Russian_language,region,Russian_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Sanskrit,date,April 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sanskrit,date,April 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sanskrit,date,March 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sanskrit,description,"A recitation of the Sanskrit composition Guru Stotram, or ""the hymn of praise for the teacher "".",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sanskrit,filename,Sanskrit Chanting Guru Stotram.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,name,Sanskrit,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Sanskrit,nation,"*Himachal Pradesh
+*Uttarakhand",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,quote,"Extant manuscripts in Sanskrit number over 30 million, one hundred times those in Greek and Latin combined, constituting the largest cultural heritage that any civilization has produced prior to the invention of the printing press.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,quote,"O Bṛhaspati, when in giving names
+::they first set forth the beginning of Language,
+Their most excellent and spotless secret
+::was laid bare through love,
+When the wise ones formed Language with their mind,
+::purifying it like grain with a winnowing fan,
+Then friends knew friendships –
+::an auspicious mark placed on their language.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,quote,The system of Sanskrit Sounds,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,quote,"There is no word without metre,
+nor is there any metre without words.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,quote,"[The] order of Sanskrit sounds works along three principles: it goes from simple to complex; it goes from the back to the front of the mouth; and it groups similar sounds together. [...] Among themselves, both the vowels and consonants are ordered according to where in the mouth they are pronounced, going from back to front.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sanskrit,region,"South Asia , parts of Southeast Asia",outgoing,http://dbpedia.org/ontology/Place,
+Sanskrit,title,How Sanskrit chants sound,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sanskrit,width,28.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sanskrit,width,175,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sanskrit,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sanskrit,width,235,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sanskrit,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sanskrit,free,Sanskrit,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Sanskrit,genre,Sanskrit,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Sanskrit,motto,Sanskrit,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Sanskrit,origin,Sanskrit,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Sanskrit,pronunciation,Sanskrit,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Sanskrit,year,Sanskrit,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Language
+Spanish_language,date,2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Spanish_language,name,Spanish,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spanish_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spanish_language,nation,African_Union,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Andorra,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Argentina,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Association_of_Caribbean_States,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Belize,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Bolivia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Caribbean_Community,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Chile,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Colombia,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Community_of_Latin_American_and_Caribbean_States,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Costa_Rica,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Cuba,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Dominican_Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Ecuador,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,El_Salvador,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Equatorial_Guinea,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,European_Union,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Gibraltar,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Guatemala,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Honduras,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Latin_American_Integration_Association,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Latin_American_Parliament,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation
+Spanish_language,nation,Mercosur,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/PoliticalParty; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Mexico,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Nicaragua,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Organization_for_Security_and_Co-operation_in_Europe,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Organization_of_American_States,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Organization_of_Ibero-American_States,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Panama,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Paraguay,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Peru,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Puerto_Rico,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Spanish_language,nation,Spain,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Union_of_South_American_Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,United_Nations,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Spanish_language,nation,United_States,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Uruguay,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Spanish_language,nation,Venezuela,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Spanish_language,pronunciation,",",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spanish_language,width,125,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Spanish_language,width,130,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Spanish_language,family,Spanish_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+Spanish_language,genre,Spanish_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Spanish_language,leaderName,Spanish_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Spanish_language,nationality,Spanish_language,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Language
+Spanish_language,origin,Spanish_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Spanish_language,otherLanguage,Spanish_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Spanish_language,subdivisionName,Spanish_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Swahili_language,date,2012,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Swahili_language,date,2007-06-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Swahili_language,date,2011-07-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Swahili_language,minority,"*  
+*  
+*",outgoing,http://dbpedia.org/ontology/Group,
+Swahili_language,name,Swahili,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Swahili_language,nation,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Swahili_language,nation,African Union,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Swahili_language,nation,East African Community,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Swahili_language,nation,Southern African Development Community,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Swahili_language,person,Mswahili,outgoing,http://dbpedia.org/ontology/Person,
+Swahili_language,family,Swahili_language,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Language
+Swahili_language,minority,Swahili_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Swahili_language,origin,Swahili_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Turkish_language,date,August 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Turkish_language,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Turkish_language,date,June 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Turkish_language,minority,Iraq,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Turkish_language,minority,Kosovo,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Turkish_language,minority,North Macedonia,outgoing,http://dbpedia.org/ontology/Group,
+Turkish_language,minority,Bosnia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Country
+Turkish_language,minority,Croatia,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Turkish_language,minority,Greece,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Turkish_language,minority,Romania,outgoing,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Turkish_language,name,Turkish,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Turkish_language,nation,Cyprus,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Turkish_language,nation,Northern_Cyprus,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Turkish_language,nation,Turkey,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Turkish_language,pronunciation,Türk dili:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Turkish_language,pronunciation,Türkçe:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Turkish_language,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Turkish_language,width,280,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Turkish_language,child,Turkish_language,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Language
+Turkish_language,genre,Turkish_language,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Turkish_language,minority,Turkish_language,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Language
+Turkish_language,origin,Turkish_language,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Language
+Turkish_language,otherLanguage,Turkish_language,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Language
+Turkish_language,region,Turkish_language,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Language
+Linguistics,date,2013-02-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Linguistics,genre,Linguistics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Linguistics,purpose,Linguistics,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Linguistics,year,Linguistics,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Grammar,genre,Grammar,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Syllable,date,2019-03-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Writing system,date,June 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Arabic script,name,Arabic script,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Arabic script,time,400,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chinese characters,name,Chinese characters,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chinese characters,project,wiktionary,outgoing,http://dbpedia.org/ontology/Project,
+Chinese characters,time,13,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Chinese characters,title,"The Chinese recorder and missionary journal, Volume 3",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chinese characters,width,30,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Chinese characters,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chinese characters,year,1871,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cyrillic script,name,Cyrillic script,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cyrillic script,time,Earliest variants exist  –,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek alphabet,date,2012-08-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Greek alphabet,description,The names of the letters in spoken Standard Modern Greek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Greek alphabet,filename,Ell-AlphabitosUpload.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek alphabet,name,"""thetaphichi""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Greek alphabet,name,Greek alphabet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Greek alphabet,note,none,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek alphabet,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Greek alphabet,time,c. 800 BC –,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek alphabet,time,present,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Greek alphabet,title,Greek Unicode Issues,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Greek alphabet,title,Greek alphabet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Latin script,name,Latin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Language
+Latin script,time,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Latin script,time,–,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Latin script,unicode,See Latin characters in Unicode,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Literacy,author,UNESCO,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Literacy,title,Digital Services for Education in Africa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Literacy,title,Mobile phones and literacy: Empowerment in Women's Hands; A Cross-Case Analysis of Nine Experiences,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Literacy,title,"Reading the past, writing the future: Fifty years of promoting literacy",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Literacy,purpose,Literacy,incoming,http://www.w3.org/2001/XMLSchema#string,
+Translation,author,no,outgoing,http://dbpedia.org/ontology/Person,
+Translation,genre,Translation,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Literature,border,2,outgoing,http://dbpedia.org/ontology/Area,http://dbpedia.org/ontology/Year
+Literature,quote,George Sand was an idea. She has a unique place in our age.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Literature,quote,Others are great men ... she was a great woman.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Literature,occupation,Literature,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Literature,purpose,Literature,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Prose,occupation,Prose,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+The Art of War,author,Sun Tzu,outgoing,http://dbpedia.org/ontology/Person,
+The Art of War,name,The Art of War,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Art of War,name,The Book of War,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Art of War,title,The Art of War,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fiction,date,2015-01-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fiction,occupation,Fiction,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+One Thousand and One Nights,author,Anonymous,outgoing,http://dbpedia.org/ontology/Person,
+One Thousand and One Nights,genre,"Frame story, folk tales",outgoing,http://dbpedia.org/ontology/Genre,
+One Thousand and One Nights,name,One Thousand and One Nights,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+One Thousand and One Nights,title,The Arabian Nights,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Novel,writer,Novel,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Dream of the Red Chamber,author,Xueqin CAO,outgoing,http://dbpedia.org/ontology/Person,
+Dream of the Red Chamber,imageSize,180,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dream of the Red Chamber,name,Dream of the Red Chamber,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dream of the Red Chamber,releaseDate,mid-18th century,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dream of the Red Chamber,releaseDate,1791,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dream of the Red Chamber,title,Dream of the Red Chamber,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dream of the Red Chamber,title,The Dream of the Red Chamber,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Tale of Genji,author,Murasaki Shikibu,outgoing,http://dbpedia.org/ontology/Person,
+The Tale of Genji,date,2017-10-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Tale of Genji,genre,Monogatari,outgoing,http://dbpedia.org/ontology/Genre,
+The Tale of Genji,name,The Tale of Genji,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Tale of Genji,title,Genji Monogatari,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Tale of Genji,translator,Dennis_Washburn,outgoing,http://dbpedia.org/ontology/Person,
+The Tale of Genji,translator,Edward_G._Seidensticker,outgoing,http://dbpedia.org/ontology/Person,
+Poetry,meaning,Poetry,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Poetry,occupation,Poetry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Epic of Gilgamesh,name,An Old Babylonian Version of the Gilgamesh Epic by Anonymous,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Epic of Gilgamesh,name,Epic of Gilgamesh,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Iliad,author,HOMER,outgoing,http://dbpedia.org/ontology/Person,
+Iliad,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Iliad,name,Iliad,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Poem
+Iliad,title,The Iliad,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mahabharata,author,Dutt,outgoing,http://dbpedia.org/ontology/Person,
+Mahabharata,title,The Mahabharata by Vyasa: The epic of ancient India condensed into English verse,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mahabharata,writer,Lord Ganesha,outgoing,http://dbpedia.org/ontology/Person,
+Mahabharata,basedOn,Mahabharata,incoming,http://dbpedia.org/ontology/Work,
+Mahabharata,title,Mahabharata,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,

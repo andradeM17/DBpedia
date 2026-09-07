@@ -1,0 +1,147 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Geography,49,34,46,13,50,21
+City,49,47,48,24,50,23
+Continent,50,5,0,0,50,5
+Forest,40,24,36,14,45,10
+Mountain,33,9,50,2,29,7
+Desert,32,11,21,7,50,4
+North Pole,48,82,49,79,17,3
+Ocean,47,16,50,8,44,8
+River,50,5,0,0,50,5
+Sea,50,6,0,0,50,6
+South Pole,49,146,49,143,50,3
+Africa,49,85,32,34,61,51
+Antarctica,48,67,39,35,58,32
+Asia,49,72,39,32,57,40
+Europe,48,171,43,102,55,69
+Middle East,50,125,45,92,64,33
+North America,50,100,44,60,59,40
+Oceania,49,71,44,56,67,15
+South America,49,101,40,68,65,33
+Algeria,49,198,46,108,53,90
+Democratic Republic of the Congo,54,185,51,121,60,64
+Egypt,48,302,48,153,49,149
+Ethiopia,47,257,43,177,54,80
+Nigeria,49,199,46,96,52,103
+South Africa,48,271,48,109,49,162
+Sudan,51,136,46,73,57,63
+Tanzania,46,257,43,177,52,80
+Afghanistan,48,216,44,127,54,89
+Bangladesh,50,196,48,88,51,108
+China,48,331,44,127,50,204
+India,46,266,46,219,45,47
+Indonesia,49,283,48,123,51,160
+Iran,48,261,45,121,49,140
+Iraq,47,163,45,81,49,82
+Israel,47,270,43,120,50,150
+Japan,47,130,47,84,47,46
+Pakistan,50,368,49,214,51,154
+Philippines,48,304,43,137,51,167
+Saudi Arabia,50,277,47,178,55,99
+South Korea,48,301,44,153,52,148
+Thailand,46,362,42,225,51,137
+Turkey,48,308,44,145,51,163
+Vietnam,48,265,44,159,53,106
+Austria,48,361,45,195,51,166
+France,49,216,50,158,47,58
+Germany,46,127,43,63,48,64
+Italy,45,187,44,140,49,47
+Netherlands,45,280,44,169,46,111
+Poland,49,436,49,242,50,194
+Portugal,49,399,47,253,51,146
+Russia,46,285,45,142,47,143
+Spain,49,247,48,157,49,90
+Switzerland,46,342,42,156,50,186
+Ukraine,50,334,51,177,49,157
+United Kingdom,42,222,41,172,48,50
+Vatican City,47,207,45,167,56,40
+Canada,47,203,45,96,48,107
+Cuba,47,221,44,120,50,101
+Mexico,49,263,46,93,51,170
+United States,45,156,46,123,44,33
+Argentina,48,372,47,218,50,154
+Brazil,46,339,43,187,50,152
+Colombia,48,301,45,176,52,125
+Australia,46,145,45,93,47,52
+Cairo,50,145,42,53,55,92
+Cape Town,49,292,47,229,58,63
+Kinshasa,50,228,46,190,67,38
+Lagos,52,281,50,220,59,61
+Nairobi,50,393,48,321,58,72
+Baghdad,49,205,46,159,58,46
+Bangkok,49,353,46,248,57,105
+Beijing,46,313,42,180,52,133
+Damascus,49,241,47,192,57,49
+Delhi,46,221,43,129,51,92
+Dhaka,48,179,44,118,57,61
+Dubai,49,294,47,216,54,78
+Hong Kong,47,518,46,371,50,147
+Jakarta,48,413,46,303,54,110
+Jerusalem,51,250,49,178,56,72
+Karachi,48,302,45,229,56,73
+Kolkata,47,218,43,124,52,94
+Mecca,50,213,47,175,61,38
+Mumbai,47,241,43,137,51,104
+Seoul,48,203,40,92,55,111
+Shanghai,48,308,44,191,54,117
+Singapore,49,254,44,98,52,156
+Tehran,50,398,48,305,54,93
+Tokyo,49,666,48,522,55,144
+Amsterdam,47,398,45,287,50,111
+Athens,49,495,49,362,49,133
+Berlin,48,603,47,464,50,139
+Brussels,45,497,44,379,47,118
+Istanbul,48,627,47,514,53,113
+London,46,240,43,137,49,103
+Madrid,49,310,47,212,54,98
+Moscow,48,324,45,176,52,148
+Paris,48,216,39,40,50,176
+Rome,48,399,47,260,51,139
+Saint Petersburg,46,150,33,58,55,92
+Vienna,48,475,47,348,52,127
+Los Angeles,48,243,45,109,51,134
+Mexico City,42,387,38,279,54,108
+New York City,47,252,46,155,49,97
+Washington_D.C.,66,37,0,0,66,37
+Bogotá,48,318,46,238,57,80
+Buenos Aires,47,321,43,207,52,114
+Rio de Janeiro,49,339,45,249,57,90
+São Paulo,46,280,44,180,52,100
+Sydney,50,196,48,56,51,140
+Amazon River,48,119,48,105,50,14
+Arctic Ocean,55,20,50,2,56,18
+Atlantic Ocean,50,147,47,87,55,60
+Baltic Sea,57,84,56,56,59,28
+Black Sea,53,63,50,34,57,29
+Caribbean Sea,51,114,48,79,59,35
+Caspian Sea,55,50,50,29,62,21
+Congo River,47,33,43,22,55,11
+Danube,71,84,76,62,59,22
+Ganges,47,54,44,40,57,14
+Great Barrier Reef,36,18,23,13,70,5
+Great Lakes,37,27,26,17,55,10
+Indian Ocean,51,74,46,34,55,40
+Indus River,55,65,53,52,65,13
+Lake Baikal,55,32,60,21,45,11
+Lake Victoria,54,28,53,19,56,9
+Mediterranean Sea,50,102,48,58,53,44
+Mississippi River,62,93,64,59,57,34
+Niger River,63,47,59,37,75,10
+Nile,60,55,62,42,54,13
+North Sea,60,70,69,32,53,38
+Pacific Ocean,50,119,49,54,50,65
+Panama Canal,36,48,34,40,50,8
+Rhine,57,65,58,43,55,22
+South China Sea,51,184,49,150,59,34
+Suez Canal,42,31,39,18,46,13
+Southern Ocean,53,17,0,0,53,17
+Volga River,65,10,0,0,65,10
+Yangtze River,57,14,0,0,57,14
+Yellow River,58,64,56,54,65,10
+Alps,45,39,44,26,46,13
+Andes,41,32,38,17,43,15
+Himalayas,45,50,43,35,50,15
+Mount Everest,43,68,40,56,58,12
+Mount Kilimanjaro,47,32,41,28,88,4
+Rocky Mountains,41,29,38,13,44,16
+Sahara,46,23,40,15,56,8

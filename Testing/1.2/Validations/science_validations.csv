@@ -1,0 +1,260 @@
+Page Name,Score,Datapoints
+Science,47,18
+Nature,50,9
+Astronomy,43,14
+Asteroid,50,2
+Big Bang,50,3
+Black hole,50,3
+Comet,40,5
+Galaxy,50,2
+Milky Way,25,2
+Moon,50,7
+Planet,50,1
+Mercury,0,0
+Venus,67,3
+Earth,56,8
+Mars,38,4
+Jupiter,50,2
+Saturn,50,2
+Uranus,50,2
+Neptune,80,5
+Solar System,50,3
+Spaceflight,50,4
+Star,0,1
+Sun,38,4
+Universe,50,1
+Biology,53,16
+DNA,50,4
+Enzyme,50,4
+Hormone,50,2
+Protein,50,4
+Botany,42,12
+Death,39,9
+Suicide,38,8
+Ecology,46,13
+Endangered species,50,2
+Life,75,2
+Biological classification,50,2
+Species,50,1
+Metabolism,33,3
+Digestion,50,2
+Photosynthesis,50,2
+Respiration,0,0
+Evolution,50,6
+Reproduction,50,2
+Pregnancy,50,16
+Sex,60,5
+Organism,0,0
+Animal,33,3
+Nematode,50,2
+Mollusca,50,2
+Arthropod,50,2
+Insect,83,3
+Ant,75,2
+Bee,75,4
+Mosquito,67,3
+Spider,50,1
+Chordate,50,1
+Amphibian,50,2
+Bird,50,7
+Chicken,62,4
+Columbidae,100,1
+Fish,50,5
+Shark,25,4
+Mammal,50,2
+Camel,62,4
+Cat,25,4
+Cattle,50,7
+Cetacea,0,0
+Dog,88,4
+Horse,75,4
+Sheep,50,3
+Rodent,75,2
+Pig,33,6
+Primate,90,5
+Human,25,6
+Reptile,50,2
+Dinosaur,38,4
+Snake,50,3
+Algae,50,3
+Archaea,50,4
+Bacteria,50,5
+Fungus,50,4
+Plant,50,3
+Flower,33,3
+Fruit,43,7
+Tree,0,0
+Protist,50,2
+Anatomy,58,6
+Cell,0,0
+Circulatory system,62,4
+Blood,50,6
+Heart,92,20
+Endocrine system,50,1
+Human gastrointestinal tract,50,1
+Large intestine,100,7
+Small intestine,86,7
+Liver,88,8
+Muscle,50,1
+Nervous system,67,3
+Brain,60,5
+Nerve,50,1
+Sensory system,0,0
+Ear,0,1
+Nose,75,2
+Eye,50,2
+Taste,38,4
+Reproductive system,75,2
+Respiratory system,67,3
+Skeleton,0,1
+Skin,38,4
+Medicine,45,21
+Dentistry,44,9
+Disease,50,5
+Medication,50,5
+Antibiotic,50,5
+Health,46,12
+Immune system,50,4
+Menstruation,50,2
+Pandemic,50,1
+Vaccine,60,5
+Virus,50,3
+Addiction,50,6
+Ethanol,44,8
+Tobacco,50,7
+Alzheimer's disease,0,0
+Cancer,50,16
+Chronic obstructive pulmonary disease,62,4
+Common cold,50,4
+Disability,60,5
+Blindness,40,5
+Deafness,50,2
+Mental disorder,53,17
+Epilepsy,53,17
+Gastroenteritis,53,18
+Headache,57,7
+Heart attack,30,5
+Influenza,53,16
+Malaria,54,13
+Malnutrition,54,14
+Obesity,50,11
+Pneumonia,54,23
+Polio,50,7
+Sexually_transmitted_infection,38,4
+AIDS,43,7
+Smallpox,50,17
+Stroke,53,17
+Tuberculosis,50,23
+Diabetes mellitus,50,4
+Chemistry,43,15
+Inorganic chemistry,20,5
+Biochemistry,50,10
+Chemical compound,0,0
+Acid,67,3
+Base (chemistry),0,0
+Salt,50,7
+Chemical element,50,1
+Periodic table,50,2
+Aluminium,40,10
+Carbon,50,4
+Copper,60,5
+Gold,40,10
+Hydrogen,38,4
+Iron,41,11
+Nitrogen,50,3
+Oxygen,50,2
+Silver,50,8
+Tin,50,1
+Organic chemistry,50,6
+Alcohol,0,1
+Carbohydrate,50,2
+Lipid,50,2
+Molecule,50,1
+Analytical chemistry,40,5
+Physical chemistry,42,6
+Climate,50,5
+Earth water cycle,0,0
+El Niño–Southern Oscillation,50,1
+Global warming,50,3
+Earthquake,50,2
+Geology,45,11
+Mineral,42,6
+Diamond,44,8
+Plate tectonics,50,2
+Rock,0,1
+Natural disaster,50,1
+Flood,50,1
+Tsunami,50,2
+Volcano,50,2
+Weather,43,7
+Cloud,50,3
+Rain,100,1
+Snow,50,4
+Tornado,25,2
+Tropical cyclone,50,1
+Wind,50,1
+Physics,41,17
+Acceleration,0,0
+Atom,50,1
+Energy,38,12
+Conservation of energy,50,1
+Electromagnetic radiation,50,3
+Infrared,50,4
+Ultraviolet,50,3
+Light,50,2
+Color,50,3
+Classical mechanics,50,4
+Force,0,0
+Electromagnetism,50,4
+Magnetic field,50,2
+Gravitation,50,2
+Strong interaction,50,1
+Weak interaction,50,2
+Magnet,38,4
+Mass,0,0
+Metal,50,7
+Steel,38,13
+Nuclear fission,50,1
+State of matter,0,0
+Gas,50,3
+Liquid,50,2
+Plasma,0,0
+Solid,0,0
+Quantum mechanics,50,5
+Radioactive decay,50,2
+General relativity,50,4
+Special relativity,50,2
+Semiconductor,50,5
+Sound,50,8
+Velocity,50,1
+Speed of light,50,1
+Temperature,50,1
+Time,50,4
+Thermodynamics,50,4
+Vacuum,30,5
+Mathematics,39,18
+Arithmetic,50,1
+Logarithm,50,1
+Number,0,1
+Number theory,50,3
+Algebra,50,4
+Complex number,50,1
+Equation,0,0
+Linear algebra,67,3
+Geometry,57,7
+Angle,25,2
+Area,50,1
+Coordinate system,0,0
+Pi,50,1
+Pythagorean theorem,50,1
+Symmetry,50,4
+Trigonometry,50,2
+Mathematical analysis,50,3
+Differential equation,50,2
+Numerical analysis,62,4
+Probability,50,6
+Statistics,45,10
+Function (mathematics),0,0
+Infinity,50,2
+Mathematical proof,50,1
+Set theory,50,4

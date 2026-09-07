@@ -1,0 +1,5 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Chunchullo,ingredientName,"Pork,beef, orlambsmall intestine",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Koval Distillery,foundingYear,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Koval Distillery,numberOfEmployees,20,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Kiping,ingredientName,glutinous rice,outgoing,http://www.w3.org/2001/XMLSchema#string,

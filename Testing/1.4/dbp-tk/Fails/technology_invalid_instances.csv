@@ -1,0 +1,184 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Technology,area,Technology,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,free,Technology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,ideology,Technology,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,occupation,Technology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,purpose,Technology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Biotechnology,purpose,Biotechnology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Cotton,date,January 2011,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Engineering,almaMater,Engineering,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Engineering,genre,Engineering,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Engineering,instrument,Engineering,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Machine,title,Machine,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Software
+Robot,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Robot,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Robot,mascot,Robot,incoming,http://www.w3.org/2001/XMLSchema#string,
+Robot,race,Robot,incoming,http://dbpedia.org/ontology/Race,
+Robot,species,Robot,incoming,http://dbpedia.org/ontology/Species,
+Screw,notes,Screw,incoming,http://www.w3.org/2001/XMLSchema#string,
+Wheel,symbol,Wheel,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Metallurgy,date,August 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Metallurgy,width,275,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nanotechnology,date,2015-10-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Nanotechnology,occupation,Nanotechnology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Nanotechnology,projectType,Nanotechnology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Nanotechnology,title,Nanotechnology,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Communication,genre,Communication,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/University
+Information,purpose,Information,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Information,title,Information,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Encyclopedia,date,2001-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Encyclopedia,occupation,Encyclopedia,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Journalism,free,Journalism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Journalism,occupation,Journalism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Journalism,purpose,Journalism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Newspaper,freeLabel,Newspaper,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PeriodicalLiterature; http://dbpedia.org/ontology/PersonFunction
+Newspaper,genre,Newspaper,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PeriodicalLiterature; http://dbpedia.org/ontology/PersonFunction
+Library,occupation,Library,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Library,space,Library,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Book,genre,Book,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Book,mascot,Book,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Book,symbol,Book,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Printing,occupation,Printing,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Telephone,id,FarSpeak1935,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Telephone,id,gov.archives.arc.89089.r1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Telephone,id,gov.archives.arc.89089.r2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Telephone,id,history_of_communication,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Telephone,id,now_youre_talking_1927,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Telephone,name,"""Communication """,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Telephone,name,"""Far Speaking """,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Telephone,name,"""Now You're Talking """,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Telephone,name,"""Telephone Memories  """,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Electronics,date,2004-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronics,instrument,Electronics,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Electric current,name,Electric current,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Frequency,name,Frequency,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Frequency,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Capacitor,border,1,outgoing,http://dbpedia.org/ontology/Area,http://dbpedia.org/ontology/Year
+Capacitor,component,Capacitor,outgoing,http://dbpedia.org/ontology/AnatomicalStructure,
+Capacitor,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Capacitor,symbol,230,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Inductor,component,Inductor,outgoing,http://dbpedia.org/ontology/AnatomicalStructure,http://dbpedia.org/ontology/MilitaryUnit
+Inductor,symbol,File:Inductor.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Inductor,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Inductor,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Transistor,width,139,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Transistor,width,144,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Diode,name,Diode,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MilitaryUnit
+Diode,name,Thermionic diode,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Diode,symbol,File:Diode_symbol.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Diode,symbol,110,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Diode,classification,Diode,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Resistor,component,Resistor,outgoing,http://dbpedia.org/ontology/AnatomicalStructure,http://dbpedia.org/ontology/MilitaryUnit
+Resistor,symbol,100,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Transformer,date,December 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Computer,project,v,outgoing,http://dbpedia.org/ontology/Project,
+Computer,engine,Computer,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Computer,instrument,Computer,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Computer,species,Computer,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Central processing unit,width,120,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Central processing unit,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Artificial intelligence,date,November 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Artificial intelligence,date,2017-07-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Artificial intelligence,date,2018-05-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Artificial intelligence,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Artificial intelligence,title,Articles related to Artificial intelligence,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Artificial intelligence,race,Artificial intelligence,incoming,http://dbpedia.org/ontology/Race,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Artificial intelligence,species,Artificial intelligence,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Information technology,almaMater,Information technology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Information technology,occupation,Information technology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Information technology,purpose,Information technology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Information technology,role,Information technology,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Algorithm,date,December 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Algorithm,date,July 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Algorithm,id,p/a011780,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Algorithm,title,Algorithm,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Internet,title,World Trends in Freedom of Expression and Media Development Global Report 2017/2018,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Internet,area,Internet,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/MusicGenre
+Internet,broadcastArea,Internet,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+Internet,channel,Internet,incoming,http://dbpedia.org/ontology/Broadcaster,http://dbpedia.org/ontology/MusicGenre
+Internet,location,Internet,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+Internet,occupation,Internet,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Email,date,2016-05-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Email,freeLabel,Email,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+World Wide Web,code,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World Wide Web,date,July 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World Wide Web,date,2021-03-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World Wide Web,date,2021-07-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World Wide Web,location,World Wide Web,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+World Wide Web,network,World Wide Web,incoming,http://dbpedia.org/ontology/Broadcaster,http://dbpedia.org/ontology/MusicGenre
+Operating system,date,February 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Programming language,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Software,date,January 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,February 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,November 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,2015-02-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,2016-05-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,2017-01-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,date,2017-02-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Renewable energy,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Renewable energy,width,225,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Renewable energy,purpose,Renewable energy,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Electricity,club,Electricity,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/MusicGenre
+Electricity,purpose,Electricity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Electricity,title,Electricity,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Nuclear power,project,Wikiversity,outgoing,http://dbpedia.org/ontology/Project,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Website
+Nuclear power,value,1.8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,2.5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,4.9,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,9.5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,22.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,27.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nuclear power,value,32,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Nuclear power,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nuclear power,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nuclear power,width,520,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nuclear power,ideology,Nuclear power,incoming,http://dbpedia.org/ontology/Ideology,
+Fossil fuel,date,2019-12-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Internal combustion engine,classification,Internal combustion engine,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software
+Internal combustion engine,engine,Internal combustion engine,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Software
+Steam engine,engine,Steam engine,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Software
+Fire,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fire,time,Fire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Disease
+Glass,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Glass,collection,Glass,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Paper,density,From 10 gsm to 3000 gsm,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paper,name,Paper,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ChemicalCompound
+Plastic,date,February 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Plastic,publisher,United Nations Environment Programme,outgoing,http://dbpedia.org/ontology/Agent,
+Plastic,title,Drowning in Plastics – Marine Litter and Plastic Waste Vital Graphics,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Plastic,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Plastic,width,600,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wood,date,2015-04-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wood,height,431,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wood,width,350,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wood,foundation,Wood,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/MusicGenre
+Wood,meaning,Wood,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/MusicGenre
+Transport,value,4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Transport,value,11,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Transport,value,34,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Transport,value,40,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Transport,role,Transport,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Aircraft,date,2009-12-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bicycle,classification,Vehicle,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software
+Bicycle,freeLabel,Types,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bicycle,name,Bicycle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Bicycle,occupation,Bicycle,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Car,classification,Vehicle,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Software
+Car,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Car,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Car,name,Car,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Car,species,Car,incoming,http://dbpedia.org/ontology/Species,
+Submarine,date,January 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Submarine,occupation,Submarine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Film; http://dbpedia.org/ontology/Ship; http://dbpedia.org/ontology/MusicGenre
+Submarine,role,Submarine,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Film; http://dbpedia.org/ontology/Ship; http://dbpedia.org/ontology/MusicGenre
+Train,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sword,symbol,Sword,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Weapon
+Firearm,border,no,outgoing,http://dbpedia.org/ontology/Area,
+Machine gun,date,2016-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Machine gun,weapon,Machine gun,incoming,http://dbpedia.org/ontology/Weapon,http://dbpedia.org/ontology/MilitaryUnit
+Nuclear weapon,role,Nuclear weapon,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Device
+Tank,author,--09-19,outgoing,http://dbpedia.org/ontology/Person,
+Tank,role,Tank,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit
+Explosive,date,2013-05-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gunpowder,date,2020-02-12,outgoing,http://www.w3.org/2001/XMLSchema#date,

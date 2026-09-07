@@ -1,0 +1,47 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Language,45,64,46,37,44,27
+Arabic,45,180,47,125,41,55
+Bengali_language,45,113,45,69,45,44
+Chinese_language,45,300,46,249,39,51
+English_language,28,187,23,147,45,40
+French_language,31,205,25,142,43,63
+German_language,40,182,38,134,45,48
+Greek_language,45,87,47,50,42,37
+Hebrew,42,20,0,0,42,20
+Hindustani_language,46,83,45,71,50,12
+Korean_language,45,77,48,46,42,31
+Japanese_language,39,66,35,33,42,33
+Latin,43,58,44,26,42,32
+Persian_language,46,151,45,114,49,37
+Portuguese_language,38,105,34,63,43,42
+Russian_language,29,136,22,82,40,54
+Sanskrit,40,124,39,88,43,36
+Spanish_language,32,141,24,85,45,56
+Swahili_language,44,79,43,58,45,21
+Turkish_language,43,113,43,81,42,32
+Linguistics,46,42,47,18,46,24
+Grammar,44,9,0,0,44,9
+Word,50,1,0,0,50,1
+Phoneme,0,0,0,0,0,0
+Syllable,25,2,25,2,0,0
+Writing system,33,3,25,2,50,1
+Arabic script,48,24,44,16,56,8
+Chinese characters,47,136,47,129,50,7
+Cyrillic script,47,37,46,26,50,11
+Greek alphabet,39,48,37,42,50,6
+Latin script,44,31,42,26,50,5
+Literacy,44,34,41,17,47,17
+Translation,48,24,45,10,50,14
+Literature,47,47,46,26,48,21
+Prose,50,7,50,4,50,3
+The Art of War,48,23,48,23,0,0
+Fiction,48,30,46,14,50,16
+One Thousand and One Nights,35,10,33,9,50,1
+Novel,50,10,0,0,50,10
+Dream of the Red Chamber,49,160,49,160,0,0
+The Tale of Genji,50,21,50,21,0,0
+Poetry,48,30,50,4,48,26
+Epic of Gilgamesh,50,8,50,8,0,0
+Iliad,50,45,50,44,50,1
+Mahabharata,43,21,47,15,33,6
+Shāhnāma,0,0,0,0,0,0

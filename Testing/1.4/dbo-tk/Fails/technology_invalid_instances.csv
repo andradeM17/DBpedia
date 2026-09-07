@@ -1,0 +1,61 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Technology,award,Technology,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,ideology,Technology,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,occupation,Technology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Technology,publisher,Technology,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Engineering,award,Engineering,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Engineering,genre,Engineering,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Engineering,instrument,Engineering,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Engineering,keyPerson,Engineering,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Robot,species,Robot,incoming,http://dbpedia.org/ontology/Species,
+Metallurgy,institution,Metallurgy,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/Protein
+Nanotechnology,award,Nanotechnology,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Encyclopedia,occupation,Encyclopedia,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Journalism,almaMater,Journalism,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Journalism,constituencyDistrict,Journalism,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+Journalism,occupation,Journalism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Newspaper,genre,Newspaper,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PeriodicalLiterature; http://dbpedia.org/ontology/PersonFunction
+Library,occupation,Library,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Book,basedOn,Book,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/PersonFunction
+Book,genre,Book,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Printing,occupation,Printing,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Electronics,almaMater,Electronics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Electronics,bandMember,Electronics,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Electronics,instrument,Electronics,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Electronics,occupation,Electronics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Computer,instrument,Computer,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Computer,occupation,Computer,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Computer,publisher,Computer,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Computer,species,Computer,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Device; http://dbpedia.org/ontology/MusicGenre
+Artificial intelligence,keyPerson,Artificial intelligence,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Artificial intelligence,occupation,Artificial intelligence,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Artificial intelligence,regionServed,Artificial intelligence,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Artificial intelligence,species,Artificial intelligence,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Information technology,almaMater,Information technology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Information technology,keyPerson,Information technology,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Information technology,occupation,Information technology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/MusicGenre
+Internet,affiliation,Internet,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/MusicGenre
+Internet,broadcastArea,Internet,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+Internet,channel,Internet,incoming,http://dbpedia.org/ontology/Broadcaster,http://dbpedia.org/ontology/MusicGenre
+Internet,headquarter,Internet,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+Internet,location,Internet,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+Internet,occupation,Internet,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Internet,regionServed,Internet,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+World Wide Web,headquarter,World Wide Web,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/MusicGenre
+World Wide Web,location,World Wide Web,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+World Wide Web,network,World Wide Web,incoming,http://dbpedia.org/ontology/Broadcaster,http://dbpedia.org/ontology/MusicGenre
+Programming language,occupation,Programming language,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Language; http://dbpedia.org/ontology/MusicGenre
+Software,developer,Software,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/TelevisionShow; http://dbpedia.org/ontology/MusicGenre
+Software,occupation,Software,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/TelevisionShow; http://dbpedia.org/ontology/MusicGenre
+Electricity,occupation,Electricity,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Nuclear power,ideology,Nuclear power,incoming,http://dbpedia.org/ontology/Ideology,
+Internal combustion engine,automobilePlatform,Internal combustion engine,incoming,http://dbpedia.org/ontology/Automobile,http://dbpedia.org/ontology/Software
+Internal combustion engine,engine,Internal combustion engine,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Software
+Paper,genre,Paper,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/ChemicalCompound
+Transport,genre,Transport,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Bicycle,occupation,Bicycle,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MeanOfTransportation; http://dbpedia.org/ontology/MusicGenre
+Car,species,Car,incoming,http://dbpedia.org/ontology/Species,
+Submarine,occupation,Submarine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Film; http://dbpedia.org/ontology/Ship; http://dbpedia.org/ontology/MusicGenre
+Train,associatedBand,Train,incoming,http://dbpedia.org/ontology/Band,
+Train,associatedMusicalArtist,Train,incoming,http://dbpedia.org/ontology/MusicalArtist,
+Firearm,genre,Firearm,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/Weapon

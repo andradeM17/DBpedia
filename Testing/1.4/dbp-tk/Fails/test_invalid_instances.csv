@@ -1,0 +1,140 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+China,areaRank,3,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+China,commonName,China,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,currencyCode,CNY,outgoing,http://www.w3.org/2001/XMLSchema#string,
+China,demonym,Chinese,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,governmentType,Marxism–Leninism,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Organisation
+China,governmentType,One-party_state,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace
+China,governmentType,Republic,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,governmentType,Socialist_state,outgoing,http://dbpedia.org/ontology/GovernmentType,
+China,governmentType,Unitary_state,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace
+China,leaderTitle,CCP General Secretary,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,leaderTitle,CMC Chairman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,leaderTitle,CPPCC Chairman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,leaderTitle,President,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+China,leaderTitle,Chairman_of_the_Standing_Committee_of_the_National_People's_Congress,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,leaderTitle,Premier_of_the_People's_Republic_of_China,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person
+China,leaderTitle,1,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+China,mapCaption,Territory controlled by the People's Republic of China shown in dark green; territory claimed but not controlled shown in light green,outgoing,http://www.w3.org/2001/XMLSchema#string,
+China,title,Articles related to China,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+China,utcOffset,UTC+08:00,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Galaxy
+China,width,115,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+China,width,120,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+China,width,122,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+China,address,China,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,allegiance,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,almaMater,China,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,area,China,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,birthDate,China,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,birthName,China,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,city,China,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,combatant,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,deathDate,China,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,end,China,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,foundation,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,free,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,genre,China,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,hometown,China,incoming,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,landingSite,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,locationCity,China,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,membership,China,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,minority,China,incoming,http://dbpedia.org/ontology/Group,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,name,China,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,nation,China,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,nationalTeam,China,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,owner,China,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,parent,China,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+China,stadium,China,incoming,http://dbpedia.org/ontology/Stadium,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,areaRank,5,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Brazil,capital,Brasília,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Brazil,commonName,Brazil,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,currencyCode,BRL,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Brazil,demonym,Brazilians,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Brazil,governmentType,Federalism,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Brazil,governmentType,Presidential_system,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Brazil,governmentType,Republic,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,leaderName,,outgoing,http://dbpedia.org/ontology/Person,
+Brazil,leaderTitle,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,leaderTitle,President_of_Brazil,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,leaderTitle,President_of_the_Chamber_of_Deputies_(Brazil),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,leaderTitle,President_of_the_Federal_Senate_(Brazil),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,leaderTitle,Supreme_Federal_Court,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place
+Brazil,leaderTitle,Vice_President_of_Brazil,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,legislature,,outgoing,http://dbpedia.org/ontology/Legislature,
+Brazil,reference,"Wright, Simon. 1992. Villa-Lobos. Oxford and New York: Oxford University Press.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Brazil,title,Topics related to Brazil,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Brazil,utcOffset,−2 to −5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Brazil,value,0.4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,1.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Brazil,value,3.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,7.6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Brazil,value,22.2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,43.1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,47.7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,value,64.59999999999999,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Brazil,width,170,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Brazil,width,185,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Brazil,width,190,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Brazil,width,210,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Brazil,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Brazil,address,Brazil,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,allegiance,Brazil,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,area,Brazil,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,beltwayCity,Brazil,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,birthDate,Brazil,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,birthName,Brazil,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,capital,Brazil,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,city,Brazil,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,deathDate,Brazil,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,end,Brazil,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,foundation,Brazil,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,hometown,Brazil,incoming,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,locationCity,Brazil,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,membership,Brazil,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,museum,Brazil,incoming,http://dbpedia.org/ontology/Museum,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,nation,Brazil,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,note,Brazil,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,production,Brazil,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Brazil,stadium,Brazil,incoming,http://dbpedia.org/ontology/Stadium,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+India,animal,,outgoing,http://dbpedia.org/ontology/Animal,
+India,animal,Bengal tiger,outgoing,http://dbpedia.org/ontology/Animal,
+India,animal,Indian peafowl,outgoing,http://dbpedia.org/ontology/Animal,
+India,animal,River dolphin,outgoing,http://dbpedia.org/ontology/Animal,
+India,anthem,Jana Gana Mana,outgoing,http://dbpedia.org/ontology/Work,
+India,areaRank,7,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+India,commonName,India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,currency,₹,outgoing,http://dbpedia.org/ontology/Currency,
+India,currencyCode,INR,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,demonym,Indian_people,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+India,emblem,State_Emblem_of_India,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,flag,Flag_of_India,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,governmentType,Constitution_of_India,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Agent
+India,governmentType,Federalism,outgoing,http://dbpedia.org/ontology/GovernmentType,
+India,governmentType,Parliamentary_system,outgoing,http://dbpedia.org/ontology/GovernmentType,
+India,governmentType,Republic,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+India,language,None,outgoing,http://dbpedia.org/ontology/Language,
+India,largestCity,,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+India,leaderTitle,Chief_Justice_of_India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person
+India,leaderTitle,President_of_India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/OfficeHolder
+India,leaderTitle,Prime_Minister_of_India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/OfficeHolder
+India,leaderTitle,Speaker_of_the_Lok_Sabha,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PoliticalParty
+India,leaderTitle,Vice_President_of_India,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building
+India,mapCaption,Territory controlled by India shown in dark green; territory claimed but not controlled shown in light green,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,regionType,National,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,title,India by language,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+India,title,National symbols,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+India,title,Related topics,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+India,utcOffset,330.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+India,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+India,year,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+India,address,India,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,affiliation,India,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,allegiance,India,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,almaMater,India,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,area,India,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,birthDate,India,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,birthName,India,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,capital,India,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+India,city,India,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country

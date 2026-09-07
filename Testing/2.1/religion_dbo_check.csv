@@ -1,0 +1,806 @@
+property,dbp_property,status
+Fundamentalism,criminalStatus,no result
+Fundamentalism,fields,no result
+Fundamentalism,ideology,valid
+Fundamentalism,subject,no result
+God,perrow,no result
+God,s,no result
+God,deity,no result
+God,family,valid
+God,footer,no result
+God,father,valid
+God,image,no result
+God,mainCharTeam,no result
+God,subject,no result
+God,parents,no result
+God,url,no result
+God,symbol,valid
+God,callsignMeaning,valid
+God,species,valid
+God,date,valid
+God,totalWidth,no result
+God,guru,no result
+God,b,no result
+Monotheism,theology,valid
+Monotheism,find,no result
+Monotheism,subject,no result
+Monotheism,subDiscipline,no result
+Monotheism,date,valid
+Polytheism,theology,valid
+Polytheism,3a,no result
+Polytheism,1p,no result
+Polytheism,religions,no result
+Polytheism,4y,no result
+Polytheism,1y,no result
+Polytheism,2y,no result
+Polytheism,4a,no result
+Polytheism,1a,no result
+Polytheism,2loc,no result
+Polytheism,religion,no result
+Polytheism,3y,no result
+Polytheism,rels,no result
+Polytheism,2a,no result
+Polytheism,3pp,no result
+Mythology,writer,valid
+Mythology,focus,no result
+Mythology,grouping,no result
+Mythology,subject,no result
+Mythology,fields,no result
+Mythology,subjects,no result
+Mythology,genre,valid
+Mythology,mainInterests,no result
+Reincarnation,data,no result
+Reincarnation,subject,no result
+Religion,focus,no result
+Religion,virtues,no result
+Religion,field,no result
+Religion,left,no result
+Religion,date,valid
+Religion,topics,no result
+Religion,subject,no result
+Religion,url,no result
+Religion,fields,no result
+Religion,knownFor,no result
+Religion,label,no result
+Religion,genre,valid
+Religion,demographicsType,no result
+Religion,subdivisionType,no result
+Religion,industry,no result
+Religion,category,no result
+Religion,production,valid
+Religion,populationBlank2Title,no result
+Religion,format,no result
+Religion,dept,no result
+Religion,occupation,valid
+Religion,blank,no result
+Religion,discipline,no result
+Religion,demographics1Title,no result
+Religion,type,no result
+Religion,longtype,valid
+Religion,genres,no result
+Religion,subjects,no result
+Religion,mainInterests,no result
+Religion,religiousAffiliation,no result
+Soul,date,valid
+Soul,mainInterests,no result
+Soul,find,no result
+Soul,genre,valid
+Buddhism,demographics1Info,no result
+Buddhism,order,no result
+Buddhism,image,no result
+Buddhism,field,no result
+Buddhism,initiation,no result
+Buddhism,movement,no result
+Buddhism,religions,no result
+Buddhism,in,no result
+Buddhism,date,valid
+Buddhism,influences,no result
+Buddhism,observedby,no result
+Buddhism,affiliation,valid
+Buddhism,topics,no result
+Buddhism,first,no result
+Buddhism,data,no result
+Buddhism,demographics2Title,no result
+Buddhism,title,valid
+Buddhism,rps,no result
+Buddhism,ethnicity,valid
+Buddhism,subject,no result
+Buddhism,religion,no result
+Buddhism,fields,no result
+Buddhism,school,valid
+Buddhism,knownFor,no result
+Buddhism,label,no result
+Buddhism,mainClassification,no result
+Buddhism,genre,valid
+Buddhism,direction,no result
+Buddhism,last,no result
+Buddhism,philosophy,no result
+Buddhism,emphasis,no result
+Buddhism,pp,no result
+Buddhism,align,no result
+Buddhism,voy,no result
+Buddhism,category,no result
+Buddhism,rels,no result
+Buddhism,caption,no result
+Buddhism,cultures,no result
+Buddhism,reason,no result
+Buddhism,totalWidth,no result
+Buddhism,schoolTradition,no result
+Buddhism,occupation,valid
+Buddhism,target,no result
+Buddhism,perrow,no result
+Buddhism,traditions,no result
+Buddhism,width,valid
+Buddhism,alt,no result
+Buddhism,purpose,valid
+Buddhism,footer,no result
+Buddhism,type,no result
+Buddhism,veneratedIn,valid
+Buddhism,year,valid
+Buddhism,c,no result
+Buddhism,d,no result
+Buddhism,blank1InfoSec,no result
+Buddhism,populationBlank,no result
+Buddhism,mainInterests,no result
+Buddhism,religiousAffiliation,no result
+Christianity,churches,no result
+Christianity,image,no result
+Christianity,demographics2Info,no result
+Christianity,foundedDate,no result
+Christianity,topics,no result
+Christianity,title,valid
+Christianity,affiliations,no result
+Christianity,subject,no result
+Christianity,religion,no result
+Christianity,emphasis,no result
+Christianity,region,valid
+Christianity,territory,valid
+Christianity,governmentType,valid
+Christianity,caption,no result
+Christianity,headquarters,no result
+Christianity,occupation,valid
+Christianity,honoredIn,no result
+Christianity,orientation,valid
+Christianity,demographics1Info,no result
+Christianity,blank3NameSec,no result
+Christianity,area,valid
+Christianity,language,valid
+Christianity,tradition,no result
+Christianity,mainClassification,no result
+Christianity,absorbed,no result
+Christianity,schooltype,no result
+Christianity,format,no result
+Christianity,schoolTradition,no result
+Christianity,wikt,no result
+Christianity,theology,valid
+Christianity,veneratedIn,valid
+Christianity,type,no result
+Christianity,longtype,valid
+Christianity,d,no result
+Christianity,church,no result
+Christianity,populationBlank,no result
+Christianity,mainInterests,no result
+Christianity,churchmanship,no result
+Christianity,scripture,no result
+Christianity,religions,no result
+Christianity,date,valid
+Christianity,s,no result
+Christianity,url,no result
+Christianity,knownFor,no result
+Christianity,genre,valid
+Christianity,cult,no result
+Christianity,category,no result
+Christianity,foundedPlace,no result
+Christianity,rels,no result
+Christianity,founder,valid
+Christianity,traditions,no result
+Christianity,b,no result
+Christianity,denomination,no result
+Christianity,footer,no result
+Christianity,blank1InfoSec,no result
+Christianity,focus,no result
+Christianity,group,no result
+Christianity,separatedFrom,no result
+Christianity,nativeName,no result
+Christianity,free,valid
+Christianity,influences,no result
+Christianity,affiliation,valid
+Christianity,data,no result
+Christianity,demographics2Title,no result
+Christianity,imagewidth,no result
+Christianity,bgcolor,no result
+Christianity,freeText,no result
+Christianity,label,no result
+Christianity,auto,no result
+Christianity,direction,no result
+Christianity,ideology,valid
+Christianity,align,no result
+Christianity,source,no result
+Christianity,name,valid
+Christianity,quote,valid
+Christianity,meaning,valid
+Christianity,political,no result
+Christianity,totalWidth,no result
+Christianity,perrow,no result
+Christianity,width,valid
+Christianity,profession,no result
+Christianity,religiousAffiliation,no result
+Catholic Church,iconAlt,no result
+Catholic Church,image,no result
+Catholic Church,foundedDate,no result
+Catholic Church,topics,no result
+Catholic Church,title,valid
+Catholic Church,affiliations,no result
+Catholic Church,icon,no result
+Catholic Church,subject,no result
+Catholic Church,origin,valid
+Catholic Church,religion,no result
+Catholic Church,rite,no result
+Catholic Church,liturgy,no result
+Catholic Church,acceptedBy,no result
+Catholic Church,landlord,no result
+Catholic Church,caption,no result
+Catholic Church,headquarters,no result
+Catholic Church,branchedFrom,no result
+Catholic Church,venerated,no result
+Catholic Church,occupation,valid
+Catholic Church,honoredIn,no result
+Catholic Church,orientation,valid
+Catholic Church,website,no result
+Catholic Church,fellowshipsType,no result
+Catholic Church,members,no result
+Catholic Church,restingPlace,valid
+Catholic Church,sect,no result
+Catholic Church,observedby,no result
+Catholic Church,status,valid
+Catholic Church,area,valid
+Catholic Church,language,valid
+Catholic Church,religiousInstitute,no result
+Catholic Church,jurisdiction,no result
+Catholic Church,memberOf,no result
+Catholic Church,originalUse,no result
+Catholic Church,mainClassification,no result
+Catholic Church,divisionType,no result
+Catholic Church,merger,no result
+Catholic Church,organisers,no result
+Catholic Church,architecturalType,no result
+Catholic Church,format,no result
+Catholic Church,wikt,no result
+Catholic Church,theology,valid
+Catholic Church,diocese,valid
+Catholic Church,veneratedIn,valid
+Catholic Church,type,no result
+Catholic Church,ministers,no result
+Catholic Church,church,no result
+Catholic Church,patronage,no result
+Catholic Church,scripture,no result
+Catholic Church,blankInfoSec,no result
+Catholic Church,religions,no result
+Catholic Church,primarySchools,no result
+Catholic Church,parentOrganization,no result
+Catholic Church,allegiance,valid
+Catholic Church,adminCenter,no result
+Catholic Church,nativeNameLang,no result
+Catholic Church,cult,no result
+Catholic Church,approval,no result
+Catholic Church,category,no result
+Catholic Church,foundedPlace,no result
+Catholic Church,relatedto,no result
+Catholic Church,rels,no result
+Catholic Church,founder,valid
+Catholic Church,traditions,no result
+Catholic Church,ministersType,no result
+Catholic Church,b,no result
+Catholic Church,denomination,no result
+Catholic Church,fellowships,no result
+Catholic Church,alt,no result
+Catholic Church,footer,no result
+Catholic Church,patrons,no result
+Catholic Church,blank1InfoSec,no result
+Catholic Church,billed,valid
+Catholic Church,institution,valid
+Catholic Church,group,no result
+Catholic Church,secondarySchools,no result
+Catholic Church,float,no result
+Catholic Church,leaderTitle,valid
+Catholic Church,separatedFrom,no result
+Catholic Church,owners,no result
+Catholic Church,nativeName,no result
+Catholic Church,beatifiedBy,valid
+Catholic Church,affiliation,valid
+Catholic Church,data,no result
+Catholic Church,imagewidth,no result
+Catholic Church,leaderName,valid
+Catholic Church,polity,no result
+Catholic Church,label,no result
+Catholic Church,previousDenomination,no result
+Catholic Church,ideology,valid
+Catholic Church,align,no result
+Catholic Church,organisationalStatus,no result
+Catholic Church,name,valid
+Catholic Church,parentChurch,no result
+Catholic Church,division,no result
+Catholic Church,hospitals,no result
+Catholic Church,iconWidth,no result
+Catholic Church,width,valid
+Catholic Church,v,no result
+Catholic Church,organization,no result
+Catholic Church,canonizedDate,valid
+Catholic Church,combatant,valid
+Catholic Church,religiousAffiliation,no result
+Protestantism,churchmanship,no result
+Protestantism,demographics1Info,no result
+Protestantism,group,no result
+Protestantism,image,no result
+Protestantism,religions,no result
+Protestantism,sect,no result
+Protestantism,affiliation,valid
+Protestantism,topics,no result
+Protestantism,data,no result
+Protestantism,traditionMovement,no result
+Protestantism,subject,no result
+Protestantism,religion,no result
+Protestantism,influenced,no result
+Protestantism,label,no result
+Protestantism,mainClassification,no result
+Protestantism,direction,no result
+Protestantism,ideology,valid
+Protestantism,rite,no result
+Protestantism,align,no result
+Protestantism,rels,no result
+Protestantism,size,no result
+Protestantism,caption,no result
+Protestantism,schooltype,no result
+Protestantism,totalWidth,no result
+Protestantism,denomination,no result
+Protestantism,occupation,valid
+Protestantism,width,valid
+Protestantism,type,no result
+Protestantism,footer,no result
+Protestantism,orientation,valid
+Protestantism,blank1InfoSec,no result
+Protestantism,religiousAffiliation,no result
+Hinduism,group,no result
+Hinduism,demographics1Info,no result
+Hinduism,1pp,no result
+Hinduism,image,no result
+Hinduism,religions,no result
+Hinduism,separatedFrom,no result
+Hinduism,in,no result
+Hinduism,"klostermaier%22''brahman'',DerivedFromTheRoot''bŗh''%3Cnowiki%3E_",no result
+Hinduism,2pp,no result
+Hinduism,sect,no result
+Hinduism,2a,no result
+Hinduism,date,valid
+Hinduism,observedby,no result
+Hinduism,demographics2Info,no result
+Hinduism,affiliation,valid
+Hinduism,topics,no result
+Hinduism,first,no result
+Hinduism,s,no result
+Hinduism,data,no result
+Hinduism,demographics2Title,no result
+Hinduism,title,valid
+Hinduism,affiliations,no result
+Hinduism,architect,valid
+Hinduism,subject,no result
+Hinduism,n,no result
+Hinduism,religion,no result
+Hinduism,2y,no result
+Hinduism,fixAttempted,no result
+Hinduism,url,no result
+Hinduism,1a,no result
+Hinduism,tradition,no result
+Hinduism,label,no result
+Hinduism,3y,no result
+Hinduism,authorLink,no result
+Hinduism,bot,no result
+Hinduism,genre,valid
+Hinduism,style,no result
+Hinduism,direction,no result
+Hinduism,deity,no result
+Hinduism,last,no result
+Hinduism,philosophy,no result
+Hinduism,region,valid
+Hinduism,captionAlign,no result
+Hinduism,architecture,no result
+Hinduism,align,no result
+Hinduism,1y,no result
+Hinduism,voy,no result
+Hinduism,name,valid
+Hinduism,blank6InfoSec,no result
+Hinduism,rels,no result
+Hinduism,caption,no result
+Hinduism,cultures,no result
+Hinduism,totalWidth,no result
+Hinduism,schoolTradition,no result
+Hinduism,denomination,no result
+Hinduism,traditions,no result
+Hinduism,perrow,no result
+Hinduism,3a,no result
+Hinduism,alt,no result
+Hinduism,veneratedIn,valid
+Hinduism,footer,no result
+Hinduism,year,valid
+Hinduism,no,no result
+Hinduism,c,no result
+Hinduism,d,no result
+Hinduism,blank1InfoSec,no result
+Hinduism,blankInfo,no result
+Hinduism,populationBlank,no result
+Hinduism,2p,no result
+Hinduism,mainInterests,no result
+Hinduism,religiousAffiliation,no result
+Islam,demographics2Info,no result
+Islam,foundedDate,no result
+Islam,commons,no result
+Islam,title,valid
+Islam,affiliations,no result
+Islam,subject,no result
+Islam,n,no result
+Islam,religion,no result
+Islam,q,no result
+Islam,last,no result
+Islam,region,valid
+Islam,territory,valid
+Islam,caption,no result
+Islam,occupation,valid
+Islam,honoredIn,no result
+Islam,demographics1Info,no result
+Islam,filename,valid
+Islam,sect,no result
+Islam,language,valid
+Islam,tradition,no result
+Islam,fields,no result
+Islam,mainClassification,no result
+Islam,populationBlank2Title,no result
+Islam,format,no result
+Islam,schoolTradition,no result
+Islam,wikt,no result
+Islam,theology,valid
+Islam,discipline,no result
+Islam,veneratedIn,valid
+Islam,type,no result
+Islam,longtype,valid
+Islam,c,no result
+Islam,d,no result
+Islam,species,valid
+Islam,mw,no result
+Islam,populationBlank,no result
+Islam,mainInterests,no result
+Islam,scripture,no result
+Islam,1namedata,no result
+Islam,blankInfoSec,no result
+Islam,religions,no result
+Islam,relegion,no result
+Islam,separations,no result
+Islam,dedicatedTo,no result
+Islam,first,no result
+Islam,s,no result
+Islam,school,valid
+Islam,genre,valid
+Islam,religión,no result
+Islam,philosophy,no result
+Islam,description,valid
+Islam,voy,no result
+Islam,foundedPlace,no result
+Islam,m,no result
+Islam,category,no result
+Islam,founder,valid
+Islam,relatedto,no result
+Islam,rels,no result
+Islam,traditions,no result
+Islam,b,no result
+Islam,denomination,no result
+Islam,target,no result
+Islam,p,no result
+Islam,year,valid
+Islam,blank1InfoSec,no result
+Islam,focus,no result
+Islam,notableIdeas,no result
+Islam,pos,no result
+Islam,separatedFrom,no result
+Islam,in,no result
+Islam,event,valid
+Islam,influences,no result
+Islam,affiliation,valid
+Islam,data,no result
+Islam,demographics2Title,no result
+Islam,imagewidth,no result
+Islam,subdivisionName,valid
+Islam,label,no result
+Islam,previousDenomination,no result
+Islam,style,no result
+Islam,ideology,valid
+Islam,name,valid
+Islam,relations,no result
+Islam,v,no result
+Islam,religiousAffiliation,no result
+Shia Islam,maddhab,no result
+Shia Islam,order,no result
+Shia Islam,image,no result
+Shia Islam,religions,no result
+Shia Islam,madh'hab,no result
+Shia Islam,sect,no result
+Shia Islam,date,valid
+Shia Islam,observedby,no result
+Shia Islam,prefix,valid
+Shia Islam,affiliation,valid
+Shia Islam,data,no result
+Shia Islam,ethnicity,valid
+Shia Islam,title,valid
+Shia Islam,religion,no result
+Shia Islam,noredlinks,no result
+Shia Islam,tradition,no result
+Shia Islam,school,valid
+Shia Islam,label,no result
+Shia Islam,ideology,valid
+Shia Islam,region,valid
+Shia Islam,rite,no result
+Shia Islam,align,no result
+Shia Islam,rels,no result
+Shia Islam,opponents,no result
+Shia Islam,reason,no result
+Shia Islam,traditions,no result
+Shia Islam,schoolTradition,no result
+Shia Islam,denomination,no result
+Shia Islam,target,no result
+Shia Islam,width,valid
+Shia Islam,footer,no result
+Shia Islam,jurisprudence,no result
+Shia Islam,creed,no result
+Shia Islam,combatant,valid
+Shia Islam,religiousAffiliation,no result
+Sunni Islam,movement,no result
+Sunni Islam,religions,no result
+Sunni Islam,sect,no result
+Sunni Islam,date,valid
+Sunni Islam,affiliation,valid
+Sunni Islam,data,no result
+Sunni Islam,affiliations,no result
+Sunni Islam,religion,no result
+Sunni Islam,tradition,no result
+Sunni Islam,label,no result
+Sunni Islam,bot,no result
+Sunni Islam,nationality,valid
+Sunni Islam,ideology,valid
+Sunni Islam,rite,no result
+Sunni Islam,rels,no result
+Sunni Islam,political,no result
+Sunni Islam,traditions,no result
+Sunni Islam,schoolTradition,no result
+Sunni Islam,denomination,no result
+Sunni Islam,veneratedIn,valid
+Sunni Islam,creed,no result
+Sunni Islam,populationBlank,no result
+Sunni Islam,religiousAffiliation,no result
+Jainism,image,no result
+Jainism,religions,no result
+Jainism,kalagumalai,no result
+Jainism,affiliation,valid
+Jainism,data,no result
+Jainism,subject,no result
+Jainism,architectureStyle,no result
+Jainism,bgcolor,no result
+Jainism,religion,no result
+Jainism,knownFor,no result
+Jainism,label,no result
+Jainism,align,no result
+Jainism,source,no result
+Jainism,name,valid
+Jainism,quote,valid
+Jainism,rels,no result
+Jainism,flagCaption,valid
+Jainism,caption,no result
+Jainism,totalWidth,no result
+Jainism,traditions,no result
+Jainism,discipline,no result
+Jainism,alt,no result
+Jainism,veneratedIn,valid
+Jainism,footer,no result
+Jainism,religiousAffiliation,no result
+Judaism,focus,no result
+Judaism,scripture,no result
+Judaism,members,no result
+Judaism,image,no result
+Judaism,leaderTitle,valid
+Judaism,religions,no result
+Judaism,separatedFrom,no result
+Judaism,date,valid
+Judaism,influences,no result
+Judaism,foundedDate,no result
+Judaism,affiliation,valid
+Judaism,area,valid
+Judaism,data,no result
+Judaism,language,valid
+Judaism,demographics2Title,no result
+Judaism,affiliations,no result
+Judaism,imagewidth,no result
+Judaism,subject,no result
+Judaism,religion,no result
+Judaism,period,no result
+Judaism,fields,no result
+Judaism,label,no result
+Judaism,mainClassification,no result
+Judaism,genre,valid
+Judaism,direction,no result
+Judaism,align,no result
+Judaism,source,no result
+Judaism,foundedPlace,no result
+Judaism,name,valid
+Judaism,quote,valid
+Judaism,founder,valid
+Judaism,category,no result
+Judaism,caption,no result
+Judaism,rels,no result
+Judaism,reason,no result
+Judaism,equivalent1Type,no result
+Judaism,format,no result
+Judaism,schoolTradition,no result
+Judaism,denomination,no result
+Judaism,congregations,no result
+Judaism,traditions,no result
+Judaism,theology,valid
+Judaism,width,valid
+Judaism,veneratedIn,valid
+Judaism,type,no result
+Judaism,honoredIn,no result
+Judaism,purpose,valid
+Judaism,ministers,no result
+Judaism,mainInterests,no result
+Judaism,religiousAffiliation,no result
+Shinto,1pp,no result
+Shinto,4p,no result
+Shinto,1p,no result
+Shinto,6p,no result
+Shinto,religions,no result
+Shinto,2pp,no result
+Shinto,2a,no result
+Shinto,date,valid
+Shinto,5a,no result
+Shinto,commons,no result
+Shinto,affiliation,valid
+Shinto,data,no result
+Shinto,s,no result
+Shinto,n,no result
+Shinto,religion,no result
+Shinto,2y,no result
+Shinto,url,no result
+Shinto,1a,no result
+Shinto,3y,no result
+Shinto,q,no result
+Shinto,5y,no result
+Shinto,3p,no result
+Shinto,6y,no result
+Shinto,4pp,no result
+Shinto,4y,no result
+Shinto,1y,no result
+Shinto,align,no result
+Shinto,source,no result
+Shinto,quote,valid
+Shinto,m,no result
+Shinto,voy,no result
+Shinto,rels,no result
+Shinto,b,no result
+Shinto,5p,no result
+Shinto,6a,no result
+Shinto,3a,no result
+Shinto,width,valid
+Shinto,v,no result
+Shinto,type,no result
+Shinto,4a,no result
+Shinto,5pp,no result
+Shinto,d,no result
+Shinto,species,valid
+Shinto,mw,no result
+Shinto,3pp,no result
+Shinto,2p,no result
+Shinto,religiousAffiliation,no result
+Sikhism,footnotes,no result
+Sikhism,demographics1Info,no result
+Sikhism,religions,no result
+Sikhism,certain,no result
+Sikhism,date,valid
+Sikhism,observedby,no result
+Sikhism,data,no result
+Sikhism,s,no result
+Sikhism,demographics2Title,no result
+Sikhism,n,no result
+Sikhism,religion,no result
+Sikhism,label,no result
+Sikhism,style,no result
+Sikhism,ideology,valid
+Sikhism,align,no result
+Sikhism,quote,valid
+Sikhism,rels,no result
+Sikhism,political,no result
+Sikhism,reason,no result
+Sikhism,width,valid
+Sikhism,v,no result
+Sikhism,type,no result
+Sikhism,c,no result
+Sikhism,d,no result
+Sikhism,religiousAffiliation,no result
+Taoism,1pp,no result
+Taoism,collapse,no result
+Taoism,1p,no result
+Taoism,l,no result
+Taoism,order,no result
+Taoism,bpmf,no result
+Taoism,image,no result
+Taoism,religions,no result
+Taoism,certain,no result
+Taoism,ocBs,no result
+Taoism,showflag,no result
+Taoism,2a,no result
+Taoism,date,valid
+Taoism,influences,no result
+Taoism,sect,no result
+Taoism,affiliation,valid
+Taoism,tl,no result
+Taoism,data,no result
+Taoism,pic,no result
+Taoism,title,valid
+Taoism,mc,no result
+Taoism,subject,no result
+Taoism,subDiscipline,no result
+Taoism,religion,no result
+Taoism,2y,no result
+Taoism,veneration,no result
+Taoism,1a,no result
+Taoism,myr,no result
+Taoism,knownFor,no result
+Taoism,3y,no result
+Taoism,label,no result
+Taoism,t,no result
+Taoism,piccap,no result
+Taoism,w,no result
+Taoism,direction,no result
+Taoism,wordnet_type,no result
+Taoism,align,no result
+Taoism,1y,no result
+Taoism,rels,no result
+Taoism,2p,no result
+Taoism,caption,no result
+Taoism,cultures,no result
+Taoism,totalWidth,no result
+Taoism,wuu,no result
+Taoism,schoolTradition,no result
+Taoism,poj,no result
+Taoism,3a,no result
+Taoism,width,valid
+Taoism,discipline,no result
+Taoism,p,no result
+Taoism,j,no result
+Taoism,type,no result
+Taoism,c,no result
+Taoism,y,no result
+Taoism,labels,no result
+Taoism,3pp,no result
+Taoism,gr,no result
+Taoism,religiousAffiliation,no result
+Zoroastrianism,image,no result
+Zoroastrianism,religions,no result
+Zoroastrianism,affiliation,valid
+Zoroastrianism,commons,no result
+Zoroastrianism,data,no result
+Zoroastrianism,s,no result
+Zoroastrianism,n,no result
+Zoroastrianism,religion,no result
+Zoroastrianism,fields,no result
+Zoroastrianism,q,no result
+Zoroastrianism,align,no result
+Zoroastrianism,voy,no result
+Zoroastrianism,m,no result
+Zoroastrianism,rels,no result
+Zoroastrianism,caption,no result
+Zoroastrianism,totalWidth,no result
+Zoroastrianism,traditions,no result
+Zoroastrianism,b,no result
+Zoroastrianism,v,no result
+Zoroastrianism,veneratedIn,valid
+Zoroastrianism,d,no result
+Zoroastrianism,species,valid
+Zoroastrianism,mw,no result
+Zoroastrianism,mainInterests,no result
+Zoroastrianism,religiousAffiliation,no result

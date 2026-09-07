@@ -1,0 +1,161 @@
+Geography
+City
+Continent
+Forest
+Mountain
+Desert
+North Pole
+Ocean
+River
+Sea
+South Pole
+
+Africa
+Antarctica
+Asia
+Europe
+Middle East
+North America
+Oceania
+South America
+
+Algeria
+Democratic Republic of the Congo
+Egypt
+Ethiopia
+Nigeria
+South Africa
+Sudan
+Tanzania
+
+Afghanistan
+Bangladesh
+China
+India
+Indonesia
+Iran
+Iraq
+Israel
+Japan
+Pakistan
+Philippines
+Saudi Arabia
+South Korea
+Thailand
+Turkey
+Vietnam
+
+Austria
+France
+Germany
+Italy
+Netherlands
+Poland
+Portugal
+Russia
+Spain
+Switzerland
+Ukraine
+United Kingdom
+Vatican City
+
+Canada
+Cuba
+Mexico
+United States
+
+Argentina
+Brazil
+Colombia
+
+Australia
+
+Cairo
+Cape Town
+Kinshasa
+Lagos
+Nairobi
+
+Baghdad
+Bangkok
+Beijing
+Damascus
+Delhi
+Dhaka
+Dubai
+Hong Kong
+Jakarta
+Jerusalem
+Karachi
+Kolkata
+Mecca
+Mumbai
+Seoul
+Shanghai
+Singapore
+Tehran
+Tokyo
+
+Amsterdam
+Athens
+Berlin
+Brussels
+Istanbul
+London
+Madrid
+Moscow
+Paris
+Rome
+Saint Petersburg
+Vienna
+
+Los Angeles
+Mexico City
+New York City
+Washington, D.C.
+
+Bogotá
+Buenos Aires
+Rio de Janeiro
+São Paulo
+
+Sydney
+
+Amazon River
+Arctic Ocean
+Atlantic Ocean
+Baltic Sea
+Black Sea
+Caribbean Sea
+Caspian Sea
+Congo River
+Danube
+Ganges
+Great Barrier Reef
+Great Lakes
+Indian Ocean
+Indus River
+Lake Baikal
+Lake Victoria
+Mediterranean Sea
+Mississippi River
+Niger River
+Nile
+North Sea
+Pacific Ocean
+Panama Canal
+Rhine
+South China Sea
+Suez Canal
+Southern Ocean
+Volga River
+Yangtze River
+Yellow River
+
+Alps
+Andes
+Himalayas
+Mount Everest
+Mount Kilimanjaro
+Rocky Mountains
+Sahara

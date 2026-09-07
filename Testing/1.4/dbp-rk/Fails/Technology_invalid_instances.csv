@@ -1,0 +1,292 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Metromover,name,Metromover,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PublicTransitSystem; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/RailwayLine; http://dbpedia.org/ontology/Station
+Utsubuna Station,address,7200,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Utsubuna Station,distance,34.1,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Utsubuna Station,name,Minobu Line,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Utsubuna Station,name,Utsubuna Station,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Utsubuna Station,route,Minobu Line,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Utsubuna Station,status,Unstaffed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hypre,genre,High-performance Parallel Software for linear systems and eigenvalue problems,outgoing,http://dbpedia.org/ontology/Genre,
+Hypre,language,"C ,C++, FORTRAN",outgoing,http://dbpedia.org/ontology/Language,
+Hypre,latestReleaseDate,2017-03-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hypre,latestReleaseVersion,2.11,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hypre,name,HYPRE,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cape Dory 22,engine,Yanmar  diesel engine or Outboard motor,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Cape Dory 22,name,Cape Dory 22,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cape Dory 22,year,1981,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Udaipur City–Patliputra Humsafar Express,frequency,Weekly,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Udaipur City–Patliputra Humsafar Express,name,Udaipur City - Patliputra Humsafar Express,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+DUO,architect,DP_Architects,outgoing,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+DUO,developer,CapitaLand Limited,outgoing,http://dbpedia.org/ontology/Agent,
+DUO,developer,M+S,outgoing,http://dbpedia.org/ontology/Agent,
+DUO,developer,UEM Sunrise Berhad,outgoing,http://dbpedia.org/ontology/Agent,
+DUO,floorCount,DUO Tower: 39,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+DUO,floorCount,Residences Tower: 49,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+DUO,name,DUO,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+DUO,status,Completed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spring Valley station (DART),address,"Richardson, Texas, 75081",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spring Valley station (DART),address,100,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Spring Valley station (DART),name,Spring Valley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Schwörstadt station,distance,from Mannheim Hauptbahnhof,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Schwörstadt station,name,Schwörstadt,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Schwörstadt station,symbol,rail,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tesla Energy,logo,File:Tesla Energy logo.png,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tesla Energy,name,Tesla Energy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tesla Energy,parent,"Tesla,_Inc.",outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Tesla Energy,production,,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Tesla Energy,production,3.99,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Tesla Energy,production,345,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tesla Energy,revenue,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tesla Energy,revenue,2.79E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gyeongui Line (1904–1945),end,Sinuiju_Chongnyon_Station,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Station
+Gyeongui Line (1904–1945),name,Gyeongui Line,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gyeongui Line (1904–1945),start,Seoul_Station,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Station
+Gyeongui Line (1904–1945),status,Divided,outgoing,http://www.w3.org/2001/XMLSchema#string,
+ReachLocal,foundation,2003,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+ReachLocal,locationCountry,United States,outgoing,http://dbpedia.org/ontology/Country,
+ReachLocal,logo,ReachLocal Logo.png,outgoing,http://www.w3.org/2001/XMLSchema#string,
+ReachLocal,name,ReachLocal,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+ReachLocal,parent,Gannett,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+ReachLocal,revenue,5.1407E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mhlume Airfield,name,Mhlume Airfield,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Osokorskaya,officialName,Osokorskaya,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Osokorskaya,utcOffset,180.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Xuzhou East railway station,address,"Dongjiao Economic Development Zone, Jiawang District, Xuzhou, Jiangsu",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Xuzhou East railway station,code,66827,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Xuzhou East railway station,name,Xuzhoudong,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Xuzhou East railway station,otherName,Xuzhou East,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Xuzhou East railway station,symbol,crh,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Xuzhou East railway station,end,Xuzhou East railway station,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Station
+Xuzhou East railway station,start,Xuzhou East railway station,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Station
+Ensconse,breeder,King Ranch,outgoing,http://dbpedia.org/ontology/Person,
+Ensconse,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Ensconse,dam,Carefully Hidden,outgoing,http://dbpedia.org/ontology/Animal,
+Ensconse,name,"Ensconse , bay mare, 1986",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ensconse,owner,Mohammed_bin_Rashid_Al_Maktoum,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+Ensconse,sex,Mare,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person
+Boys railway station,closed,1963,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boys railway station,name,Boys,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boys railway station,status,Closed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Riftbreaker,developer,EXOR_Studios,outgoing,http://dbpedia.org/ontology/Agent,
+The Riftbreaker,publisher,EXOR_Studios,outgoing,http://dbpedia.org/ontology/Agent,
+The Riftbreaker,title,The Riftbreaker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gibo Station,address,"Naha,_Okinawa",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/City
+Gibo Station,address,Okinawa_Prefecture,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Gibo Station,name,Gibo Station,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gibo Station,route,Okinawa_Urban_Monorail,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Kanchrapara Railway Workshop,accessDate,2018-12-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kanchrapara Railway Workshop,name,Kanchrapara Railway Workshop,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanchrapara Railway Workshop,parent,Indian_Railways,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PublicTransitSystem; http://dbpedia.org/ontology/Organisation
+Kanchrapara Railway Workshop,title,ROC/KPA,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Vichy — Charmeil Airport,name,Vichy – Charmeil Airport,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Zylon,name,Zylon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound
+Teledyne CAE J69,weight,2.458,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Washington State Route 115,county,Grays Harbor,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Washington State Route 115,established,1973,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Washington State Route 115,location,Ocean Shores,outgoing,http://dbpedia.org/ontology/Place,
+Washington State Route 115,location,none,outgoing,http://dbpedia.org/ontology/Place,
+Washington State Route 115,notes,Northern terminus,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Washington State Route 115,notes,"Southern terminus, continues as Damon Road",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Washington State Route 115,road,Point Brown Avenue,outgoing,http://dbpedia.org/ontology/Road,
+Washington State Route 115,route,115,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Washington State Route 115,spurOf,101,outgoing,http://dbpedia.org/ontology/Road,http://dbpedia.org/ontology/Year
+Washington State Route 115,state,WA,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Racine station (CTA Metropolitan Main Line),address,Chicago,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Racine station (CTA Metropolitan Main Line),address,Illinois,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion
+Racine station (CTA Metropolitan Main Line),address,416,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),closed,1954-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mirach 26,capacity,payload,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Mirach 26,crew,None,outgoing,http://dbpedia.org/ontology/SpaceMission,
+Mirach 26,designer,Galileo_Avionica,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company
+Mirach 26,firstFlight,1992,outgoing,http://dbpedia.org/ontology/SpaceMission,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mirach 26,manufacturer,Galileo Avionica,outgoing,http://dbpedia.org/ontology/Organisation,
+Albuquerque Eastern Railway,endYear,1908,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Albuquerque Eastern Railway,startYear,1901,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bellview Airlines,logo,Bellview-air.png,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bellview Airlines,parent,Bellview Airlines Nig. Ltd.,outgoing,http://dbpedia.org/ontology/Person,
+Bellview Airlines,parent,Bellview Airlines,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PublicTransitSystem; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Airline
+Aventura station,address,"Ojus,_Florida",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Aventura station,address,19796,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aventura station,name,Brightline Aventura Station,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dinosaur Safari,title,Dinosaur Safari,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,address,"NH 91, Anwarganj Station Lane, Kanpur, Kanpur Nagar district, Uttar Pradesh",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,name,Kanpur Anwarganj,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,other,Taxi stand/Anwarganj station KMBS City Bus Stop,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Kanpur Anwarganj railway station,status,functioning,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Midland Railway 1528 Class,name,Midland Railway 1528 class,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+SR.N5,name,SR.N5 Warden class,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+SR.N5,shipDisplacement,maximum,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Transport in Ghana,width,(140 * 750 / 536) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Transport in Ghana,width,(188 * 750 / 536) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rutja Airfield,name,Rutja Airfield,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Vilnius Biofuel Power Plant,cost,3.4E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vilnius Biofuel Power Plant,name,Vilnius Biofuel Power Plant,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Vilnius Biofuel Power Plant,owner,Ignitis_grupė,outgoing,http://dbpedia.org/ontology/Agent,
+Vilnius Biofuel Power Plant,status,Operational,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flying boat,date,2012-10-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alberta Coal Branch,end,Brazeau River,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alberta Coal Branch,name,Alberta Coal Branch,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Alberta Coal Branch,relief,1,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Alberta Coal Branch,start,Alberta Highway 16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alberta Coal Branch,status,Open,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Alberta Coal Branch,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+GURL,album,GURL Original Short Film Soundtrack,outgoing,http://dbpedia.org/ontology/Album,
+GURL,artist,"Jay Te Wake, Jackie Clarke & Brady Peeti",outgoing,http://dbpedia.org/ontology/Agent,
+GURL,artist,Mika Haka & The cast of GURL,outgoing,http://dbpedia.org/ontology/Agent,
+GURL,border,yes,outgoing,http://dbpedia.org/ontology/Area,
+GURL,budget,380000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,cinematography,Darryl Ward,outgoing,http://dbpedia.org/ontology/Person,
+GURL,composer,Penny Dodd and Mark Dennison,outgoing,http://dbpedia.org/ontology/Person,
+GURL,country,New Zealand,outgoing,http://dbpedia.org/ontology/Country,
+GURL,distributor,Independent,outgoing,http://dbpedia.org/ontology/Organisation,
+GURL,editing,Anastasia Doniants,outgoing,http://dbpedia.org/ontology/Person,
+GURL,genre,Soundtrack Musical,outgoing,http://dbpedia.org/ontology/Genre,
+GURL,language,English,outgoing,http://dbpedia.org/ontology/Language,
+GURL,length,146.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,243.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,244.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,253.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,254.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,2797.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,299.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,37.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,38.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,47.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,48.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,49.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,60.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,84.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,88.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,89.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,length,95.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,lyrics,Mika_Haka,outgoing,http://dbpedia.org/ontology/Person,
+GURL,name,GURL,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Film
+GURL,name,GURL Original Short Film Soundtrack,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,name,What Kind Of Coffee Do You Like?,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,producer,Alan Jansson,outgoing,http://dbpedia.org/ontology/Agent,
+GURL,producer,Georgina Allison Conder,outgoing,http://dbpedia.org/ontology/Agent,
+GURL,producer,Mika X,outgoing,http://dbpedia.org/ontology/Agent,
+GURL,producer,Philippa Campbell,outgoing,http://dbpedia.org/ontology/Agent,
+GURL,runtime,1200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,starring,Aaron Ward,outgoing,http://dbpedia.org/ontology/Actor,
+GURL,starring,Brady Peeti,outgoing,http://dbpedia.org/ontology/Actor,
+GURL,starring,Regan Taylor,outgoing,http://dbpedia.org/ontology/Actor,
+GURL,starring,Jackie_Clarke,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+GURL,starring,Jay_Tewake,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+GURL,title,"Eggs, Baked Beans, Rainbow",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Hawaiian Love Duet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Himi Hendrix,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,I Ta Wa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,I Te Wa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,In The Morning,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,MELANCOLY,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Mambo Fantasy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Mirror Mirror on the Wall,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Mirror Mirror on the wall,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Room 1334,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,Shake it up baby,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,The Lonely All Black,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,What Kind Of Coffee Do You Like?,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,title,What Kind of Coffe Do You Like?,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+GURL,writer,Mika X,outgoing,http://dbpedia.org/ontology/Person,
+GURL,year,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Wressle railway station,classification,DfT category F2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wressle railway station,code,WRS,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wressle railway station,manager,Northern_(train_operating_company),outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company
+Wressle railway station,name,Wressle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Wressle railway station,route,Selby_Line,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/RouteOfTransportation; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/RailwayLine
+Wressle railway station,symbol,rail,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Javalaan RandstadRail station,date,June 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Javalaan RandstadRail station,name,Javalaan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Metz Dam,name,Metz Dam,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Metz Dam,owner,Department of Water Affairs,outgoing,http://dbpedia.org/ontology/Agent,
+Gtk-gnutella,developer,"Raphael Manfredi, Richard Eckart",outgoing,http://dbpedia.org/ontology/Agent,
+Gtk-gnutella,language,de el es fr hu it ja nb nl uk +,outgoing,http://dbpedia.org/ontology/Language,
+Gtk-gnutella,logo,Gtk-gnutella.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gtk-gnutella,name,gtk-gnutella,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rhino Video Games,defunct,2007-01-14,outgoing,http://www.w3.org/2001/XMLSchema#boolean,
+Rhino Video Games,fate,Merged into GameStop,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rhino Video Games,foundation,1989,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Rhino Video Games,founder,Bruce Ruckle,outgoing,http://dbpedia.org/ontology/Person,
+Rhino Video Games,founder,Mike Vorce,outgoing,http://dbpedia.org/ontology/Person,
+Rhino Video Games,location,"Gainesville, FL",outgoing,http://dbpedia.org/ontology/Place,
+Rhino Video Games,name,Rhino Video Games,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rhino Video Games,parent,GameStop,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/VideoGame
+Le Locle Le Chalet railway station,distance,from,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Le Locle Le Chalet railway station,name,Le Locle Le Chalet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sentimental Journey (aircraft),firstFlight,1945-03-13,outgoing,http://dbpedia.org/ontology/SpaceMission,
+Sentimental Journey (aircraft),manufacturer,"Boeing, Model 299",outgoing,http://dbpedia.org/ontology/Organisation,
+Aokana - Four Rhythms Across the Blue,author,Sprite,outgoing,http://dbpedia.org/ontology/Person,
+Aokana - Four Rhythms Across the Blue,developer,Sprite,outgoing,http://dbpedia.org/ontology/Agent,
+Aokana - Four Rhythms Across the Blue,genre,"Eroge, Visual novel",outgoing,http://dbpedia.org/ontology/Genre,
+Aokana - Four Rhythms Across the Blue,illustrator,Hideyu Tōgarashi,outgoing,http://dbpedia.org/ontology/Person,
+Aokana - Four Rhythms Across the Blue,name,Aokana - Four Rhythms Across the Blue,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aokana - Four Rhythms Across the Blue,publisher,Sprite,outgoing,http://dbpedia.org/ontology/Agent,
+Aokana - Four Rhythms Across the Blue,title,Aokana - Four Rhythms Across the Blue: Eternal Sky,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aokana - Four Rhythms Across the Blue,title,Aokana - Four Rhythms Across the Blue: Extra 1,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aokana - Four Rhythms Across the Blue,title,Aokana - Four Rhythms Across the Blue: Extra 2,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aokana - Four Rhythms Across the Blue,volumes,1,outgoing,http://dbpedia.org/ontology/WrittenWork,http://dbpedia.org/ontology/Year
+STS-112,cosparId,2002,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+STS-112,crewSize,6,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+STS-112,date,2013-12-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,date,2014-06-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,landingDate,--10-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,landingSite,Kennedy_Space_Center,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+STS-112,landingSite,Shuttle_Landing_Facility,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Airport
+STS-112,launchDate,--10-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,launchSite,Kennedy_Space_Center,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+STS-112,launchSite,Kennedy_Space_Center_Launch_Complex_39,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/LaunchPad
+STS-112,missionDuration,935924.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+STS-112,name,STS-112,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/SpaceMission; http://dbpedia.org/ontology/ArtificialSatellite
+STS-112,satcat,27537,outgoing,http://www.w3.org/2001/XMLSchema#string,
+STS-112,missions,STS-112,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/SpaceMission; http://dbpedia.org/ontology/ArtificialSatellite
+Smith & Wesson Model 2,name,Smith & Wesson Model 2,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Smith & Wesson Model 2,number,"approx. 25,548 , 108,255 , 97,000",outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Smith & Wesson Model 2,number,"approx. 328,645 , 554,000  59,400",outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Smith & Wesson Model 2,origin,United States,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Chevrolet Monte Carlo,designer,Chuck Jordan,outgoing,http://dbpedia.org/ontology/Person,
+Chevrolet Monte Carlo,designer,Wayne Cherry,outgoing,http://dbpedia.org/ontology/Person,
+Chevrolet Monte Carlo,engine,Buick V6,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,Chevrolet V6,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,LT6 Diesel V6,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,Turbo-Fire V8,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,Turbo-Jet V8,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,V8,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,V8_engine,outgoing,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Software
+Chevrolet Monte Carlo,engine,4.4,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,5,outgoing,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,engine,5.7,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,engine,1995,outgoing,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,engine,1998,outgoing,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,engine,4300,outgoing,http://dbpedia.org/ontology/AutomobileEngine,
+Chevrolet Monte Carlo,height,2000,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,height,2006,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,length,2000,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,length,2006,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,name,Chevrolet Monte Carlo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,name,Series 138,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,name,Series 1A,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,name,Series 1H,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,name,Series 1W,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,name,Sixth generation,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chevrolet Monte Carlo,production,October 1999–2007,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chevrolet Monte Carlo,production,1969,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,production,1972,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,production,1977,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,production,1980,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,production,1994,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,production,--02-14,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Chevrolet Monte Carlo,transmission,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chevrolet Monte Carlo,transmission,2,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,transmission,3,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,transmission,4,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,width,to,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chevrolet Monte Carlo,width,2000,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,width,2006,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+LAPD Hooper Heliport,name,Jay Stephen Hooper Memorial Heliport,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+LAPD Hooper Heliport,owner,City of Los Angeles,outgoing,http://dbpedia.org/ontology/Agent,
+Pie safe,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+National Route 145 (Costa Rica),country,CRI,outgoing,http://dbpedia.org/ontology/Country,
+National Route 145 (Costa Rica),route,145,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Aeronut Park Balloonport,name,Aeronut Park Balloonport,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aeronut Park Balloonport,owner,James H. Pratt,outgoing,http://dbpedia.org/ontology/Agent,

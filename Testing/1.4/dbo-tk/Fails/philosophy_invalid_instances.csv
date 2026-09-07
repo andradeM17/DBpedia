@@ -1,0 +1,12 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Atheism,affiliation,Atheism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/MusicGenre
+Atheism,ideology,Atheism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Confucianism,affiliation,Confucianism,incoming,http://dbpedia.org/ontology/Organisation,
+Confucianism,ideology,Confucianism,incoming,http://dbpedia.org/ontology/Ideology,
+Ethics,almaMater,Ethics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Epistemology,occupation,Epistemology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Logic,occupation,Logic,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Philosophy,almaMater,Philosophy,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,genre,Philosophy,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,publisher,Philosophy,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,region,Philosophy,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction

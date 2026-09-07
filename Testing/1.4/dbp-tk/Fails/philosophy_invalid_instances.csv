@@ -1,0 +1,33 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Atheism,date,2015-02-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Atheism,ideology,Atheism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Atheism,purpose,Atheism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Confucianism,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Confucianism,affiliation,Confucianism,incoming,http://dbpedia.org/ontology/Organisation,
+Confucianism,ideology,Confucianism,incoming,http://dbpedia.org/ontology/Ideology,
+Ethics,date,August 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2007-06-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2009-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2010-03-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2011-11-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2013-06-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,date,2020-11-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ethics,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Ethics,free,Ethics,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Ethics,title,Ethics,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Epistemology,date,August 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Epistemology,date,2009-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Epistemology,date,2021-03-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Epistemology,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Epistemology,title,Articles related to epistemology,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Epistemology,occupation,Epistemology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Free will,quote,"An alternative explanation builds on the idea that subjects tend to confuse determinism with fatalism... What happens then when agents' self-efficacy is undermined? It is not that their basic desires and drives are defeated. It is rather, I suggest, that they become skeptical that they can control those desires; and in the face of that skepticism, they fail to apply the effort that is needed even to try. If they were tempted to behave badly, then coming to believe in fatalism makes them less likely to resist that temptation.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Free will,width,40.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Logic,id,p/l060690,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Logic,title,Logical calculus,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Logic,formerName,Logic,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Philosophy,almaMater,Philosophy,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,genre,Philosophy,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,purpose,Philosophy,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Philosophy,region,Philosophy,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Truth,date,November 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,

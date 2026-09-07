@@ -1,0 +1,72 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Fort Frank,garrison,"*91st Coast Artillery
+*92nd Coast Artillery
+*60th Coast Artillery (AA)",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Fort Frank,imageSize,260,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fort Frank,name,Fort Frank,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Flag of the Orange River Colony,name,Orange River Colony,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Seleucid dynasty,country,Ancient_Syria,outgoing,http://dbpedia.org/ontology/Country,
+Seleucid dynasty,name,Seleucid dynasty,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Seleucid dynasty,combatant,Seleucid dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,
+Seleucid dynasty,house,Seleucid dynasty,incoming,http://dbpedia.org/ontology/Legislature,
+Battle of Ōhaeawai,casualties,Light,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/RecordLabel
+Battle of Ōhaeawai,casualties,Military,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Battle of Ōhaeawai,casualties,33,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Battle of Ōhaeawai,casualties,66,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Battle of Ōhaeawai,combatant,Māori,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,commander,Henry Despard,outgoing,http://dbpedia.org/ontology/Person,
+Battle of Ōhaeawai,commander,Pene Taui,outgoing,http://dbpedia.org/ontology/Person,
+Battle of Ōhaeawai,commander,Te Ruki Kawiti,outgoing,http://dbpedia.org/ontology/Person,
+Battle of Ōhaeawai,commander,Tāmati Wāka Nene,outgoing,http://dbpedia.org/ontology/Person,
+Battle of Ōhaeawai,date,July 1845,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Battle of Ōhaeawai,result,Inconclusive,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,strength,Maori allies,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,strength,Military,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Battle of Ōhaeawai,strength,~ 250 warriors,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,strength,Ōhaeawai,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Battle of Ōhaeawai,strength,250,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Battle of Ōhaeawai,strength,630,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"National War Memorial, Colombo",date,April 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"National War Memorial, Colombo",imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+"National War Memorial, Colombo",name,National War Memorial,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The American West,background,#000000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The American West,cinematography,Kevin M. Graves,outgoing,http://dbpedia.org/ontology/Person,
+The American West,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+The American West,director,John Ealer,outgoing,http://dbpedia.org/ontology/Person,
+The American West,distributor,,outgoing,http://dbpedia.org/ontology/Organisation,
+The American West,distributor,Stephen David Entertainment,outgoing,http://dbpedia.org/ontology/Organisation,
+The American West,editor,,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,Christopher Martini,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,John Kilgour,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,Jonathan Soule,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,Neal Usatin,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,Tim W. Kelly,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,editor,Wyatt Rogowski,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,executiveProducer,,outgoing,http://dbpedia.org/ontology/Person,
+The American West,executiveProducer,Laura Michalchyshyn,outgoing,http://dbpedia.org/ontology/Person,
+The American West,executiveProducer,Shirley Escott,outgoing,http://dbpedia.org/ontology/Person,
+The American West,executiveProducer,Stephen David,outgoing,http://dbpedia.org/ontology/Person,
+The American West,executiveProducer,Tim W. Kelly,outgoing,http://dbpedia.org/ontology/Person,
+The American West,language,English,outgoing,http://dbpedia.org/ontology/Language,
+The American West,producer,,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,producer,Brian Burstein,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,producer,Jordan Rosenblum,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,producer,Petra Hoebel,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,producer,Zachary Herrmann,outgoing,http://dbpedia.org/ontology/Agent,
+The American West,writer,,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,Brian Burstein,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,David Schaye,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,Jeremiah Murphy,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,John Ealer,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,Jordan Rosenblum,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,Steve Loh,outgoing,http://dbpedia.org/ontology/Person,
+The American West,writer,Zachary Herrmann,outgoing,http://dbpedia.org/ontology/Person,
+Miami Showband killings,date,July 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Miami Showband killings,date,1975-07-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Miami Showband killings,location,"A1 road at Buskhill, County Down, Northern Ireland",outgoing,http://dbpedia.org/ontology/Place,
+Miami Showband killings,time,150.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Miami Showband killings,title,Miami Showband killings,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shankill Road bombing,date,1993-10-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shankill Road bombing,location,271,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shankill Road bombing,time,780.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Shankill Road bombing,title,Shankill Road bombing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,

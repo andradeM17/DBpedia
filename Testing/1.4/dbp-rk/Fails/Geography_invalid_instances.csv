@@ -1,0 +1,418 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+"West Newman Township, Nance County, Nebraska",mapCaption,Location in Nance County,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"West Newman Township, Nance County, Nebraska",officialName,West Newman Township,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"West Newman Township, Nance County, Nebraska",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"West Newman Township, Nance County, Nebraska",populationTotal,50,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"West Newman Township, Nance County, Nebraska",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Duraczów, Końskie County",name,Duraczów,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Duraczów, Końskie County",populationTotal,210,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Loc-Eguiner,intercommunality,Pays de Landivisiau,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Loc-Eguiner,mayor,Henri Billon,outgoing,http://dbpedia.org/ontology/Mayor,
+Loc-Eguiner,name,Loc-Eguiner,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Loc-Eguiner,postalCode,29400,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Canton of Dol-de-Bretagne,area,452.48,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Canton of Dol-de-Bretagne,name,Dol-de-Bretagne,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+"Nakasato, Aomori",leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+"Nakasato, Aomori",leaderTitle,Vice Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Nakasato, Aomori",mapCaption,Location of Nakasato in Aomori Prefecture,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Nakasato, Aomori",name,Nakasato,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Nakasato, Aomori",populationAsOf,2005-03-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Nakasato, Aomori",populationTotal,10384,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Nakasato, Aomori",utcOffset,540.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Lower Leas Coastal Park,name,Lower Leas Coastal Park,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lower Leas Coastal Park,status,604800.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Lower Leas Coastal Park,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"West Goshen, California",officialName,West Goshen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"West Goshen, California",populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"West Goshen, California",populationTotal,511,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"West Goshen, California",utcOffset,-8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rock Lake (White Cloud Mountains),name,Rock Lake,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rock Lake (White Cloud Mountains),outflow,Little Boulder Creek to East Fork Salmon River,outgoing,http://dbpedia.org/ontology/River,
+Mroczki-Rębiszewo,name,Mroczki-Rębiszewo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+"Alloway, New York",width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Earlimart, California",areaCode,661,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Earlimart, California",mapCaption,Location in Tulare County and the state of California,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Earlimart, California",officialName,Earlimart,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Band
+"Earlimart, California",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Earlimart, California",populationTotal,7679,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Earlimart, California",postalCode,93219,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Earlimart, California",utcOffset,-8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Earlimart, California",city,"Earlimart, California",incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Bénesse-lès-Dax,arrondissement,Dax,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Bénesse-lès-Dax,canton,Dax-2,outgoing,http://dbpedia.org/ontology/Settlement,
+Bénesse-lès-Dax,intercommunality,Communauté_d'agglomération_du_Grand_Dax,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Bénesse-lès-Dax,mayor,Jean-Marie Abadie,outgoing,http://dbpedia.org/ontology/Mayor,
+Bénesse-lès-Dax,name,Bénesse-lès-Dax,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Bénesse-lès-Dax,postalCode,40180,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ras Ajdir,name,Ras Ajdir,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ras Ajdir,utcOffset,+2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Thy-Marcinelle,name,Thy-Marcinelle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Goshen (village), New York",leaderName,Michael Nuzzolese,outgoing,http://dbpedia.org/ontology/Person,
+"Goshen (village), New York",leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+"Goshen (village), New York",mapCaption,Location in Orange County and the state of New York.,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Goshen (village), New York",name,Goshen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Goshen (village), New York",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Goshen (village), New York",populationTotal,5777,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Goshen (village), New York",postalCode,10924,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Goshen (village), New York",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Goshen (village), New York",subdivisionName,"Goshen_(town),_New_York",outgoing,http://dbpedia.org/ontology/Place,
+"Goshen (village), New York",utcOffset,-5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Goshen (village), New York",address,"Goshen (village), New York",incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+"Goshen (village), New York",city,"Goshen (village), New York",incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Sarab-e Yas,officialName,Sarab-e Yas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sarab-e Yas,populationAsOf,2016,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sarab-e Yas,populationTotal,2582,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Sarab-e Yas,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Congalla District,leaderName,Cesario León Ramos,outgoing,http://dbpedia.org/ontology/Person,
+Congalla District,leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Congalla District,mapCaption,Location of Congalla in the Angaraes province,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Congalla District,name,Congalla,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Congalla District,populationAsOf,2005,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Year
+Congalla District,populationTotal,4762,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Congalla District,utcOffset,-5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Trućevac,officialName,Trućevac,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Trućevac,populationAsOf,2002,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Trućevac,utcOffset,+1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Rafałówka, Podlaskie Voivodeship",name,Rafałówka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Rafałówka, Podlaskie Voivodeship",populationTotal,490,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wagner Park,location,"Battery Park City, Manhattan, New York",outgoing,http://dbpedia.org/ontology/Place,
+Wagner Park,status,Open,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rumbling Hole,access,https://cncc.org.uk/cave/rumbling-hole,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rumbling Hole,discovery,1899,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Rumbling Hole,geology,Carboniferous limestone,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rumbling Hole,name,Rumbling Hole,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rumbling Hole,otherName,Fairies Workshop,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Islampur, Swat",mapCaption,Location within Pakistan,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Islampur, Swat",name,salampur,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Islampur, Swat",officialName,Islampur,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Islampur, Swat",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Islampur, Swat",populationTotal,30000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Islampur, Swat",utcOffset,+5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dunay Islands,name,Dunay Islands,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mauressargues,canton,Quissac,outgoing,http://dbpedia.org/ontology/Settlement,
+Mauressargues,intercommunality,Communauté_d'agglomération_Nîmes_Métropole,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Mauressargues,mayor,Christine Lefevre,outgoing,http://dbpedia.org/ontology/Mayor,
+Mauressargues,name,Mauressargues,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Mauressargues,postalCode,30350,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eggesin,area,88.01000000000001,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Eggesin,areaCode,39779,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eggesin,elevation,8,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Eggesin,mayor,Dietmar Jesse,outgoing,http://dbpedia.org/ontology/Mayor,
+Eggesin,party,CDU,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Eggesin,postalCode,17367,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Snake Valley, Victoria",name,Snake Valley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Snake Valley, Victoria",state,vic,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+"St. Joseph, Ontario",areaCode,705249,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"St. Joseph, Ontario",governmentType,Township,outgoing,http://dbpedia.org/ontology/GovernmentType,
+"St. Joseph, Ontario",leaderName,Carol Hughes,outgoing,http://dbpedia.org/ontology/Person,
+"St. Joseph, Ontario",leaderName,Joseph  Wildman,outgoing,http://dbpedia.org/ontology/Person,
+"St. Joseph, Ontario",leaderName,Michael Mantha,outgoing,http://dbpedia.org/ontology/Person,
+"St. Joseph, Ontario",leaderName,St. Joseph Township Council,outgoing,http://dbpedia.org/ontology/Person,
+"St. Joseph, Ontario",leaderTitle,Governing Body,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"St. Joseph, Ontario",leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+"St. Joseph, Ontario",leaderTitle,House_of_Commons_of_Canada,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/Organisation
+"St. Joseph, Ontario",leaderTitle,Legislative_Assembly_of_Ontario,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+"St. Joseph, Ontario",name,St. Joseph,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"St. Joseph, Ontario",officialName,Township of St. Joseph,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"St. Joseph, Ontario",populationAsOf,2016,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"St. Joseph, Ontario",populationTotal,1240,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"St. Joseph, Ontario",postalCode,P0R 1G0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"St. Joseph, Ontario",utcOffset,-5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",areaCode,430903,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",id,hjg14,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",mapCaption,"Location of Gun Barrel City, Texas",outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",name,"Gun Barrel City, TX",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Gun Barrel City, Texas",officialName,"Gun Barrel City, Texas",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Gun Barrel City, Texas",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Gun Barrel City, Texas",populationTotal,6190,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Gun Barrel City, Texas",postalCode,75156,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Gun Barrel City, Texas",utcOffset,−6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Gun Barrel City, Texas",area,"Gun Barrel City, Texas",incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Flat Creek (Mohawk River tributary),name,Flat Creek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Quai Anatole-France,arrondissement,7,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Year
+Quai Anatole-France,name,Quai Anatole-France,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Quai Anatole-France,width,19.9 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kontovouni,areaCode,+30-2461-xxx-xxx,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Kontovouni,elevation,368,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kontovouni,name,Kontovouni,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Village
+Kontovouni,populationAsOf,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kontovouni,postalCode,50010,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Yorima,taxon,Yorima,outgoing,http://dbpedia.org/ontology/Taxon,
+Ovsinjinac,officialName,Ovsinjinac,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Ovsinjinac,populationAsOf,2002,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ovsinjinac,utcOffset,+1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Monterey Township, Cuming County, Nebraska",mapCaption,Location in Cuming County,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Monterey Township, Cuming County, Nebraska",officialName,Monterey Township,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Monterey Township, Cuming County, Nebraska",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Monterey Township, Cuming County, Nebraska",populationTotal,192,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Monterey Township, Cuming County, Nebraska",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+El Malah,mapCaption,Location of El Malah within Aïn Témouchent province,outgoing,http://www.w3.org/2001/XMLSchema#string,
+El Malah,officialName,El Malah,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+El Malah,populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+El Malah,populationTotal,18944,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+El Malah,utcOffset,+1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Milford (Halifax), Nova Scotia",width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pidurutalagala,name,Pidurutalagala,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Mountain
+Pidurutalagala,otherName,Mount Pedro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pidurutalagala,range,Pidurutalagala,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Mountain
+Flotta,areaRank,57,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Flotta,population,80,outgoing,http://dbpedia.org/ontology/Population,http://dbpedia.org/ontology/Year
+Flotta,populationDensity,9.1,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Flotta,city,Flotta,incoming,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Island; http://dbpedia.org/ontology/PopulatedPlace
+Scotia Bluffs,name,Scotia Bluffs,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lepida Gorge,city,"Astros,_Greece",outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+Lepida Gorge,mapCaption,"Located in Arcadia, Peloponnese",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Lepida Gorge,name,Lepida Gorge,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Świniary, Słubice County",name,Świniary,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Świniary, Słubice County",populationTotal,220,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sauerbornsbach,name,Sauerbornsbach,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Stream; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+Nikolaos Skoufas (municipality),name,Nikolaos Skoufas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Nikolaos Skoufas (municipality),populationAsOf,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Morigeau River,name,Morigeau River,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Beeley,officialName,Beeley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Beeley,population,195,outgoing,http://dbpedia.org/ontology/Population,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Beeley,region,East Midlands,outgoing,http://dbpedia.org/ontology/Place,
+Ngamu,officialName,Ngamu,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Ngamu,utcOffset,+6.30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kamiane, Zaporizhzhia Oblast",areaCode,+380 6143,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kamiane, Zaporizhzhia Oblast",name,Kamiane,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Kamiane, Zaporizhzhia Oblast",populationAsOf,2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Kamiane, Zaporizhzhia Oblast",populationTotal,1141,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Kamiane, Zaporizhzhia Oblast",postalCode,70050,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kamiane, Zaporizhzhia Oblast",utcOffset,+2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bocskaikert,areaCode,52,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Bocskaikert,officialName,Bocskaikert,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Bocskaikert,populationAsOf,2001,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bocskaikert,populationTotal,2495,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Bocskaikert,postalCode,4241,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bocskaikert,utcOffset,+1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Russell Island (Moreton Bay),area,30.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Russell Island (Moreton Bay),city,Redland City,outgoing,http://dbpedia.org/ontology/City,
+Russell Island (Moreton Bay),established,1870,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Russell Island (Moreton Bay),name,Russell Island,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Montesquiu,leaderName,Elisabet Ferreres Vergés,outgoing,http://dbpedia.org/ontology/Person,
+Montesquiu,leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Montesquiu,name,Montesquiu,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Signalness Lake,name,Signalness Lake,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dehrud Rural District,name,Dehrud Rural District,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dehrud Rural District,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dehrud Rural District,populationTotal,5507,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Parc Roland-Veillet,name,(Parc Roland-Veillet),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Parc Roland-Veillet,name,Roland-Veillet Park,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Villa López,name,Villa López,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Villa López,populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Villa López,populationTotal,2184,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Villa López,subdivisionName,"López,_Chihuahua",outgoing,http://dbpedia.org/ontology/Place,
+East Meon,officialName,East Meon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+East Meon,population,1171,outgoing,http://dbpedia.org/ontology/Population,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+East Meon,region,South East England,outgoing,http://dbpedia.org/ontology/Place,
+Doignies,intercommunality,Communauté_d'agglomération_de_Cambrai,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Doignies,mayor,Pascal Mompach,outgoing,http://dbpedia.org/ontology/Mayor,
+Doignies,name,Doignies,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Doignies,postalCode,59400,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Varang Nord,name,Varang Nord,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Varang Nord,origin,"Daugavpils, Latvia",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Central and Western District,leaderName,Leung Chi-Ki,outgoing,http://dbpedia.org/ontology/Person,
+Central and Western District,leaderName,Victor Yeung Sui-Yin,outgoing,http://dbpedia.org/ontology/Person,
+Central and Western District,leaderName,vacant,outgoing,http://dbpedia.org/ontology/Person,
+Central and Western District,leaderTitle,District Council Chairman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Central and Western District,leaderTitle,District Council Vice-Chairman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Central and Western District,leaderTitle,District Officer,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Central and Western District,mapCaption,Location within Hong Kong,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Central and Western District,name,Central and Western,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Central and Western District,officialName,Central and Western District,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Central and Western District,populationAsOf,2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Central and Western District,populationTotal,235953,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Central and Western District,utcOffset,+8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Central and Western District,address,Central and Western District,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+"Summit Lake Township, Nobles County, Minnesota",officialName,"Summit Lake Township, Minnesota",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Summit Lake Township, Nobles County, Minnesota",populationAsOf,2000,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Summit Lake Township, Nobles County, Minnesota",populationTotal,368,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Summit Lake Township, Nobles County, Minnesota",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Summit Lake Township, Nobles County, Minnesota",utcOffset,-6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Big Moose Mountain,name,Big Moose Mountain,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Kuźnia, Greater Poland Voivodeship",name,Kuźnia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"North El Monte, California",areaCode,626,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"North El Monte, California",mapCaption,"Location of North El Monte in Los Angeles County, California.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+"North El Monte, California",name,"North El Monte, California",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"North El Monte, California",populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"North El Monte, California",populationTotal,3723,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"North El Monte, California",postalCode,91006,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"North El Monte, California",subdivisionName,Los Angeles,outgoing,http://dbpedia.org/ontology/Place,
+"North El Monte, California",utcOffset,-8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kadoka, South Dakota",areaCode,605,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Kadoka, South Dakota",location,"Kadoka, South Dakota",outgoing,http://dbpedia.org/ontology/Place,
+"Kadoka, South Dakota",mapCaption,Location in Jackson County and the state of South Dakota,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kadoka, South Dakota",motto,"""Gateway To The Badlands""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kadoka, South Dakota",officialName,"Kadoka, South Dakota",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Kadoka, South Dakota",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Kadoka, South Dakota",populationTotal,543,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Kadoka, South Dakota",postalCode,57543,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kadoka, South Dakota",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Kadoka, South Dakota",utcOffset,-7,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Kadoka, South Dakota",width,50.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Jaźwiny, Sierpc County",name,Jaźwiny,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Zərigümaco,name,Zərigümaco,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town; http://dbpedia.org/ontology/Village
+Zərigümaco,populationTotal,517,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Zərigümaco,utcOffset,+4,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Krajenki,name,Krajenki,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Krajenki,populationTotal,150,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Granard,areaCode,+3534366,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Granard,motto,"Féile, Flúirse, Fáilte",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Granard,name,Granard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town; http://dbpedia.org/ontology/Village
+Granard,population,816,outgoing,http://dbpedia.org/ontology/Population,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Granard,populationAsOf,2016,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Granard,postalCode,N39,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Granard,utcOffset,±0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Granard,name,Granard,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town; http://dbpedia.org/ontology/Village
+Baliguian,date,2020-04-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Baliguian,leaderName,"Gani A. Esmali, Jr.",outgoing,http://dbpedia.org/ontology/Person,
+Baliguian,leaderName,Vivian T. Chiong,outgoing,http://dbpedia.org/ontology/Person,
+Baliguian,leaderName,voters,outgoing,http://dbpedia.org/ontology/Person,
+Baliguian,leaderName,Adrian_Michael_A._Amatong,outgoing,http://dbpedia.org/ontology/Person,
+Baliguian,leaderTitle,Elections_in_the_Philippines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Baliguian,leaderTitle,House_of_Representatives_of_the_Philippines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Baliguian,leaderTitle,Sangguniang_Bayan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation
+Baliguian,leaderTitle,Vice_Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Baliguian,location,"Baliguian, Zamboanga del Norte",outgoing,http://dbpedia.org/ontology/Place,
+Baliguian,utcOffset,+8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Baliguian,width,auto,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Beauvoisin, Gard",intercommunality,Communauté_de_communes_de_Petite-Camargue,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Organisation
+"Beauvoisin, Gard",mayor,Mylène Cayzac,outgoing,http://dbpedia.org/ontology/Mayor,
+"Beauvoisin, Gard",name,Beauvoisin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Beauvoisin, Gard",postalCode,30640,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Joniec-Kolonia,name,Joniec-Kolonia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Joniec-Kolonia,populationTotal,120,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Gorazan,officialName,Gorazan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Gorazan,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gorazan,populationTotal,170,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gorazan,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mile Canyon,date,January 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mile Canyon,location,Just downstream from Langtry,outgoing,http://dbpedia.org/ontology/Place,
+Mile Canyon,name,Mile Canyon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Olan (mountain),firstAscent,1875-07-08,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Olan (mountain),firstAscent,1877-06-29,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Olan (mountain),name,Olan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Olan (mountain),range,Dauphiné_Alps,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Mountain; http://dbpedia.org/ontology/MountainRange
+"Curry, Talladega County, Alabama",areaCode,256,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Curry, Talladega County, Alabama",officialName,"Curry, Alabama",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Curry, Talladega County, Alabama",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Curry, Talladega County, Alabama",utcOffset,-6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Malgaçemir, Sultanhisar",name,"Malgaçemir, Sultanhisar",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Malgaçemir, Sultanhisar",populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Malgaçemir, Sultanhisar",populationTotal,666,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"Malgaçemir, Sultanhisar",utcOffset,+2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Beeston, Nottinghamshire",officialName,Beeston,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Beeston, Nottinghamshire",population,37000,outgoing,http://dbpedia.org/ontology/Population,
+"Beeston, Nottinghamshire",region,East Midlands,outgoing,http://dbpedia.org/ontology/Place,
+"Beeston, Nottinghamshire",title,Destinations from Beeston,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Beeston, Nottinghamshire",address,"Beeston, Nottinghamshire",incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Keimoes,areaCode,54,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Keimoes,name,Keimoes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Keimoes,populationAsOf,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Keimoes,populationTotal,12000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Keimoes,postalCode,8860,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Keimoes,subdivisionName,Kai_!Garib_Local_Municipality,outgoing,http://dbpedia.org/ontology/Place,
+Keimoes,utcOffset,+2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Słupia, Greater Poland Voivodeship",name,Słupia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Stream; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+"Słupia, Greater Poland Voivodeship",populationTotal,140,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"Oyster Creek, Texas",areaCode,979,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Oyster Creek, Texas",mapCaption,"Location of Oyster Creek, Texas",outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Oyster Creek, Texas",officialName,"Oyster Creek, Texas",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Oyster Creek, Texas",populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Oyster Creek, Texas",populationTotal,1111,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Oyster Creek, Texas",postalCode,77541,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Oyster Creek, Texas",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Oyster Creek, Texas",utcOffset,-6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Khor (river),name,Khor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Settlement
+"Bay Glen, Houston",name,Bay Glen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Bay Glen, Houston",subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+"Pustynka, Vladimir Oblast",officialName,Pustynka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+"Pustynka, Vladimir Oblast",utcOffset,180.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Dandot,name,Dandot,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Dandot,officialName,ڈنڈوت,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dandot,subdivisionName,2,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Year
+Dandot,utcOffset,+5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Zła Wieś, Kuyavian-Pomeranian Voivodeship",name,Zła Wieś,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Zła Wieś, Kuyavian-Pomeranian Voivodeship",populationTotal,20,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Yeli Bolagh,officialName,Yeli Bolagh,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Yeli Bolagh,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Yeli Bolagh,populationTotal,19,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Yeli Bolagh,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Žipov,areaCode,+421 51,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Žipov,name,Žipov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Žipov,populationTotal,292,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Žipov,postalCode,82,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Buffalo Creek (Monongahela River tributary),name,Buffalo Creek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Buffalo Creek (Monongahela River tributary),subdivisionName,United States,outgoing,http://dbpedia.org/ontology/Place,
+Buffalo Creek (Monongahela River tributary),subdivisionName,West Virginia,outgoing,http://dbpedia.org/ontology/Place,
+Skukovo,officialName,Skukovo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Village
+Skukovo,populationAsOf,2002,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Skukovo,utcOffset,+1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"San Nicolas, Pangasinan",date,October 2015,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"San Nicolas, Pangasinan",leaderName,Alvin O. Bravo,outgoing,http://dbpedia.org/ontology/Person,
+"San Nicolas, Pangasinan",leaderName,Dr. Alicia Primicias-Enriquez,outgoing,http://dbpedia.org/ontology/Person,
+"San Nicolas, Pangasinan",leaderName,Tyrone D. Agabas,outgoing,http://dbpedia.org/ontology/Person,
+"San Nicolas, Pangasinan",leaderName,voters,outgoing,http://dbpedia.org/ontology/Person,
+"San Nicolas, Pangasinan",leaderTitle,Elections_in_the_Philippines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"San Nicolas, Pangasinan",leaderTitle,House_of_Representatives_of_the_Philippines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+"San Nicolas, Pangasinan",leaderTitle,Sangguniang_Bayan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Organisation
+"San Nicolas, Pangasinan",leaderTitle,Vice_Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"San Nicolas, Pangasinan",location,"San Nicolas, Pangasinan",outgoing,http://dbpedia.org/ontology/Place,
+"San Nicolas, Pangasinan",utcOffset,+8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"San Nicolas, Pangasinan",width,auto,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Mount Hebron, California",areaCode,530,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Mount Hebron, California",mapCaption,Location in Siskiyou County and the state of California,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Mount Hebron, California",officialName,Mt. Hebron,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Mount Hebron, California",populationAsOf,2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Mount Hebron, California",populationTotal,103,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+"Mount Hebron, California",postalCode,96058,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Mount Hebron, California",subdivisionName,,outgoing,http://dbpedia.org/ontology/Place,
+"Mount Hebron, California",subdivisionName,Siskiyou,outgoing,http://dbpedia.org/ontology/Place,
+"Mount Hebron, California",utcOffset,-8,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wharram Percy,name,wharram-percy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Badger Mountain (Benton County, Washington)",name,Badger Mountain,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Badger Mountain (Benton County, Washington)",range,Columbia_River_Plateau,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/MountainRange
+"Vahdat, Sughd",name,Vahdat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/SoccerClub
+"Vahdat, Sughd",populationAsOf,2015,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Vahdat, Sughd",populationTotal,31955,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+"Vahdat, Sughd",utcOffset,+5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ketmen-Töbö,officialName,Ketmen-Töbö,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Ketmen-Töbö,populationAsOf,2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ketmen-Töbö,populationTotal,2080,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Ketmen-Töbö,utcOffset,+6,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Chowka, Seraikela Kharsawan",areaCode,6597,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Chowka, Seraikela Kharsawan",governmentType,Federalism_in_India,outgoing,http://dbpedia.org/ontology/GovernmentType,
+"Chowka, Seraikela Kharsawan",height,350,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Chowka, Seraikela Kharsawan",name,Chowka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Film
+"Chowka, Seraikela Kharsawan",otherName,Chauka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Software
+"Chowka, Seraikela Kharsawan",populationAsOf,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Chowka, Seraikela Kharsawan",populationTotal,1492,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Chowka, Seraikela Kharsawan",postalCode,832404,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Chowka, Seraikela Kharsawan",shape,l-circle,outgoing,http://dbpedia.org/ontology/Community,
+"Chowka, Seraikela Kharsawan",utcOffset,330.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Chowka, Seraikela Kharsawan",width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Saint-Amand-en-Puisaye,intercommunality,CC Puisaye-Forterre,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Saint-Amand-en-Puisaye,mayor,Gilles Reverdy,outgoing,http://dbpedia.org/ontology/Mayor,
+Saint-Amand-en-Puisaye,name,Saint-Amand-en-Puisaye,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Saint-Amand-en-Puisaye,postalCode,58310,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Yamatokōriyama,leaderName,Kiyoshi Ueda,outgoing,http://dbpedia.org/ontology/Person,
+Yamatokōriyama,leaderTitle,Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Yamatokōriyama,leaderTitle,Vice Mayor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Yamatokōriyama,mapCaption,Location of Yamatokōriyama in Nara Prefecture,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Yamatokōriyama,name,Yamatokōriyama,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Yamatokōriyama,populationAsOf,2017-03-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yamatokōriyama,populationTotal,87541,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Yamatokōriyama,utcOffset,540.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Deh-e Arjomand,officialName,Deh-e Arjomand,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Deh-e Arjomand,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Deh-e Arjomand,populationTotal,677,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Deh-e Arjomand,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Dębno, Brzesko County",name,Dębno,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+"Dębno, Brzesko County",populationTotal,1400,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Narail Sadar Upazila,officialName,Narail Sadar,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Narail Sadar Upazila,populationAsOf,2011,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Narail Sadar Upazila,populationTotal,272872,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Narail Sadar Upazila,postalCode,75007501,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Narail Sadar Upazila,utcOffset,+6,outgoing,http://www.w3.org/2001/XMLSchema#string,

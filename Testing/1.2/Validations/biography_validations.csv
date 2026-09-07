@@ -1,0 +1,205 @@
+Page Name,Score,Datapoints
+Aristotle,52,83
+"Beauvoir, Simone de",83,9
+Chanakya,73,13
+Confucius,62,28
+"Descartes, René",53,102
+"Freud, Sigmund",63,52
+"Hegel, Georg Wilhelm Friedrich",77,11
+"Heidegger, Martin",54,107
+Ibn Khaldun,81,8
+"Kant, Immanuel",54,109
+"Keynes, John Maynard",82,14
+Laozi,55,22
+"Locke, John",53,61
+"Machiavelli, Niccolò",56,61
+"Marx, Karl",83,30
+"Nietzsche, Friedrich",59,46
+Plato,54,71
+"Rousseau, Jean-Jacques",53,81
+"Sartre, Jean-Paul",53,73
+Sima Qian,93,7
+"Smith, Adam",55,59
+Socrates,56,34
+Voltaire,66,16
+"Weber, Max",38,8
+"Wittgenstein, Ludwig",52,199
+Zhu Xi,50,26
+Abraham,39,9
+"Aquinas, Thomas",74,19
+Augustine of Hippo,67,23
+Buddha,50,2
+Al-Ghazali,75,2
+Jesus,74,17
+"Luther, Martin",62,12
+Moses,62,25
+Muhammad,63,15
+Nagarjuna,50,15
+Akbar,85,23
+Alexander the Great,63,23
+Ashoka,71,17
+"Atatürk, Mustafa Kemal",77,42
+Augustus,93,21
+"von Bismarck, Otto",89,27
+"Bolívar, Simón",92,20
+"Caesar, Julius",68,20
+Charlemagne,68,19
+"Churchill, Winston",74,42
+Constantine the Great,69,8
+Cyrus the Great,82,14
+"de Gaulle, Charles",87,35
+Elizabeth I,64,11
+"Gandhi, Mohandas Karamchand",20,5
+Genghis Khan,76,21
+"Guevara, Che",84,25
+"Hitler, Adolf",76,43
+Joan of Arc,90,10
+Martin Luther King Jr.,73,30
+"Lenin, Vladimir",88,38
+"Lincoln, Abraham",78,40
+Louis XIV,68,30
+"Luxemburg, Rosa",90,24
+Napoleon,66,25
+"Mandela, Nelson",87,39
+Mao Zedong,90,42
+"Nehru, Jawaharlal",81,35
+"Nkrumah, Kwame",81,34
+Peter the Great,78,20
+Qin Shi Huang,82,11
+"Roosevelt, Franklin D.",82,41
+Saladin,53,16
+"Stalin, Joseph",87,41
+Suleiman the Magnificent,88,21
+Sun Yat-sen,78,41
+Timur,75,12
+Umar,75,20
+"Washington, George",69,52
+Archimedes,52,26
+Avicenna,45,10
+"Berners-Lee, Tim",64,18
+Brahmagupta,77,13
+"Copernicus, Nicolaus",80,20
+"Curie, Marie",82,25
+"Darwin, Charles",73,44
+"Edison, Thomas",64,40
+"Einstein, Albert",73,75
+Euclid,50,17
+"Euler, Leonhard",87,15
+"Faraday, Michael",58,38
+"Fermi, Enrico",81,56
+"Ford, Henry",75,24
+Galen,61,19
+Galileo Galilei,67,24
+"Gauss, Carl Friedrich",90,44
+"Gutenberg, Johannes",95,11
+"Hilbert, David",84,64
+"Joule, James Prescott",73,22
+"Kepler, Johannes",64,22
+"al-Khwarizmi, Muhammad ibn Musa",0,0
+"Leibniz, Gottfried Wilhelm",53,135
+"Linnaeus, Carl",84,25
+"Maxwell, James Clerk",75,16
+"Mendeleev, Dmitri",67,15
+"Newton, Sir Isaac",50,2
+"Pasteur, Louis",56,33
+"Planck, Max",83,6
+"Rutherford, Ernest",79,7
+"Schrödinger, Erwin",69,50
+"Tesla, Nikola",58,12
+"Turing, Alan",64,32
+"Watt, James",61,33
+Le Corbusier,50,22
+"Dalí, Salvador",73,31
+"Dürer, Albrecht",73,15
+"Gogh, Vincent van",79,7
+"Goya, Francisco",77,11
+Hokusai,82,11
+"Kahlo, Frida",96,12
+Leonardo da Vinci,63,15
+"Matisse, Henri",67,18
+Michelangelo,73,22
+"Picasso, Pablo",78,41
+Raphael,79,17
+Rembrandt,70,23
+"Rubens, Peter Paul",74,17
+"Sinan, Mimar",84,22
+"Velázquez, Diego",81,13
+"Warhol, Andy",66,22
+"Wright, Frank Lloyd",80,40
+"Armstrong, Louis",75,12
+"Bach, Johann Sebastian",88,17
+"Beatles, The",60,30
+"Beethoven, Ludwig van",88,8
+"Brahms, Johannes",79,7
+"Chopin, Frédéric",100,11
+"Dvořák, Antonín",86,7
+"Handel, Georg Frideric",50,2
+"Haydn, Joseph",25,2
+"Jackson, Michael",58,26
+"Kulthum, Umm",72,29
+"Mahler, Gustav",90,5
+"Mozart, Wolfgang Amadeus",85,13
+"Palestrina, Giovanni Pierluigi da",50,2
+"Puccini, Giacomo",72,9
+"Schubert, Franz",93,7
+"Stravinsky, Igor",100,1
+Pyotr_Ilyich_Tchaikovsky,100,8
+"Verdi, Giuseppe",71,7
+"Vivaldi, Antonio",75,4
+"Wagner, Richard",75,12
+"Bergman, Ingmar",77,15
+"Bernhardt, Sarah",83,6
+"Chaplin, Charlie",74,39
+"Dietrich, Marlene",61,14
+"Disney, Walt",60,35
+"Eisenstein, Sergei",83,18
+"Fellini, Federico",69,13
+"Hitchcock, Alfred",72,20
+"Kubrick, Stanley",59,16
+"Kurosawa, Akira",80,15
+"Monroe, Marilyn",67,18
+"Ray, Satyajit",81,32
+Abu Nuwas,100,4
+"Andersen, Hans Christian",70,15
+"Austen, Jane",66,16
+Matsuo_Bashō,100,6
+"Borges, Jorge Luis",82,19
+Lord Byron,84,19
+"Cervantes, Miguel de",79,17
+"Chaucer, Geoffrey",87,19
+"Chekhov, Anton",80,27
+Dante Alighieri,66,22
+"Dickens, Charles",85,37
+"Dostoyevsky, Fyodor",75,6
+"García Márquez, Gabriel",87,15
+"Goethe, Johann Wolfgang von",78,40
+Hafez,80,10
+Homer,58,13
+"Hugo, Victor",77,32
+"Joyce, James",50,11
+"Kafka, Franz",83,21
+Kālidāsa,55,11
+Li Bai,79,7
+Naguib Mahfouz,90,20
+Molière,82,11
+Ovid,77,13
+"Proust, Marcel",82,17
+"Pushkin, Alexander",88,13
+"Shakespeare, William",65,24
+Sophocles,85,13
+"Tagore, Rabindranath",76,40
+"Tolstoy, Leo",65,26
+"Twain, Mark",79,21
+Virgil,81,13
+"Amundsen, Roald",47,15
+"Armstrong, Neil",93,15
+"Cartier, Jacques",80,10
+"Columbus, Christopher",88,25
+"Cook, James",78,16
+"Cortés, Hernán",84,19
+"Gagarin, Yuri",83,18
+"da Gama, Vasco",70,22
+Ibn Battuta,85,10
+"Magellan, Ferdinand",70,10
+"Polo, Marco",59,11
+Zheng He,86,7

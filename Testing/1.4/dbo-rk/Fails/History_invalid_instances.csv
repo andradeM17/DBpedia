@@ -1,0 +1,12 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Fort Frank,buildingEndDate,completed 1913,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,causalties,33 killed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,causalties,66 wounded,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,causalties,Military,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryUnit; http://dbpedia.org/ontology/MusicGenre
+Battle of Ōhaeawai,combatant,Māori,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Battle of Ōhaeawai,commander,Pene_Taui,outgoing,http://dbpedia.org/ontology/Person,
+Battle of Ōhaeawai,result,Inconclusive,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The American West,completionDate,2016-07-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The American West,numberOfEpisodes,8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+The American West,numberOfSeasons,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+The American West,releaseDate,2016-06-11,outgoing,http://www.w3.org/2001/XMLSchema#date,

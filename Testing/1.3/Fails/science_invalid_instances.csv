@@ -1,0 +1,131 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Science,award,Science,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Science,occupation,Science,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Science,specialist,Science,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Nature,occupation,Nature,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Astronomy,almaMater,Astronomy,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Astronomy,award,Astronomy,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Astronomy,occupation,Astronomy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Comet,team,Comet,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Organisation
+Milky Way,notableWork,Milky Way,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Galaxy
+Moon,associatedMusicalArtist,Moon,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Moon,museum,Moon,incoming,http://dbpedia.org/ontology/Museum,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Earth,garrison,Earth,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Mars,nationality,Mars,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/CelestialBody; http://dbpedia.org/ontology/Planet
+Star,team,Star,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/ArtificialSatellite
+Sun,team,Sun,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Star
+Biology,award,Biology,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,genre,Biology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Biology,occupation,Biology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Botany,almaMater,Botany,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Botany,award,Botany,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Botany,genre,Botany,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Death,formerBandMember,Death,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Death,spouse,Death,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Suicide,child,Suicide,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Suicide,commander,Suicide,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Ecology,genre,Ecology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,ideology,Ecology,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Ecology,occupation,Ecology,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Metabolism,occupation,Metabolism,incoming,http://dbpedia.org/ontology/PersonFunction,
+Animal,genre,Animal,incoming,http://dbpedia.org/ontology/Genre,
+Bird,birthPlace,Bird,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band
+Bird,genre,Bird,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Band
+Bird,species,Bird,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Shark,occupation,Shark,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Shark,team,Shark,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Insect
+Cat,leaderName,Cat,incoming,http://dbpedia.org/ontology/Person,
+Cat,species,Cat,incoming,http://dbpedia.org/ontology/Species,
+Cattle,currency,Cattle,incoming,http://dbpedia.org/ontology/Currency,http://dbpedia.org/ontology/PersonFunction
+Cattle,spouse,Cattle,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/PersonFunction
+Sheep,team,Sheep,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Animal
+Pig,occupation,Pig,incoming,http://dbpedia.org/ontology/PersonFunction,
+Pig,species,Pig,incoming,http://dbpedia.org/ontology/Species,
+Human,occupation,Human,incoming,http://dbpedia.org/ontology/PersonFunction,
+Human,parentCompany,Human,incoming,http://dbpedia.org/ontology/Company,
+Human,species,Human,incoming,http://dbpedia.org/ontology/Species,
+Dinosaur,species,Dinosaur,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Band
+Snake,occupation,Snake,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Reptile
+Flower,species,Flower,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Building
+Fruit,occupation,Fruit,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building
+Anatomy,award,Anatomy,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Ear,instrument,Ear,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/AnatomicalStructure
+Taste,innervates,Taste,incoming,http://dbpedia.org/ontology/AnatomicalStructure,http://dbpedia.org/ontology/Fashion
+Skeleton,species,Skeleton,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/AnatomicalStructure
+Skin,occupation,Skin,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/AnatomicalStructure
+Medicine,almaMater,Medicine,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,award,Medicine,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,occupation,Medicine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Medicine,specialist,Medicine,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MedicalSpecialty; http://dbpedia.org/ontology/MusicGenre
+Dentistry,medicalSpecialty,Dentistry,incoming,http://dbpedia.org/ontology/MedicalSpecialty,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Dentistry,training,Dentistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Health,founder,Health,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Health,superintendent,Health,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Ethanol,engine,Ethanol,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound
+Tobacco,location,Tobacco,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/PersonFunction
+Cancer,occupation,Cancer,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Disease
+Blindness,specialist,Blindness,incoming,http://dbpedia.org/ontology/PersonFunction,
+Heart attack,deathPlace,Heart attack,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Disease
+Heart attack,parent,Heart attack,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Sexually_transmitted_infection,occupation,Sexually_transmitted_infection,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+AIDS,occupation,AIDS,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+Smallpox,occupation,Smallpox,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Disease
+Tuberculosis,child,Tuberculosis,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease
+Chemistry,award,Chemistry,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,genre,Chemistry,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Chemistry,occupation,Chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+Inorganic chemistry,almaMater,Inorganic chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,
+Inorganic chemistry,award,Inorganic chemistry,incoming,http://dbpedia.org/ontology/Award,
+Inorganic chemistry,genre,Inorganic chemistry,incoming,http://dbpedia.org/ontology/Genre,
+Biochemistry,almaMater,Biochemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Salt,occupation,Salt,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Mineral
+Aluminium,automobilePlatform,Aluminium,incoming,http://dbpedia.org/ontology/Automobile,http://dbpedia.org/ontology/MilitaryUnit
+Aluminium,engine,Aluminium,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/MilitaryUnit
+Gold,colour,Gold,incoming,http://dbpedia.org/ontology/Colour,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Gold,genre,Gold,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Gold,occupation,Gold,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/MilitaryUnit
+Hydrogen,engine,Hydrogen,incoming,http://dbpedia.org/ontology/AutomobileEngine,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Iron,genre,Iron,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/MilitaryUnit
+Iron,occupation,Iron,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MilitaryUnit
+Silver,colour,Silver,incoming,http://dbpedia.org/ontology/Colour,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Silver,occupation,Silver,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/MilitaryUnit
+Organic chemistry,occupation,Organic chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/University
+Alcohol,subsequentWork,Alcohol,incoming,http://dbpedia.org/ontology/Work,
+Analytical chemistry,occupation,Analytical chemistry,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book
+Physical chemistry,almaMater,Physical chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Physical chemistry,training,Physical chemistry,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/PersonFunction
+Climate,occupation,Climate,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/FootballLeagueSeason; http://dbpedia.org/ontology/MusicGenre
+Geology,almaMater,Geology,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Geology,genre,Geology,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PersonFunction
+Mineral,childOrganisation,Mineral,incoming,http://dbpedia.org/ontology/Organisation,
+Diamond,associatedBand,Diamond,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Diamond,associatedMusicalArtist,Diamond,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/PersonFunction
+Rock,genre,Rock,incoming,http://dbpedia.org/ontology/Genre,
+Weather,award,Weather,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Weather,occupation,Weather,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicGenre
+Tornado,team,Tornado,incoming,http://dbpedia.org/ontology/SportsTeam,
+Physics,award,Physics,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,genre,Physics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,nobelLaureates,Physics,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Physics,occupation,Physics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/University
+Energy,occupation,Energy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,parentCompany,Energy,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,regionServed,Energy,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Energy,subsidiary,Energy,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Ultraviolet,associatedMusicalArtist,Ultraviolet,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Band
+Magnet,recordLabel,Magnet,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/ChemicalCompound
+Steel,automobilePlatform,Steel,incoming,http://dbpedia.org/ontology/Automobile,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,genre,Steel,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Steel,occupation,Steel,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/ChemicalCompound
+Sound,genre,Sound,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Vacuum,associatedBand,Vacuum,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person
+Vacuum,associatedMusicalArtist,Vacuum,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person
+Mathematics,award,Mathematics,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,genre,Mathematics,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,occupation,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,region,Mathematics,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Mathematics,specialist,Mathematics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/University
+Number,headquarter,Number,incoming,http://dbpedia.org/ontology/PopulatedPlace,
+Angle,location,Angle,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person
+Statistics,almaMater,Statistics,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Statistics,occupation,Statistics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre

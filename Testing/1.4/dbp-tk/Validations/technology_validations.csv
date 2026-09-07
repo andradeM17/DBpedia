@@ -1,0 +1,68 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Technology,43,30,0,0,43,30
+Biotechnology,50,18,0,0,50,18
+Clothing,55,11,0,0,55,11
+Cotton,50,14,25,2,54,12
+Engineering,47,31,0,0,47,31
+Machine,38,4,0,0,38,4
+Robot,37,19,43,14,20,5
+Screw,33,3,0,0,33,3
+Wheel,25,2,0,0,25,2
+Metallurgy,48,26,41,11,53,15
+Nanotechnology,42,20,42,6,43,14
+Communication,49,43,50,26,47,17
+Information,44,9,50,2,43,7
+Encyclopedia,44,9,25,2,50,7
+Journalism,46,25,0,0,46,25
+Newspaper,47,17,0,0,47,17
+Library,43,15,50,7,38,8
+Book,43,15,0,0,43,15
+Printing,50,18,50,2,50,16
+Telephone,25,16,0,9,57,7
+Electronics,48,22,25,2,50,20
+Electric current,42,6,38,4,50,2
+Frequency,42,12,41,11,50,1
+Capacitor,37,15,36,14,50,1
+Inductor,43,30,43,30,0,0
+Transistor,38,8,33,6,50,2
+Diode,31,13,32,11,25,2
+Resistor,36,7,33,6,50,1
+Transformer,43,7,33,3,50,4
+Computer,45,43,48,30,38,13
+Hard disk drive,50,12,50,9,50,3
+Central processing unit,43,14,41,11,50,3
+Artificial intelligence,42,38,33,15,48,23
+Information technology,43,23,0,0,43,23
+Algorithm,33,9,21,7,75,2
+Internet,44,35,50,5,43,30
+Email,44,8,25,2,50,6
+World Wide Web,40,26,30,10,47,16
+Operating system,50,10,25,2,56,8
+Programming language,50,16,46,12,62,4
+Software,50,15,25,2,54,13
+Renewable energy,43,71,42,54,47,17
+Electricity,45,22,0,0,45,22
+Nuclear power,38,49,36,39,45,10
+Fossil fuel,45,10,44,8,50,2
+Internal combustion engine,41,11,0,0,41,11
+Steam engine,45,10,0,0,45,10
+Fire,45,19,46,13,42,6
+Glass,45,21,45,10,45,11
+Paper,46,23,44,16,50,7
+Plastic,43,37,41,29,50,8
+Wood,43,28,31,8,48,20
+Transport,44,32,37,15,50,17
+Aircraft,50,11,25,2,56,9
+Bicycle,47,50,46,41,50,9
+Car,43,34,41,23,45,11
+Submarine,31,8,25,2,33,6
+Ship,50,10,50,6,50,4
+Train,47,18,44,9,50,9
+Weapon,50,3,0,0,50,3
+Sword,50,7,0,0,50,7
+Firearm,54,12,33,3,61,9
+Machine gun,39,9,38,4,40,5
+Nuclear weapon,40,5,0,0,40,5
+Tank,38,8,25,2,42,6
+Explosive,44,8,25,2,50,6
+Gunpowder,44,9,38,4,50,5

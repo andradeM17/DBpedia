@@ -1,0 +1,1022 @@
+property,dbp_property,status
+Technology,method,no result
+Technology,industry,no result
+Technology,topics,no result
+Technology,area,valid
+Technology,relatedOccupation,no result
+Technology,activitySector,no result
+Technology,disciplines,no result
+Technology,genre,valid
+Technology,purpose,valid
+Technology,series,no result
+Technology,services,no result
+Technology,fields,no result
+Technology,ideology,valid
+Technology,mainInterests,no result
+Technology,employmentField,no result
+Technology,missionType,no result
+Technology,subject,no result
+Technology,companyType,no result
+Technology,focus,no result
+Technology,products,no result
+Technology,field,no result
+Technology,occupation,valid
+Technology,subjects,no result
+Technology,websiteType,no result
+Technology,discipline,no result
+Technology,researchField,no result
+Technology,divisions,no result
+Technology,type,no result
+Technology,free,valid
+Technology,category,no result
+Biotechnology,subject,no result
+Biotechnology,activitySector,no result
+Biotechnology,discipline,no result
+Biotechnology,purpose,valid
+Biotechnology,researchField,no result
+Biotechnology,knownFor,no result
+Biotechnology,focus,no result
+Biotechnology,industry,no result
+Biotechnology,occupation,valid
+Biotechnology,products,no result
+Biotechnology,subDiscipline,no result
+Biotechnology,field,no result
+Biotechnology,divisions,no result
+Biotechnology,services,no result
+Biotechnology,type,no result
+Biotechnology,fields,no result
+Biotechnology,style,no result
+Biotechnology,mainInterests,no result
+Clothing,subject,no result
+Clothing,genre,valid
+Clothing,exportGoods,no result
+Clothing,knownFor,no result
+Clothing,l,no result
+Clothing,industry,no result
+Clothing,products,no result
+Clothing,industries,no result
+Clothing,type,no result
+Clothing,lit,no result
+Clothing,producttype,no result
+Cotton,textileType,no result
+Cotton,exportGoods,no result
+Cotton,date,valid
+Cotton,paperType,no result
+Cotton,products,no result
+Cotton,industry,no result
+Cotton,material,no result
+Cotton,blankInfoSec,no result
+Cotton,hosts,no result
+Cotton,industries,no result
+Cotton,occupation,valid
+Cotton,namedFor,no result
+Cotton,section,no result
+Cotton,sub,no result
+Engineering,industry,no result
+Engineering,data,no result
+Engineering,buildingType,no result
+Engineering,activitySector,no result
+Engineering,genre,valid
+Engineering,laterwork,no result
+Engineering,otheroccupation,no result
+Engineering,competencies,no result
+Engineering,education,no result
+Engineering,instrument,valid
+Engineering,services,no result
+Engineering,fields,no result
+Engineering,mainInterests,no result
+Engineering,employmentField,no result
+Engineering,missionType,no result
+Engineering,subject,no result
+Engineering,emphasis,no result
+Engineering,focus,no result
+Engineering,products,no result
+Engineering,field,no result
+Engineering,occupation,valid
+Engineering,profession,no result
+Engineering,discipline,no result
+Engineering,researchField,no result
+Engineering,almaMater,valid
+Engineering,knownFor,no result
+Engineering,major,no result
+Engineering,scope,no result
+Engineering,divisions,no result
+Engineering,type,no result
+Engineering,category,no result
+Machine,type,no result
+Machine,title,valid
+Machine,products,no result
+Machine,sub,no result
+Robot,header,no result
+Robot,s,no result
+Robot,species,valid
+Robot,caption,no result
+Robot,v,no result
+Robot,mascot,valid
+Robot,q,no result
+Robot,class,no result
+Robot,width,valid
+Robot,wikt,no result
+Robot,race,valid
+Robot,b,no result
+Robot,type,no result
+Robot,n,no result
+Robot,commons,no result
+Robot,image,no result
+Screw,notes,valid
+Screw,shipPropulsion,no result
+Screw,products,no result
+Wheel,symbol,valid
+Wheel,industry,no result
+Metallurgy,date,valid
+Metallurgy,industry,no result
+Metallurgy,bias,no result
+Metallurgy,direction,no result
+Metallurgy,sub,no result
+Metallurgy,exportGoods,no result
+Metallurgy,align,no result
+Metallurgy,workplaces,no result
+Metallurgy,industries,no result
+Metallurgy,education,no result
+Metallurgy,fields,no result
+Metallurgy,mainInterests,no result
+Metallurgy,subject,no result
+Metallurgy,products,no result
+Metallurgy,width,valid
+Metallurgy,field,no result
+Metallurgy,footer,no result
+Metallurgy,occupation,valid
+Metallurgy,significantAdvance,no result
+Metallurgy,discipline,no result
+Metallurgy,caption,no result
+Metallurgy,knownFor,no result
+Metallurgy,what,no result
+Metallurgy,image,no result
+Nanotechnology,manufacture,no result
+Nanotechnology,date,valid
+Nanotechnology,industry,no result
+Nanotechnology,topics,no result
+Nanotechnology,title,valid
+Nanotechnology,genre,valid
+Nanotechnology,materials,no result
+Nanotechnology,subDiscipline,no result
+Nanotechnology,projectType,valid
+Nanotechnology,fields,no result
+Nanotechnology,mainInterests,no result
+Nanotechnology,subject,no result
+Nanotechnology,focus,no result
+Nanotechnology,field,no result
+Nanotechnology,robotics,no result
+Nanotechnology,occupation,valid
+Nanotechnology,discipline,no result
+Nanotechnology,url,no result
+Nanotechnology,knownFor,no result
+Nanotechnology,type,no result
+Communication,skills,no result
+Communication,about,no result
+Communication,perrow,no result
+Communication,industry,no result
+Communication,sub,no result
+Communication,platform,no result
+Communication,label,no result
+Communication,genre,valid
+Communication,link,no result
+Communication,synonyms,no result
+Communication,competencies,no result
+Communication,services,no result
+Communication,fields,no result
+Communication,mainInterests,no result
+Communication,subject,no result
+Communication,others,no result
+Communication,focus,no result
+Communication,faculty,no result
+Communication,products,no result
+Communication,field,no result
+Communication,alt,no result
+Communication,footer,no result
+Communication,totalWidth,no result
+Communication,discipline,no result
+Communication,onlinebooks,no result
+Communication,nameAbl,no result
+Communication,by,no result
+Communication,image,no result
+Information,title,valid
+Information,colwidth,no result
+Information,method,no result
+Information,genre,valid
+Information,purpose,valid
+Information,products,no result
+Information,rules,no result
+Information,type,no result
+Information,mainInterests,no result
+Encyclopedia,subject,no result
+Encyclopedia,genre,valid
+Encyclopedia,url,no result
+Encyclopedia,application,no result
+Encyclopedia,date,valid
+Encyclopedia,publications,no result
+Encyclopedia,type,no result
+Encyclopedia,occupation,valid
+Encyclopedia,mediaType,no result
+Journalism,format,no result
+Journalism,industry,no result
+Journalism,distinctions,no result
+Journalism,genre,valid
+Journalism,purpose,valid
+Journalism,patronage,no result
+Journalism,education,no result
+Journalism,services,no result
+Journalism,fields,no result
+Journalism,mainInterests,no result
+Journalism,subject,no result
+Journalism,focus,no result
+Journalism,awardedFor,no result
+Journalism,field,no result
+Journalism,occupation,valid
+Journalism,genres,no result
+Journalism,websiteType,no result
+Journalism,profession,no result
+Journalism,discipline,no result
+Journalism,occupations,no result
+Journalism,knownFor,no result
+Journalism,major,no result
+Journalism,type,no result
+Journalism,free,valid
+Journalism,category,no result
+Newspaper,employmentField,no result
+Newspaper,activitySector,no result
+Newspaper,itemsCollected,no result
+Newspaper,genre,valid
+Newspaper,profession,no result
+Newspaper,format,no result
+Newspaper,publicationType,no result
+Newspaper,knownFor,no result
+Newspaper,products,no result
+Newspaper,industry,no result
+Newspaper,freeLabel,valid
+Newspaper,otheroccupation,no result
+Newspaper,divisions,no result
+Newspaper,type,no result
+Newspaper,occupation,valid
+Newspaper,mediaType,no result
+Newspaper,category,no result
+Library,buildingType,no result
+Library,dSearch,no result
+Library,q,no result
+Library,knownFor,no result
+Library,wikt,no result
+Library,space,valid
+Library,currentuse,no result
+Library,d,no result
+Library,services,no result
+Library,collections,no result
+Library,b,no result
+Library,commonsSearch,no result
+Library,type,no result
+Library,occupation,valid
+Library,commons,no result
+Book,itemsCollected,no result
+Book,genre,valid
+Book,mascot,valid
+Book,format,no result
+Book,publicationType,no result
+Book,symbol,valid
+Book,occupation,valid
+Book,industry,no result
+Book,products,no result
+Book,publications,no result
+Book,type,no result
+Book,attributes,no result
+Book,basis,no result
+Book,mediaType,no result
+Book,category,no result
+Printing,colwidth,no result
+Printing,profession,no result
+Printing,discipline,no result
+Printing,genre,valid
+Printing,format,no result
+Printing,knownFor,no result
+Printing,occupation,valid
+Printing,industry,no result
+Printing,products,no result
+Printing,services,no result
+Printing,field,no result
+Printing,divisions,no result
+Printing,small,no result
+Printing,type,no result
+Printing,fields,no result
+Printing,mediaType,no result
+Printing,category,no result
+Printing,sub,no result
+Telephone,areaCodeType,no result
+Telephone,name,valid
+Telephone,products,no result
+Telephone,industry,no result
+Telephone,id,valid
+Telephone,services,no result
+Telephone,technologies,no result
+Telephone,occupation,valid
+Telephone,salesLocation,no result
+Electronics,date,valid
+Electronics,industry,no result
+Electronics,formation,no result
+Electronics,data,no result
+Electronics,genre,valid
+Electronics,exportGoods,no result
+Electronics,industries,no result
+Electronics,education,no result
+Electronics,instrument,valid
+Electronics,fields,no result
+Electronics,subject,no result
+Electronics,focus,no result
+Electronics,faculty,no result
+Electronics,products,no result
+Electronics,field,no result
+Electronics,profession,no result
+Electronics,discipline,no result
+Electronics,researchField,no result
+Electronics,url,no result
+Electronics,knownFor,no result
+Electronics,type,no result
+Electronics,category,no result
+Electric current,quantity,no result
+Electric current,caption,no result
+Electric current,name,valid
+Electric current,unit,no result
+Electric current,symbols,no result
+Electric current,data,no result
+Frequency,quantity,no result
+Frequency,dimension,no result
+Frequency,caption,no result
+Frequency,name,valid
+Frequency,align,no result
+Frequency,width,valid
+Frequency,baseunits,no result
+Frequency,unit,no result
+Frequency,footer,no result
+Frequency,direction,no result
+Frequency,image,no result
+Capacitor,photo,no result
+Capacitor,cellpadding,no result
+Capacitor,backgroundColour,no result
+Capacitor,cs1Dates,no result
+Capacitor,invented,no result
+Capacitor,date,valid
+Capacitor,symbol,valid
+Capacitor,borderColour,no result
+Capacitor,component,valid
+Capacitor,knownFor,no result
+Capacitor,group,no result
+Capacitor,border,valid
+Capacitor,type,no result
+Capacitor,indent,no result
+Inductor,workingPrinciple,no result
+Inductor,totalWidth,no result
+Inductor,caption,no result
+Inductor,symbol,valid
+Inductor,firstProduced,no result
+Inductor,component,valid
+Inductor,align,no result
+Inductor,width,valid
+Inductor,footer,no result
+Inductor,type,no result
+Inductor,direction,no result
+Inductor,image,no result
+Transistor,knownFor,no result
+Transistor,width,valid
+Transistor,align,no result
+Transistor,footer,no result
+Transistor,type,no result
+Transistor,image,no result
+Diode,symbolCaption,no result
+Diode,caption,no result
+Diode,name,valid
+Diode,symbol,valid
+Diode,classification,valid
+Diode,type,no result
+Diode,pins,no result
+Resistor,workingPrinciple,no result
+Resistor,symbolCaption,no result
+Resistor,caption,no result
+Resistor,traction,no result
+Resistor,symbol,valid
+Resistor,component,valid
+Resistor,type,no result
+Transformer,related,no result
+Transformer,fixAttempted,no result
+Transformer,significantProjects,no result
+Transformer,date,valid
+Transformer,products,no result
+Transformer,bot,no result
+Transformer,fields,no result
+Computer,equipment,no result
+Computer,links,no result
+Computer,perrow,no result
+Computer,industry,no result
+Computer,instruments,no result
+Computer,direction,no result
+Computer,project,valid
+Computer,sub,no result
+Computer,species,valid
+Computer,align,no result
+Computer,instrument,valid
+Computer,fields,no result
+Computer,extControl,no result
+Computer,focus,no result
+Computer,short,no result
+Computer,field,no result
+Computer,alt,no result
+Computer,footer,no result
+Computer,totalWidth,no result
+Computer,caption,no result
+Computer,engine,valid
+Computer,type,no result
+Computer,category,no result
+Computer,image,no result
+Hard disk drive,v,no result
+Hard disk drive,s,no result
+Hard disk drive,caption,no result
+Hard disk drive,inventDate,no result
+Hard disk drive,q,no result
+Hard disk drive,products,no result
+Hard disk drive,wikt,no result
+Hard disk drive,b,no result
+Hard disk drive,type,no result
+Hard disk drive,inventName,no result
+Hard disk drive,commons,no result
+Hard disk drive,storage,no result
+Central processing unit,label,no result
+Central processing unit,caption,no result
+Central processing unit,arcadeSystem,no result
+Central processing unit,products,no result
+Central processing unit,width,valid
+Central processing unit,direction,no result
+Central processing unit,image,no result
+Artificial intelligence,v,no result
+Artificial intelligence,type,no result
+Artificial intelligence,date,valid
+Artificial intelligence,industry,no result
+Artificial intelligence,title,valid
+Artificial intelligence,s,no result
+Artificial intelligence,species,valid
+Artificial intelligence,genre,valid
+Artificial intelligence,subDiscipline,no result
+Artificial intelligence,d,no result
+Artificial intelligence,relatedfields,no result
+Artificial intelligence,services,no result
+Artificial intelligence,keywords,no result
+Artificial intelligence,fields,no result
+Artificial intelligence,influenced,no result
+Artificial intelligence,mainInterests,no result
+Artificial intelligence,subject,no result
+Artificial intelligence,focus,no result
+Artificial intelligence,wikt,no result
+Artificial intelligence,products,no result
+Artificial intelligence,field,no result
+Artificial intelligence,c,no result
+Artificial intelligence,voy,no result
+Artificial intelligence,subjects,no result
+Artificial intelligence,discipline,no result
+Artificial intelligence,caption,no result
+Artificial intelligence,url,no result
+Artificial intelligence,researchField,no result
+Artificial intelligence,knownFor,no result
+Artificial intelligence,race,valid
+Artificial intelligence,reason,no result
+Artificial intelligence,specialism,no result
+Artificial intelligence,n,no result
+Artificial intelligence,areaServed,no result
+Information technology,industry,no result
+Information technology,role,valid
+Information technology,formation,no result
+Information technology,activitySector,no result
+Information technology,disciplines,no result
+Information technology,genre,valid
+Information technology,product,no result
+Information technology,purpose,valid
+Information technology,association,no result
+Information technology,subDiscipline,no result
+Information technology,industries,no result
+Information technology,education,no result
+Information technology,services,no result
+Information technology,fields,no result
+Information technology,subject,no result
+Information technology,focus,no result
+Information technology,products,no result
+Information technology,field,no result
+Information technology,occupation,valid
+Information technology,discipline,no result
+Information technology,almaMater,valid
+Information technology,type,no result
+Information technology,category,no result
+Algorithm,title,valid
+Algorithm,subject,no result
+Algorithm,genre,valid
+Algorithm,date,valid
+Algorithm,reason,no result
+Algorithm,id,valid
+Algorithm,urlname,no result
+Internet,format,no result
+Internet,operatingSystem,no result
+Internet,industry,no result
+Internet,topics,no result
+Internet,medium,no result
+Internet,area,valid
+Internet,channel,valid
+Internet,title,valid
+Internet,genre,valid
+Internet,documenturl,no result
+Internet,licenseStatementUrl,no result
+Internet,services,no result
+Internet,fields,no result
+Internet,mediaType,no result
+Internet,mainInterests,no result
+Internet,subject,no result
+Internet,companyType,no result
+Internet,platforms,no result
+Internet,focus,no result
+Internet,products,no result
+Internet,nativeClients,no result
+Internet,field,no result
+Internet,pageNumbers,no result
+Internet,occupation,valid
+Internet,broadcastArea,valid
+Internet,networkType,no result
+Internet,setIn,no result
+Internet,knownFor,no result
+Internet,location,valid
+Internet,publisher,valid
+Internet,affiliations,no result
+Internet,type,no result
+Internet,areaServed,no result
+Internet,onlineServ,no result
+Internet,category,no result
+Email,genre,valid
+Email,url,no result
+Email,type,no result
+Email,date,valid
+Email,products,no result
+Email,industry,no result
+Email,freeLabel,valid
+Email,keywords,no result
+World Wide Web,format,no result
+World Wide Web,domain,no result
+World Wide Web,date,valid
+World Wide Web,small,no result
+World Wide Web,platform,no result
+World Wide Web,genre,valid
+World Wide Web,fields,no result
+World Wide Web,code,valid
+World Wide Web,mediaType,no result
+World Wide Web,subject,no result
+World Wide Web,platforms,no result
+World Wide Web,products,no result
+World Wide Web,network,valid
+World Wide Web,lang,no result
+World Wide Web,discipline,no result
+World Wide Web,url,no result
+World Wide Web,location,valid
+World Wide Web,headquarters,no result
+World Wide Web,reason,no result
+World Wide Web,divisions,no result
+World Wide Web,nativeClients,no result
+World Wide Web,operatingSystem,no result
+Operating system,label,no result
+Operating system,className,no result
+Operating system,os,no result
+Operating system,genre,valid
+Operating system,date,valid
+Operating system,knownFor,no result
+Operating system,products,no result
+Operating system,industry,no result
+Operating system,reason,no result
+Operating system,services,no result
+Programming language,platform,no result
+Programming language,v,no result
+Programming language,s,no result
+Programming language,mw,no result
+Programming language,species,valid
+Programming language,discipline,no result
+Programming language,genre,valid
+Programming language,q,no result
+Programming language,knownFor,no result
+Programming language,wikt,no result
+Programming language,d,no result
+Programming language,b,no result
+Programming language,voy,no result
+Programming language,n,no result
+Programming language,m,no result
+Programming language,commons,no result
+Software,websiteType,no result
+Software,subject,no result
+Software,activitySector,no result
+Software,discipline,no result
+Software,genre,valid
+Software,date,valid
+Software,knownFor,no result
+Software,products,no result
+Software,industry,no result
+Software,industries,no result
+Software,talk,no result
+Software,services,no result
+Software,type,no result
+Software,fields,no result
+Software,category,no result
+Renewable energy,v,no result
+Renewable energy,date,valid
+Renewable energy,industry,no result
+Renewable energy,b,no result
+Renewable energy,data,no result
+Renewable energy,direction,no result
+Renewable energy,label,no result
+Renewable energy,policyAreas,no result
+Renewable energy,header,no result
+Renewable energy,s,no result
+Renewable energy,species,valid
+Renewable energy,purpose,valid
+Renewable energy,align,no result
+Renewable energy,d,no result
+Renewable energy,services,no result
+Renewable energy,fields,no result
+Renewable energy,mainInterests,no result
+Renewable energy,subject,no result
+Renewable energy,mw,no result
+Renewable energy,environmentalIssues,no result
+Renewable energy,focus,no result
+Renewable energy,width,valid
+Renewable energy,wikt,no result
+Renewable energy,products,no result
+Renewable energy,field,no result
+Renewable energy,c,no result
+Renewable energy,voy,no result
+Renewable energy,m,no result
+Renewable energy,totalWidth,no result
+Renewable energy,discipline,no result
+Renewable energy,caption,no result
+Renewable energy,url,no result
+Renewable energy,researchField,no result
+Renewable energy,q,no result
+Renewable energy,knownFor,no result
+Renewable energy,reason,no result
+Renewable energy,n,no result
+Renewable energy,category,no result
+Renewable energy,image,no result
+Electricity,industry,no result
+Electricity,instruments,no result
+Electricity,fuelType,no result
+Electricity,data,no result
+Electricity,era1PropulsionSystem,no result
+Electricity,title,valid
+Electricity,commodity,no result
+Electricity,genre,valid
+Electricity,purpose,valid
+Electricity,causes,no result
+Electricity,services,no result
+Electricity,powertype,no result
+Electricity,era3PropulsionSystem,no result
+Electricity,propulsionSystem,no result
+Electricity,products,no result
+Electricity,field,no result
+Electricity,agencyType,no result
+Electricity,club,valid
+Electricity,class,no result
+Electricity,knownFor,no result
+Electricity,era2PropulsionSystem,no result
+Electricity,fuelSource,no result
+Nuclear power,industry,no result
+Nuclear power,direction,no result
+Nuclear power,project,valid
+Nuclear power,sub,no result
+Nuclear power,label,no result
+Nuclear power,policyAreas,no result
+Nuclear power,align,no result
+Nuclear power,pos,no result
+Nuclear power,services,no result
+Nuclear power,content,no result
+Nuclear power,fields,no result
+Nuclear power,ideology,valid
+Nuclear power,subject,no result
+Nuclear power,focus,no result
+Nuclear power,width,valid
+Nuclear power,field,no result
+Nuclear power,value,valid
+Nuclear power,thumb,no result
+Nuclear power,color,no result
+Nuclear power,discipline,no result
+Nuclear power,caption,no result
+Nuclear power,text,no result
+Nuclear power,image,no result
+Fossil fuel,totalWidth,no result
+Fossil fuel,url,no result
+Fossil fuel,date,valid
+Fossil fuel,perrow,no result
+Fossil fuel,industry,no result
+Fossil fuel,products,no result
+Fossil fuel,footer,no result
+Fossil fuel,image,no result
+Internal combustion engine,platform,no result
+Internal combustion engine,shipPropulsion,no result
+Internal combustion engine,shipPower,no result
+Internal combustion engine,engine,valid
+Internal combustion engine,knownFor,no result
+Internal combustion engine,auxpower,no result
+Internal combustion engine,products,no result
+Internal combustion engine,subDiscipline,no result
+Internal combustion engine,propulsion,no result
+Internal combustion engine,classification,valid
+Internal combustion engine,shipType,no result
+Steam engine,shipPropulsion,no result
+Steam engine,shipPower,no result
+Steam engine,shipSailPlan,no result
+Steam engine,engine,valid
+Steam engine,auxpower,no result
+Steam engine,propulsion,no result
+Steam engine,era2PropulsionSystem,no result
+Steam engine,type,no result
+Steam engine,significantDesign,no result
+Steam engine,era2Name,no result
+Fire,totalWidth,no result
+Fire,caption,no result
+Fire,time,valid
+Fire,type,no result
+Fire,align,no result
+Fire,width,valid
+Fire,field,no result
+Fire,alt,no result
+Fire,footer,no result
+Fire,cause,no result
+Fire,attributes,no result
+Fire,direction,no result
+Fire,weapons,no result
+Fire,image,no result
+Glass,v,no result
+Glass,industry,no result
+Glass,b,no result
+Glass,commons,no result
+Glass,s,no result
+Glass,species,valid
+Glass,materials,no result
+Glass,material,no result
+Glass,d,no result
+Glass,industries,no result
+Glass,fields,no result
+Glass,architecturalStyle,no result
+Glass,products,no result
+Glass,wikt,no result
+Glass,voy,no result
+Glass,collection,valid
+Glass,q,no result
+Glass,knownFor,no result
+Glass,type,no result
+Glass,n,no result
+Glass,category,no result
+Paper,y,no result
+Paper,paperType,no result
+Paper,industry,no result
+Paper,medium,no result
+Paper,s,no result
+Paper,suz,no result
+Paper,material,no result
+Paper,industries,no result
+Paper,gasPermTemp,no result
+Paper,poj,no result
+Paper,products,no result
+Paper,piccap,no result
+Paper,density,valid
+Paper,pic,no result
+Paper,caption,no result
+Paper,name,valid
+Paper,p,no result
+Paper,t,no result
+Paper,j,no result
+Paper,type,no result
+Paper,tl,no result
+Paper,picsize,no result
+Plastic,date,valid
+Plastic,industry,no result
+Plastic,medium,no result
+Plastic,direction,no result
+Plastic,title,valid
+Plastic,header,no result
+Plastic,materials,no result
+Plastic,exportGoods,no result
+Plastic,construction,no result
+Plastic,align,no result
+Plastic,material,no result
+Plastic,documenturl,no result
+Plastic,industries,no result
+Plastic,licenseStatementUrl,no result
+Plastic,content,no result
+Plastic,products,no result
+Plastic,width,valid
+Plastic,alt,no result
+Plastic,totalWidth,no result
+Plastic,caption,no result
+Plastic,license,no result
+Plastic,text,no result
+Plastic,publisher,valid
+Plastic,type,no result
+Plastic,image,no result
+Wood,imageWidth,no result
+Wood,date,valid
+Wood,industry,no result
+Wood,meaning,valid
+Wood,seatingType,no result
+Wood,blankInfoSec,no result
+Wood,medium,no result
+Wood,carbody,no result
+Wood,genre,valid
+Wood,materials,no result
+Wood,exportGoods,no result
+Wood,construction,no result
+Wood,surface,no result
+Wood,align,no result
+Wood,height,valid
+Wood,material,no result
+Wood,fueltype,no result
+Wood,track,no result
+Wood,thFuelPrimary,no result
+Wood,annotFontSize,no result
+Wood,foundation,valid
+Wood,products,no result
+Wood,width,valid
+Wood,windshaft,no result
+Wood,annotColor,no result
+Wood,url,no result
+Wood,type,no result
+Wood,category,no result
+Transport,parentAgency,no result
+Transport,application,no result
+Transport,industry,no result
+Transport,role,valid
+Transport,topics,no result
+Transport,buildingType,no result
+Transport,label,no result
+Transport,importGoods,no result
+Transport,exportGoods,no result
+Transport,services,no result
+Transport,fields,no result
+Transport,focus,no result
+Transport,products,no result
+Transport,value,valid
+Transport,occupation,valid
+Transport,color,no result
+Transport,discipline,no result
+Transport,caption,no result
+Transport,shipType,no result
+Transport,type,no result
+Transport,category,no result
+Aircraft,significantAdvance,no result
+Aircraft,url,no result
+Aircraft,date,valid
+Aircraft,knownFor,no result
+Aircraft,occupation,valid
+Aircraft,industry,no result
+Aircraft,products,no result
+Aircraft,industries,no result
+Aircraft,type,no result
+Aircraft,fields,no result
+Aircraft,launchPlatform,no result
+Bicycle,freeText,no result
+Bicycle,equipment,no result
+Bicycle,application,no result
+Bicycle,industry,no result
+Bicycle,imageUpright,no result
+Bicycle,s,no result
+Bicycle,genre,valid
+Bicycle,industries,no result
+Bicycle,auto,no result
+Bicycle,invented,no result
+Bicycle,wikt,no result
+Bicycle,fuelSource,no result
+Bicycle,activity,no result
+Bicycle,voy,no result
+Bicycle,occupation,valid
+Bicycle,producttype,no result
+Bicycle,components,no result
+Bicycle,transitType,no result
+Bicycle,caption,no result
+Bicycle,name,valid
+Bicycle,wheels,no result
+Bicycle,q,no result
+Bicycle,freeLabel,valid
+Bicycle,inventor,no result
+Bicycle,classification,valid
+Bicycle,n,no result
+Car,axles,no result
+Car,application,no result
+Car,date,valid
+Car,industry,no result
+Car,imageUpright,no result
+Car,label,no result
+Car,species,valid
+Car,powered,no result
+Car,alternatemodes,no result
+Car,selfPropelled,no result
+Car,invented,no result
+Car,products,no result
+Car,producttype,no result
+Car,weapons,no result
+Car,significantAdvance,no result
+Car,easiestRoute,no result
+Car,caption,no result
+Car,name,valid
+Car,populationDensityKm,no result
+Car,wheels,no result
+Car,class,no result
+Car,inventor,no result
+Car,classification,valid
+Car,reason,no result
+Car,type,no result
+Car,fuelSource,no result
+Submarine,date,valid
+Submarine,role,valid
+Submarine,reason,no result
+Submarine,shipType,no result
+Submarine,type,no result
+Submarine,occupation,valid
+Submarine,launchPlatform,no result
+Submarine,shipClass,no result
+Ship,shipPropulsion,no result
+Ship,shipImageSize,no result
+Ship,shipSailPlan,no result
+Ship,industry,no result
+Ship,shipImage,no result
+Ship,shipCaption,no result
+Ship,shipType,no result
+Ship,shipTonnage,no result
+Ship,shipClass,no result
+Train,transitType,no result
+Train,target,no result
+Train,associatedActs,no result
+Train,class,no result
+Train,perrow,no result
+Train,width,valid
+Train,industry,no result
+Train,products,no result
+Train,traffic,no result
+Train,footer,no result
+Train,services,no result
+Train,type,no result
+Train,image,no result
+Weapon,type,no result
+Weapon,charge,no result
+Weapon,focus,no result
+Sword,weapon,valid
+Sword,equipment,no result
+Sword,symbol,valid
+Sword,symbols,no result
+Sword,type,no result
+Sword,attributes,no result
+Sword,weapons,no result
+Firearm,weapon,valid
+Firearm,equipment,no result
+Firearm,deathCause,no result
+Firearm,caption,no result
+Firearm,type,no result
+Firearm,industry,no result
+Firearm,keywords,no result
+Firearm,uses,no result
+Firearm,border,valid
+Firearm,content,no result
+Firearm,occupation,valid
+Firearm,weapons,no result
+Machine gun,shipArmament,no result
+Machine gun,weapon,valid
+Machine gun,url,no result
+Machine gun,date,valid
+Machine gun,specType,no result
+Machine gun,small,no result
+Machine gun,type,no result
+Machine gun,weapons,no result
+Machine gun,colwidth,no result
+Nuclear weapon,type,no result
+Nuclear weapon,role,valid
+Nuclear weapon,deviceType,no result
+Nuclear weapon,keywords,no result
+Nuclear weapon,fields,no result
+Tank,author,valid
+Tank,equipment,no result
+Tank,text,no result
+Tank,products,no result
+Tank,role,valid
+Tank,type,no result
+Tank,fields,no result
+Tank,branch,no result
+Explosive,buildingType,no result
+Explosive,url,no result
+Explosive,date,valid
+Explosive,filling,no result
+Explosive,uses,no result
+Explosive,type,no result
+Explosive,cartridge,no result
+Explosive,weapons,no result
+Gunpowder,url,no result
+Gunpowder,p,no result
+Gunpowder,date,valid
+Gunpowder,products,no result
+Gunpowder,industry,no result
+Gunpowder,c,no result
+Gunpowder,type,no result
+Gunpowder,textileType,no result
+Gunpowder,shipNamesake,no result

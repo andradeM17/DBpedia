@@ -1,0 +1,84 @@
+Section,Subsection,Subsubsection,Low,Average (mean),High
+Biography,,,0,72,100
+Biography,Philosophers and social scientists,,38,62,93
+Biography,Religious figures and theologians,,39,62,75
+Biography,Political leaders,,20,77,93
+Biography,"Inventors, scientists and mathematicians",,0,67,95
+Biography,Artists and architects,,50,75,96
+Biography,Composers and musicians,,25,76,100
+Biography,"Film directors, screenwriters and actors",,83,72,83
+Biography,"Authors, playwrights and poets",,50,78,100
+Biography,Explorers and travellers,,47,77,93
+Philosophy,,,38,53,100
+Religion,,,28,45,100
+Social sciences,,,0,48,100
+Social sciences,N/A,,41,50,58
+Social sciences,Psychology,,29,47,62
+Social sciences,Family and relationships,,25,50,75
+Social sciences,Politics,,0,39,67
+Social sciences,Business and economics,,0,43,83
+Social sciences,Law,,0,24,47
+Social sciences,International organizations,,25,68,100
+Social sciences,War and military,,33,48,62
+Social sciences,Social issues,,42,48,58
+Language and literature,,,0,47,100
+Measurements,,,0,30,75
+Science,,,0,46,100
+Science,N/A,,47,49,50
+Science,Astronomy,,0,45,80
+Science,Biology,,0,50,100
+Science,Biology,N/A,38,49,75
+Science,Biology,Biological processes,0,49,60
+Science,Biology,Organisms,0,50,100
+Science,Biology,Anatomy,0,52,100
+Science,Health and medicine,,0,49,62
+Science,Health and medicine,N/A,44,50,60
+Science,Health and medicine,Specific Diseases/Conditions,0,48,62
+Science,Chemistry,,0,42,67
+Science,Earth science,,0,45,100
+Science,Physics,,0,41,50
+Science,Mathematics,,0,42,67
+Food and agriculture,,,0,48,71
+Food and agriculture,Agriculture,,50,52,57
+Food and agriculture,Food,,0,48,71
+Food and agriculture,Beverage,,38,48,58
+Technology,,,0,48,62
+Technology,N/A,,40,50,58
+Technology,Communication,,42,50,62
+Technology,Electronics,,0,43,62
+Technology,Electronics,N/A,0,38,50
+Technology,Electronics,Computers and Internet,36,48,62
+Technology,Energy and fuels,,36,48,56
+Technology,Materials,,33,49,58
+Technology,Transportation,,38,49,57
+Technology,Weapons,,50,53,60
+Arts and recreation,,,0,47,96
+Arts and recreation,N/A,,37,46,58
+Arts and recreation,Architecture and civil engineering,,0,49,90
+Arts and recreation,"Film, radio and television",,33,41,48
+Arts and recreation,Music,,33,58,96
+Arts and recreation,Recreation,,0,36,60
+History,,,0,61,100
+History,N/A,,44,44,44
+History,Prehistoric and ancient history,,0,59,100
+History,Medieval and Renaissance periods,,17,55,75
+History,Early modern and modern periods,,29,66,100
+Geography,,,0,68,97
+Geography,NA,,0,42,67
+Geography,Continents and major regions,,64,79,96
+Geography,Countries,,54,74,91
+Geography,Countries,Africa,69,73,81
+Geography,Countries,Asia,61,73,91
+Geography,Countries,Europe,54,75,91
+Geography,Countries,North America,68,75,86
+Geography,Countries,South America,71,73,77
+Geography,Countries,Oceania,73,73,73
+Geography,Cities,,52,67,75
+Geography,Cities,Africa,59,66,71
+Geography,Cities,Asia,52,67,75
+Geography,Cities,Europe,58,65,72
+Geography,Cities,North America,63,68,73
+Geography,Cities,South America,62,68,73
+Geography,Cities,Oceania,66,66,66
+Geography,Bodies of water,,42,68,91
+Geography,Mountains and deserts,,54,73,97

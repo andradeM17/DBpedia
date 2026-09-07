@@ -1,0 +1,2 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Litre,engine,Litre,incoming,http://dbpedia.org/ontology/AutomobileEngine,

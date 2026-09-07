@@ -1,0 +1,911 @@
+property,dbp_property,status
+Agriculture,disciplines,no result
+Agriculture,dedicatedTo,no result
+Agriculture,occupations,no result
+Agriculture,field,no result
+Agriculture,title,valid
+Agriculture,isbn,valid
+Agriculture,competencies,no result
+Agriculture,labelType,no result
+Agriculture,movement,no result
+Agriculture,occupation,valid
+Agriculture,documenturl,no result
+Agriculture,products,no result
+Agriculture,licenseStatementUrl,no result
+Agriculture,publisher,valid
+Agriculture,focus,no result
+Agriculture,namedFor,no result
+Agriculture,activitySector,no result
+Agriculture,theme,no result
+Agriculture,service,no result
+Agriculture,discipline,no result
+Agriculture,emphasis,no result
+Agriculture,float,no result
+Agriculture,genre,valid
+Agriculture,format,no result
+Agriculture,barWidth,no result
+Agriculture,keywords,no result
+Agriculture,method,no result
+Agriculture,fields,no result
+Agriculture,profession,no result
+Agriculture,type,no result
+Agriculture,demographics2Title,no result
+Agriculture,category,no result
+Agriculture,license,no result
+Agriculture,subject,no result
+Agriculture,purpose,valid
+Agriculture,industry,no result
+Agriculture,knownFor,no result
+Agriculture,dataMax,no result
+Agriculture,lakeType,no result
+Agriculture,researchField,no result
+Agriculture,office,valid
+Agriculture,sectors,no result
+Agriculture,label,no result
+Agriculture,sub,no result
+Agriculture,industries,no result
+Agriculture,landuse,no result
+Agriculture,services,no result
+Agriculture,date,valid
+Agriculture,data,no result
+Agriculture,tableWidth,no result
+Irrigation,areaServed,no result
+Irrigation,ref,no result
+Irrigation,fields,no result
+Irrigation,resName,no result
+Irrigation,policyAreas,no result
+Irrigation,type,no result
+Irrigation,purpose,valid
+Irrigation,application,no result
+Irrigation,industry,no result
+Irrigation,reference,valid
+Irrigation,date,valid
+Irrigation,url,no result
+Plough,products,no result
+Plough,date,valid
+Plough,url,no result
+Plough,weapon,valid
+Domestication,date,valid
+Domestication,url,no result
+Food,demographicsType,no result
+Food,products,no result
+Food,type,no result
+Food,topics,no result
+Food,category,no result
+Food,importGoods,no result
+Food,subject,no result
+Food,discipline,no result
+Food,data,no result
+Food,industry,no result
+Food,services,no result
+Food,date,valid
+Food,url,no result
+Food,genre,valid
+Bread,products,no result
+Bread,symbol,valid
+Bread,course,valid
+Bread,type,no result
+Bread,minorIngredient,no result
+Bread,image,no result
+Bread,totalWidth,no result
+Bread,producttype,no result
+Bread,name,valid
+Bread,industry,no result
+Bread,caption,no result
+Bread,mainIngredient,no result
+Cereal,products,no result
+Cereal,auto,no result
+Cereal,type,no result
+Cereal,pages,no result
+Cereal,page,no result
+Cereal,sub,no result
+Cereal,title,valid
+Cereal,industry,no result
+Cereal,portal,no result
+Cereal,mainIngredient,no result
+Barley,magnesiumMg,no result
+Barley,phosphorusMg,no result
+Barley,viteMg,no result
+Barley,calciumMg,no result
+Barley,luteinUg,no result
+Barley,kj,no result
+Barley,species,valid
+Barley,pantothenicMg,no result
+Barley,vitkUg,no result
+Barley,vitaUg,no result
+Barley,vitdIu,no result
+Barley,niacinMg,no result
+Barley,thiaminMg,no result
+Barley,sugars,no result
+Barley,vitb6Mg,no result
+Barley,manganeseMg,no result
+Barley,folateUg,no result
+Barley,fat,valid
+Barley,vitcMg,no result
+Barley,note,valid
+Barley,cholineMg,no result
+Barley,fiber,no result
+Barley,mainIngredient,no result
+Barley,authority,no result
+Barley,betacaroteneUg,no result
+Barley,copperMg,no result
+Barley,imageCaption,no result
+Barley,hosts,no result
+Barley,water,valid
+Barley,ingredients,no result
+Barley,cholesterol,no result
+Barley,genus,no result
+Barley,riboflavinMg,no result
+Barley,potassiumMg,no result
+Barley,protein,valid
+Barley,sodiumMg,no result
+Barley,vitb12Ug,no result
+Barley,zincMg,no result
+Barley,name,valid
+Barley,ironMg,no result
+Barley,carbs,no result
+Barley,synonyms,no result
+Maize,magnesiumMg,no result
+Maize,phosphorusMg,no result
+Maize,blankInfoSec,no result
+Maize,luteinUg,no result
+Maize,tryptophan,no result
+Maize,kj,no result
+Maize,starch,no result
+Maize,histidine,no result
+Maize,width,valid
+Maize,species,valid
+Maize,pantothenicMg,no result
+Maize,isoleucine,no result
+Maize,vitaUg,no result
+Maize,niacinMg,no result
+Maize,thiaminMg,no result
+Maize,glycine,no result
+Maize,sugars,no result
+Maize,occupation,valid
+Maize,vitb6Mg,no result
+Maize,products,no result
+Maize,manganeseMg,no result
+Maize,phenylalanine,no result
+Maize,folateUg,no result
+Maize,namedFor,no result
+Maize,statusSystem,no result
+Maize,fat,valid
+Maize,lysine,no result
+Maize,vitcMg,no result
+Maize,leucine,no result
+Maize,note,valid
+Maize,methionine,no result
+Maize,status,valid
+Maize,fiber,no result
+Maize,url,no result
+Maize,cystine,no result
+Maize,valine,no result
+Maize,mainIngredient,no result
+Maize,authority,no result
+Maize,imageCaption,no result
+Maize,source,no result
+Maize,hosts,no result
+Maize,proline,no result
+Maize,type,no result
+Maize,image,no result
+Maize,water,valid
+Maize,ingredients,no result
+Maize,tyrosine,no result
+Maize,genus,no result
+Maize,riboflavinMg,no result
+Maize,threonine,no result
+Maize,knownFor,no result
+Maize,direction,no result
+Maize,potassiumMg,no result
+Maize,caption,no result
+Maize,asparticAcid,no result
+Maize,protein,valid
+Maize,food,no result
+Maize,alanine,no result
+Maize,label,no result
+Maize,zincMg,no result
+Maize,sub,no result
+Maize,arginine,no result
+Maize,glutamicAcid,no result
+Maize,align,no result
+Maize,name,valid
+Maize,date,valid
+Maize,data,no result
+Maize,ironMg,no result
+Maize,sourceUsda,no result
+Maize,serine,no result
+Maize,carbs,no result
+Rice,blankInfoSec,no result
+Rice,colwidth,no result
+Rice,demographics2Info,no result
+Rice,organism,no result
+Rice,products,no result
+Rice,small,no result
+Rice,minorIngredient,no result
+Rice,importGoods,no result
+Rice,mainIngredient,no result
+Rice,fields,no result
+Rice,exportGoods,no result
+Rice,type,no result
+Rice,ingredients,no result
+Rice,industry,no result
+Rice,knownFor,no result
+Rice,supporters,no result
+Rice,reason,no result
+Rice,industries,no result
+Rice,date,valid
+Sorghum bicolor,authority,no result
+Sorghum bicolor,mainIngredient,no result
+Sorghum bicolor,kj,no result
+Sorghum bicolor,fat,valid
+Sorghum bicolor,species,valid
+Sorghum bicolor,genus,no result
+Sorghum bicolor,from,no result
+Sorghum bicolor,name,valid
+Sorghum bicolor,fiber,no result
+Sorghum bicolor,protein,valid
+Sorghum bicolor,carbs,no result
+Sorghum bicolor,synonyms,no result
+Wheat,magnesiumMg,no result
+Wheat,phosphorusMg,no result
+Wheat,viteMg,no result
+Wheat,calciumMg,no result
+Wheat,blankInfoSec,no result
+Wheat,opt1v,no result
+Wheat,kj,no result
+Wheat,width,valid
+Wheat,pantothenicMg,no result
+Wheat,vitkUg,no result
+Wheat,niacinMg,no result
+Wheat,opt1n,no result
+Wheat,thiaminMg,no result
+Wheat,sugars,no result
+Wheat,vitb6Mg,no result
+Wheat,products,no result
+Wheat,manganeseMg,no result
+Wheat,produce,no result
+Wheat,folateUg,no result
+Wheat,typeSpecies,no result
+Wheat,fat,valid
+Wheat,subdivisionRanks,no result
+Wheat,taxon,valid
+Wheat,note,valid
+Wheat,header,no result
+Wheat,cholineMg,no result
+Wheat,fiber,no result
+Wheat,mainIngredient,no result
+Wheat,authority,no result
+Wheat,symbol,valid
+Wheat,hosts,no result
+Wheat,exportGoods,no result
+Wheat,type,no result
+Wheat,image,no result
+Wheat,water,valid
+Wheat,ingredients,no result
+Wheat,riboflavinMg,no result
+Wheat,direction,no result
+Wheat,potassiumMg,no result
+Wheat,protein,valid
+Wheat,sodiumMg,no result
+Wheat,displayParents,no result
+Wheat,supporters,no result
+Wheat,typeSpeciesAuthority,no result
+Wheat,label,no result
+Wheat,zincMg,no result
+Wheat,footer,no result
+Wheat,subdivision,no result
+Wheat,align,no result
+Wheat,name,valid
+Wheat,caption,no result
+Wheat,ironMg,no result
+Wheat,sourceUsda,no result
+Wheat,carbs,no result
+Cheese,plant,valid
+Cheese,cookbook,no result
+Cheese,world,valid
+Cheese,occupation,valid
+Cheese,products,no result
+Cheese,voy,no result
+Cheese,minorIngredient,no result
+Cheese,amount,no result
+Cheese,variations,no result
+Cheese,mainIngredient,no result
+Cheese,auto,no result
+Cheese,type,no result
+Cheese,producttype,no result
+Cheese,industry,no result
+Cheese,no,no result
+Cheese,reason,no result
+Cheese,label,no result
+Cheese,currentAwards,no result
+Cheese,name,valid
+Cheese,date,valid
+Cheese,year,valid
+Chocolate,magnesiumMg,no result
+Chocolate,phosphorusMg,no result
+Chocolate,viteMg,no result
+Chocolate,calciumMg,no result
+Chocolate,colwidth,no result
+Chocolate,opt1v,no result
+Chocolate,kj,no result
+Chocolate,imageSize,valid
+Chocolate,dedicatedTo,no result
+Chocolate,vitkUg,no result
+Chocolate,niacinMg,no result
+Chocolate,opt1n,no result
+Chocolate,vitb5Mg,no result
+Chocolate,thiaminMg,no result
+Chocolate,sugars,no result
+Chocolate,vitb6Mg,no result
+Chocolate,products,no result
+Chocolate,manganeseMg,no result
+Chocolate,folateUg,no result
+Chocolate,region,valid
+Chocolate,small,no result
+Chocolate,minorIngredient,no result
+Chocolate,fat,valid
+Chocolate,vitaIu,no result
+Chocolate,vitcMg,no result
+Chocolate,note,valid
+Chocolate,style,no result
+Chocolate,variations,no result
+Chocolate,cholineMg,no result
+Chocolate,fiber,no result
+Chocolate,mainIngredient,no result
+Chocolate,type,no result
+Chocolate,water,valid
+Chocolate,ingredients,no result
+Chocolate,subject,no result
+Chocolate,cholesterol,no result
+Chocolate,producttype,no result
+Chocolate,caffeine,no result
+Chocolate,riboflavinMg,no result
+Chocolate,industry,no result
+Chocolate,potassiumMg,no result
+Chocolate,protein,valid
+Chocolate,sodiumMg,no result
+Chocolate,vitb12Ug,no result
+Chocolate,zincMg,no result
+Chocolate,currentAwards,no result
+Chocolate,seleniumUg,no result
+Chocolate,name,valid
+Chocolate,caption,no result
+Chocolate,ironMg,no result
+Chocolate,sourceUsda,no result
+Chocolate,carbs,no result
+Honey,magnesiumMg,no result
+Honey,phosphorusMg,no result
+Honey,calciumMg,no result
+Honey,kj,no result
+Honey,width,valid
+Honey,pantothenicMg,no result
+Honey,niacinMg,no result
+Honey,sugars,no result
+Honey,vitb6Mg,no result
+Honey,products,no result
+Honey,folateUg,no result
+Honey,minorIngredient,no result
+Honey,fat,valid
+Honey,vitcMg,no result
+Honey,note,valid
+Honey,fiber,no result
+Honey,collapsible,no result
+Honey,c,no result
+Honey,mainIngredient,no result
+Honey,image,no result
+Honey,water,valid
+Honey,ingredients,no result
+Honey,producttype,no result
+Honey,industry,no result
+Honey,riboflavinMg,no result
+Honey,direction,no result
+Honey,potassiumMg,no result
+Honey,protein,valid
+Honey,sodiumMg,no result
+Honey,zincMg,no result
+Honey,currentAwards,no result
+Honey,align,no result
+Honey,name,valid
+Honey,caption,no result
+Honey,ironMg,no result
+Honey,carbs,no result
+Apple,magnesiumMg,no result
+Apple,phosphorusMg,no result
+Apple,viteMg,no result
+Apple,calciumMg,no result
+Apple,luteinUg,no result
+Apple,flower,valid
+Apple,kj,no result
+Apple,text,no result
+Apple,species,valid
+Apple,pantothenicMg,no result
+Apple,vitkUg,no result
+Apple,title,valid
+Apple,vitaUg,no result
+Apple,niacinMg,no result
+Apple,b,no result
+Apple,thiaminMg,no result
+Apple,sugars,no result
+Apple,champion,valid
+Apple,vitb6Mg,no result
+Apple,manganeseMg,no result
+Apple,folateUg,no result
+Apple,fat,valid
+Apple,vitcMg,no result
+Apple,note,valid
+Apple,variations,no result
+Apple,fiber,no result
+Apple,pos,no result
+Apple,blank3InfoSec,no result
+Apple,source,no result
+Apple,authority,no result
+Apple,betacaroteneUg,no result
+Apple,imageCaption,no result
+Apple,mainIngredient,no result
+Apple,type,no result
+Apple,image,no result
+Apple,filename,valid
+Apple,water,valid
+Apple,genus,no result
+Apple,from,no result
+Apple,image2Caption,no result
+Apple,riboflavinMg,no result
+Apple,potassiumMg,no result
+Apple,protein,valid
+Apple,sign,no result
+Apple,sodiumMg,no result
+Apple,blank2InfoSec,no result
+Apple,food,no result
+Apple,blank1InfoSec,no result
+Apple,label,no result
+Apple,zincMg,no result
+Apple,description,valid
+Apple,name,valid
+Apple,ironMg,no result
+Apple,carbs,no result
+Apple,synonyms,no result
+Banana,magnesiumMg,no result
+Banana,phosphorusMg,no result
+Banana,kj,no result
+Banana,width,valid
+Banana,pantothenicMg,no result
+Banana,niacinMg,no result
+Banana,b,no result
+Banana,thiaminMg,no result
+Banana,sugars,no result
+Banana,vitb6Mg,no result
+Banana,manganeseMg,no result
+Banana,folateUg,no result
+Banana,unrankedOrdo,no result
+Banana,fat,valid
+Banana,vitcMg,no result
+Banana,familia,no result
+Banana,note,valid
+Banana,cholineMg,no result
+Banana,fiber,no result
+Banana,mainIngredient,no result
+Banana,imageCaption,no result
+Banana,hosts,no result
+Banana,ordo,no result
+Banana,image,no result
+Banana,water,valid
+Banana,genus,no result
+Banana,riboflavinMg,no result
+Banana,direction,no result
+Banana,potassiumMg,no result
+Banana,caption,no result
+Banana,protein,valid
+Banana,sodiumMg,no result
+Banana,unrankedClassis,no result
+Banana,group,no result
+Banana,flavour,no result
+Banana,reason,no result
+Banana,regnum,no result
+Banana,zincMg,no result
+Banana,imageWidth,no result
+Banana,name,valid
+Banana,unrankedDivisio,no result
+Banana,date,valid
+Banana,ironMg,no result
+Banana,sourceUsda,no result
+Banana,carbs,no result
+Citrus,authority,no result
+Citrus,imageCaption,no result
+Citrus,products,no result
+Citrus,hosts,no result
+Citrus,profession,no result
+Citrus,type,no result
+Citrus,flavor,no result
+Citrus,subdivisionRanks,no result
+Citrus,taxon,valid
+Citrus,subdivision,no result
+Citrus,ingredients,no result
+Citrus,sub,no result
+Citrus,knownFor,no result
+Citrus,date,valid
+Citrus,url,no result
+Grape,magnesiumMg,no result
+Grape,phosphorusMg,no result
+Grape,viteMg,no result
+Grape,calciumMg,no result
+Grape,kj,no result
+Grape,pantothenicMg,no result
+Grape,vitkUg,no result
+Grape,niacinMg,no result
+Grape,thiaminMg,no result
+Grape,fructose,no result
+Grape,sugars,no result
+Grape,vitb6Mg,no result
+Grape,products,no result
+Grape,manganeseMg,no result
+Grape,folateUg,no result
+Grape,fat,valid
+Grape,vitcMg,no result
+Grape,note,valid
+Grape,cholineMg,no result
+Grape,fiber,no result
+Grape,water,valid
+Grape,uraniumKg,no result
+Grape,glucose,no result
+Grape,riboflavinMg,no result
+Grape,potassiumMg,no result
+Grape,protein,valid
+Grape,sodiumMg,no result
+Grape,flavour,no result
+Grape,zincMg,no result
+Grape,name,valid
+Grape,ironMg,no result
+Grape,sourceUsda,no result
+Grape,carbs,no result
+Soybean,magnesiumMg,no result
+Soybean,omega3fat,no result
+Soybean,vitaUg,no result
+Soybean,niacinMg,no result
+Soybean,sugars,no result
+Soybean,manganeseMg,no result
+Soybean,t,no result
+Soybean,vitcMg,no result
+Soybean,methionine,no result
+Soybean,j,no result
+Soybean,cystine,no result
+Soybean,authority,no result
+Soybean,copperMg,no result
+Soybean,cholesterol,no result
+Soybean,lk,no result
+Soybean,romaji,no result
+Soybean,synonyms,no result
+Soybean,kana,no result
+Soybean,h,no result
+Soybean,kj,no result
+Soybean,species,valid
+Soybean,rr,no result
+Soybean,monofat,no result
+Soybean,y,no result
+Soybean,phenylalanine,no result
+Soybean,small,no result
+Soybean,minorIngredient,no result
+Soybean,polyfat,no result
+Soybean,lysine,no result
+Soybean,leucine,no result
+Soybean,note,valid
+Soybean,mainIngredient,no result
+Soybean,omega6fat,no result
+Soybean,hosts,no result
+Soybean,proline,no result
+Soybean,genus,no result
+Soybean,poj,no result
+Soybean,potassiumMg,no result
+Soybean,protein,valid
+Soybean,asparticAcid,no result
+Soybean,sodiumMg,no result
+Soybean,alanine,no result
+Soybean,zincMg,no result
+Soybean,arginine,no result
+Soybean,hanja,no result
+Soybean,ash,no result
+Soybean,ironMg,no result
+Soybean,s,no result
+Soybean,hangul,no result
+Soybean,histidine,no result
+Soybean,vitkUg,no result
+Soybean,isoleucine,no result
+Soybean,right,no result
+Soybean,kanji,no result
+Soybean,vitb6Mg,no result
+Soybean,products,no result
+Soybean,satfat,no result
+Soybean,cy,no result
+Soybean,cholineMg,no result
+Soybean,fiber,no result
+Soybean,c,no result
+Soybean,valine,no result
+Soybean,threonine,no result
+Soybean,glutamicAcid,no result
+Soybean,altname,no result
+Soybean,carbs,no result
+Soybean,phosphorusMg,no result
+Soybean,viteMg,no result
+Soybean,calciumMg,no result
+Soybean,colwidth,no result
+Soybean,tryptophan,no result
+Soybean,pantothenicMg,no result
+Soybean,thiaminMg,no result
+Soybean,glycine,no result
+Soybean,l,no result
+Soybean,folateUg,no result
+Soybean,fat,valid
+Soybean,p,no result
+Soybean,water,valid
+Soybean,tyrosine,no result
+Soybean,riboflavinMg,no result
+Soybean,name,valid
+Soybean,serine,no result
+Meat,color,no result
+Meat,course,valid
+Meat,width,valid
+Meat,title,valid
+Meat,widthUnits,no result
+Meat,labelType,no result
+Meat,products,no result
+Meat,dataType,no result
+Meat,float,no result
+Meat,url,no result
+Meat,barWidth,no result
+Meat,mainIngredient,no result
+Meat,type,no result
+Meat,image,no result
+Meat,industry,no result
+Meat,dataMax,no result
+Meat,sport,valid
+Meat,direction,no result
+Meat,caption,no result
+Meat,reason,no result
+Meat,label,no result
+Meat,footer,no result
+Meat,align,no result
+Meat,value,valid
+Meat,date,valid
+Meat,data,no result
+Sugar,magnesiumMg,no result
+Sugar,phosphorusMg,no result
+Sugar,calciumMg,no result
+Sugar,kj,no result
+Sugar,width,valid
+Sugar,field,no result
+Sugar,niacinMg,no result
+Sugar,thiaminMg,no result
+Sugar,right,no result
+Sugar,sugars,no result
+Sugar,occupation,valid
+Sugar,vitb6Mg,no result
+Sugar,products,no result
+Sugar,produce,no result
+Sugar,folateUg,no result
+Sugar,small,no result
+Sugar,minorIngredient,no result
+Sugar,fat,valid
+Sugar,note,valid
+Sugar,fiber,no result
+Sugar,mainIngredient,no result
+Sugar,material,no result
+Sugar,exportGoods,no result
+Sugar,type,no result
+Sugar,image,no result
+Sugar,water,valid
+Sugar,ingredients,no result
+Sugar,medication,no result
+Sugar,industry,no result
+Sugar,riboflavinMg,no result
+Sugar,knownFor,no result
+Sugar,potassiumMg,no result
+Sugar,protein,valid
+Sugar,direction,no result
+Sugar,content,no result
+Sugar,sodiumMg,no result
+Sugar,reason,no result
+Sugar,zincMg,no result
+Sugar,footer,no result
+Sugar,totalWidth,no result
+Sugar,align,no result
+Sugar,services,no result
+Sugar,name,valid
+Sugar,caption,no result
+Sugar,ironMg,no result
+Sugar,carbs,no result
+Spice,type,no result
+Spice,minorIngredient,no result
+Spice,image,no result
+Spice,flavor,no result
+Spice,width,valid
+Spice,align,no result
+Spice,header,no result
+Spice,caption,no result
+Spice,direction,no result
+Spice,mainIngredient,no result
+Table salt,mainIngredient,no result
+Vegetable,type,no result
+Vegetable,mainIngredient,no result
+Potato,authority,no result
+Potato,imageCaption,no result
+Potato,blankInfoSec,no result
+Potato,mainIngredient,no result
+Potato,hosts,no result
+Potato,auto,no result
+Potato,type,no result
+Potato,species,valid
+Potato,d,no result
+Potato,alttitle,no result
+Potato,genus,no result
+Potato,b,no result
+Potato,date,valid
+Potato,url,no result
+Potato,c,no result
+Potato,wikt,no result
+Beer,products,no result
+Beer,blankData,no result
+Beer,date,valid
+Beer,type,no result
+Beer,reason,no result
+Beer,related,no result
+Beer,ingredients,no result
+Beer,subject,no result
+Beer,currentAwards,no result
+Beer,industries,no result
+Beer,producttype,no result
+Beer,title,valid
+Beer,services,no result
+Beer,name,valid
+Beer,industry,no result
+Beer,caption,no result
+Beer,url,no result
+Beer,mainIngredient,no result
+Coffee,blankInfoSec,no result
+Coffee,color,no result
+Coffee,text,no result
+Coffee,imageSize,valid
+Coffee,products,no result
+Coffee,produce,no result
+Coffee,region,valid
+Coffee,introduced,valid
+Coffee,genre,valid
+Coffee,source,no result
+Coffee,mainIngredient,no result
+Coffee,collections,no result
+Coffee,type,no result
+Coffee,exportGoods,no result
+Coffee,image,no result
+Coffee,ingredients,no result
+Coffee,producttype,no result
+Coffee,industry,no result
+Coffee,foodType,no result
+Coffee,direction,no result
+Coffee,caption,no result
+Coffee,sign,no result
+Coffee,county,valid
+Coffee,reason,no result
+Coffee,flavor,no result
+Coffee,currentAwards,no result
+Coffee,totalWidth,no result
+Coffee,align,no result
+Coffee,services,no result
+Coffee,name,valid
+Coffee,date,valid
+Coffee,usedWith,no result
+Juice,products,no result
+Juice,type,no result
+Juice,producttype,no result
+Juice,industry,no result
+Juice,mainIngredient,no result
+Milk,blankInfoSec,no result
+Milk,s,no result
+Milk,width,valid
+Milk,title,valid
+Milk,b,no result
+Milk,beverage,no result
+Milk,portal,no result
+Milk,q,no result
+Milk,wikt,no result
+Milk,n,no result
+Milk,products,no result
+Milk,minorIngredient,no result
+Milk,mainIngredient,no result
+Milk,source,no result
+Milk,material,no result
+Milk,auto,no result
+Milk,type,no result
+Milk,image,no result
+Milk,height,valid
+Milk,ingredients,no result
+Milk,commons,no result
+Milk,producttype,no result
+Milk,v,no result
+Milk,label,no result
+Milk,totalWidth,no result
+Milk,name,valid
+Milk,product,no result
+Milk,caption,no result
+Tea,s,no result
+Tea,related,no result
+Tea,species,valid
+Tea,d,no result
+Tea,b,no result
+Tea,origin,valid
+Tea,q,no result
+Tea,originalName,valid
+Tea,wikt,no result
+Tea,n,no result
+Tea,products,no result
+Tea,produce,no result
+Tea,voy,no result
+Tea,introduced,valid
+Tea,note,valid
+Tea,mainIngredient,no result
+Tea,imageCaption,no result
+Tea,hosts,no result
+Tea,type,no result
+Tea,exportGoods,no result
+Tea,height,valid
+Tea,commons,no result
+Tea,producttype,no result
+Tea,industry,no result
+Tea,blank2InfoSec,no result
+Tea,blank1InfoSec,no result
+Tea,industries,no result
+Tea,name,valid
+Tea,caption,no result
+Tea,markets,no result
+Water,r3Surface,no result
+Water,r1Surface,no result
+Water,cooling,no result
+Water,field,no result
+Water,products,no result
+Water,focus,no result
+Water,moderator,no result
+Water,examples,no result
+Water,url,no result
+Water,mainIngredient,no result
+Water,material,no result
+Water,fields,no result
+Water,type,no result
+Water,image,no result
+Water,category,no result
+Water,symbolism,no result
+Water,thFuelPrimary,no result
+Water,ingredients,no result
+Water,r2Surface,no result
+Water,industry,no result
+Water,knownFor,no result
+Water,direction,no result
+Water,caption,no result
+Water,relatedto,no result
+Water,chemical,no result
+Water,label,no result
+Water,align,no result
+Water,date,valid
+Water,surface,no result
+Wine,characters,no result
+Wine,kj,no result
+Wine,fix,no result
+Wine,right,no result
+Wine,sugars,no result
+Wine,products,no result
+Wine,fat,valid
+Wine,note,valid
+Wine,variants,no result
+Wine,special,no result
+Wine,genre,valid
+Wine,type,no result
+Wine,alcohol,no result
+Wine,ingredients,no result
+Wine,subject,no result
+Wine,norda,no result
+Wine,industry,no result
+Wine,protein,valid
+Wine,topics,no result
+Wine,name,valid
+Wine,caption,no result
+Wine,section,no result
+Wine,sourceUsda,no result
+Wine,carbs,no result
+Wine,abv,no result

@@ -1,0 +1,440 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+2022–23 UEFA Youth League Domestic Champions Path,time,13:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,14:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,15:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,16:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,17:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,17:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,18:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,18:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,19:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,20:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,20:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022–23 UEFA Youth League Domestic Champions Path,time,20:45,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Melbourne (song),runtime,4.316666666666666,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Melbourne (song),runtime,4.833333333333333,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Melbourne (song),producer,Tim_Freedman,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Melbourne (song),releaseDate,1998-01-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Melbourne (song),runtime,259.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Melbourne (song),runtime,290.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Karaoke Queen,releaseDate,1999-11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+House at 19 Tremont Street,nrhpReferenceNumber,84002671,outgoing,http://www.w3.org/2001/XMLSchema#string,
+House at 19 Tremont Street,yearOfConstruction,1860,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Khudparast,runtime,40.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Khudparast,company,Big_Bang_Entertainment,outgoing,http://dbpedia.org/ontology/Organisation,
+Khudparast,completionDate,2019-03-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Khudparast,numberOfEpisodes,27,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Khudparast,producer,Fahad_Mustafa,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Actor; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+Khudparast,releaseDate,2018-10-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Khudparast,runtime,2400.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Khudparast,starring,Nausheen_Shah,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Khudparast,starring,Ramsha_Khan,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Khudparast,starring,Shahzad_Shaikh,outgoing,http://dbpedia.org/ontology/Actor,
+FC Nantes,capacity,35322,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+FC Nantes,chairmanTitle,President,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+FC Nantes,formationDate,1943-04-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+FC Nantes,ground,Stade_de_la_Beaujoire,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Venue
+FC Nantes,managerTitle,Head coach,outgoing,http://www.w3.org/2001/XMLSchema#string,
+FC Nantes,owner,Waldemar_Kita,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+FC Nantes,managerClub,FC Nantes,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+FC Nantes,occupation,FC Nantes,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+FC Nantes,team,FC Nantes,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+The Love Flower,budget,300000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Love Flower,editing,James_Smith_(film_editor),outgoing,http://dbpedia.org/ontology/Person,
+The Love Flower,imdbId,0011415,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Love Flower,producer,D._W._Griffith,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Love Flower,starring,Carol_Dempster,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Love Flower,starring,Richard_Barthelmess,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Story of a Magian Love,numberOfPages,140,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Year
+Nottingham Forest F.C.,capacity,30445,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Nottingham Forest F.C.,ground,City_Ground,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Venue
+Nottingham Forest F.C.,managerTitle,Head coach,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Nottingham Forest F.C.,owner,Evangelos_Marinakis,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Nottingham Forest F.C.,managerClub,Nottingham Forest F.C.,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Nottingham Forest F.C.,team,Nottingham Forest F.C.,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+List of The Daily Show episodes (1998),numberOfEpisodes,161,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Exposé (Lost),runtime,43.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Exposé (Lost),runtime,2580.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Let the Doctor Shove,runtime,92.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Let the Doctor Shove,imdbId,0081025,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Let the Doctor Shove,language,Netherlands,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Country
+Let the Doctor Shove,runtime,5520.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Let the Doctor Shove,starring,Joop_Doderer,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+My Son Shall Be Armenian,runtime,81.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+My Son Shall Be Armenian,imdbId,4242926,outgoing,http://www.w3.org/2001/XMLSchema#string,
+My Son Shall Be Armenian,producer,Yves_Bisaillon,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/MusicalArtist
+My Son Shall Be Armenian,runtime,4860.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+My Son Shall Be Armenian,writer,Georgette_Duchaine,outgoing,http://dbpedia.org/ontology/Person,
+The Prey (1920 film),runtime,60.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Prey (1920 film),cinematography,Joseph_Shelderfer,outgoing,http://dbpedia.org/ontology/Person,
+The Prey (1920 film),director,George_L._Sargent,outgoing,http://dbpedia.org/ontology/Person,
+The Prey (1920 film),producer,Albert_E._Smith_(producer),outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Prey (1920 film),runtime,3600.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Prey (1920 film),starring,Alice_Joyce,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Prey (1920 film),starring,Harry_Benham,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Prey (1920 film),starring,Henry_Hallam_(actor),outgoing,http://dbpedia.org/ontology/Actor,
+The Prey (1920 film),writer,Calder_Johnstone,outgoing,http://dbpedia.org/ontology/Person,
+The Prey (1920 film),writer,Joseph_Le_Brandt,outgoing,http://dbpedia.org/ontology/Person,
+2018–19 NA Hussein Dey season,ground,Stade_20_Août_1955_(Algiers),outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium
+2018–19 NA Hussein Dey season,managerTitle,Head coach,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2018–19 NA Hussein Dey season,team,NA_Hussein_Dey,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Dhadkan (TV series),runtime,24.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dhadkan (TV series),numberOfEpisodes,87,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Dhadkan (TV series),numberOfSeasons,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Dhadkan (TV series),releaseDate,2002-02-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dhadkan (TV series),runtime,1440.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dhadkan (TV series),starring,Dhadkan_(TV_series),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/TelevisionShow
+Dhadkan (TV series),starring,Dhadkan (TV series),incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/TelevisionShow
+The Damned (comics),writer,Brian_Hurtt,outgoing,http://dbpedia.org/ontology/Person,
+Sampo (film),runtime,91.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sampo (film),producer,Risto_Orko,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Sampo (film),runtime,5460.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sampo (film),starring,Andris_Ošiņš,outgoing,http://dbpedia.org/ontology/Actor,
+Sampo (film),starring,Anna_Orochko,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Sampo (film),starring,Eve_Kivi,outgoing,http://dbpedia.org/ontology/Actor,
+Sampo (film),starring,Ivan_Voronov,outgoing,http://dbpedia.org/ontology/Actor,
+Sampo (film),starring,Urho_Somersalmi,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Sampo (film),writer,Grigori_Yagdfeld,outgoing,http://dbpedia.org/ontology/Person,
+Sampo (film),writer,Väinö_Kaukonen,outgoing,http://dbpedia.org/ontology/Person,
+Mrs Henderson Presents (musical),basedOn,Martin_Sherman,outgoing,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Vampire Academy (film),runtime,104.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vampire Academy (film),budget,3.0E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vampire Academy (film),gross,1.54E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vampire Academy (film),producer,Don_Murphy,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person
+Vampire Academy (film),producer,Susan_Montford,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),runtime,6240.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vampire Academy (film),starring,Cameron_Monaghan,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Danila_Kozlovsky,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Film
+Vampire Academy (film),starring,Dominic_Sherwood,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Gabriel_Byrne,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Joely_Richardson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Lucy_Fry,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Olga_Kurylenko,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Model; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Sami_Gayle,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Sarah_Hyland,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Vampire Academy (film),starring,Zoey_Deutch,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+SC Zwettl,capacity,2000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+SC Zwettl,managerClub,SC Zwettl,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+SC Zwettl,team,SC Zwettl,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+36 East 72nd Street,floorArea,325.16064,outgoing,http://www.w3.org/2001/XMLSchema#double,
+36 East 72nd Street,buildingEndDate,1927,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+36 East 72nd Street,buildingStartDate,1927,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+36 East 72nd Street,cost,5.0,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicalWork; http://dbpedia.org/ontology/Album
+36 East 72nd Street,floorArea,325.16064,outgoing,http://www.w3.org/2001/XMLSchema#double,
+36 East 72nd Street,floorCount,15,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Year
+36 East 72nd Street,location,72nd_Street_(Manhattan),outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/RouteOfTransportation; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Road
+The Injury,runtime,22.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Injury,runtime,1320.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Combination Store,address,621 5th Avenue,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Heart of a Dragon,producer,Michael_French,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Heart of a Dragon,starring,Jim_Byrnes_(musician),outgoing,http://dbpedia.org/ontology/Actor,
+Heart of a Dragon,starring,Victor_Webster,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+In the Army Now (song),runtime,3.25,outgoing,http://www.w3.org/2001/XMLSchema#double,
+In the Army Now (song),runtime,195.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+An Adventure on the Mexican Border,producer,Siegmund_Lubin,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+An Adventure on the Mexican Border,releaseDate,1913-03-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+An Adventure on the Mexican Border,starring,Mary_Ryan_(actress),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+An Adventure on the Mexican Border,starring,Romaine_Fielding,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dear John (Status Quo song),runtime,3.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dear John (Status Quo song),releaseDate,1982-03-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dear John (Status Quo song),runtime,192.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),runtime,3.1666666666666665,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),runtime,5.583333333333333,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),runtime,7.35,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),artist,South_Shore_Commission,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Album
+Free Man (song),producer,Bunny_Sigler,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Free Man (song),runtime,190.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),runtime,335.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Free Man (song),runtime,441.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Café (British TV series),runtime,30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Café (British TV series),runtime,60.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Café (British TV series),completionDate,2013-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Café (British TV series),imdbId,2091127,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Café (British TV series),numberOfEpisodes,13,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+The Café (British TV series),numberOfSeasons,2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+The Café (British TV series),releaseDate,2011-11-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Café (British TV series),runtime,1800.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Café (British TV series),runtime,3600.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Café (British TV series),starring,Brian_Murphy_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Daniel_Ings,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+The Café (British TV series),starring,David_Troughton,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Ellie_Haddington,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Kevin_Trainor,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+The Café (British TV series),starring,Marcia_Warren,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Michelle_Terry,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Phoebe_Waller-Bridge,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+The Café (British TV series),starring,Ralf_Little,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Café (British TV series),starring,Seeta_Indrani,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Amaliegade 41,buildingEndDate,1783/1788,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Nallavan (1988 film),runtime,140.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Nallavan (1988 film),producer,Ibrahim_Rowther,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Nallavan (1988 film),producer,Kalaipuli_S._Thanu,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Nallavan (1988 film),runtime,8400.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Nallavan (1988 film),starring,M._N._Nambiar,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Nallavan (1988 film),starring,Raadhika_Sarathkumar,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Nallavan (1988 film),starring,Vijayakanth,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Angela (1995 film),runtime,99.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Angela (1995 film),runtime,5940.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Angela (1995 film),starring,Anna_Thomson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Angela (1995 film),starring,John_Ventimiglia,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Angela (1995 film),starring,Vincent_Gallo,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Qallunaat! Why White People Are Funny,runtime,52.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Qallunaat! Why White People Are Funny,director,Mark_Sandiford,outgoing,http://dbpedia.org/ontology/Person,
+Qallunaat! Why White People Are Funny,producer,Kent_Martin,outgoing,http://dbpedia.org/ontology/Agent,
+Qallunaat! Why White People Are Funny,producer,Mark_Sandiford,outgoing,http://dbpedia.org/ontology/Agent,
+Qallunaat! Why White People Are Funny,runtime,3120.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Qallunaat! Why White People Are Funny,starring,Alexina_Kublu,outgoing,http://dbpedia.org/ontology/Actor,
+Qallunaat! Why White People Are Funny,starring,Jeff_Tabvahtah,outgoing,http://dbpedia.org/ontology/Actor,
+Qallunaat! Why White People Are Funny,starring,John_Amagoalik,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Qallunaat! Why White People Are Funny,starring,Lori_Idlout,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Qallunaat! Why White People Are Funny,starring,Zebedee_Nungak,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Qallunaat! Why White People Are Funny,writer,Mark_Sandiford,outgoing,http://dbpedia.org/ontology/Person,
+Waiting for Magic,runtime,3.5166666666666666,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Waiting for Magic,runtime,5.233333333333333,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Waiting for Magic,album,The_Sign_(Ace_of_Base_album),outgoing,http://dbpedia.org/ontology/Album,
+Waiting for Magic,releaseDate,1993-04-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Waiting for Magic,runtime,211.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Waiting for Magic,runtime,314.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Austin Masonic and Odd Fellows Hall,area,404.68564224,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Austin Masonic and Odd Fellows Hall,nrhpReferenceNumber,03000756,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Austin Masonic and Odd Fellows Hall,yearOfConstruction,1867,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Restoration (2020 film),runtime,93.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Restoration (2020 film),director,Alonso_Llosa,outgoing,http://dbpedia.org/ontology/Person,
+The Restoration (2020 film),releaseDate,2022-10-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Restoration (2020 film),runtime,5580.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Restoration (2020 film),starring,Pietro_Sibille,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+The Restoration (2020 film),writer,Alonso_Llosa,outgoing,http://dbpedia.org/ontology/Person,
+Elevating Entertainment Motion Pictures,foundedBy,Dave_Moody_(musician),outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Elevating Entertainment Motion Pictures,foundingYear,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+More Than Miles,runtime,4.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+More Than Miles,artist,Brantley_Gilbert,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+More Than Miles,producer,Dann_Huff,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+More Than Miles,releaseDate,2012-10-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+More Than Miles,runtime,252.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Her Debt of Honor,runtime,50.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Her Debt of Honor,releaseDate,1916-01-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Her Debt of Honor,runtime,3000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Her Debt of Honor,starring,John_Goldsworthy,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Her Debt of Honor,starring,Valli_Valli,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Her Debt of Honor,starring,William_B._Davidson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Former Mount Pleasant Public Library,nrhpReferenceNumber,83000367,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Former Mount Pleasant Public Library,yearOfConstruction,1903,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Are These Our Children,runtime,83.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Are These Our Children,producer,William_LeBaron,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Are These Our Children,runtime,4980.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Are These Our Children,starring,Arline_Judge,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Are These Our Children,starring,Ben_Alexander_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Are These Our Children,starring,Beryl_Mercer,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Are These Our Children,starring,Eric_Linden,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Are These Our Children,starring,Mary_Kornman,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Are These Our Children,starring,Rochelle_Hudson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),runtime,114.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Women (2008 film),budget,1.6E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Women (2008 film),gross,5.0E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Women (2008 film),producer,Diane_English,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),producer,Mick_Jagger,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+The Women (2008 film),productionCompany,Diane_English,outgoing,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),productionCompany,Jagged_Films,outgoing,http://dbpedia.org/ontology/Company,
+The Women (2008 film),runtime,6840.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Women (2008 film),starring,Annette_Bening,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Bette_Midler,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+The Women (2008 film),starring,Candice_Bergen,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Carrie_Fisher,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Cloris_Leachman,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Debi_Mazar,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Debra_Messing,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Eva_Mendes,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Jada_Pinkett_Smith,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Women (2008 film),starring,Meg_Ryan,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+KCMQ,alias,96-7 KCMQ,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+KCMQ,broadcastArea,Lake_of_the_Ozarks,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/Dam; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Lake
+KCMQ,broadcastStationClass,C1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+KCMQ,callsignMeaning,K Columbia MissQuri (Q is a substitute for the O),outgoing,http://www.w3.org/2001/XMLSchema#string,
+KCMQ,facilityId,74583,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+KCMQ,formerCallsign,KTGC (1972-1978),outgoing,http://www.w3.org/2001/XMLSchema#string,
+KCMQ,frequency,96700000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+KCMQ,heightAboveAverageTerrain,278.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+KCMQ,licensee,"Zimmer Radio of Mid-Missouri, Inc",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Song of the Cornfields,runtime,81.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Song of the Cornfields,producer,István_Szőts,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Song of the Cornfields,runtime,4860.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Baseball Federation of Japan,abbreviation,BFJ,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Baseball Federation of Japan,foundingDate,1990-06-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Baseball Federation of Japan,purpose,Represents amateur baseball in Japan,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samunder,utcOffset,+5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The White Fortress,runtime,88.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The White Fortress,musicComposer,Casey_Manierka-Quaile,outgoing,http://dbpedia.org/ontology/MusicalArtist,
+The White Fortress,producer,Albert_Shin,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The White Fortress,producer,Igor_Drljaca,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The White Fortress,runtime,5280.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The White Fortress,starring,Pavle_Čemerikić,outgoing,http://dbpedia.org/ontology/Actor,
+Oglesby-Conrad House,area,4046.8564224,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Oglesby-Conrad House,nrhpReferenceNumber,83002591,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Oglesby-Conrad House,yearOfConstruction,1825,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Walter Brown Arena,seatingCapacity,3806,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Kinema Record,genre,Cinema_of_Japan,outgoing,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Language
+Kinema Record,genre,Film,outgoing,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Grays Road Recreation Center,area,809.37128448,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Grays Road Recreation Center,nrhpReferenceNumber,88000448,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Grays Road Recreation Center,yearOfConstruction,1926,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Trinayani (Telugu TV series),runtime,22.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Trinayani (Telugu TV series),numberOfEpisodes,649,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Trinayani (Telugu TV series),releaseDate,2020-03-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Trinayani (Telugu TV series),runtime,1320.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dr. No (film),runtime,109.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dr. No (film),budget,1100000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dr. No (film),gross,5.95E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dr. No (film),runtime,6540.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dr. No (film),starring,Anthony_Dawson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Bernard_Lee,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Eunice_Gayson,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Jack_Lord,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,John_Kitzmiller,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Joseph_Wiseman,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Sean_Connery,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dr. No (film),starring,Ursula_Andress,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Film
+Dr. No (film),starring,Zena_Marshall,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Millions (band),activeYearsEndYear,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Millions (band),activeYearsStartYear,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+The Millions (band),hometown,United_States,outgoing,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+The Millions (band),associatedMusicalArtist,The Millions (band),incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+Home for Aged Couples,architect,"Coolidge,_Shepley,_Bulfinch_and_Abbott",outgoing,http://dbpedia.org/ontology/Architect,
+Home for Aged Couples,area,11735.88362496,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Home for Aged Couples,location,Columbus_Avenue_(Boston),outgoing,http://dbpedia.org/ontology/Place,
+Home for Aged Couples,nrhpReferenceNumber,05000879,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Tom and Jerry Cartoon Kit,runtime,6.65,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Tom and Jerry Cartoon Kit,musicComposer,Štěpán_Koníček,outgoing,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Tom and Jerry Cartoon Kit,producer,William_L._Snyder,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Tom and Jerry Cartoon Kit,releaseDate,1962-08-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Tom and Jerry Cartoon Kit,runtime,399.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Tom and Jerry Cartoon Kit,starring,Allen_Swift,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Frifot,activeYearsStartYear,1987,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Frifot,associatedMusicalArtist,Frifot,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+2005 AFF Futsal Championship,time,11:30,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+2005 AFF Futsal Championship,time,13:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2005 AFF Futsal Championship,time,14:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2005 AFF Futsal Championship,time,15:30,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2005 AFF Futsal Championship,time,16:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2005 AFF Futsal Championship,time,18:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jayne Stadium,seatingCapacity,10000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1918 in Norwegian football,numberOfGoals,58,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+1918 in Norwegian football,numberOfGoals,71,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+1918 in Norwegian football,numberOfGoals,89,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Strangers 6,runtime,-57.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Strangers 6,completionDate,2012-05-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Strangers 6,numberOfEpisodes,15,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Strangers 6,releaseDate,2012-01-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Strangers 6,runtime,-3420.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Strangers 6,starring,Bowie_Lam,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Strangers 6,starring,Kim_Hyo-jin,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Strangers 6,starring,Liu_Xuan_(gymnast),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Gymnast; http://dbpedia.org/ontology/Species
+Strangers 6,starring,Oh_Ji-ho,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Sarvam Sakthimayam,starring,Manorama_(Tamil_actress),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Sarvam Sakthimayam,starring,Radha_Ravi,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Film
+Sarvam Sakthimayam,starring,Rajesh_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Sarvam Sakthimayam,starring,Ramya_Krishnan,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Sarvam Sakthimayam,starring,S._Ve._Shekher,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Sarvam Sakthimayam,starring,Sudha_Chandran,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Dendermonde Rugby Club,foundingYear,1962,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dendermonde Rugby Club,teamName,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dendermonde Rugby Club,teamName,Dendermonde RC,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Colusa High School and Grounds,area,12140.5692672,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Colusa High School and Grounds,nrhpReferenceNumber,76000479,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Colusa High School and Grounds,yearOfConstruction,1925,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nailcote Hall,buildingEndDate,17th Century,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Caught Up in the Country (song),runtime,2.6666666666666665,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Caught Up in the Country (song),artist,Rodney_Atkins,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Caught Up in the Country (song),producer,Ted_Hewitt,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Caught Up in the Country (song),releaseDate,2018-03-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Caught Up in the Country (song),runtime,160.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sedmorica mladih,activeYearsEndYear,1959,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sedmorica mladih,activeYearsStartYear,1959,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sedmorica mladih,alias,7 mladih,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sedmorica mladih,hometown,SFRY,outgoing,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Country
+Sedmorica mladih,hometown,Serbia,outgoing,http://dbpedia.org/ontology/Settlement,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Those Kinda Nights,runtime,2.95,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Those Kinda Nights,artist,Eminem,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Those Kinda Nights,producer,D.A_Got_That_Dope,outgoing,http://dbpedia.org/ontology/Agent,
+Those Kinda Nights,producer,Eminem,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Those Kinda Nights,producer,Fred_Again,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Those Kinda Nights,releaseDate,2020-01-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Those Kinda Nights,runtime,177.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Those Kinda Nights,subsequentWork,Last_One_Standing_(Eminem_song),outgoing,http://dbpedia.org/ontology/Work,
+Those Kinda Nights,writer,D.A_Got_That_Dope,outgoing,http://dbpedia.org/ontology/Person,
+Kentucky Jockey Club Stakes,location,Churchill_Downs,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/SportFacility; http://dbpedia.org/ontology/RaceTrack; http://dbpedia.org/ontology/Racecourse; http://dbpedia.org/ontology/ArchitecturalStructure
+The Secret of Madame Blanche,runtime,84.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Secret of Madame Blanche,runtime,5040.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Secret of Madame Blanche,starring,Douglas_Walton_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Secret of Madame Blanche,starring,Irene_Dunne,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Secret of Madame Blanche,starring,Lionel_Atwill,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Secret of Madame Blanche,starring,Phillips_Holmes,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Secret of Madame Blanche,starring,Una_Merkel,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Glorious Youth,producer,Harry_Ham,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Glorious Youth,starring,Anny_Ondra,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Glorious Youth,starring,Gibb_McLaughlin,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Glorious Youth,starring,Randle_Ayrton,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Glorious Youth,starring,William_Freshman,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+Thunder in Guyana,runtime,50.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Thunder in Guyana,producer,Suzanne_Wasserman,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Thunder in Guyana,runtime,3000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ian McNabb discography,artist,Ian_McNabb,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Levi Sargent House,area,4046.8564224,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Levi Sargent House,nrhpReferenceNumber,87000419,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Levi Sargent House,yearOfConstruction,1812,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Overland Pacific,runtime,73.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Overland Pacific,runtime,4380.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Overland Pacific,starring,Adele_Jergens,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Overland Pacific,starring,Jock_Mahoney,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Overland Pacific,starring,Peggie_Castle,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Golubac Fortress,buildingEndDate,14th century,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Golubac Fortress,location,Golubac_Fortress__location__1,outgoing,http://dbpedia.org/ontology/Place,
+Man of Peace,year,1999,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sala Chalermkrung Royal Theatre,architect,Samaichaloem_Kridakorn,outgoing,http://dbpedia.org/ontology/Architect,
+Sala Chalermkrung Royal Theatre,city,Phra_Nakhon_District,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Sala Chalermkrung Royal Theatre,openingDate,1933-07-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sala Chalermkrung Royal Theatre,distributor,Sala Chalermkrung Royal Theatre,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Theatre; http://dbpedia.org/ontology/Venue
+Sala Chalermkrung Royal Theatre,productionCompany,Sala Chalermkrung Royal Theatre,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Theatre; http://dbpedia.org/ontology/Venue
+2004–05 Crystal Palace F.C. season,ground,Selhurst_Park,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Venue
+2004–05 Crystal Palace F.C. season,league,FA_Premier_League,outgoing,http://dbpedia.org/ontology/SportsLeague,
+2004–05 Crystal Palace F.C. season,team,Crystal_Palace_F.C.,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Bad Case of the Blues,runtime,2.3333333333333335,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bad Case of the Blues,artist,Linda_Martell,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Bad Case of the Blues,producer,Shelby_Singleton,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+Bad Case of the Blues,runtime,140.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bad Case of the Blues,writer,Mira_Ann_Smith,outgoing,http://dbpedia.org/ontology/Person,
+Fattigdommens forbandelse,director,Halfdan_Nobel_Roede,outgoing,http://dbpedia.org/ontology/Person,
+Fattigdommens forbandelse,language,Norway,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Fattigdommens forbandelse,releaseDate,1911-10-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fattigdommens forbandelse,starring,Hans_Ingi_Hedemark,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Fattigdommens forbandelse,starring,Pehr_Qværnstrøm,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Fattigdommens forbandelse,starring,Signe_Danning,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Voice of the Violin,isbn,0-330-49298-5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Voice of the Violin,numberOfPages,224,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Voice of the Violin,numberOfPages,272,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Voice of the Violin,oclc,57006171,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Voice of the Violin,publisher,Viking_(publisher),outgoing,http://dbpedia.org/ontology/Agent,
+The Voice of the Violin,releaseDate,1997-12-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Al Jazirah Al Hamra Club,capacity,2000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Al Jazirah Al Hamra Club,ground,Al_Hamra_Stadium,outgoing,http://dbpedia.org/ontology/Place,
+Al Jazirah Al Hamra Club,managerClub,Al Jazirah Al Hamra Club,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Al Jazirah Al Hamra Club,team,Al Jazirah Al Hamra Club,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsClub; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+E. B. Shelfer House,nrhpReferenceNumber,75000556,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. B. Shelfer House,yearOfConstruction,1903,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+2013 Portland Thorns FC season,chairmanTitle,President,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+2013 Portland Thorns FC season,ground,Jeld-Wen_Field,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium
+2013 Portland Thorns FC season,ground,List_of_association_football_stadiums_by_capacity,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Stadium
+2013 Portland Thorns FC season,homeStadium,"Portland,_Oregon",outgoing,http://dbpedia.org/ontology/Stadium,http://dbpedia.org/ontology/City
+2013 Portland Thorns FC season,league,2013_National_Women's_Soccer_League_season,outgoing,http://dbpedia.org/ontology/SportsLeague,http://dbpedia.org/ontology/SportsTeamSeason; http://dbpedia.org/ontology/FootballLeagueSeason; http://dbpedia.org/ontology/SportsSeason
+2013 Portland Thorns FC season,managerTitle,Head coach,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Dinah Shore Show,runtime,-13.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+The Dinah Shore Show,author,Charles_Isaacs,outgoing,http://dbpedia.org/ontology/Person,
+The Dinah Shore Show,completionDate,1957-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Dinah Shore Show,imdbId,0050012,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Dinah Shore Show,producer,Alan_Handley,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Dinah Shore Show,releaseDate,1951-11-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+The Dinah Shore Show,runtime,-780.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Confidente de secundaria,completionDate,1996-09-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Confidente de secundaria,numberOfEpisodes,135,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Confidente de secundaria,releaseDate,1996-03-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Confidente de secundaria,starring,Alexis_Ayala,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Confidente de secundaria,starring,Irán_Castillo,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species

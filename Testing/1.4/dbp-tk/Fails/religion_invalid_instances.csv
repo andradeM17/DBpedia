@@ -1,0 +1,191 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Fundamentalism,ideology,Fundamentalism,incoming,http://dbpedia.org/ontology/Ideology,
+God,date,2019-04-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+God,callsignMeaning,God,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person
+God,symbol,God,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person
+Monotheism,date,July 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Monotheism,theology,Monotheism,incoming,http://www.w3.org/2001/XMLSchema#string,
+Polytheism,theology,Polytheism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Band
+Mythology,writer,Mythology,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Religion,date,2016-03-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Religion,date,2021-10-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Religion,longtype,Religion,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Religion,occupation,Religion,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Religion,production,Religion,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/MusicGenre
+Soul,date,October 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Buddhism,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Buddhism,date,September 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Buddhism,title,Various types of Buddhist buildings,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Buddhism,title,Buddhism_by_country,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicalArtist
+Buddhism,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Buddhism,width,210,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Buddhism,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Buddhism,year,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Buddhism,year,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Buddhism,affiliation,Buddhism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,genre,Buddhism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,occupation,Buddhism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,purpose,Buddhism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,school,Buddhism,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Buddhism,veneratedIn,Buddhism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Christianity,area,Worldwide,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Christianity,date,2014-12-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Christianity,founder,"Jesus Christ, according to sacred tradition",outgoing,http://dbpedia.org/ontology/Person,
+Christianity,name,Christianity,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,name,Trias-Trinitas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Christianity,quote,"""... ‘Our Father in heaven, hallowed be your name. Your kingdom come. Your will be done on earth as it is in heaven. Give us today our daily bread. Forgive us our debts, as we also forgive our debtors. Lead us not into temptation, but deliver us from evil.’""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Christianity,quote,"""For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Christianity,quote,"And this food is called among us Eukharistia [the Eucharist], of which no one is allowed to partake but the man who believes that the things which we teach are true, and who has been washed with the washing that is for the remission of sins, and unto regeneration, and who is so living as Christ has enjoined. For not as common bread and common drink do we receive these; but in like manner as Jesus Christ our Savior, having been made flesh by the Word of God, had both flesh and blood for our salvation, so likewise have we been taught that the food which is blessed by the prayer of His word, and from which our blood and flesh by transmutation are nourished, is the flesh and blood of that Jesus who was made flesh.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Christianity,territory,Christendom,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Christianity,theology,God_in_Christianity,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Drug; http://dbpedia.org/ontology/Country
+Christianity,title,Christian_culture,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Christianity,title,2,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Christianity,width,30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Christianity,affiliation,Christianity,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,free,Christianity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,governmentType,Christianity,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,ideology,Christianity,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,longtype,Christianity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,meaning,Christianity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,occupation,Christianity,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,orientation,Christianity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,region,Christianity,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,theology,Christianity,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Christianity,veneratedIn,Christianity,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Catholic Church,area,Catholic_Church_by_country,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Catholic Church,founder,"Jesus, according to",outgoing,http://dbpedia.org/ontology/Person,
+Catholic Church,founder,Sacred_tradition,outgoing,http://dbpedia.org/ontology/Person,
+Catholic Church,language,Ecclesiastical Latin and native languages,outgoing,http://dbpedia.org/ontology/Language,
+Catholic Church,leaderName,Holy_See,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Diocese; http://dbpedia.org/ontology/Country
+Catholic Church,leaderName,Roman_Curia,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/GovernmentAgency
+Catholic Church,leaderTitle,Administration,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Catholic Church,leaderTitle,Government,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Catholic Church,leaderTitle,Pope,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/ClericalAdministrativeRegion; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Diocese; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Country
+Catholic Church,name,Catholic Church,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Catholic Church,theology,Catholic_theology,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Catholic Church,title,Geographic distribution of Catholics in 2019,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Catholic Church,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Catholic Church,width,186,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Catholic Church,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Catholic Church,affiliation,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,allegiance,Catholic Church,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,beatifiedBy,Catholic Church,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,canonizedDate,Catholic Church,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,combatant,Catholic Church,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,diocese,Catholic Church,incoming,http://dbpedia.org/ontology/Diocese,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,ideology,Catholic Church,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,institution,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,occupation,Catholic Church,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,orientation,Catholic Church,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,status,Catholic Church,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Catholic Church,veneratedIn,Catholic Church,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Protestantism,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Protestantism,width,128,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Protestantism,width,130,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Protestantism,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Protestantism,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Protestantism,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Protestantism,affiliation,Protestantism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Protestantism,ideology,Protestantism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Country
+Protestantism,occupation,Protestantism,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Country
+Protestantism,orientation,Protestantism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Hinduism,date,December 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hinduism,date,2019-12-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hinduism,date,2021-04-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hinduism,name,"""Brahmanism""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""Hiltebeitel-synthesis""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""Hindu_term""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""Knott_sanatana dharma""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""Lockard-fusion""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""Sweetman""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""definition""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""dharma""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""fusion""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""oldest religion""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,"""roots""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,name,Hinduism,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,title,Gods and Goddesses in Hinduism,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,title,Illustration of Hindu temples in Asia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,title,Hinduism_by_country,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hinduism,year,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Hinduism,affiliation,Hinduism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,architect,Hinduism,incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,genre,Hinduism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Hinduism,veneratedIn,Hinduism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Islam,description,Sincerity is the Quran's 112 chapter as recited by Imam Mishary Rashid Alafasy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Islam,filename,112,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Islam,name,Islam,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup
+Islam,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Islam,territory,Muslim_world,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Islam,theology,Monotheism,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Islam,title,Al-Ikhlas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/WorldHeritageSite
+Islam,year,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Islam,affiliation,Islam,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Islam,event,Islam,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/EthnicGroup
+Islam,genre,Islam,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/EthnicGroup
+Islam,ideology,Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/EthnicGroup
+Islam,longtype,Islam,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/EthnicGroup
+Islam,occupation,Islam,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/EthnicGroup
+Islam,region,Islam,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/EthnicGroup
+Islam,school,Islam,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/EthnicGroup
+Islam,subdivisionName,Islam,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/EthnicGroup
+Islam,title,Islam,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup
+Islam,veneratedIn,Islam,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Shia Islam,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shia Islam,prefix,Shia Islam in,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Shia Islam,title,Shia Islam around the World,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shia Islam,width,170,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shia Islam,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Shia Islam,combatant,Shia Islam,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,ethnicity,Shia Islam,incoming,http://dbpedia.org/ontology/EthnicGroup,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,ideology,Shia Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Shia Islam,school,Shia Islam,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Sunni Islam,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sunni Islam,ideology,Sunni Islam,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation
+Sunni Islam,nationality,Sunni Islam,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Organisation
+Jainism,flagCaption,Flag for Indian Jains,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jainism,name,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jainism,name,Gommateshwara,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jainism,quote,"Forgiveness
+
+I forgive all living beings,
+may all living beings forgive me.
+All in this world are my friends,
+I have no enemies.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jainism,affiliation,Jainism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Jainism,name,Jainism,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Jainism,veneratedIn,Jainism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Judaism,area,Predominant religion in Israel and widespread worldwide as minorities,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Judaism,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Judaism,date,September 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Judaism,leaderTitle,Leaders,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Judaism,name,Judaism,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Judaism,quote,13,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Judaism,theology,God_in_Judaism,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Judaism,width,35.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Judaism,affiliation,Judaism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Judaism,genre,Judaism,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Country
+Judaism,purpose,Judaism,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Judaism,veneratedIn,Judaism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Shinto,date,2014-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shinto,quote,"Some scholars suggest we talk about types of Shintō such as popular Shintō, folk Shintō, domestic Shintō, sectarian Shintō, imperial house Shintō, shrine Shintō, state Shintō, new Shintō religions, etc. rather than regard Shintō as a single entity. This approach can be helpful but begs the question of what is meant by 'Shintō' in each case, particularly since each category incorporates or has incorporated Buddhist, Confucian, Taoist, folk religious and other elements.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Shinto,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Shinto,width,25,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Shinto,affiliation,Shinto,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/PersonFunction
+Sikhism,date,December 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sikhism,date,November 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sikhism,quote,"The Definition of Sikh is any human being who faithfully believes in:
+I. One Immortal Being,
+II. Ten Gurus, from Guru Nanak Sahib to Guru Gobind Singh Sahib,
+III. The Guru Granth Sahib,
+IV. The utterances and teachings of the ten Gurus and,
+V. The baptism bequeathed by the tenth Guru, and who does not owe allegiance to any other religion, is a Sikh.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sikhism,width,33.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Sikhism,ideology,Sikhism,incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/EthnicGroup
+Taoism,date,December 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Taoism,title,Taoism,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Food
+Taoism,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Taoism,affiliation,Taoism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Food
+Zoroastrianism,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Zoroastrianism,affiliation,Zoroastrianism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Agent
+Zoroastrianism,veneratedIn,Zoroastrianism,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Agent

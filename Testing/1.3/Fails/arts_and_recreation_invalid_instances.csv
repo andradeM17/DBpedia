@@ -1,0 +1,183 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Culture,parentCompany,Culture,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/MusicGenre
+Art,occupation,Art,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Art,training,Art,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Comics,notableWork,Comics,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Comics,occupation,Comics,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Painting,award,Painting,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Painting,genre,Painting,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Painting,notableWork,Painting,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Painting,training,Painting,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Photography,award,Photography,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Photography,designer,Photography,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Photography,occupation,Photography,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Photography,training,Photography,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Sculpture,author,Sculpture,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Sculpture,award,Sculpture,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Sculpture,genre,Sculpture,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Sculpture,notableWork,Sculpture,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Sculpture,training,Sculpture,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Dance,occupation,Dance,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Dance,sport,Dance,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/MusicGenre
+Fashion,occupation,Fashion,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Theatre,almaMater,Theatre,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/PersonFunction
+Theatre,genre,Theatre,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Theatre,stylisticOrigin,Theatre,incoming,http://dbpedia.org/ontology/MusicGenre,http://dbpedia.org/ontology/PersonFunction
+Calligraphy,occupation,Calligraphy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Calligraphy,training,Calligraphy,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Architecture,almaMater,Architecture,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Architecture,notableWork,Architecture,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Architecture,occupation,Architecture,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Architecture,training,Architecture,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Architecture,university,Architecture,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Bridge,notableWork,Bridge,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Building
+House,occupation,House,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Angkor Wat,location,Angkor Wat,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/HistoricBuilding
+Great Wall of China,place,Great Wall of China,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Great Wall of China,territory,Great Wall of China,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Empire State Building,headquarter,Empire State Building,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Building
+Empire State Building,location,Empire State Building,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+Empire State Building,owner,Empire State Building,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Building
+Hagia Sophia,designer,Anthemius_of_Tralles,outgoing,http://dbpedia.org/ontology/Person,
+Hagia Sophia,restingPlace,Hagia Sophia,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Monument
+Parthenon,architect,Callicrates,outgoing,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person
+Parthenon,architect,Iktinos,outgoing,http://dbpedia.org/ontology/Architect,
+Pyramid,associatedBand,Pyramid,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/RecordLabel
+Pyramid,associatedMusicalArtist,Pyramid,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/RecordLabel
+Pyramid,restingPlace,Pyramid,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/RecordLabel
+Film,almaMater,Film,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Film,genre,Film,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Film,subsidiary,Film,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Animation,cinematography,Animation,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Animation,occupation,Animation,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Animation,training,Animation,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Animation,writer,Animation,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Radio,broadcastNetwork,Radio,incoming,http://dbpedia.org/ontology/BroadcastNetwork,http://dbpedia.org/ontology/PersonFunction
+Radio,genre,Radio,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Radio,owner,Radio,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/PersonFunction
+Television,associatedBand,Television,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/PersonFunction
+Television,associatedMusicalArtist,Television,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/PersonFunction
+Television,award,Television,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/PersonFunction
+Television,broadcastArea,Television,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/PersonFunction
+Television,broadcastNetwork,Television,incoming,http://dbpedia.org/ontology/BroadcastNetwork,http://dbpedia.org/ontology/PersonFunction
+Television,genre,Television,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Television,owningCompany,Television,incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/PersonFunction
+Music,instrument,Music,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicGenre
+Music,musicComposer,Music,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/MusicGenre
+Music,occupation,Music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Music,sport,Music,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/MusicGenre
+Music,starring,Music,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/MusicGenre
+Music,writer,Music,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Song,instrument,Song,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Song,occupation,Song,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Blues,stylisticOrigin,Plantation-era_songs,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Blues,associatedBand,Blues,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Blues,associatedMusicalArtist,Blues,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Blues,occupation,Blues,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Blues,previousWork,Blues,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Blues,recordLabel,Blues,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Classical music,instrument,Classical music,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Classical music,occupation,Classical music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Classical music,recordLabel,Classical music,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Opera,award,Opera,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/MusicGenre
+Opera,occupation,Opera,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Symphony,occupation,Symphony,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicalWork; http://dbpedia.org/ontology/MusicGenre
+Electronic music,derivative,Synthedelia,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Electronic music,stylisticOrigin,Futurism_(music),outgoing,http://dbpedia.org/ontology/MusicGenre,http://dbpedia.org/ontology/Organisation
+Electronic music,instrument,Electronic music,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Electronic music,occupation,Electronic music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Flamenco,instrument,Cajón,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicalArtist
+Flamenco,instrument,Castanets,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent
+Flamenco,instrument,Clapping,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Person
+Flamenco,musicSubgenre,Alegrias,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Flamenco,musicSubgenre,Bulerias,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Flamenco,musicSubgenre,Siguiriyas,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Flamenco,musicSubgenre,Soleá,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Flamenco,musicSubgenre,Tientos_(flamenco),outgoing,http://dbpedia.org/ontology/MusicGenre,
+Flamenco,occupation,Flamenco,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Hip hop,occupation,Hip hop,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Jazz,instrument,Clarinet,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Double_bass,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Drum_kit,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicalArtist
+Jazz,instrument,Guitar,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Jazz,instrument,Hammond_organ,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/AnatomicalStructure; http://dbpedia.org/ontology/MusicalArtist
+Jazz,instrument,Harmonica,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Piano,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Saxophone,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Singing,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Trombone,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Trumpet,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Jazz,instrument,Tuba,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,instrument,Vibraphone,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Jazz,stylisticOrigin,West_African_music,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Jazz,instrument,Jazz,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Jazz,occupation,Jazz,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Jazz,recordLabel,Jazz,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Reggae,stylisticOrigin,Nyabinghi,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Reggae,occupation,Reggae,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Rock music,associatedBand,Rock music,incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Rock music,associatedMusicalArtist,Rock music,incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Samba,stylisticOrigin,Afro-Brazilians,outgoing,http://dbpedia.org/ontology/MusicGenre,http://dbpedia.org/ontology/EthnicGroup
+Samba,stylisticOrigin,Samba_de_roda,outgoing,http://dbpedia.org/ontology/MusicGenre,
+Drum,instrument,Drum,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Flute,bandMember,Flute,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/PersonFunction
+Flute,formerBandMember,Flute,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/PersonFunction
+Flute,instrument,Flute,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/PersonFunction
+Guitar,genre,Guitar,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,instrument,Guitar,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,occupation,Guitar,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,recordLabel,Guitar,incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,starring,Guitar,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Piano,bandMember,Piano,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,formerBandMember,Piano,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,genre,Piano,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,instrument,Piano,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,notableWork,Piano,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,starring,Piano,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,training,Piano,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Trumpet,genre,Trumpet,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Trumpet,instrument,Trumpet,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Trumpet,occupation,Trumpet,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Violin,bandMember,Violin,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,formerBandMember,Violin,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,genre,Violin,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,instrument,Violin,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Chess,genre,Chess,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,occupation,Chess,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,publisher,Chess,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Video game,occupation,Video game,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/VideoGame; http://dbpedia.org/ontology/MusicGenre
+Gambling,occupation,Gambling,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Martial arts,occupation,Martial arts,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/MusicGenre
+Martial arts,sport,Martial arts,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/MusicGenre
+Judo,event,Judo,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Sport
+Judo,occupation,Judo,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Sport
+Olympic Games,occupation,Olympic Games,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/SportsEvent; http://dbpedia.org/ontology/MusicGenre
+Olympic Games,team,Olympic Games,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SportsEvent; http://dbpedia.org/ontology/MusicGenre
+Olympic Games,tenant,Olympic Games,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/SportsEvent; http://dbpedia.org/ontology/MusicGenre
+Sport,occupation,Sport,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Sport,specialist,Sport,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Baseball,event,Baseball,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,genre,Baseball,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,occupation,Baseball,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,stadium,Baseball,incoming,http://dbpedia.org/ontology/Stadium,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,tenant,Baseball,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Basketball,event,Basketball,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,genre,Basketball,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,occupation,Basketball,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,tenant,Basketball,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Cricket,genre,Cricket,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Cricket,occupation,Cricket,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Cricket,tenant,Cricket,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Association football,genre,Association football,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,occupation,Association football,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,specialist,Association football,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,tenant,Association football,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Golf,event,Golf,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Golf,genre,Golf,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Golf,occupation,Golf,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Tennis,genre,Tennis,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Tennis,occupation,Tennis,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Tennis,tenant,Tennis,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Swimming,occupation,Swimming,incoming,http://dbpedia.org/ontology/PersonFunction,
+Toy,occupation,Toy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre
+Toy,species,Toy,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre

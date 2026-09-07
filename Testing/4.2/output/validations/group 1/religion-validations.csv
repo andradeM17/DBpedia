@@ -1,0 +1,4 @@
+Macchina_di_Santa_Rosa,location,Viterbo,Valid (no expected domain or range),"['', {'http://dbpedia.org/ontology/Convention', 'http://dbpedia.org/ontology/Event', 'http://dbpedia.org/ontology/SocietalEvent'}, '', {'http://dbpedia.org/ontology/Place', 'http://dbpedia.org/ontology/Location', 'http://dbpedia.org/ontology/PopulatedPlace'}]"
+Varuthini_Ekadashi,country,Hindus,Valid (no expected domain or range),"['', {'http://dbpedia.org/ontology/TimeInterval'}, '', set()]"
+Varuthini_Ekadashi,meaning,Fasting day,Valid (no expected domain or range),"['', {'http://dbpedia.org/ontology/TimeInterval'}, '', set()]"
+Varuthini_Ekadashi,type,Hindus,Valid (no expected domain or range),"['', {'http://dbpedia.org/ontology/TimeInterval'}, '', set()]"

@@ -1,0 +1,282 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Prezzo Holdings,foundation,2000-02-04,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Prezzo Holdings,locationCity,Essex,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Country
+Prezzo Holdings,locationCity,Woodford_Green,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Prezzo Holdings,logo,Prezzo Logo.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Prezzo Holdings,name,Prezzo Holdings Limited,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Prezzo Holdings,parent,TPG_Capital,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company
+Prezzo Holdings,parent,Prezzo Holdings,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Hawthorne Valley Waldorf School,administrator,Michael Frosch,outgoing,http://dbpedia.org/ontology/Person,
+Hawthorne Valley Waldorf School,city,"Ghent,_New_York",outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Hawthorne Valley Waldorf School,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Hawthorne Valley Waldorf School,established,1973,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hawthorne Valley Waldorf School,name,Hawthorne Valley Waldorf School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hawthorne Valley Waldorf School,ratio,8,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Human Accomplishment,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Human Accomplishment,coverArtist,Robert Bull Design,outgoing,http://dbpedia.org/ontology/Person,
+Human Accomplishment,isbn,978,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Human Accomplishment,language,English,outgoing,http://dbpedia.org/ontology/Language,
+Human Accomplishment,name,"Human Accomplishment : The Pursuit of Excellence in the Arts and Sciences, 800 B.C. to 1950",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Human Accomplishment,oclc,52047270,outgoing,http://www.w3.org/2001/XMLSchema#string,
+1976 Illinois elections,country,Illinois,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion
+1976 Illinois elections,electionDate,1976-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1976 Illinois elections,imageSize,x150px,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+1976 Illinois elections,mapCaption,County Results,outgoing,http://www.w3.org/2001/XMLSchema#string,
+1976 Illinois elections,mapCaption,"Thompson:     
+Howlett:",outgoing,http://www.w3.org/2001/XMLSchema#string,
+1976 Illinois elections,nominee,Alan J. Dixon,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,nominee,James R. Thompson,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,nominee,Michael Bakalis,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,nominee,William J. Scott,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,nominee,Michael_J._Howlett,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,party,Communist Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Communist Party USA,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Libertarian Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Socialist Labor Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Socialist Labor Party of America,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Socialist Workers Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,U.S. Labor Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,party,Write-in,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1976 Illinois elections,popularVote,1562028,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,1610258,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,1678800,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,2117977,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,2298074,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,2795013,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,2906311,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,popularVote,3000395,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1976 Illinois elections,runningMate,David C. O'Neal,outgoing,http://dbpedia.org/ontology/Person,
+1976 Illinois elections,title,Attorney General,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+1976 Illinois elections,title,Governor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+1976 Illinois elections,title,Secretary of State,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+1976 Illinois elections,title,State Comptroller,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hamlin School,motto,Compassion - Courage - Honesty - Respect - Responsibility,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hamlin School,name,The Hamlin School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hamlin School,president,Wanda M. Holland Greene,outgoing,http://dbpedia.org/ontology/Person,
+1928 United States presidential election in New Hampshire,country,New Hampshire,outgoing,http://dbpedia.org/ontology/Country,
+1928 United States presidential election in New Hampshire,electionDate,1928-11-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1928 United States presidential election in New Hampshire,imageSize,x200px,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+1928 United States presidential election in New Hampshire,mapCaption,"County Results
+
+
+Hoover
+
+
+
+
+Smith",outgoing,http://www.w3.org/2001/XMLSchema#string,
+1928 United States presidential election in New Hampshire,nominee,Herbert Hoover,outgoing,http://dbpedia.org/ontology/Person,
+1928 United States presidential election in New Hampshire,party,Communist Party USA,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1928 United States presidential election in New Hampshire,party,Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1928 United States presidential election in New Hampshire,party,Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1928 United States presidential election in New Hampshire,party,Socialist Party of America,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1928 United States presidential election in New Hampshire,popularVote,80715,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1928 United States presidential election in New Hampshire,popularVote,115404,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1928 United States presidential election in New Hampshire,runningMate,Charles Curtis,outgoing,http://dbpedia.org/ontology/Person,
+1928 United States presidential election in New Hampshire,title,President,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+Morgan v Fry,name,Morgan v Fry,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+False memory syndrome,date,September 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Research Council for Automobile Repairs,abbreviation,RCAR,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Research Council for Automobile Repairs,membership,26,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Research Council for Automobile Repairs,name,RCAR,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Research Council for Automobile Repairs,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+RAF Harrington,name,RAF Harrington,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+RAF Harrington,name,USAAF Station 179,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Diva (magazine),country,United Kingdom,outgoing,http://dbpedia.org/ontology/Country,
+Diva (magazine),editor,Roxy Bourdillon,outgoing,http://dbpedia.org/ontology/Agent,
+Diva (magazine),frequency,Monthly,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/MusicGenre
+Diva (magazine),publisher,Linda_Riley,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Diva (magazine),title,Diva,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicalArtist
+Diva (magazine),work,Diva (magazine),incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PeriodicalLiterature; http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Magazine; http://dbpedia.org/ontology/WrittenWork
+Operation Gardel,aircraftType,Military_transport_aircraft,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Operation Gardel,crew,7,outgoing,http://dbpedia.org/ontology/SpaceMission,http://dbpedia.org/ontology/Year
+Operation Gardel,date,1975-08-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Operation Gardel,destination,El Palomar Air Base,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Operation Gardel,name,Operation Gardel,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Operation Gardel,origin,El Palomar Air Base,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Murder of Rachel McLean,birthDate,August 1971,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Murder of Rachel McLean,birthPlace,"Blackpool, England",outgoing,http://dbpedia.org/ontology/Place,
+Murder of Rachel McLean,deathDate,1991-04-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Murder of Rachel McLean,deathPlace,"Oxford, England",outgoing,http://dbpedia.org/ontology/Place,
+Murder of Rachel McLean,name,Rachel McLean,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Equality of outcome,date,August 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Equality of outcome,date,August 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Equality of outcome,quote,"...the real content of the proletarian demand for equality is the demand for the abolition of classes. Any demand for equality which goes beyond that, of necessity passes into absurdity.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Equality of outcome,width,25,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+1933 Normanton by-election,country,United Kingdom,outgoing,http://dbpedia.org/ontology/Country,
+1933 Normanton by-election,electionDate,1933-05-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1933 Normanton by-election,party,Labour Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1933 Normanton by-election,title,MP,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Operation Abanadela,casualties,unknown,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Operation Abanadela,combatant,FRELIMO,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Operation Abanadela,commander,Kaúlza de Arriaga,outgoing,http://dbpedia.org/ontology/Person,
+Operation Abanadela,commander,Samora Machel,outgoing,http://dbpedia.org/ontology/Person,
+Operation Abanadela,conflict,Operation Abanadela,outgoing,http://dbpedia.org/ontology/MilitaryConflict,
+Operation Abanadela,date,--07-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Operation Abanadela,place,Cahora_Bassa,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/BodyOfWater; http://dbpedia.org/ontology/Lake
+Operation Abanadela,result,Portuguese victory,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Operation Abanadela,strength,unknown,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2016 Ohio House of Representatives election,country,Ohio,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+2016 Ohio House of Representatives election,electionDate,2016-11-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+2016 Ohio House of Representatives election,mapCaption,Results,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Album
+2016 Ohio House of Representatives election,party,Ohio Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+2016 Ohio House of Representatives election,party,Ohio Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+2016 Ohio House of Representatives election,popularVote,1961329,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+2016 Ohio House of Representatives election,popularVote,2836624,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+2016 Ohio House of Representatives election,title,Speaker_of_the_Ohio_House_of_Representatives,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Special Investigations Unit (Ontario),budget,6900000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Special Investigations Unit (Ontario),motto,One Law for All,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Special Investigations Unit (Ontario),name,Special Investigations Unit,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Electrical, Electronic, Telecommunications and Plumbing Union",affiliation,National_Federation_of_Building_Trades_Operatives,outgoing,http://dbpedia.org/ontology/Organisation,
+"Electrical, Electronic, Telecommunications and Plumbing Union",dissolved,1992-05-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Electrical, Electronic, Telecommunications and Plumbing Union",name,EETPU,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Electrical, Electronic, Telecommunications and Plumbing Union",publication,Contact,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Astor Secondary School,address,Astor Avenue,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Astor Secondary School,ageRange,11,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Astor Secondary School,capacity,1400,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Astor Secondary School,motto,"Adaptable, Creative, Proud",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Astor Secondary School,name,Astor Secondary School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Astor Secondary School,principal,Lee Kane,outgoing,http://dbpedia.org/ontology/Person,
+Astor Secondary School,specialist,Arts,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Critical Path Project,author,David Grabias,outgoing,http://dbpedia.org/ontology/Person,
+Critical Path Project,currentStatus,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Critical Path Project,launchDate,2012-07-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Critical Path Project,location,"Los Angeles, CA",outgoing,http://dbpedia.org/ontology/Place,
+Critical Path Project,logo,File:Critical Path logo.png,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Critical Path Project,name,Critical Path Project,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Critical Path Project,owner,Artifact,outgoing,http://dbpedia.org/ontology/Agent,
+Accentor-class minesweeper,name,Accentor class,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Accentor-class minesweeper,shipBeam,&ndash;,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Accentor-class minesweeper,shipDraft,&ndash;,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Shoe Zone,formerName,Bensonshoe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shoe Zone,location,"Leicester, England, UK",outgoing,http://dbpedia.org/ontology/Place,
+Shoe Zone,logo,ShoeZoneLogo.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Shoe Zone,name,Shoe Zone plc,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shoe Zone,revenue,119.1m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Toys for Tots,founder,Bill Hendricks,outgoing,http://dbpedia.org/ontology/Person,
+Toys for Tots,founder,Diane Hendricks,outgoing,http://dbpedia.org/ontology/Person,
+Toys for Tots,location,"Triangle, Virginia, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Toys for Tots,logo,Toysfortotslogo.png,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Toys for Tots,mission,Provide toys for underprivileged children,outgoing,http://dbpedia.org/ontology/SpaceMission,
+Toys for Tots,name,Toys for Tots,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Toys for Tots,owner,Marine Toys for Tots Foundation,outgoing,http://dbpedia.org/ontology/Agent,
+Toys for Tots,revenue,2.766392E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+European Grouping of Marketing Professionals,fate,Classified as a cult,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+European Grouping of Marketing Professionals,founder,Jean Godzich aka John GODZICH,outgoing,http://dbpedia.org/ontology/Person,
+European Grouping of Marketing Professionals,name,Groupement Européen des Professionnels du Marketing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+1800 United States presidential election in South Carolina,country,South Carolina,outgoing,http://dbpedia.org/ontology/Country,
+1800 United States presidential election in South Carolina,electionDate,--10-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1800 United States presidential election in South Carolina,imageSize,x200px,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+1800 United States presidential election in South Carolina,nominee,Thomas Jefferson,outgoing,http://dbpedia.org/ontology/Person,
+1800 United States presidential election in South Carolina,party,Democratic-Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1800 United States presidential election in South Carolina,title,President,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+1869 Massachusetts gubernatorial election,country,Massachusetts,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion
+1869 Massachusetts gubernatorial election,electionDate,1869-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+1869 Massachusetts gubernatorial election,imageSize,x140px,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+1869 Massachusetts gubernatorial election,nominee,Edwin Chamberlain,outgoing,http://dbpedia.org/ontology/Person,
+1869 Massachusetts gubernatorial election,nominee,William Claflin,outgoing,http://dbpedia.org/ontology/Person,
+1869 Massachusetts gubernatorial election,party,Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1869 Massachusetts gubernatorial election,party,Labor Reform,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1869 Massachusetts gubernatorial election,party,Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1869 Massachusetts gubernatorial election,party,Labor_Reform_Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+1869 Massachusetts gubernatorial election,popularVote,13567,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1869 Massachusetts gubernatorial election,popularVote,50735,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1869 Massachusetts gubernatorial election,popularVote,74106,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+1869 Massachusetts gubernatorial election,title,Governor_of_Massachusetts,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MilitaryPerson
+Lac La Ronge Indian Band,area,433.052,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Lac La Ronge Indian Band,chief,Tammy Miriam Cook-Searson,outgoing,http://dbpedia.org/ontology/Chief,
+Lac La Ronge Indian Band,province,Saskatchewan,outgoing,http://dbpedia.org/ontology/Province,http://dbpedia.org/ontology/Settlement
+Lac La Ronge Indian Band,subdivisionName,Lac La Ronge Indian Band,incoming,http://dbpedia.org/ontology/Place,
+Productivity Commission,budget,"A$32,502,000",outgoing,http://www.w3.org/2001/XMLSchema#double,
+Productivity Commission,logo,File:Productivity Commission  logo.jpg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Liberals (Switzerland),foundation,2009-01-01,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Liberals (Switzerland),logo,150,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+The Liberals (Switzerland),membership,120000,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Liberals (Switzerland),name,FDP.The Liberals,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+2022 Saskatchewan New Democratic Party leadership election,date,2022-06-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+2022 Saskatchewan New Democratic Party leadership election,logo,Saskatchewan NDP Logo .svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+2022 Saskatchewan New Democratic Party leadership election,party,Saskatchewan New Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+2022 Saskatchewan New Democratic Party leadership election,title,Endorsements of Carla Beck,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+2022 Saskatchewan New Democratic Party leadership election,title,Endorsements of Kaitlyn Harvey,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+2022 Saskatchewan New Democratic Party leadership election,year,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Feldwood High School,city,College Park,outgoing,http://dbpedia.org/ontology/City,
+Feldwood High School,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Feldwood High School,mascot,Flames,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Feldwood High School,name,Feldwood High School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Feldwood High School,principal,Billy Jones,outgoing,http://dbpedia.org/ontology/Person,
+Feldwood High School,region,5,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Year
+Feldwood High School,state,Georgia,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Feldwood High School,years,1976,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+The Woodlands School (Mississauga),address,3225,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),freeLabel,Special programs,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),mascot,Rammy the Ram,outgoing,http://www.w3.org/2001/XMLSchema#string,
+The Woodlands School (Mississauga),name,The Woodlands School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),principal,Omar Zia,outgoing,http://dbpedia.org/ontology/Person,
+The Woodlands School (Mississauga),province,Ontario,outgoing,http://dbpedia.org/ontology/Province,http://dbpedia.org/ontology/Settlement
+The Woodlands School (Mississauga),superintendent,Pat Noble,outgoing,http://dbpedia.org/ontology/Person,
+The Woodlands School (Mississauga),teamName,The Woodlands Rams,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+The Woodlands School (Mississauga),trustee,John Marchant,outgoing,http://dbpedia.org/ontology/Person,
+The Woodlands School (Mississauga),trustee,Robert Crocker,outgoing,http://dbpedia.org/ontology/Person,
+The Woodlands School (Mississauga),trustee,Sue Lawton,outgoing,http://dbpedia.org/ontology/Person,
+Debre Markos University,established,2005,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Debre Markos University,name,Debre Markos University,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Debre Markos University,president,Tafere Melaku,outgoing,http://dbpedia.org/ontology/Person,
+VX-23,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+VX-23,garrison,Naval_Air_Station_Patuxent_River,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Airport; http://dbpedia.org/ontology/MilitaryStructure
+VX-23,imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Mackinac College (Humbard),chairman,Rev. Alpha Rex Emmanuel Humbard,outgoing,http://dbpedia.org/ontology/Person,
+Mackinac College (Humbard),city,Mackinac_Island,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Island; http://dbpedia.org/ontology/PopulatedPlace
+Mackinac College (Humbard),country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Mackinac College (Humbard),motto,An adventure in Christian education,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mackinac College (Humbard),name,Mackinac College,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mackinac College (Humbard),president,Rev. Roger Kvam,outgoing,http://dbpedia.org/ontology/Person,
+Mackinac College (Humbard),vicePresident,Charles W. Schoenherr,outgoing,http://dbpedia.org/ontology/Person,
+Hougang Single Member Constituency,imageSize,240,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hougang Single Member Constituency,name,Hougang,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Hougang Single Member Constituency,party,People's Action Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Hougang Single Member Constituency,party,Workers' Party of Singapore,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Penthouse Boardwalk Hotel and Casino,name,Penthouse Boardwalk Hotel and Casino,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chengdu Foreign Languages School,address,35,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Chengdu Foreign Languages School,city,Chengdu 610097,outgoing,http://dbpedia.org/ontology/City,
+Chengdu Foreign Languages School,established,1989,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Chengdu Foreign Languages School,motto,"立学中华, 语通世界",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chengdu Foreign Languages School,name,Chengdu Foreign Languages School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chengdu Foreign Languages School,president,Gong Zhifa,outgoing,http://dbpedia.org/ontology/Person,
+Chengdu Foreign Languages School,club,Chengdu Foreign Languages School,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/School; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation
+Sweet Water High School,address,440,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sweet Water High School,campusType,Rural,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Settlement
+Sweet Water High School,ceeb,12550,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sweet Water High School,city,"Sweet_Water,_Alabama",outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Sweet Water High School,country,United States,outgoing,http://dbpedia.org/ontology/Country,
+Sweet Water High School,established,1870.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sweet Water High School,mascot,Bulldog,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Mammal
+Sweet Water High School,name,Sweet Water High School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sweet Water High School,newspaper,The Paw Print Press,outgoing,http://dbpedia.org/ontology/PeriodicalLiterature,
+Sweet Water High School,principal,Becky A. Williams,outgoing,http://dbpedia.org/ontology/Person,
+Sweet Water High School,ratio,16.24,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Orang Seletar,population,3000,outgoing,http://dbpedia.org/ontology/Population,
+"Stratford High School (Stratford, Texas)",mascot,Elks/Lady Elks,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Stratford High School (Stratford, Texas)",name,Stratford High School,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Stratford High School (Stratford, Texas)",principal,Eddie Metcalf,outgoing,http://dbpedia.org/ontology/Person,
+The Nigerian Girl Guides Association,name,The Nigerian Girl Guides Association,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+DOV Pharmaceutical,name,DOV Pharmaceutical Inc.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+DOV Pharmaceutical,symbol,DOVP.OB,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sigurimi,dissolved,1991-08-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sigurimi,motto,"""Për popullin, me popullin""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Al-Ahliyya Amman University,affiliation,"IAU, FUIW, AArU, AAPIHE",outgoing,http://dbpedia.org/ontology/Organisation,
+Al-Ahliyya Amman University,chairman,Mohammad Saleh Al-Hourani,outgoing,http://dbpedia.org/ontology/Person,
+Al-Ahliyya Amman University,latinName,Al-Ahliyya Amman University,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Al-Ahliyya Amman University,name,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Al-Ahliyya Amman University,name,Al-Ahliyya Amman University,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Al-Ahliyya Amman University,president,Sari Hamdan,outgoing,http://dbpedia.org/ontology/Person,
+Al-Ahliyya Amman University,province,Balqa_Governorate,outgoing,http://dbpedia.org/ontology/Province,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Fleet Electronic Warfare Center,garrison,"Joint Expeditionary Base Little Creek-Fort Story, Virginia",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Marxist Unification Movement,ideology,Anti-fascism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PersonFunction
+Marxist Unification Movement,ideology,Catalan_independence,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Marxist Unification Movement,ideology,Catalanism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PoliticalParty
+Marxist Unification Movement,ideology,Marxism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Software; http://dbpedia.org/ontology/Country
+Marxist Unification Movement,ideology,Països_Catalans,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Marxist Unification Movement,ideology,Socialism,outgoing,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/MusicGenre
+Marxist Unification Movement,name,Marxist Unification Movement,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,

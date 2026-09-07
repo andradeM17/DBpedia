@@ -1,0 +1,9 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+"Caesar, Julius",award,Civic_Crown,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Saint
+"Caesar, Julius",deathPlace,Theatre_of_Pompey,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Caesar, Julius",restingPlace,Temple_of_Caesar,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Caesar, Julius",publisher,"Caesar, Julius",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/OfficeHolder
+Ovid,birthPlace,Italy_(Ancient_Rome),outgoing,http://dbpedia.org/ontology/Place,
+Ovid,deathPlace,Scythia_Minor_(Dobruja),outgoing,http://dbpedia.org/ontology/Place,
+Virgil,deathPlace,Italy_(Roman_Empire),outgoing,http://dbpedia.org/ontology/Place,
+Tuberculosis,child,Tuberculosis,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Disease

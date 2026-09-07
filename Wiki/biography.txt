@@ -1,0 +1,212 @@
+Aristotle
+Beauvoir, Simone de
+Chanakya
+Confucius
+Descartes, René
+Freud, Sigmund
+Hegel, Georg Wilhelm Friedrich
+Heidegger, Martin
+Ibn Khaldun
+Kant, Immanuel
+Keynes, John Maynard
+Laozi
+Locke, John
+Machiavelli, Niccolò
+Marx, Karl
+Nietzsche, Friedrich
+Plato
+Rousseau, Jean-Jacques
+Sartre, Jean-Paul
+Sima Qian
+Smith, Adam
+Socrates
+Voltaire
+Weber, Max
+Wittgenstein, Ludwig
+Zhu Xi
+
+Abraham
+Aquinas, Thomas
+Augustine of Hippo
+Buddha
+Al-Ghazali
+Jesus
+Luther, Martin
+Moses
+Muhammad
+Nagarjuna
+
+Akbar
+Alexander the Great
+Ashoka
+Atatürk, Mustafa Kemal
+Augustus
+von Bismarck, Otto
+Bolívar, Simón
+Caesar, Julius
+Charlemagne
+Churchill, Winston
+Constantine the Great
+Cyrus the Great
+de Gaulle, Charles
+Elizabeth I
+Gandhi, Mohandas Karamchand
+Genghis Khan
+Guevara, Che
+Hitler, Adolf
+Joan of Arc
+Martin Luther King Jr.
+Lenin, Vladimir
+Lincoln, Abraham
+Louis XIV
+Luxemburg, Rosa
+Napoleon
+Mandela, Nelson
+Mao Zedong
+Nehru, Jawaharlal
+Nkrumah, Kwame
+Peter the Great
+Qin Shi Huang
+Roosevelt, Franklin D.
+Saladin
+Stalin, Joseph
+Suleiman the Magnificent
+Sun Yat-sen
+Timur
+Umar
+Washington, George
+
+Archimedes
+Avicenna
+Berners-Lee, Tim
+Brahmagupta
+Copernicus, Nicolaus
+Curie, Marie
+Darwin, Charles
+Edison, Thomas
+Einstein, Albert
+Euclid
+Euler, Leonhard
+Faraday, Michael
+Fermi, Enrico
+Ford, Henry
+Galen
+Galileo Galilei
+Gauss, Carl Friedrich
+Gutenberg, Johannes
+Hilbert, David
+Joule, James Prescott
+Kepler, Johannes
+al-Khwarizmi, Muhammad ibn Musa
+Leibniz, Gottfried Wilhelm
+Linnaeus, Carl
+Maxwell, James Clerk
+Mendeleev, Dmitri
+Newton, Sir Isaac
+Pasteur, Louis
+Planck, Max
+Rutherford, Ernest
+Schrödinger, Erwin
+Tesla, Nikola
+Turing, Alan
+Watt, James
+
+Le Corbusier
+Dalí, Salvador
+Dürer, Albrecht
+Gogh, Vincent van
+Goya, Francisco
+Hokusai
+Kahlo, Frida
+Leonardo da Vinci
+Matisse, Henri
+Michelangelo
+Picasso, Pablo
+Raphael
+Rembrandt
+Rubens, Peter Paul
+Sinan, Mimar
+Velázquez, Diego
+Warhol, Andy
+Wright, Frank Lloyd
+
+Armstrong, Louis
+Bach, Johann Sebastian
+Beatles, The
+Beethoven, Ludwig van
+Brahms, Johannes
+Chopin, Frédéric
+Dvořák, Antonín
+Handel, Georg Frideric
+Haydn, Joseph
+Jackson, Michael
+Kulthum, Umm
+Mahler, Gustav
+Mozart, Wolfgang Amadeus
+Palestrina, Giovanni Pierluigi da
+Puccini, Giacomo
+Schubert, Franz
+Stravinsky, Igor
+Pyotr_Ilyich_Tchaikovsky
+Verdi, Giuseppe
+Vivaldi, Antonio
+Wagner, Richard
+
+Bergman, Ingmar
+Bernhardt, Sarah
+Chaplin, Charlie
+Dietrich, Marlene
+Disney, Walt
+Eisenstein, Sergei
+Fellini, Federico
+Hitchcock, Alfred
+Kubrick, Stanley
+Kurosawa, Akira
+Monroe, Marilyn
+Ray, Satyajit
+
+Abu Nuwas
+Andersen, Hans Christian
+Austen, Jane
+Matsuo_Bashō
+Borges, Jorge Luis
+Byron, George
+Cervantes, Miguel de
+Chaucer, Geoffrey
+Chekhov, Anton
+Dante Alighieri
+Dickens, Charles
+Dostoyevsky, Fyodor
+García Márquez, Gabriel
+Goethe, Johann Wolfgang von
+Hafez
+Homer
+Hugo, Victor
+Joyce, James
+Kafka, Franz
+Kālidāsa
+Li Bai
+Naguib Mahfouz
+Molière
+Ovid
+Proust, Marcel
+Pushkin, Alexander
+Shakespeare, William
+Sophocles
+Tagore, Rabindranath
+Tolstoy, Leo
+Twain, Mark
+Virgil
+
+Amundsen, Roald
+Armstrong, Neil
+Cartier, Jacques
+Columbus, Christopher
+Cook, James
+Cortés, Hernán
+Gagarin, Yuri
+da Gama, Vasco
+Ibn Battuta
+Magellan, Ferdinand
+Polo, Marco
+Zheng He

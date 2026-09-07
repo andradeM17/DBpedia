@@ -1,0 +1,217 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Metromover,averageSpeed,14.48406,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Metromover,numberOfLines,3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Metromover,numberOfStations,21,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Metromover,openingDate,1986-04-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Metromover,openingDate,1994-05-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Metromover,openingYear,1986,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Metromover,openingYear,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Metromover,topSpeed,49.88954,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Utsubuna Station,address,"7200 Utsubuna, Nanbu-cho, Minamikoma-gun, Yamanashi-ken 409-2305",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Utsubuna Station,formerName,Utsubuna-Nanbu (until 1938),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Utsubuna Station,openingDate,1918-10-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Utsubuna Station,openingYear,1918,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Utsubuna Station,passengersPerYear,150,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Hypre,latestReleaseDate,2017-03-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hypre,latestReleaseVersion,2.11.2,outgoing,http://www.w3.org/2001/XMLSchema#string,
+DUO,architect,DP_Architects,outgoing,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+DUO,height,192.8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+DUO,status,Completed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spring Valley station (DART),address,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spring Valley station (DART),address,100 West Spring Valley Road,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spring Valley station (DART),address,"Richardson, Texas, 75081",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Spring Valley station (DART),openingDate,2002-07-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Spring Valley station (DART),openingYear,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Spring Valley station (DART),railwayPlatforms,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spring Valley station (DART),railwayPlatforms,Island platform,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spring Valley station (DART),stationStructure,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Spring Valley station (DART),stationStructure,Elevated,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Schwörstadt station,fareZone,2 (),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Schwörstadt station,numberOfTracks,2,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Tesla Energy,foundingDate,2015-04-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tesla Energy,foundingYear,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tesla Energy,production,4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Tesla Energy,production,345,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tesla Energy,revenue,2.79E9,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gyeongui Line (1904–1945),closingYear,1945,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gyeongui Line (1904–1945),lineLength,499300.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gyeongui Line (1904–1945),openingDate,1905-11-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gyeongui Line (1904–1945),openingYear,1905,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gyeongui Line (1904–1945),status,Divided,outgoing,http://www.w3.org/2001/XMLSchema#string,
+ReachLocal,foundingYear,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+ReachLocal,revenue,5.1407E8,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MV Hythe Scene,length,21000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MV Hythe Scene,length,21.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MV Hythe Scene,shipBeam,4.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MV Hythe Scene,status,In service,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mhlume Airfield,city,Mhlume,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Mhlume Airfield,elevation,282.8544,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mhlume Airfield,icaoLocationIdentifier,FDMH,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mhlume Airfield,runwayDesignation,18/36,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mhlume Airfield,runwayLength,1155.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Mhlume Airfield,runwaySurface,Grass,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Osokorskaya,originalName,Осокорская,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Osokorskaya,utcOffset,+3:00,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Xuzhou East railway station,address,"Dongjiao Economic Development Zone,Jiawang District,Xuzhou,Jiangsu",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Xuzhou East railway station,agencyStationCode,66827 (TMIS code),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Xuzhou East railway station,openingDate,2011-06-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Xuzhou East railway station,openingYear,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Xuzhou East railway station,passengersPerYear,13270000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Ensconse,foalDate,1986-03-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ensconse,owner,Mohammed_bin_Rashid_Al_Maktoum,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+Ensconse,sex,Mare,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person
+Boys railway station,closingYear,1963,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boys railway station,numberOfTracks,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Boys railway station,openingYear,1892,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boys railway station,railwayPlatforms,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Boys railway station,railwayPlatforms,1,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+The Riftbreaker,developer,EXOR_Studios,outgoing,http://dbpedia.org/ontology/Agent,
+The Riftbreaker,publisher,EXOR_Studios,outgoing,http://dbpedia.org/ontology/Agent,
+The Riftbreaker,releaseDate,2021-10-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gibo Station,address,"Naha,Okinawa",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gibo Station,openingDate,2003-08-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gibo Station,openingYear,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Kanchrapara Railway Workshop,foundingYear,1863,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kanchrapara Railway Workshop,keyPerson,Indian_Railway_Service_of_Electrical_Engineers,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Band
+Kanchrapara Railway Workshop,keyPerson,Surendra_Kumar,outgoing,http://dbpedia.org/ontology/Person,
+Kanchrapara Railway Workshop,numberOfEmployees,7503,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Vichy — Charmeil Airport,city,France,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Vichy — Charmeil Airport,elevation,249.0216,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vichy — Charmeil Airport,iataLocationIdentifier,VHY,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vichy — Charmeil Airport,icaoLocationIdentifier,LFLV,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vichy — Charmeil Airport,runwayDesignation,01/19,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vichy — Charmeil Airport,runwayLength,2200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vichy — Charmeil Airport,runwaySurface,Asphalt,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Zylon,iupacName,"poly(p-phenylene-2,6-benzobisoxazole)",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Washington State Route 115,length,3.66930432,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Washington State Route 115,length,3669.30432,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Washington State Route 115,routeEnd,"Oyehut-Hogan's_Corner,_Washington",outgoing,http://dbpedia.org/ontology/Station,http://dbpedia.org/ontology/Settlement
+Washington State Route 115,routeEndDirection,North,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Washington State Route 115,routeNumber,115,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Washington State Route 115,routeStart,"Ocean_Shores,_Washington",outgoing,http://dbpedia.org/ontology/Station,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Washington State Route 115,routeStartDirection,South,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Washington State Route 115,routeTypeAbbreviation,SR,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Racine station (CTA Metropolitan Main Line),address,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Racine station (CTA Metropolitan Main Line),address,416&ndash;418 South Racine Avenue,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Racine station (CTA Metropolitan Main Line),address,"Chicago,Illinois",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Racine station (CTA Metropolitan Main Line),closingDate,1954-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Racine station (CTA Metropolitan Main Line),closingYear,1954,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),numberOfTracks,4,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),openingDate,1895-05-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Racine station (CTA Metropolitan Main Line),openingYear,1895,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),railwayPlatforms,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Racine station (CTA Metropolitan Main Line),railwayPlatforms,"Originally 2island platforms, later 4side platforms",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Racine station (CTA Metropolitan Main Line),rebuildingYear,1898,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),rebuildingYear,1914,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Racine station (CTA Metropolitan Main Line),stationStructure,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Racine station (CTA Metropolitan Main Line),stationStructure,Elevated,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mirach 26,designer,Galileo_Avionica,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Company
+Albuquerque Eastern Railway,closingYear,1908,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Albuquerque Eastern Railway,openingYear,1901,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Albuquerque Eastern Railway,trackLength,12874.752,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bellview Airlines,iataAirlineCode,B3,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Bellview Airlines,icaoAirlineCode,BLV,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aventura station,address,19796 West Dixie Highway,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aventura station,address,"Ojus, Florida",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aventura station,owner,Miami-Dade_County,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Country
+Aventura station,owningOrganisation,Miami-Dade_County,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Kanpur Anwarganj railway station,address,"NH 91, Anwarganj Station Lane,Kanpur,Kanpur Nagar district,Uttar Pradesh",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,formerName,Indian Branch Rly. Co.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,formerName,Northern Railways,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kanpur Anwarganj railway station,numberOfTracks,5,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Kanpur Anwarganj railway station,openingYear,1896,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kanpur Anwarganj railway station,otherServingLines,Taxi stand/Anwarganj stationKMBSCity Bus Stop,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Kanpur Anwarganj railway station,passengersPerYear,50000,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Kanpur Anwarganj railway station,railwayPlatforms,3,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Kanpur Anwarganj railway station,stationStructure,Standard (on-ground station),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Midland Railway 1528 Class,activeYearsEndYear,1907,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Midland Railway 1528 Class,activeYearsStartYear,1907,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Midland Railway 1528 Class,numberBuilt,10,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+SR.N5,length,11887.2,outgoing,http://www.w3.org/2001/XMLSchema#double,
+SR.N5,length,11.8872,outgoing,http://www.w3.org/2001/XMLSchema#double,
+SR.N5,shipBeam,6.7056,outgoing,http://www.w3.org/2001/XMLSchema#double,
+SR.N5,shipDisplacement,7938000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+SR.N5,topSpeed,129.64,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rutja Airfield,elevation,41.148,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rutja Airfield,runwayDesignation,05/23,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rutja Airfield,runwayLength,2499.9696,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rutja Airfield,runwayLength,2500.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Rutja Airfield,runwaySurface,Concrete,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ChemicalCompound; http://dbpedia.org/ontology/PersonFunction
+Vilnius Biofuel Power Plant,buildingStartDate,2016,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Vilnius Biofuel Power Plant,buildingStartYear,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Vilnius Biofuel Power Plant,installedCapacity,88000000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Vilnius Biofuel Power Plant,openingYear,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Vilnius Biofuel Power Plant,owner,Ignitis_grupė,outgoing,http://dbpedia.org/ontology/Agent,
+Vilnius Biofuel Power Plant,status,Operational,outgoing,http://www.w3.org/2001/XMLSchema#string,
+SS Sarpedon (1923),shipLaunch,1923-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+SS Sarpedon (1923),status,Scrapped after 5 June 1953,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Alberta Coal Branch,lineLength,91732.60799999999,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Alberta Coal Branch,openingYear,1912,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Alberta Coal Branch,routeEnd,Brazeau_River,outgoing,http://dbpedia.org/ontology/Station,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Stream; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+Alberta Coal Branch,routeStart,Alberta_Highway_16,outgoing,http://dbpedia.org/ontology/Station,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/RouteOfTransportation; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Road
+Alberta Coal Branch,status,Open,outgoing,http://www.w3.org/2001/XMLSchema#string,
+GURL,runtime,20.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,budget,380000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,musicComposer,Mika_Haka,outgoing,http://dbpedia.org/ontology/MusicalArtist,
+GURL,producer,Mika_X,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+GURL,runtime,1200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+GURL,starring,Jackie_Clarke,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+GURL,starring,Jay_Tewake,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Wressle railway station,agencyStationCode,WRS,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wressle railway station,openingYear,1840,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+MS Estonia,length,155430.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MS Estonia,acquirementDate,1980-06-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+MS Estonia,activeYearsStartDate,1980-07-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+MS Estonia,layingDown,1979-10-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+MS Estonia,length,155.43,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MS Estonia,orderDate,1979-09-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+MS Estonia,owner,Effdo_3_Oy,outgoing,http://dbpedia.org/ontology/Agent,
+MS Estonia,owner,Estline_Marine_Co_Ltd,outgoing,http://dbpedia.org/ontology/Agent,
+MS Estonia,shipBeam,24.21,outgoing,http://www.w3.org/2001/XMLSchema#double,
+MS Estonia,shipLaunch,1980-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+MS Estonia,status,Capsized and sank on 28 September 1994,outgoing,http://www.w3.org/2001/XMLSchema#string,
+MS Estonia,topSpeed,39.0772,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Javalaan RandstadRail station,openingYear,0029,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Javalaan RandstadRail station,railwayPlatforms,2,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Metz Dam,length,0.76,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Metz Dam,description,F,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/RadioStation
+Metz Dam,height,16.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Metz Dam,length,760.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gtk-gnutella,releaseDate,2000-04-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rhino Video Games,dissolutionDate,2007-01-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rhino Video Games,fate,Merged intoGameStop,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rhino Video Games,foundingYear,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Le Locle Le Chalet railway station,fareZone,20 (),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Le Locle Le Chalet railway station,numberOfTracks,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Aokana - Four Rhythms Across the Blue,numberOfVolumes,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+STS-112,missionDuration,10.832453703703704,outgoing,http://www.w3.org/2001/XMLSchema#double,
+STS-112,alternativeName,Space Transportation System-111,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+STS-112,cosparId,2002-047A,outgoing,http://www.w3.org/2001/XMLSchema#string,
+STS-112,crewMember,David_A._Wolf,outgoing,http://dbpedia.org/ontology/Astronaut,
+STS-112,crewMember,Fyodor_N._Yurchikhin,outgoing,http://dbpedia.org/ontology/Astronaut,
+STS-112,crewMember,Jeffrey_S._Ashby,outgoing,http://dbpedia.org/ontology/Astronaut,
+STS-112,crewMember,Pamela_A._Melroy,outgoing,http://dbpedia.org/ontology/Astronaut,
+STS-112,crewMember,Sandra_H._Magnus,outgoing,http://dbpedia.org/ontology/Astronaut,
+STS-112,landingDate,2002-10-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,launchDate,2002-10-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+STS-112,missionDuration,935924.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+STS-112,numberOfOrbits,170,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+STS-112,satcat,27537,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chevrolet Monte Carlo,modelEndYear,1988,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,modelStartYear,1970,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,productionEndYear,1987,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Chevrolet Monte Carlo,productionStartYear,1969,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+LAPD Hooper Heliport,elevation,107.5944,outgoing,http://www.w3.org/2001/XMLSchema#double,
+LAPD Hooper Heliport,elevation,108.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+LAPD Hooper Heliport,faaLocationIdentifier,58CA,outgoing,http://www.w3.org/2001/XMLSchema#string,
+National Route 145 (Costa Rica),length,47.15,outgoing,http://www.w3.org/2001/XMLSchema#double,
+National Route 145 (Costa Rica),length,47150.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+National Route 145 (Costa Rica),routeNumber,145,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+National Route 145 (Costa Rica),routeTypeAbbreviation,Secondary,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aeronut Park Balloonport,elevation,298.704,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Aeronut Park Balloonport,elevation,299.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Aeronut Park Balloonport,faaLocationIdentifier,13M,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aeronut Park Balloonport,runwayDesignation,B1,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aeronut Park Balloonport,runwayLength,274.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Aeronut Park Balloonport,runwayLength,274.32,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Aeronut Park Balloonport,runwaySurface,Turf,outgoing,http://www.w3.org/2001/XMLSchema#string,

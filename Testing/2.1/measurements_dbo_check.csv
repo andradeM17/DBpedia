@@ -1,0 +1,113 @@
+property,dbp_property,status
+Measurement,label,no result
+Measurement,date,valid
+Measurement,others,no result
+Measurement,by,no result
+Measurement,url,no result
+Measurement,onlinebooks,no result
+Measurement,about,no result
+International System of Units,label,no result
+International System of Units,footer,no result
+International System of Units,width,valid
+International System of Units,standard,no result
+International System of Units,image,no result
+International System of Units,u,no result
+International System of Units,caption,no result
+International System of Units,alt,no result
+International System of Units,e,no result
+International System of Units,units,no result
+International System of Units,captionAlign,no result
+Kilogram,unit,no result
+Kilogram,width,valid
+Kilogram,standard,no result
+Kilogram,image,no result
+Kilogram,u,no result
+Kilogram,name,valid
+Kilogram,caption,no result
+Kilogram,xm,no result
+Kilogram,baseunits,no result
+Kilogram,align,no result
+Kilogram,note,valid
+Kilogram,inunits,no result
+Kilogram,e,no result
+Kilogram,quantity,no result
+Kilogram,units,no result
+Kilogram,symbol,valid
+Litre,namedafter,no result
+Litre,dimension,no result
+Litre,date,valid
+Litre,name,valid
+Litre,caption,no result
+Litre,otherunits,no result
+Litre,url,no result
+Litre,inunits,no result
+Litre,standard,no result
+Litre,quantity,no result
+Litre,units,no result
+Litre,symbol,valid
+Metre,xd,no result
+Metre,xk,no result
+Metre,caption,no result
+Metre,xm,no result
+Metre,units,no result
+Metre,dimension,no result
+Metre,xp,no result
+Metre,name,valid
+Metre,xf,no result
+Metre,xc,no result
+Metre,xda,no result
+Metre,inunits,no result
+Metre,quantity,no result
+Metre,symbol,valid
+Metre,xn,no result
+Metre,xmc,no result
+Metre,unit,no result
+Metre,xh,no result
+Metre,standard,no result
+Calendar,genre,valid
+Calendar,lk,no result
+Calendar,float,no result
+Calendar,showYear,no result
+Calendar,type,no result
+Calendar,month,valid
+Calendar,products,no result
+Gregorian calendar,calendar,no result
+Gregorian calendar,knownFor,no result
+Clock,footer,no result
+Clock,s,no result
+Clock,width,valid
+Clock,p,no result
+Clock,image,no result
+Clock,t,no result
+Clock,align,no result
+Clock,classification,valid
+Clock,totalWidth,no result
+Clock,type,no result
+Clock,products,no result
+Clock,first,no result
+Second,dimension,no result
+Second,avgSpeed,no result
+Second,standard,no result
+Second,u,no result
+Second,name,valid
+Second,caption,no result
+Second,otherunits,no result
+Second,baseunits,no result
+Second,extradata,no result
+Second,inunits,no result
+Second,e,no result
+Second,quantity,no result
+Second,symbol,valid
+Day,totalWidth,no result
+Day,period,no result
+Day,footer,no result
+Day,image,no result
+Day,type,no result
+Day,pages,no result
+Day,alt,no result
+Day,u,no result
+Day,direction,no result
+Year,labelType,no result
+Time zone,timezone,no result
+Time zone,label,no result
+Time zone,timezone1Dst,no result

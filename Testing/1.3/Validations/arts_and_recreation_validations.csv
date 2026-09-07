@@ -1,0 +1,76 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Culture,50,13,0,0,50,13
+Art,47,15,0,0,47,15
+Comics,46,14,0,0,46,14
+Painting,38,12,0,0,38,12
+Photography,45,20,0,0,45,20
+Sculpture,37,15,0,0,37,15
+Pottery,58,6,0,0,58,6
+Dance,46,12,0,0,46,12
+Fashion,50,11,0,0,50,11
+Theatre,44,16,0,0,44,16
+Calligraphy,44,8,0,0,44,8
+Architecture,40,21,0,0,40,21
+Arch,75,2,0,0,75,2
+Bridge,43,7,0,0,43,7
+Canal,50,4,0,0,50,4
+Dam,50,3,0,0,50,3
+Dome,50,4,0,0,50,4
+House,50,8,0,0,50,8
+Angkor Wat,25,2,0,0,25,2
+Colosseum,0,0,0,0,0,0
+Great Wall of China,50,4,100,2,0,2
+Eiffel Tower,96,12,100,10,75,2
+Empire State Building,25,4,0,0,25,4
+Hagia Sophia,67,6,80,5,0,1
+Parthenon,68,11,68,11,0,0
+Giza_pyramid_complex,88,4,100,1,83,3
+St. Peter's Basilica,0,0,0,0,0,0
+Statue of Liberty,83,6,100,2,75,4
+Taj Mahal,75,2,100,1,50,1
+Three Gorges Dam,93,15,96,14,50,1
+Pyramid,0,3,0,0,0,3
+Tower,50,2,0,0,50,2
+Film,48,20,0,0,48,20
+Animation,41,17,0,0,41,17
+Radio,42,12,0,0,42,12
+Television,33,18,0,0,33,18
+Music,39,23,0,0,39,23
+Song,43,7,0,0,43,7
+Blues,65,23,90,10,46,13
+Classical music,46,13,0,0,46,13
+Opera,50,15,0,0,50,15
+Symphony,50,3,0,0,50,3
+Electronic music,69,24,85,13,50,11
+Flamenco,52,20,50,16,62,4
+Hip hop,62,8,0,0,62,8
+Jazz,39,35,30,20,50,15
+Reggae,91,28,95,21,79,7
+Rock music,96,59,100,54,50,5
+Samba,82,14,80,10,88,4
+Drum,67,6,0,0,67,6
+Flute,33,6,0,0,33,6
+Guitar,35,10,0,0,35,10
+Piano,23,11,0,0,23,11
+Trumpet,44,8,0,0,44,8
+Violin,25,6,0,0,25,6
+Game,60,5,0,0,60,5
+Backgammon,50,2,0,0,50,2
+Chess,55,11,100,3,38,8
+Go (game),0,0,0,0,0,0
+Video game,50,10,0,0,50,10
+Gambling,50,8,0,0,50,8
+Martial arts,44,9,0,0,44,9
+Judo,38,4,0,0,38,4
+Olympic Games,33,6,0,0,33,6
+Sport,46,14,0,0,46,14
+Athletics,0,0,0,0,0,0
+Baseball,43,23,56,8,37,15
+Basketball,44,16,60,5,36,11
+Cricket,47,17,57,7,40,10
+Association football,45,19,58,6,38,13
+Golf,44,16,50,6,40,10
+Rugby,0,0,0,0,0,0
+Tennis,43,14,50,5,39,9
+Swimming,0,1,0,0,0,1
+Toy,42,6,0,0,42,6

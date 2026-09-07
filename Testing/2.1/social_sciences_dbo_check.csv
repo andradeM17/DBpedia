@@ -1,0 +1,1950 @@
+property,dbp_property,status
+Society,footer,no result
+Society,perrow,no result
+Society,genre,valid
+Society,mainInterests,no result
+Society,subject,no result
+Society,image,no result
+Society,type,no result
+Society,totalWidth,no result
+Society,status,valid
+Society,category,no result
+Society,focus,no result
+Civilization,subject,no result
+Civilization,subjects,no result
+Education,documenturl,no result
+Education,footer,no result
+Education,activitySector,no result
+Education,knownFor,no result
+Education,areaOfLaw,no result
+Education,industry,no result
+Education,industries,no result
+Education,data,no result
+Education,agencyType,no result
+Education,focus,no result
+Education,system,no result
+Education,gender,no result
+Education,publisher,valid
+Education,prefix,valid
+Education,employmentField,no result
+Education,fields,no result
+Education,licenseStatementUrl,no result
+Education,genre,valid
+Education,production,valid
+Education,researchField,no result
+Education,parentAgency,no result
+Education,commons,no result
+Education,portal,no result
+Education,method,no result
+Education,methods,no result
+Education,products,no result
+Education,license,no result
+Education,category,no result
+Education,almaMater,valid
+Education,missionType,no result
+Education,subject,no result
+Education,topics,no result
+Education,marketingTarget,no result
+Education,q,no result
+Education,v,no result
+Education,wikt,no result
+Education,mainInterests,no result
+Education,sSearch,no result
+Education,discipline,no result
+Education,purpose,valid
+Education,services,no result
+Education,genres,no result
+Education,totalWidth,no result
+Education,pageNumbers,no result
+Education,movement,no result
+Education,occupation,valid
+Education,others,no result
+Education,wiktSearch,no result
+Education,label,no result
+Education,namedAfter,no result
+Education,profession,no result
+Education,b,no result
+Education,d,no result
+Education,dSearch,no result
+Education,title,valid
+Education,by,no result
+Education,onlinebooks,no result
+Education,perrow,no result
+Education,subDiscipline,no result
+Education,s,no result
+Education,image,no result
+Education,noredlinks,no result
+Education,divisions,no result
+Education,keywords,no result
+Education,type,no result
+Education,bSearch,no result
+Education,field,no result
+Education,buildingType,no result
+Education,about,no result
+Education,n,no result
+Education,distinctions,no result
+Education,product,no result
+Behavior,subject,no result
+Behavior,fields,no result
+Emotion,knownFor,no result
+Emotion,species,valid
+Emotion,width,valid
+Emotion,company,valid
+Emotion,caption,no result
+Emotion,reason,no result
+Emotion,voy,no result
+Emotion,genre,valid
+Emotion,fields,no result
+Emotion,subject,no result
+Emotion,direction,no result
+Emotion,mainInterests,no result
+Emotion,m,no result
+Emotion,date,valid
+Emotion,others,no result
+Emotion,label,no result
+Emotion,b,no result
+Emotion,d,no result
+Emotion,by,no result
+Emotion,onlinebooks,no result
+Emotion,speciesAuthor,no result
+Emotion,subDiscipline,no result
+Emotion,s,no result
+Emotion,url,no result
+Emotion,align,no result
+Emotion,about,no result
+Emotion,n,no result
+Love,species,valid
+Love,source,no result
+Love,associatedActs,no result
+Love,voy,no result
+Love,genre,valid
+Love,author,valid
+Love,subject,no result
+Love,v,no result
+Love,salign,no result
+Love,attributes,no result
+Love,argument,no result
+Love,mainInterests,no result
+Love,m,no result
+Love,symbolism,no result
+Love,quote,valid
+Love,mw,no result
+Love,c,no result
+Love,b,no result
+Love,d,no result
+Love,n,no result
+Love,patronage,no result
+Mind,mainInterests,no result
+Mind,keyconcepts,no result
+Mind,fields,no result
+Psychology,activitySector,no result
+Psychology,knownFor,no result
+Psychology,diagnosis,no result
+Psychology,emphasis,no result
+Psychology,skills,no result
+Psychology,speciality,valid
+Psychology,genre,valid
+Psychology,fields,no result
+Psychology,researchField,no result
+Psychology,pp,no result
+Psychology,specialty,no result
+Psychology,commons,no result
+Psychology,portal,no result
+Psychology,topics,no result
+Psychology,category,no result
+Psychology,subject,no result
+Psychology,heading,no result
+Psychology,q,no result
+Psychology,education,no result
+Psychology,wikt,no result
+Psychology,v,no result
+Psychology,nSearch,no result
+Psychology,mainInterests,no result
+Psychology,commonsSearch,no result
+Psychology,sSearch,no result
+Psychology,discipline,no result
+Psychology,list,no result
+Psychology,dept,no result
+Psychology,b,no result
+Psychology,d,no result
+Psychology,dSearch,no result
+Psychology,s,no result
+Psychology,subjects,no result
+Psychology,faculty,no result
+Psychology,bSearch,no result
+Psychology,field,no result
+Psychology,occupation,valid
+Psychology,n,no result
+Thought,subject,no result
+Thought,subjects,no result
+Family,sub,no result
+Family,mainInterests,no result
+Family,genre,valid
+Family,subjects,no result
+Family,type,no result
+Family,training,valid
+Family,date,valid
+Family,url,no result
+Family,settlementType,no result
+Family,category,no result
+Family,subject,no result
+Family,patronage,no result
+Child,documenturl,no result
+Child,publisher,valid
+Child,title,valid
+Child,genre,valid
+Child,before,no result
+Child,author,valid
+Child,pageNumbers,no result
+Child,grouping,no result
+Child,after,no result
+Child,demonym,valid
+Child,source,no result
+Child,patronage,no result
+Man,gender,no result
+Marriage,reason,no result
+Marriage,name,valid
+Marriage,text,no result
+Marriage,partner,valid
+Marriage,s,no result
+Marriage,commons,no result
+Marriage,keywords,no result
+Marriage,date,valid
+Marriage,wikt,no result
+Marriage,q,no result
+Marriage,subject,no result
+Marriage,b,no result
+Marriage,n,no result
+Marriage,patronage,no result
+Marriage,v,no result
+Woman,reason,no result
+Woman,footer,no result
+Woman,perrow,no result
+Woman,width,valid
+Woman,image,no result
+Woman,sure,no result
+Woman,date,valid
+Woman,url,no result
+Woman,subject,no result
+Woman,gender,no result
+Woman,height,valid
+Politics,footer,no result
+Politics,activitySector,no result
+Politics,knownFor,no result
+Politics,skills,no result
+Politics,industry,no result
+Politics,focus,no result
+Politics,basedOn,valid
+Politics,genre,valid
+Politics,fields,no result
+Politics,commons,no result
+Politics,topics,no result
+Politics,category,no result
+Politics,subject,no result
+Politics,q,no result
+Politics,education,no result
+Politics,wikt,no result
+Politics,v,no result
+Politics,mainInterests,no result
+Politics,sSearch,no result
+Politics,discipline,no result
+Politics,role,valid
+Politics,purpose,valid
+Politics,genres,no result
+Politics,totalWidth,no result
+Politics,founder,valid
+Politics,movement,no result
+Politics,profession,no result
+Politics,wiktSearch,no result
+Politics,b,no result
+Politics,d,no result
+Politics,dSearch,no result
+Politics,subDiscipline,no result
+Politics,perrow,no result
+Politics,s,no result
+Politics,image,no result
+Politics,subjects,no result
+Politics,type,no result
+Politics,ideology,valid
+Politics,keywords,no result
+Politics,reference,valid
+Politics,field,no result
+Politics,format,no result
+Politics,occupation,valid
+Politics,n,no result
+Politics,distinctions,no result
+Colonialism,reason,no result
+Colonialism,mainInterests,no result
+Colonialism,genre,valid
+Colonialism,subject,no result
+Colonialism,width,valid
+Colonialism,governmentType,valid
+Colonialism,quote,valid
+Colonialism,subjects,no result
+Colonialism,gap,no result
+Colonialism,industry,no result
+Colonialism,ideology,valid
+Colonialism,date,valid
+Colonialism,source,no result
+Colonialism,profession,no result
+Colonialism,subdivisionType,no result
+Colonialism,colwidth,no result
+Colonialism,focus,no result
+Colonialism,rules,no result
+Diplomacy,policyAreas,no result
+Diplomacy,subDiscipline,no result
+Diplomacy,mainInterests,no result
+Diplomacy,knownFor,no result
+Diplomacy,subject,no result
+Diplomacy,skills,no result
+Diplomacy,role,valid
+Diplomacy,purpose,valid
+Diplomacy,services,no result
+Diplomacy,specialization,no result
+Diplomacy,profession,no result
+Diplomacy,field,no result
+Diplomacy,focus,no result
+Diplomacy,occupation,valid
+Diplomacy,distinctions,no result
+Government,activitySector,no result
+Government,industry,no result
+Government,areaServed,no result
+Government,colwidth,no result
+Government,agencyType,no result
+Government,focus,no result
+Government,book,valid
+Government,genre,valid
+Government,employmentField,no result
+Government,fields,no result
+Government,owner,valid
+Government,affiliation,valid
+Government,commons,no result
+Government,portal,no result
+Government,category,no result
+Government,subject,no result
+Government,legislatureStatus,no result
+Government,q,no result
+Government,wikt,no result
+Government,v,no result
+Government,operator,no result
+Government,indent,no result
+Government,sSearch,no result
+Government,discipline,no result
+Government,purpose,valid
+Government,cabinetType,no result
+Government,profession,no result
+Government,wiktSearch,no result
+Government,b,no result
+Government,d,no result
+Government,dSearch,no result
+Government,schooltype,no result
+Government,free,valid
+Government,governmentType,valid
+Government,s,no result
+Government,workInstitution,no result
+Government,type,no result
+Government,keywords,no result
+Government,bSearch,no result
+Government,status,valid
+Government,subdivisionType,no result
+Government,buildingType,no result
+Government,occupation,valid
+Government,n,no result
+Government,auto,no result
+Democracy,knownFor,no result
+Democracy,shipNamesake,no result
+Democracy,focus,no result
+Democracy,fields,no result
+Democracy,government,no result
+Democracy,subject,no result
+Democracy,mainInterests,no result
+Democracy,motto,valid
+Democracy,governance,no result
+Democracy,others,no result
+Democracy,label,no result
+Democracy,result,valid
+Democracy,goals,no result
+Democracy,by,no result
+Democracy,onlinebooks,no result
+Democracy,governmentType,valid
+Democracy,subjects,no result
+Democracy,ideology,valid
+Democracy,keywords,no result
+Democracy,politicalPosition,no result
+Democracy,about,no result
+Dictatorship,governmentType,valid
+Dictatorship,type,no result
+Dictatorship,ideology,valid
+Dictatorship,status,valid
+Dictatorship,subject,no result
+Dictatorship,legislatureStatus,no result
+Monarchy,title,valid
+Monarchy,titleLeader,no result
+Monarchy,mainInterests,no result
+Monarchy,governmentType,valid
+Monarchy,reignType,no result
+Monarchy,type,no result
+Monarchy,ideology,valid
+Monarchy,status,valid
+Monarchy,leaderTitle,valid
+Monarchy,subdivisionType,no result
+Republic,width,valid
+Republic,system,no result
+Republic,caption,no result
+Republic,reason,no result
+Republic,government,no result
+Republic,eventEnd,no result
+Republic,category,no result
+Republic,direction,no result
+Republic,header,no result
+Republic,date,valid
+Republic,establishedEvent,no result
+Republic,governmentType,valid
+Republic,image,no result
+Republic,type,no result
+Republic,url,no result
+Republic,status,valid
+Republic,subdivisionType,no result
+Republic,align,no result
+Republic,birthPlace,valid
+Ideology,subject,no result
+Ideology,notableIdeas,no result
+Ideology,mainInterests,no result
+Anarchism,2y,no result
+Anarchism,1pp,no result
+Anarchism,3p,no result
+Anarchism,knownFor,no result
+Anarchism,p,no result
+Anarchism,1a,no result
+Anarchism,2p,no result
+Anarchism,laterwork,no result
+Anarchism,notableIdeas,no result
+Anarchism,genre,valid
+Anarchism,1loc,no result
+Anarchism,1y,no result
+Anarchism,commons,no result
+Anarchism,4a,no result
+Anarchism,3pp,no result
+Anarchism,5a,no result
+Anarchism,political,no result
+Anarchism,4y,no result
+Anarchism,category,no result
+Anarchism,subject,no result
+Anarchism,q,no result
+Anarchism,v,no result
+Anarchism,wikt,no result
+Anarchism,side,no result
+Anarchism,3a,no result
+Anarchism,mainInterests,no result
+Anarchism,discipline,no result
+Anarchism,3y,no result
+Anarchism,5y,no result
+Anarchism,purpose,valid
+Anarchism,schoolTradition,no result
+Anarchism,movement,no result
+Anarchism,4p,no result
+Anarchism,b,no result
+Anarchism,d,no result
+Anarchism,1p,no result
+Anarchism,5p,no result
+Anarchism,governmentType,valid
+Anarchism,6y,no result
+Anarchism,2loc,no result
+Anarchism,2a,no result
+Anarchism,6a,no result
+Anarchism,s,no result
+Anarchism,ideology,valid
+Anarchism,2pp,no result
+Anarchism,6pp,no result
+Anarchism,occupation,valid
+Anarchism,n,no result
+Capitalism,by,no result
+Capitalism,onlinebooks,no result
+Capitalism,mainInterests,no result
+Capitalism,subject,no result
+Capitalism,subjects,no result
+Capitalism,ideology,valid
+Capitalism,date,valid
+Capitalism,url,no result
+Capitalism,political,no result
+Capitalism,others,no result
+Capitalism,label,no result
+Capitalism,about,no result
+Communism,knownFor,no result
+Communism,1pp,no result
+Communism,width,valid
+Communism,group,no result
+Communism,leaderName,valid
+Communism,1a,no result
+Communism,source,no result
+Communism,name,valid
+Communism,genre,valid
+Communism,1y,no result
+Communism,political,no result
+Communism,subject,no result
+Communism,q,no result
+Communism,wikt,no result
+Communism,v,no result
+Communism,mainInterests,no result
+Communism,quote,valid
+Communism,movement,no result
+Communism,d,no result
+Communism,opponents,no result
+Communism,2a,no result
+Communism,s,no result
+Communism,subjects,no result
+Communism,ideology,valid
+Communism,mission,valid
+Communism,politicalPosition,no result
+Communism,align,no result
+Communism,auto,no result
+Conservatism,title,valid
+Conservatism,3data,no result
+Conservatism,text,no result
+Conservatism,remarks,no result
+Conservatism,format,no result
+Conservatism,subject,no result
+Conservatism,party,valid
+Conservatism,purpose,valid
+Conservatism,schoolTradition,no result
+Conservatism,ideology,valid
+Conservatism,subjects,no result
+Conservatism,theology,valid
+Conservatism,type,no result
+Conservatism,movement,no result
+Conservatism,political,no result
+Conservatism,category,no result
+Conservatism,focus,no result
+Conservatism,source,no result
+Fascism,motive,valid
+Fascism,2y,no result
+Fascism,width,valid
+Fascism,1a,no result
+Fascism,2p,no result
+Fascism,caption,no result
+Fascism,reason,no result
+Fascism,fields,no result
+Fascism,1y,no result
+Fascism,political,no result
+Fascism,subject,no result
+Fascism,direction,no result
+Fascism,3a,no result
+Fascism,mainInterests,no result
+Fascism,3y,no result
+Fascism,purpose,valid
+Fascism,date,valid
+Fascism,movement,no result
+Fascism,1p,no result
+Fascism,governmentType,valid
+Fascism,2a,no result
+Fascism,image,no result
+Fascism,subjects,no result
+Fascism,ideology,valid
+Fascism,align,no result
+Fascism,occupation,valid
+Liberalism,data,no result
+Liberalism,genre,valid
+Liberalism,party,valid
+Liberalism,commons,no result
+Liberalism,political,no result
+Liberalism,topics,no result
+Liberalism,subject,no result
+Liberalism,q,no result
+Liberalism,wikt,no result
+Liberalism,v,no result
+Liberalism,side,no result
+Liberalism,mainInterests,no result
+Liberalism,commonsSearch,no result
+Liberalism,sSearch,no result
+Liberalism,purpose,valid
+Liberalism,schoolTradition,no result
+Liberalism,movement,no result
+Liberalism,b,no result
+Liberalism,d,no result
+Liberalism,dSearch,no result
+Liberalism,governmentType,valid
+Liberalism,s,no result
+Liberalism,subjects,no result
+Liberalism,ideology,valid
+Liberalism,afterParty,no result
+Liberalism,politicalPosition,no result
+Liberalism,beforeParty,no result
+Marxism,2y,no result
+Marxism,1pp,no result
+Marxism,species,valid
+Marxism,width,valid
+Marxism,sign,no result
+Marxism,bgcolor,no result
+Marxism,1a,no result
+Marxism,source,no result
+Marxism,voy,no result
+Marxism,genre,valid
+Marxism,fields,no result
+Marxism,1y,no result
+Marxism,political,no result
+Marxism,category,no result
+Marxism,subject,no result
+Marxism,v,no result
+Marxism,wikt,no result
+Marxism,mainInterests,no result
+Marxism,m,no result
+Marxism,text,no result
+Marxism,discipline,no result
+Marxism,quote,valid
+Marxism,purpose,valid
+Marxism,mw,no result
+Marxism,schoolTradition,no result
+Marxism,movement,no result
+Marxism,occupation,valid
+Marxism,c,no result
+Marxism,influences,no result
+Marxism,b,no result
+Marxism,d,no result
+Marxism,by,no result
+Marxism,onlinebooks,no result
+Marxism,subDiscipline,no result
+Marxism,wikititle,no result
+Marxism,2a,no result
+Marxism,s,no result
+Marxism,subjects,no result
+Marxism,ideology,valid
+Marxism,2pp,no result
+Marxism,align,no result
+Marxism,about,no result
+Marxism,n,no result
+Nationalism,perps,no result
+Nationalism,mainInterests,no result
+Nationalism,genre,valid
+Nationalism,discipline,no result
+Nationalism,fields,no result
+Nationalism,knownFor,no result
+Nationalism,subDiscipline,no result
+Nationalism,purpose,valid
+Nationalism,subjects,no result
+Nationalism,schoolTradition,no result
+Nationalism,ideology,valid
+Nationalism,type,no result
+Nationalism,movement,no result
+Nationalism,political,no result
+Nationalism,topics,no result
+Nationalism,field,no result
+Nationalism,subject,no result
+Socialism,footer,no result
+Socialism,2y,no result
+Socialism,knownFor,no result
+Socialism,width,valid
+Socialism,predecessor,no result
+Socialism,bgcolor,no result
+Socialism,1a,no result
+Socialism,focus,no result
+Socialism,2p,no result
+Socialism,fields,no result
+Socialism,1y,no result
+Socialism,author,valid
+Socialism,commons,no result
+Socialism,portal,no result
+Socialism,political,no result
+Socialism,category,no result
+Socialism,subject,no result
+Socialism,q,no result
+Socialism,wikt,no result
+Socialism,mainInterests,no result
+Socialism,commonsSearch,no result
+Socialism,sSearch,no result
+Socialism,discipline,no result
+Socialism,motto,valid
+Socialism,quote,valid
+Socialism,schoolTradition,no result
+Socialism,date,valid
+Socialism,totalWidth,no result
+Socialism,movement,no result
+Socialism,b,no result
+Socialism,d,no result
+Socialism,dSearch,no result
+Socialism,orgType,no result
+Socialism,1p,no result
+Socialism,perrow,no result
+Socialism,2a,no result
+Socialism,image,no result
+Socialism,s,no result
+Socialism,subjects,no result
+Socialism,ideology,valid
+Socialism,type,no result
+Socialism,url,no result
+Socialism,align,no result
+Imperialism,motive,valid
+Imperialism,mainInterests,no result
+Imperialism,fields,no result
+Imperialism,opposed,no result
+Imperialism,ideology,valid
+Imperialism,era,no result
+Imperialism,subject,no result
+Political party,eci,no result
+Political party,partyLabel,no result
+Political party,predecessor,no result
+Political party,leaderTitle,valid
+Political party,nominator,no result
+Propaganda,align,no result
+Propaganda,footer,no result
+Propaganda,knownFor,no result
+Propaganda,width,valid
+Propaganda,networkType,no result
+Propaganda,reason,no result
+Propaganda,genre,valid
+Propaganda,methods,no result
+Propaganda,category,no result
+Propaganda,subject,no result
+Propaganda,jurisdiction,no result
+Propaganda,mainInterests,no result
+Propaganda,date,valid
+Propaganda,theme,no result
+Propaganda,image,no result
+Propaganda,type,no result
+Propaganda,format,no result
+Propaganda,occupation,valid
+Propaganda,content,no result
+Economics,activitySector,no result
+Economics,talk,no result
+Economics,knownFor,no result
+Economics,skills,no result
+Economics,industry,no result
+Economics,focus,no result
+Economics,competencies,no result
+Economics,reason,no result
+Economics,genre,valid
+Economics,fields,no result
+Economics,researchField,no result
+Economics,vp,no result
+Economics,topics,no result
+Economics,category,no result
+Economics,almaMater,valid
+Economics,subject,no result
+Economics,education,no result
+Economics,mainInterests,no result
+Economics,discipline,no result
+Economics,scope,no result
+Economics,schoolTradition,no result
+Economics,date,valid
+Economics,occupation,valid
+Economics,profession,no result
+Economics,others,no result
+Economics,label,no result
+Economics,by,no result
+Economics,onlinebooks,no result
+Economics,subDiscipline,no result
+Economics,subjects,no result
+Economics,type,no result
+Economics,skillsTested,no result
+Economics,url,no result
+Economics,faculty,no result
+Economics,field,no result
+Economics,about,no result
+Currency,blank7Name,no result
+Currency,blank3NameSec,no result
+Currency,blank1NameSec,no result
+Currency,symbols,no result
+Currency,blankNameSec,no result
+Currency,content,no result
+Euro,banknoteArticle,no result
+Euro,footer,no result
+Euro,peggedBy,no result
+Euro,rarelyUsedBanknotes,no result
+Euro,width,valid
+Euro,replacedByCurrency,no result
+Euro,frequentlyUsedCoins,no result
+Euro,plural,no result
+Euro,usingCountries,no result
+Euro,data,no result
+Euro,inflationSourceDate,no result
+Euro,nickname,no result
+Euro,subunitInlineNote,no result
+Euro,name,valid
+Euro,coinArticle,no result
+Euro,issuingAuthority,no result
+Euro,inflationMethod,no result
+Euro,blank2Info,no result
+Euro,imageTitle,no result
+Euro,direction,no result
+Euro,revenue,valid
+Euro,symbol,valid
+Euro,rarelyUsedCoins,no result
+Euro,unit,no result
+Euro,isoCode,valid
+Euro,imageWidth,no result
+Euro,printer,no result
+Euro,after,no result
+Euro,blank1Info,no result
+Euro,mint,no result
+Euro,currency,valid
+Euro,inflationRate,no result
+Euro,pluralSubunit,no result
+Euro,image,no result
+Euro,footerAlign,no result
+Euro,peggedWith,no result
+Euro,subunitName,no result
+Euro,symbolSubunit,no result
+Euro,align,no result
+Euro,frequentlyUsedBanknotes,no result
+United States dollar,banknoteArticle,no result
+United States dollar,peggedBy,no result
+United States dollar,rarelyUsedBanknotes,no result
+United States dollar,width,valid
+United States dollar,right,no result
+United States dollar,replacedByCurrency,no result
+United States dollar,frequentlyUsedCoins,no result
+United States dollar,usingCountries,no result
+United States dollar,inflationSourceDate,no result
+United States dollar,nickname,no result
+United States dollar,constructionCost,no result
+United States dollar,caption,no result
+United States dollar,coinArticle,no result
+United States dollar,issuingAuthority,no result
+United States dollar,inflationMethod,no result
+United States dollar,superunitRatio,no result
+United States dollar,imageTitle,no result
+United States dollar,isoNumber,no result
+United States dollar,isoExponent,no result
+United States dollar,superunitName,no result
+United States dollar,revenue,valid
+United States dollar,symbol,valid
+United States dollar,rarelyUsedCoins,no result
+United States dollar,earnings,no result
+United States dollar,currencyName,no result
+United States dollar,date,valid
+United States dollar,unit,no result
+United States dollar,estimatedValue,no result
+United States dollar,isoCode,valid
+United States dollar,dateOfIntroduction,no result
+United States dollar,printer,no result
+United States dollar,blankInfoSec,no result
+United States dollar,mint,no result
+United States dollar,currency,valid
+United States dollar,inflationRate,no result
+United States dollar,replacedCurrency,no result
+United States dollar,image,no result
+United States dollar,peggedWith,no result
+United States dollar,url,no result
+United States dollar,subunitName,no result
+United States dollar,symbolSubunit,no result
+United States dollar,align,no result
+United States dollar,frequentlyUsedBanknotes,no result
+United States dollar,purse,no result
+Industrial sector,knownFor,no result
+Industrial sector,genre,valid
+Industrial sector,employmentField,no result
+Industrial sector,industry,no result
+Industrial sector,type,no result
+Industrial sector,products,no result
+Industrial sector,sectors,no result
+Industrial sector,occupations,no result
+Money,reason,no result
+Money,currency,valid
+Money,equity,valid
+Money,date,valid
+Money,subject,no result
+Tax,by,no result
+Tax,onlinebooks,no result
+Tax,knownFor,no result
+Tax,label,no result
+Tax,width,valid
+Tax,quote,valid
+Tax,services,no result
+Tax,industry,no result
+Tax,products,no result
+Tax,others,no result
+Tax,category,no result
+Tax,align,no result
+Tax,about,no result
+Trade,category,no result
+Trade,genre,valid
+Trade,knownFor,no result
+Trade,skills,no result
+Trade,services,no result
+Trade,industry,no result
+Trade,subjects,no result
+Trade,keywords,no result
+Trade,products,no result
+Trade,type,no result
+Trade,data,no result
+Trade,occupation,valid
+Trade,field,no result
+Trade,methods,no result
+Law,activitySector,no result
+Law,knownFor,no result
+Law,width,valid
+Law,industry,no result
+Law,areaServed,no result
+Law,bgcolor,no result
+Law,focus,no result
+Law,source,no result
+Law,competencies,no result
+Law,laterwork,no result
+Law,genre,valid
+Law,fields,no result
+Law,topics,no result
+Law,category,no result
+Law,almaMater,valid
+Law,subject,no result
+Law,education,no result
+Law,disciplines,no result
+Law,salign,no result
+Law,mainInterests,no result
+Law,discipline,no result
+Law,quote,valid
+Law,date,valid
+Law,profession,no result
+Law,title,valid
+Law,subjects,no result
+Law,url,no result
+Law,field,no result
+Law,format,no result
+Law,occupation,valid
+Law,distinctions,no result
+Constitution,text,no result
+Constitution,shipNamesake,no result
+Constitution,governmentType,valid
+Constitution,purpose,valid
+Constitution,keywords,no result
+Constitution,mediaType,no result
+Constitution,formation,no result
+African Union,gdpNominal,no result
+African Union,languages,no result
+African Union,membership,valid
+African Union,footnotes,no result
+African Union,gdpPpp,no result
+African Union,conventionalLongName,no result
+African Union,officialWebsite,no result
+African Union,leaderName,valid
+African Union,affiliations,no result
+African Union,legislature,valid
+African Union,demonym,valid
+African Union,altFlag,no result
+African Union,altMap,no result
+African Union,gdpPppPerCapita,no result
+African Union,imageMap,no result
+African Union,hdiYear,no result
+African Union,membershipType,no result
+African Union,populationEstimateYear,no result
+African Union,reason,no result
+African Union,voy,no result
+African Union,office,valid
+African Union,gdpNominalYear,no result
+African Union,linkingName,no result
+African Union,combatant,valid
+African Union,nation,valid
+African Union,parentOrganization,no result
+African Union,battles,no result
+African Union,symbolType,no result
+African Union,imageFlag,no result
+African Union,q,no result
+African Union,adminCenterType,no result
+African Union,largestSettlement,valid
+African Union,v,no result
+African Union,populationEstimate,no result
+African Union,organs,no result
+African Union,motto,valid
+African Union,m,no result
+African Union,establishedDate,no result
+African Union,mw,no result
+African Union,allegiance,valid
+African Union,size,no result
+African Union,date,valid
+African Union,n,no result
+African Union,areaKm,no result
+African Union,mapWidth,no result
+African Union,leaderTitle,valid
+African Union,gdpPppYear,no result
+African Union,b,no result
+African Union,d,no result
+African Union,presenter,valid
+African Union,hdi,no result
+African Union,establishedEvent,no result
+African Union,anthem,valid
+African Union,orgType,no result
+African Union,symbolWidth,no result
+African Union,title,valid
+African Union,adminCenter,no result
+African Union,issuingOffice,no result
+African Union,s,no result
+African Union,largestSettlementType,no result
+African Union,languagesType,no result
+African Union,align,no result
+African Union,cctld,no result
+African Union,c,no result
+African Union,gdpNominalPerCapita,no result
+African Union,imageSymbol,no result
+Arab League,gdpNominal,no result
+Arab League,footnoteA,no result
+Arab League,utcOffset,valid
+Arab League,membership,valid
+Arab League,areaLabel,no result
+Arab League,populationDensityKm,no result
+Arab League,populationEstimateRank,no result
+Arab League,conventionalLongName,no result
+Arab League,data,no result
+Arab League,officialWebsite,no result
+Arab League,leaderName,valid
+Arab League,areaRank,valid
+Arab League,legislature,valid
+Arab League,demonym,valid
+Arab League,imageMap,no result
+Arab League,membershipType,no result
+Arab League,populationEstimateYear,no result
+Arab League,gdpNominalRank,no result
+Arab League,today,no result
+Arab League,owner,valid
+Arab League,gdpNominalYear,no result
+Arab League,linkingName,no result
+Arab League,dependencies,no result
+Arab League,nation,valid
+Arab League,symbolType,no result
+Arab League,imageFlag,no result
+Arab League,organs,no result
+Arab League,adminCenterType,no result
+Arab League,populationEstimate,no result
+Arab League,areaSqMi,no result
+Arab League,establishedDate,no result
+Arab League,regionServed,valid
+Arab League,founder,valid
+Arab League,areaKm,no result
+Arab League,mapWidth,no result
+Arab League,leaderTitle,valid
+Arab League,establishedEvent,no result
+Arab League,orgType,no result
+Arab League,adminCenter,no result
+Arab League,footnoteB,no result
+Arab League,populationDensitySqMi,no result
+Arab League,officialLanguages,no result
+Arab League,mapCaption,valid
+Arab League,gdpNominalPerCapita,no result
+Arab League,imageSymbol,no result
+ASEAN,gdpNominal,no result
+ASEAN,languages,no result
+ASEAN,utcOffset,valid
+ASEAN,membership,valid
+ASEAN,gdpPpp,no result
+ASEAN,populationDensityKm,no result
+ASEAN,leaderName,valid
+ASEAN,imageMap,no result
+ASEAN,gdpPppPerCapita,no result
+ASEAN,hdiYear,no result
+ASEAN,name,valid
+ASEAN,populationEstimateYear,no result
+ASEAN,gdpNominalYear,no result
+ASEAN,linkingName,no result
+ASEAN,country,valid
+ASEAN,parentOrganization,no result
+ASEAN,hdiChange,no result
+ASEAN,symbolType,no result
+ASEAN,imageFlag,no result
+ASEAN,organs,no result
+ASEAN,adminCenterType,no result
+ASEAN,otherSymbol,no result
+ASEAN,populationEstimate,no result
+ASEAN,areaSqMi,no result
+ASEAN,motto,valid
+ASEAN,academicAffiliation,no result
+ASEAN,establishedDate,no result
+ASEAN,regionServed,valid
+ASEAN,date,valid
+ASEAN,areaKm,no result
+ASEAN,mapWidth,no result
+ASEAN,leaderTitle,valid
+ASEAN,gdpPppYear,no result
+ASEAN,hdi,no result
+ASEAN,establishedEvent,no result
+ASEAN,anthem,valid
+ASEAN,timeZone,no result
+ASEAN,languages2Type,no result
+ASEAN,title,valid
+ASEAN,adminCenter,no result
+ASEAN,participants,no result
+ASEAN,academicAffiliations,no result
+ASEAN,url,no result
+ASEAN,otherSymbolType,no result
+ASEAN,languagesType,no result
+ASEAN,populationDensitySqMi,no result
+ASEAN,largestCity,valid
+ASEAN,mapCaption,valid
+ASEAN,gdpNominalPerCapita,no result
+ASEAN,imageSymbol,no result
+Commonwealth of Nations,languages,no result
+Commonwealth of Nations,membership,valid
+Commonwealth of Nations,byCountry,no result
+Commonwealth of Nations,observedby,no result
+Commonwealth of Nations,populationDensityKm,no result
+Commonwealth of Nations,areaServed,no result
+Commonwealth of Nations,officialWebsite,no result
+Commonwealth of Nations,imageMapSize,no result
+Commonwealth of Nations,leaderName,valid
+Commonwealth of Nations,usedBy,no result
+Commonwealth of Nations,imageMap,no result
+Commonwealth of Nations,region,valid
+Commonwealth of Nations,caption,no result
+Commonwealth of Nations,membershipType,no result
+Commonwealth of Nations,name,valid
+Commonwealth of Nations,populationEstimateYear,no result
+Commonwealth of Nations,reason,no result
+Commonwealth of Nations,linkingName,no result
+Commonwealth of Nations,country,valid
+Commonwealth of Nations,symbolType,no result
+Commonwealth of Nations,imageFlag,no result
+Commonwealth of Nations,organs,no result
+Commonwealth of Nations,adminCenterType,no result
+Commonwealth of Nations,populationEstimate,no result
+Commonwealth of Nations,areaSqMi,no result
+Commonwealth of Nations,jurisdiction,no result
+Commonwealth of Nations,parentOrganisation,valid
+Commonwealth of Nations,workplaces,no result
+Commonwealth of Nations,establishedDate,no result
+Commonwealth of Nations,regionServed,valid
+Commonwealth of Nations,date,valid
+Commonwealth of Nations,areaKm,no result
+Commonwealth of Nations,leaderTitle,valid
+Commonwealth of Nations,presenter,valid
+Commonwealth of Nations,establishedEvent,no result
+Commonwealth of Nations,orgType,no result
+Commonwealth of Nations,symbolWidth,no result
+Commonwealth of Nations,title,valid
+Commonwealth of Nations,adminCenter,no result
+Commonwealth of Nations,ideology,valid
+Commonwealth of Nations,url,no result
+Commonwealth of Nations,languagesType,no result
+Commonwealth of Nations,populationDensitySqMi,no result
+Commonwealth of Nations,mapCaption,valid
+Commonwealth of Nations,imageSymbol,no result
+European Union,utcOffset,valid
+European Union,membership,valid
+European Union,observedby,no result
+European Union,territorialExtent,no result
+European Union,commonName,valid
+European Union,populationDensityKm,no result
+European Union,conventionalLongName,no result
+European Union,affiliations,no result
+European Union,populationEstimateYear,no result
+European Union,gdpNominalYear,no result
+European Union,religionYear,no result
+European Union,commons,no result
+European Union,country,valid
+European Union,imageFlag,no result
+European Union,left,no result
+European Union,adminCenterType,no result
+European Union,largestSettlement,valid
+European Union,q,no result
+European Union,availability,no result
+European Union,organisers,no result
+European Union,alt,no result
+European Union,leaderTitle,valid
+European Union,gdpPppYear,no result
+European Union,title,valid
+European Union,participants,no result
+European Union,sovereigntyType,no result
+European Union,type,no result
+European Union,edition,no result
+European Union,utcOffsetDst,no result
+European Union,officialLanguages,no result
+European Union,cctld,no result
+European Union,gini,no result
+European Union,nationalAnthem,no result
+European Union,copyright,no result
+European Union,knownFor,no result
+European Union,relatedto,no result
+European Union,gdpPpp,no result
+European Union,areaServed,no result
+European Union,giniChange,no result
+European Union,legislature,valid
+European Union,publisher,valid
+European Union,name,valid
+European Union,designatedAsTerrorGroupBy,no result
+European Union,percentWater,no result
+European Union,possessions,no result
+European Union,nation,valid
+European Union,organs,no result
+European Union,parentOrganisation,valid
+European Union,upperHouse,no result
+European Union,giniYear,no result
+European Union,locationCountry,valid
+European Union,orgType,no result
+European Union,adminCenter,no result
+European Union,governmentType,valid
+European Union,nationalOrigin,no result
+European Union,image,no result
+European Union,largestSettlementType,no result
+European Union,keywords,no result
+European Union,align,no result
+European Union,languages,no result
+European Union,right,no result
+European Union,markets,no result
+European Union,areaLabel,no result
+European Union,areaOfLaw,no result
+European Union,englishmotto,no result
+European Union,data,no result
+European Union,demonym,valid
+European Union,region,valid
+European Union,area,valid
+European Union,voy,no result
+European Union,micronation,no result
+European Union,linkingName,no result
+European Union,flagBorder,valid
+European Union,partners,no result
+European Union,id,valid
+European Union,direction,no result
+European Union,jurisdiction,no result
+European Union,fundingAgency,no result
+European Union,parent,valid
+European Union,regionServed,valid
+European Union,value,valid
+European Union,territory,valid
+European Union,timeZone,no result
+European Union,currency,valid
+European Union,float,no result
+European Union,agency,no result
+European Union,populationDensitySqMi,no result
+European Union,timeZoneDst,no result
+European Union,gdpNominalPerCapita,no result
+European Union,gdpNominal,no result
+European Union,religion,no result
+European Union,areasServed,no result
+European Union,polity,no result
+European Union,leaderName,valid
+European Union,color,no result
+European Union,altFlag,no result
+European Union,altMap,no result
+European Union,gdpPppPerCapita,no result
+European Union,caption,no result
+European Union,headquarters,no result
+European Union,today,no result
+European Union,owner,valid
+European Union,holder,no result
+European Union,nationality,valid
+European Union,parentOrganization,no result
+European Union,subject,no result
+European Union,location,valid
+European Union,establishedDate,no result
+European Union,lowerHouse,no result
+European Union,n,no result
+European Union,areaKm,no result
+European Union,signatories,no result
+European Union,label,no result
+European Union,establishedEvent,no result
+European Union,parties,no result
+European Union,origin,valid
+European Union,s,no result
+European Union,languagesType,no result
+European Union,populationEstimate,no result
+International Red Cross and Red Crescent Movement,membership,valid
+International Red Cross and Red Crescent Movement,areaServed,no result
+International Red Cross and Red Crescent Movement,awards,no result
+International Red Cross and Red Crescent Movement,focus,no result
+International Red Cross and Red Crescent Movement,logoAlt,no result
+International Red Cross and Red Crescent Movement,affiliations,no result
+International Red Cross and Red Crescent Movement,numVolunteers,no result
+International Red Cross and Red Crescent Movement,caption,no result
+International Red Cross and Red Crescent Movement,laterwork,no result
+International Red Cross and Red Crescent Movement,name,valid
+International Red Cross and Red Crescent Movement,imageSize,valid
+International Red Cross and Red Crescent Movement,method,no result
+International Red Cross and Red Crescent Movement,parentOrganization,no result
+International Red Cross and Red Crescent Movement,logo,valid
+International Red Cross and Red Crescent Movement,motto,valid
+International Red Cross and Red Crescent Movement,numEmployees,no result
+International Red Cross and Red Crescent Movement,location,valid
+International Red Cross and Red Crescent Movement,workplaces,no result
+International Red Cross and Red Crescent Movement,alt,no result
+International Red Cross and Red Crescent Movement,mapAlt,no result
+International Red Cross and Red Crescent Movement,abbreviation,valid
+International Red Cross and Red Crescent Movement,origins,no result
+International Red Cross and Red Crescent Movement,keyPeople,no result
+International Red Cross and Red Crescent Movement,type,no result
+International Red Cross and Red Crescent Movement,logoCaption,no result
+International Red Cross and Red Crescent Movement,mapCaption,valid
+NATO,commandStructure,valid
+NATO,membership,valid
+NATO,perps,no result
+NATO,nativeName,no result
+NATO,sponsor,no result
+NATO,awards,no result
+NATO,organization,no result
+NATO,alliances,no result
+NATO,leaderName,valid
+NATO,moreUsers,no result
+NATO,shipOwner,no result
+NATO,headquarters,no result
+NATO,ownership,no result
+NATO,caption,no result
+NATO,publisher,valid
+NATO,name,valid
+NATO,office,valid
+NATO,owner,valid
+NATO,imageSize,valid
+NATO,branch,no result
+NATO,nation,valid
+NATO,country,valid
+NATO,parentOrganization,no result
+NATO,logo,valid
+NATO,agenciesaffected,no result
+NATO,issuer,no result
+NATO,v,no result
+NATO,commands,no result
+NATO,operator,no result
+NATO,find,no result
+NATO,manuf,no result
+NATO,language,valid
+NATO,logoSize,no result
+NATO,cs1Dates,no result
+NATO,allegiance,valid
+NATO,date,valid
+NATO,leaderTitle,valid
+NATO,abbreviation,valid
+NATO,b,no result
+NATO,d,no result
+NATO,title,valid
+NATO,department,valid
+NATO,establishedEvent,no result
+NATO,executedBy,no result
+NATO,s,no result
+NATO,instigator,no result
+NATO,type,no result
+NATO,logoCaption,no result
+NATO,ideology,valid
+NATO,workInstitution,no result
+NATO,expensesYear,no result
+NATO,mcaption,no result
+NATO,msize,no result
+NATO,originalSignatories,no result
+NATO,formation,no result
+Nobel Prize,documenturl,no result
+Nobel Prize,footer,no result
+Nobel Prize,width,valid
+Nobel Prize,holderLabel,no result
+Nobel Prize,awards,no result
+Nobel Prize,website,no result
+Nobel Prize,colwidth,no result
+Nobel Prize,awardedFor,no result
+Nobel Prize,source,no result
+Nobel Prize,caption,no result
+Nobel Prize,publisher,valid
+Nobel Prize,name,valid
+Nobel Prize,licenseStatementUrl,no result
+Nobel Prize,headerAlign,no result
+Nobel Prize,holder,no result
+Nobel Prize,author,valid
+Nobel Prize,country,valid
+Nobel Prize,license,no result
+Nobel Prize,subject,no result
+Nobel Prize,direction,no result
+Nobel Prize,year,valid
+Nobel Prize,alt,no result
+Nobel Prize,small,no result
+Nobel Prize,pageNumbers,no result
+Nobel Prize,expiry,no result
+Nobel Prize,presenter,valid
+Nobel Prize,reward,no result
+Nobel Prize,title,valid
+Nobel Prize,image,no result
+Nobel Prize,align,no result
+OPEC,languages,no result
+OPEC,membership,valid
+OPEC,conventionalLongName,no result
+OPEC,leaderName,valid
+OPEC,imageMap,no result
+OPEC,caption,no result
+OPEC,membershipType,no result
+OPEC,imageMapCaption,no result
+OPEC,established,valid
+OPEC,target,no result
+OPEC,organs,no result
+OPEC,imageFlag,no result
+OPEC,adminCenterType,no result
+OPEC,leaderTitle,valid
+OPEC,establishedEvent,no result
+OPEC,currency,valid
+OPEC,orgType,no result
+OPEC,adminCenter,no result
+OPEC,languagesType,no result
+OPEC,align,no result
+OPEC,officialWebsite,no result
+OPEC,content,no result
+United Nations,organizer,no result
+United Nations,membership,valid
+United Nations,observedby,no result
+United Nations,affiliations,no result
+United Nations,imageMap,no result
+United Nations,laterwork,no result
+United Nations,office,valid
+United Nations,affiliation,valid
+United Nations,commons,no result
+United Nations,currentTenants,no result
+United Nations,country,valid
+United Nations,frTotalPopulationEstimateYear,no result
+United Nations,workInstitutions,no result
+United Nations,imageFlag,no result
+United Nations,q,no result
+United Nations,adminCenterType,no result
+United Nations,workplaces,no result
+United Nations,founder,valid
+United Nations,unit,no result
+United Nations,leaderTitle,valid
+United Nations,title,valid
+United Nations,department,valid
+United Nations,participants,no result
+United Nations,officialWebsite,no result
+United Nations,imageSymbol,no result
+United Nations,knownFor,no result
+United Nations,relatedto,no result
+United Nations,sponsor,no result
+United Nations,employer,valid
+United Nations,focus,no result
+United Nations,publisher,valid
+United Nations,name,valid
+United Nations,designatedAsTerrorGroupBy,no result
+United Nations,institutions,no result
+United Nations,nation,valid
+United Nations,symbolType,no result
+United Nations,order,no result
+United Nations,organs,no result
+United Nations,wikt,no result
+United Nations,commands,no result
+United Nations,landmarks,no result
+United Nations,locationCountry,valid
+United Nations,producer,valid
+United Nations,origins,no result
+United Nations,orgType,no result
+United Nations,assembly,no result
+United Nations,adminCenter,no result
+United Nations,display,no result
+United Nations,languages,no result
+United Nations,data,no result
+United Nations,voy,no result
+United Nations,organizers,no result
+United Nations,labelType,no result
+United Nations,event,valid
+United Nations,linkingName,no result
+United Nations,frTotalPopulationEstimate,no result
+United Nations,eventEnd,no result
+United Nations,venues,no result
+United Nations,depositor,no result
+United Nations,place,valid
+United Nations,celebrations,no result
+United Nations,allegiance,valid
+United Nations,parent,valid
+United Nations,d,no result
+United Nations,float,no result
+United Nations,dataType,no result
+United Nations,occupation,valid
+United Nations,p,no result
+United Nations,numLocations,no result
+United Nations,species,valid
+United Nations,awards,no result
+United Nations,organization,no result
+United Nations,alliances,no result
+United Nations,leaderName,valid
+United Nations,usedBy,no result
+United Nations,dataMax,no result
+United Nations,governingBody,valid
+United Nations,institution,valid
+United Nations,owner,valid
+United Nations,imageMapCaption,no result
+United Nations,parentOrganization,no result
+United Nations,almaMater,valid
+United Nations,agenciesaffected,no result
+United Nations,barWidth,no result
+United Nations,establishedDate,no result
+United Nations,label,no result
+United Nations,establishedEvent,no result
+United Nations,distributor,valid
+United Nations,workInstitution,no result
+United Nations,languagesType,no result
+International Court of Justice,nativeName,no result
+International Court of Justice,website,no result
+International Court of Justice,caption,no result
+International Court of Justice,office,valid
+International Court of Justice,imagesize,no result
+International Court of Justice,termstart,no result
+International Court of Justice,court,no result
+International Court of Justice,authority,no result
+International Court of Justice,chiefjudgetitle,no result
+International Court of Justice,established,valid
+International Court of Justice,coordinates,no result
+International Court of Justice,heading,no result
+International Court of Justice,jurisdiction,no result
+International Court of Justice,location,valid
+International Court of Justice,chiefjudgename,no result
+International Court of Justice,positions,no result
+International Court of Justice,image,no result
+International Court of Justice,terms,no result
+International Court of Justice,courtName,no result
+International Monetary Fund,numStaff,no result
+International Monetary Fund,membership,valid
+International Monetary Fund,ta,no result
+International Monetary Fund,usingCountries,no result
+International Monetary Fund,website,no result
+International Monetary Fund,employer,valid
+International Monetary Fund,leaderName,valid
+International Monetary Fund,affiliations,no result
+International Monetary Fund,headquarters,no result
+International Monetary Fund,region,valid
+International Monetary Fund,caption,no result
+International Monetary Fund,publisher,valid
+International Monetary Fund,office,valid
+International Monetary Fund,institution,valid
+International Monetary Fund,logo,valid
+International Monetary Fund,agenciesaffected,no result
+International Monetary Fund,workInstitutions,no result
+International Monetary Fund,organs,no result
+International Monetary Fund,bg,no result
+International Monetary Fund,language,valid
+International Monetary Fund,budgetYear,valid
+International Monetary Fund,workplaces,no result
+International Monetary Fund,purpose,valid
+International Monetary Fund,date,valid
+International Monetary Fund,occupation,valid
+International Monetary Fund,leaderTitle,valid
+International Monetary Fund,abbreviation,valid
+International Monetary Fund,title,valid
+International Monetary Fund,participants,no result
+International Monetary Fund,type,no result
+International Monetary Fund,budget,valid
+International Monetary Fund,url,no result
+International Monetary Fund,boards,no result
+International Monetary Fund,border,valid
+International Monetary Fund,mainOrgan,no result
+International Monetary Fund,formation,no result
+UNESCO,startedby,no result
+UNESCO,designated,no result
+UNESCO,sponsor,no result
+UNESCO,organization,no result
+UNESCO,website,no result
+UNESCO,employer,valid
+UNESCO,leaderName,valid
+UNESCO,affiliations,no result
+UNESCO,patron,valid
+UNESCO,headquarters,no result
+UNESCO,source,no result
+UNESCO,name,valid
+UNESCO,governingBody,valid
+UNESCO,office,valid
+UNESCO,affiliation,valid
+UNESCO,author,valid
+UNESCO,imageSize,valid
+UNESCO,award,valid
+UNESCO,depositor,no result
+UNESCO,parentOrganization,no result
+UNESCO,workInstitutions,no result
+UNESCO,celebrations,no result
+UNESCO,workplaces,no result
+UNESCO,administrator,valid
+UNESCO,leaderTitle,valid
+UNESCO,heritageDesignation,no result
+UNESCO,museum,valid
+UNESCO,abbreviation,valid
+UNESCO,producer,valid
+UNESCO,presenter,valid
+UNESCO,title,valid
+UNESCO,presentingOrg,no result
+UNESCO,academicAffiliations,no result
+UNESCO,type,no result
+UNESCO,status,valid
+UNESCO,accreditation,no result
+UNESCO,developer,valid
+UNESCO,formation,no result
+World Health Organization,organizer,no result
+World Health Organization,membership,valid
+World Health Organization,footnotes,no result
+World Health Organization,notableWorks,no result
+World Health Organization,awards,no result
+World Health Organization,website,no result
+World Health Organization,organization,no result
+World Health Organization,employer,valid
+World Health Organization,leaderName,valid
+World Health Organization,affiliations,no result
+World Health Organization,headquarters,no result
+World Health Organization,source,no result
+World Health Organization,caption,no result
+World Health Organization,publisher,valid
+World Health Organization,name,valid
+World Health Organization,office,valid
+World Health Organization,affiliation,valid
+World Health Organization,parentOrganization,no result
+World Health Organization,logo,valid
+World Health Organization,workInstitutions,no result
+World Health Organization,logoSize,no result
+World Health Organization,workplaces,no result
+World Health Organization,leaderTitle,valid
+World Health Organization,abbreviation,valid
+World Health Organization,title,valid
+World Health Organization,commonscat,no result
+World Health Organization,academicAffiliations,no result
+World Health Organization,type,no result
+World Health Organization,standards,no result
+World Health Organization,workInstitution,no result
+World Health Organization,budget,valid
+World Health Organization,pronounce,no result
+World Health Organization,status,valid
+World Health Organization,accreditation,no result
+World Health Organization,collapsible,no result
+World Health Organization,auto,no result
+World Health Organization,formation,no result
+World Bank,membership,valid
+World Bank,organization,no result
+World Bank,website,no result
+World Bank,employer,valid
+World Bank,affiliations,no result
+World Bank,headquarters,no result
+World Bank,source,no result
+World Bank,caption,no result
+World Bank,publisher,valid
+World Bank,name,valid
+World Bank,office,valid
+World Bank,institution,valid
+World Bank,owner,valid
+World Bank,parentAgency,no result
+World Bank,parentOrganization,no result
+World Bank,partners,no result
+World Bank,workInstitutions,no result
+World Bank,organs,no result
+World Bank,motto,valid
+World Bank,workplaces,no result
+World Bank,founder,valid
+World Bank,title,valid
+World Bank,participants,no result
+World Bank,keyPeople,no result
+World Bank,workInstitution,no result
+World Bank,type,no result
+World Bank,status,valid
+World Trade Organization,languages,no result
+World Trade Organization,numStaff,no result
+World Trade Organization,membership,valid
+World Trade Organization,knownFor,no result
+World Trade Organization,nativeName,no result
+World Trade Organization,website,no result
+World Trade Organization,leaderName,valid
+World Trade Organization,affiliations,no result
+World Trade Organization,headquarters,no result
+World Trade Organization,name,valid
+World Trade Organization,author,valid
+World Trade Organization,nation,valid
+World Trade Organization,depositor,no result
+World Trade Organization,parentOrganization,no result
+World Trade Organization,organs,no result
+World Trade Organization,purpose,valid
+World Trade Organization,regionServed,valid
+World Trade Organization,leaderTitle,valid
+World Trade Organization,department,valid
+World Trade Organization,title,valid
+World Trade Organization,participants,no result
+World Trade Organization,type,no result
+World Trade Organization,budget,valid
+World Trade Organization,mcaption,no result
+World Trade Organization,formation,no result
+Military,activitySector,no result
+Military,knownFor,no result
+Military,industry,no result
+Military,widthUnits,no result
+Military,wing2Title,no result
+Military,areaServed,no result
+Military,data,no result
+Military,agencyType,no result
+Military,moreUsers,no result
+Military,healthcare,no result
+Military,dataMax,no result
+Military,eligibility,no result
+Military,genre,valid
+Military,employmentField,no result
+Military,party,valid
+Military,branch,no result
+Military,products,no result
+Military,category,no result
+Military,subject,no result
+Military,barWidth,no result
+Military,minister1Party,no result
+Military,mainInterests,no result
+Military,discipline,no result
+Military,role,valid
+Military,profession,no result
+Military,wing1Title,no result
+Military,label,no result
+Military,title,valid
+Military,float,no result
+Military,type,no result
+Military,keywords,no result
+Military,afterParty,no result
+Military,beforeParty,no result
+Military,buildingType,no result
+Military,occupation,valid
+Peace,causes,no result
+Peace,mainInterests,no result
+Peace,motto,valid
+Peace,subject,no result
+Peace,purpose,valid
+Peace,date,valid
+Peace,url,no result
+Peace,focus,no result
+Peace,meaning,valid
+Terrorism,cite,no result
+Terrorism,motive,valid
+Terrorism,knownFor,no result
+Terrorism,focus,no result
+Terrorism,reason,no result
+Terrorism,charge,no result
+Terrorism,genre,valid
+Terrorism,fields,no result
+Terrorism,criminalCharge,valid
+Terrorism,subject,no result
+Terrorism,mainInterests,no result
+Terrorism,text,no result
+Terrorism,discipline,no result
+Terrorism,conviction,no result
+Terrorism,charges,no result
+Terrorism,purpose,valid
+Terrorism,date,valid
+Terrorism,crimes,no result
+Terrorism,others,no result
+Terrorism,criminalStatus,no result
+Terrorism,activities,no result
+Terrorism,by,no result
+Terrorism,onlinebooks,no result
+Terrorism,subDiscipline,no result
+Terrorism,relatedOccupation,no result
+Terrorism,deathCause,no result
+Terrorism,type,no result
+Terrorism,ideology,valid
+Terrorism,keywords,no result
+Terrorism,url,no result
+Terrorism,criminalActivities,no result
+Terrorism,about,no result
+Terrorism,summary,no result
+War,footer,no result
+War,partof,no result
+War,species,valid
+War,voy,no result
+War,genre,valid
+War,subject,no result
+War,q,no result
+War,v,no result
+War,wikt,no result
+War,m,no result
+War,alt,no result
+War,mw,no result
+War,date,valid
+War,totalWidth,no result
+War,others,no result
+War,c,no result
+War,b,no result
+War,d,no result
+War,by,no result
+War,onlinebooks,no result
+War,perrow,no result
+War,speciesAuthor,no result
+War,s,no result
+War,image,no result
+War,style,no result
+War,url,no result
+War,collapsible,no result
+War,about,no result
+War,n,no result
+Civil war,date,valid
+Civil war,battles,no result
+Civil war,methods,no result
+Civil war,reason,no result
+Abortion,footer,no result
+Abortion,emedicinetopic,no result
+Abortion,icd,no result
+Abortion,width,valid
+Abortion,diseasesdb,no result
+Abortion,meshid,no result
+Abortion,name,valid
+Abortion,voy,no result
+Abortion,fields,no result
+Abortion,commons,no result
+Abortion,treatment,no result
+Abortion,subject,no result
+Abortion,q,no result
+Abortion,v,no result
+Abortion,wikt,no result
+Abortion,abortionType,no result
+Abortion,medlineplus,no result
+Abortion,others,no result
+Abortion,b,no result
+Abortion,title,valid
+Abortion,by,no result
+Abortion,onlinebooks,no result
+Abortion,s,no result
+Abortion,image,no result
+Abortion,keywords,no result
+Abortion,synonyms,no result
+Abortion,field,no result
+Abortion,align,no result
+Abortion,emedicinesubj,no result
+Abortion,n,no result
+Capital punishment,knownFor,no result
+Capital punishment,cause,no result
+Capital punishment,data,no result
+Capital punishment,uses,no result
+Capital punishment,reason,no result
+Capital punishment,name,valid
+Capital punishment,convictionStatus,no result
+Capital punishment,verdict,no result
+Capital punishment,subject,no result
+Capital punishment,sentence,valid
+Capital punishment,charges,no result
+Capital punishment,date,valid
+Capital punishment,criminalStatus,no result
+Capital punishment,convictionPenalty,no result
+Capital punishment,criminalPenalty,no result
+Capital punishment,deathCause,no result
+Capital punishment,keywords,no result
+Capital punishment,penalty,no result
+Capital punishment,url,no result
+Capital punishment,content,no result
+Discrimination,by,no result
+Discrimination,onlinebooks,no result
+Discrimination,discipline,no result
+Discrimination,wikititle,no result
+Discrimination,areaOfLaw,no result
+Discrimination,keywords,no result
+Discrimination,products,no result
+Discrimination,field,no result
+Discrimination,subject,no result
+Discrimination,about,no result
+Racism,motive,valid
+Racism,width,valid
+Racism,focus,no result
+Racism,caption,no result
+Racism,reason,no result
+Racism,genre,valid
+Racism,subject,no result
+Racism,direction,no result
+Racism,known,no result
+Racism,mainInterests,no result
+Racism,small,no result
+Racism,totalWidth,no result
+Racism,others,no result
+Racism,label,no result
+Racism,by,no result
+Racism,onlinebooks,no result
+Racism,state,valid
+Racism,video,no result
+Racism,image,no result
+Racism,subjects,no result
+Racism,ideology,valid
+Racism,keywords,no result
+Racism,align,no result
+Racism,about,no result
+Feminism,period,no result
+Feminism,knownFor,no result
+Feminism,focus,no result
+Feminism,reason,no result
+Feminism,genre,valid
+Feminism,fields,no result
+Feminism,commons,no result
+Feminism,political,no result
+Feminism,topics,no result
+Feminism,category,no result
+Feminism,subject,no result
+Feminism,q,no result
+Feminism,wikt,no result
+Feminism,v,no result
+Feminism,side,no result
+Feminism,mainInterests,no result
+Feminism,discipline,no result
+Feminism,purpose,valid
+Feminism,schoolTradition,no result
+Feminism,date,valid
+Feminism,movement,no result
+Feminism,others,no result
+Feminism,lcheading,no result
+Feminism,b,no result
+Feminism,by,no result
+Feminism,onlinebooks,no result
+Feminism,subDiscipline,no result
+Feminism,s,no result
+Feminism,subjects,no result
+Feminism,ideology,valid
+Feminism,url,no result
+Feminism,field,no result
+Feminism,occupation,valid
+Feminism,n,no result
+Globalization,footer,no result
+Globalization,knownFor,no result
+Globalization,notableIdeas,no result
+Globalization,genre,valid
+Globalization,fields,no result
+Globalization,researchField,no result
+Globalization,subject,no result
+Globalization,mainInterests,no result
+Globalization,discipline,no result
+Globalization,bot,no result
+Globalization,contributions,no result
+Globalization,date,valid
+Globalization,totalWidth,no result
+Globalization,perrow,no result
+Globalization,image,no result
+Globalization,subjects,no result
+Globalization,type,no result
+Globalization,url,no result
+Globalization,field,no result
+Human rights,activitySector,no result
+Human rights,knownFor,no result
+Human rights,cause,no result
+Human rights,industry,no result
+Human rights,data,no result
+Human rights,focus,no result
+Human rights,genre,valid
+Human rights,fields,no result
+Human rights,subject,no result
+Human rights,mainInterests,no result
+Human rights,discipline,no result
+Human rights,purpose,valid
+Human rights,services,no result
+Human rights,date,valid
+Human rights,movement,no result
+Human rights,subDiscipline,no result
+Human rights,free,valid
+Human rights,practiceAreas,no result
+Human rights,subjects,no result
+Human rights,type,no result
+Human rights,ideology,valid
+Human rights,keywords,no result
+Human rights,url,no result
+Human rights,mission,valid
+Human rights,field,no result
+Human rights,occupation,valid
+Poverty,documenturl,no result
+Poverty,footer,no result
+Poverty,width,valid
+Poverty,industry,no result
+Poverty,focus,no result
+Poverty,source,no result
+Poverty,publisher,valid
+Poverty,author,valid
+Poverty,license,no result
+Poverty,subject,no result
+Poverty,height,valid
+Poverty,mainInterests,no result
+Poverty,date,valid
+Poverty,totalWidth,no result
+Poverty,risks,no result
+Poverty,blank1NameSec,no result
+Poverty,title,valid
+Poverty,causes,no result
+Poverty,perrow,no result
+Poverty,image,no result
+Poverty,subjects,no result
+Poverty,url,no result
+Poverty,field,no result
+Slavery,caption,no result
+Slavery,certain,no result
+Slavery,footer,no result
+Slavery,mainInterests,no result
+Slavery,knownFor,no result
+Slavery,subject,no result
+Slavery,width,valid
+Slavery,image,no result
+Slavery,type,no result
+Slavery,keywords,no result
+Slavery,date,valid
+Slavery,criminalActivities,no result
+Slavery,align,no result
+Slavery,occupation,valid
+Slavery,direction,no result

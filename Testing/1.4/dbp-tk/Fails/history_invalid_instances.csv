@@ -1,0 +1,703 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+History,date,August 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+History,date,November 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+History,age,History,incoming,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+History,occupation,History,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+History,purpose,History,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+History,year,History,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Ancient Egypt,date,April 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ancient Egypt,date,October 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ancient Egypt,date,2021-05-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ancient Egypt,date,2022-03-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ancient Egypt,combatant,Ancient Egypt,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Ancient Egypt,created,Ancient Egypt,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Country
+Ancient Greece,combatant,Ancient Greece,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Ancient Greece,created,Ancient Greece,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Country
+Ancient Greece,genre,Ancient Greece,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Country
+Ancient Greece,veneratedIn,Ancient Greece,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Bronze Age,age,Bronze Age,incoming,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Country
+Bronze Age,created,Bronze Age,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Country
+Bronze Age,established,Bronze Age,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Bronze Age,firstAscent,Bronze Age,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Bronze Age,name,Bronze Age,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Gupta Empire,commonName,Gupta Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gupta Empire,demonym,Indian,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gupta Empire,governmentType,Monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PoliticalParty
+Gupta Empire,width,290,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gupta Empire,leader,Gupta Empire,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Gupta Empire,title,Gupta Empire,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Han Dynasty,allegiance,Han Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Han Dynasty,combatant,Han Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Han Dynasty,house,Han Dynasty,incoming,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Country
+Iron Age,age,Iron Age,incoming,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Country
+Iron Age,collection,Iron Age,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Iron Age,created,Iron Age,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Country
+Iron Age,name,Iron Age,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Maya_civilization,width,120,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Maya_civilization,width,144,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Maya_civilization,width,147,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Maya_civilization,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Maya_civilization,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,207,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,216,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,222,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,225,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,230,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,235,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maya_civilization,width,280,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mesopotamia,area,Mesopotamia,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Country
+Prehistory,firstAscent,Prehistory,incoming,http://www.w3.org/2001/XMLSchema#string,
+Roman Empire,capital,* Constantinople,outgoing,http://dbpedia.org/ontology/City,
+Roman Empire,capital,* Mediolanum,outgoing,http://dbpedia.org/ontology/City,
+Roman Empire,capital,* Nicomedia,outgoing,http://dbpedia.org/ontology/City,
+Roman Empire,capital,* Ravenna,outgoing,http://dbpedia.org/ontology/City,
+Roman Empire,capital,* Rome,outgoing,http://dbpedia.org/ontology/City,
+Roman Empire,commonName,Roman Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Roman Empire,currency,"sestertius, aureus, solidus, nomisma",outgoing,http://dbpedia.org/ontology/Currency,
+Roman Empire,date,2009-04-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roman Empire,demonym,Roman_people,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup
+Roman Empire,event,,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,Final East-West divide,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,Murder of Julius Nepos,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,Octavian named augustus,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,becomes capital,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,Constantinople,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Roman Empire,event,Deposition_of_Romulus_Augustus,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,event,Reconquest_of_Constantinople,outgoing,http://dbpedia.org/ontology/Event,
+Roman Empire,flagBorder,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Roman Empire,flagSize,100,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Roman Empire,governmentType,"De Jure Republic, De Facto Semi-elective absolute monarchy",outgoing,http://dbpedia.org/ontology/GovernmentType,
+Roman Empire,leader,Constantine VI,outgoing,http://dbpedia.org/ontology/Person,
+Roman Empire,leader,Constantine XI,outgoing,http://dbpedia.org/ontology/Person,
+Roman Empire,leader,Julius Nepos,outgoing,http://dbpedia.org/ontology/Person,
+Roman Empire,leader,Theodosius I,outgoing,http://dbpedia.org/ontology/Person,
+Roman Empire,leader,Constantine_I,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MilitaryConflict
+Roman Empire,leader,Romulus_Augustus,outgoing,http://dbpedia.org/ontology/Person,
+Roman Empire,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Roman Empire,width,125,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Roman Empire,width,136,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Roman Empire,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Roman Empire,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roman Empire,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roman Empire,allegiance,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,collection,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,combatant,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,deathDate,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,governmentType,Roman Empire,incoming,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,meaning,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,nation,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,owner,Roman Empire,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Roman Empire,startDate,Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Sumer,date,March 2012,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sumer,date,2021-04-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sumer,name,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sumer,name,Sumer,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Sumer,title,Sumer,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Stone Age,title,Stone Age,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Tang Dynasty,allegiance,Tang Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Tang Dynasty,combatant,Tang Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Tang Dynasty,house,Tang Dynasty,incoming,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Country
+Tang Dynasty,title,Tang Dynasty,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Abbasid Caliphate,capital,,outgoing,http://dbpedia.org/ontology/City,
+Abbasid Caliphate,capital,Anbar_(town),outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Abbasid Caliphate,capital,Weh_Antiok_Khosrow,outgoing,http://dbpedia.org/ontology/City,
+Abbasid Caliphate,commonName,Abbasids,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abbasid Caliphate,currency,,outgoing,http://dbpedia.org/ontology/Currency,
+Abbasid Caliphate,event,Death of Al-Radi and beginning of Later Abbasid era,outgoing,http://dbpedia.org/ontology/Event,
+Abbasid Caliphate,event,Mongol sack of Baghdad,outgoing,http://dbpedia.org/ontology/Event,
+Abbasid Caliphate,flagCaption,The Abbasid Black Standard,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Abbasid Caliphate,flagSize,130,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Abbasid Caliphate,governmentType,Caliphate,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Place
+Abbasid Caliphate,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Abbasid Caliphate,title,Articles related to Abbasid Caliphate,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abbasid Caliphate,title,Caliphate dynasty,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abbasid Caliphate,years,"also claimed by Fatimid dynasty in 909, Umayyad dynasty in 929, and Ottoman dynasty",outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Abbasid Caliphate,years,750,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abbasid Caliphate,allegiance,Abbasid Caliphate,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Abbasid Caliphate,birthDate,Abbasid Caliphate,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Abbasid Caliphate,combatant,Abbasid Caliphate,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Abbasid Caliphate,commander,Abbasid Caliphate,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Abbasid Caliphate,deathDate,Abbasid Caliphate,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Abbasid Caliphate,monarch,Abbasid Caliphate,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Aztec,ethnicGroup,Aztec,incoming,http://dbpedia.org/ontology/EthnicGroup,http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/Country
+Aztec,mascot,Aztec,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/Country
+Byzantine Empire,commonName,Byzantine Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Byzantine Empire,currency,"Solidus, denarius and hyperpyron",outgoing,http://dbpedia.org/ontology/Currency,
+Byzantine Empire,date,2016-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Byzantine Empire,date,2021-05-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Byzantine Empire,date,2022-04-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Byzantine Empire,demonym,Byzantine_Greeks,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Byzantine Empire,event,Assassination of,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Battle of Manzikert; loss of Anatolia due to following civil war,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Early Muslim conquests; start of the Dark Ages,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Fall of the West; deposition of Romulus,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Final East–West division after the death of Theodosius I,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Sack of Constantinople by Catholic crusaders,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,event,Constantinople,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Byzantine Empire,event,Despotate_of_the_Morea,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Country
+Byzantine Empire,event,Julius_Nepos,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/Royalty
+Byzantine Empire,event,Reconquest_of_Constantinople,outgoing,http://dbpedia.org/ontology/Event,
+Byzantine Empire,flagBorder,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Byzantine Empire,height,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Byzantine Empire,leader,Michael_VIII,outgoing,http://dbpedia.org/ontology/Person,
+Byzantine Empire,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Byzantine Empire,volume,1,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Byzantine Empire,width,121,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Byzantine Empire,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Byzantine Empire,width,146,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Byzantine Empire,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Byzantine Empire,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Byzantine Empire,allegiance,Byzantine Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Byzantine Empire,combatant,Byzantine Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Byzantine Empire,nation,Byzantine Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Byzantine Empire,owner,Byzantine Empire,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Crusades,book,Crusades,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,battleHonours,Crusades,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,combatant,Crusades,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,genre,Crusades,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,mascot,Crusades,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,name,Crusades,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Crusades,teamName,Crusades,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MilitaryConflict; http://dbpedia.org/ontology/TelevisionShow
+Holy Roman Empire,capital,,outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,Election and coronation,outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,"Imperial Diet from 1594, perpetual from 1663",outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,Seat of the Habsburgs,outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,Seat of the Hofkammer and the Court Chancery,outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,Coronation_of_the_Holy_Roman_Emperor,outgoing,http://dbpedia.org/ontology/City,
+Holy Roman Empire,capital,Reichskammergericht,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/University
+Holy Roman Empire,capital,800,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Holy Roman Empire,commonName,Holy Roman Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Holy Roman Empire,currency,"Multiple: thaler, guilder, groschen, Reichsthaler",outgoing,http://dbpedia.org/ontology/Currency,
+Holy Roman Empire,date,2021-06-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Holy Roman Empire,event,Conrad II assumes crown of the Kingdom of Burgundy,outgoing,http://dbpedia.org/ontology/Event,
+Holy Roman Empire,event,Peace_of_Augsburg,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Agent
+Holy Roman Empire,event,Peace_of_Westphalia,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/TelevisionShow
+Holy Roman Empire,governmentType,mixed monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Holy Roman Empire,governmentType,Confederation,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Organisation
+Holy Roman Empire,governmentType,Elective_monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Country
+Holy Roman Empire,governmentType,Feudalism,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Drug
+Holy Roman Empire,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Holy Roman Empire,symbol,Coat of arms of the Holy Roman Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Holy Roman Empire,width,187,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Holy Roman Empire,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Holy Roman Empire,allegiance,Holy Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Holy Roman Empire,area,Holy Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Holy Roman Empire,birthDate,Holy Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Holy Roman Empire,combatant,Holy Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Holy Roman Empire,nation,Holy Roman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Holy Roman Empire,title,Holy Roman Empire,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Country
+Inca,birthPlace,Inca,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/RecordLabel
+Inca,firstAscent,Inca,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/RecordLabel
+Mali Empire,capital,Identification disputed; possibly no fixed capital,outgoing,http://dbpedia.org/ontology/City,
+Mali Empire,commonName,Mande,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mali Empire,currency,,outgoing,http://dbpedia.org/ontology/Currency,
+Mali Empire,event,State divided among emperor Mahmud Keita IV's sons,outgoing,http://dbpedia.org/ontology/Event,
+Mali Empire,governmentType,Monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/PoliticalParty
+Mali Empire,legislature,Gbara,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Organisation
+Mali Empire,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Middle Ages,date,August 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Middle Ages,width,(120 * 497 / 594) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Middle Ages,width,135,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Middle Ages,created,Middle Ages,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MilitaryConflict
+Middle Ages,genre,Middle Ages,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/MilitaryConflict
+Middle Ages,introduced,Middle Ages,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/MilitaryConflict
+Middle Ages,openingYear,Middle Ages,incoming,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/MilitaryConflict
+Middle Ages,start,Middle Ages,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/MilitaryConflict
+Middle Ages,startDate,Middle Ages,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/MilitaryConflict
+Ming Dynasty,combatant,Ming Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Mongol Empire,capital,Avarga,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/ProtectedArea
+Mongol Empire,commonName,Mongol Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mongol Empire,commonName,Mongolian Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mongol Empire,currency,Various,outgoing,http://dbpedia.org/ontology/Currency,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/MusicGenre
+Mongol Empire,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-09-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-10-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-11-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-11-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2020-11-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2021-04-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2021-05-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2021-06-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2021-09-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2021-09-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2022-04-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,date,2022-11-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mongol Empire,demonym,Mongol,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Country
+Mongol Empire,event,Division of the Chagatai Khanate,outgoing,http://dbpedia.org/ontology/Event,
+Mongol Empire,event,Fall of the Ilkhanate,outgoing,http://dbpedia.org/ontology/Event,
+Mongol Empire,event,Pax Mongolica,outgoing,http://dbpedia.org/ontology/Event,
+Mongol Empire,event,"Proclamation of the dynastic name ""Great Yuan""",outgoing,http://dbpedia.org/ontology/Event,
+Mongol Empire,governmentType,Later also hereditary,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Mongol Empire,governmentType,Elective_monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Country
+Mongol Empire,legislature,Kurultai,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Settlement
+Mongol Empire,status,Khaganate,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mongol Empire,allegiance,Mongol Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Mongol Empire,combatant,Mongol Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,capital,,outgoing,http://dbpedia.org/ontology/City,
+Ottoman Empire,capital,Adrianople,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Settlement
+Ottoman Empire,capital,Söğüt,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement; http://dbpedia.org/ontology/Town
+Ottoman Empire,capital,İznik,outgoing,http://dbpedia.org/ontology/City,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Ottoman Empire,commonName,Ottoman Empire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ottoman Empire,currency,"Various: akçe, para, sultani, kuruş , pound",outgoing,http://dbpedia.org/ontology/Currency,
+Ottoman Empire,date,July 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,November 2010,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,September 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2013-02-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2013-05-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2016-02-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2016-10-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2020-07-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2020-07-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2020-08-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2020-11-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2020-12-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2021-02-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2021-05-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2021-06-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2022-05-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,date,2022-11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ottoman Empire,demonym,Ottoman_Turks,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup
+Ottoman Empire,event,Raid_on_the_Sublime_Porte,outgoing,http://dbpedia.org/ontology/Event,
+Ottoman Empire,event,1,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Year
+Ottoman Empire,event,2,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Year
+Ottoman Empire,event,--11-17,outgoing,http://dbpedia.org/ontology/Event,
+Ottoman Empire,governmentType,,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Ottoman Empire,governmentType,Absolute monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Ottoman Empire,governmentType,Under an authoritarian one-party military dictatorship,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Ottoman Empire,governmentType,Unitary parliamentary constitutional monarchy,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Ottoman Empire,governmentType,Caliphate,outgoing,http://dbpedia.org/ontology/GovernmentType,http://dbpedia.org/ontology/Place
+Ottoman Empire,house,,outgoing,http://dbpedia.org/ontology/Legislature,
+Ottoman Empire,house,Chamber_of_Deputies_of_the_Ottoman_Empire,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/PersonFunction
+Ottoman Empire,legislature,,outgoing,http://dbpedia.org/ontology/Legislature,
+Ottoman Empire,legislature,General Assembly,outgoing,http://dbpedia.org/ontology/Legislature,
+Ottoman Empire,legislature,"None, rule by decree",outgoing,http://dbpedia.org/ontology/Legislature,
+Ottoman Empire,legislature,Imperial_Council_(Ottoman_Empire),outgoing,http://dbpedia.org/ontology/Legislature,
+Ottoman Empire,representative,Selim I,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Ottoman Empire,representative,Abdulmejid_II,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Ottoman Empire,status,Empire,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ottoman Empire,width,165,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ottoman Empire,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ottoman Empire,allegiance,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,architect,Ottoman Empire,incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,combatant,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,deathDate,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,established,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,house,Ottoman Empire,incoming,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,nation,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,owner,Ottoman Empire,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ottoman Empire,status,Ottoman Empire,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Age of Enlightenment,result,Age of Enlightenment,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+American Civil War,casualties,,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,"Total: 616,222–1,000,000+ dead",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,"Total: 828,000+ casualties",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,"Total: 864,000+ casualties",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,25000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,26000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,50000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,80000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,94000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,110000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,137000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,181193,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,230000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,282000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,casualties,436658,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+American Civil War,commander,Abraham Lincoln,outgoing,http://dbpedia.org/ontology/Person,
+American Civil War,commander,Jefferson Davis,outgoing,http://dbpedia.org/ontology/Person,
+American Civil War,commander,Robert E. Lee,outgoing,http://dbpedia.org/ontology/Person,
+American Civil War,commander,Ulysses S. Grant,outgoing,http://dbpedia.org/ontology/Person,
+American Civil War,commander,and others...,outgoing,http://dbpedia.org/ontology/Person,
+American Civil War,date,--04-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+American Civil War,date,--06-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+American Civil War,date,2019-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+American Civil War,date,2021-03-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+American Civil War,id,gov.archives.arc.54756,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,name,A House Divided,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+American Civil War,place,Atlantic_Ocean,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/River; http://dbpedia.org/ontology/BodyOfWater
+American Civil War,result,Union victory,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,strength,360000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,strength,698000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,strength,750000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,strength,2200000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+American Civil War,territory,Dissolution of the Confederate States of America,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+American Civil War,width,110,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+American Civil War,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+American Civil War,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+American Civil War,width,153,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,width,190,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,width,192,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,width,226,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+American Civil War,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Industrial Revolution,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Industrial Revolution,date,May 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Industrial Revolution,end,c. 1840,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Industrial Revolution,location,,outgoing,http://dbpedia.org/ontology/Place,
+Industrial Revolution,location,North America,outgoing,http://dbpedia.org/ontology/Place,
+Industrial Revolution,location,Western Europe,outgoing,http://dbpedia.org/ontology/Place,
+Industrial Revolution,name,Industrial Revolution,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Industrial Revolution,project,Wikiversity,outgoing,http://dbpedia.org/ontology/Project,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Website
+Industrial Revolution,quote,"""An unprecedented explosion of new ideas, and new technological inventions, transformed our use of energy, creating an increasingly industrial and urbanised country. Roads, railways and canals were built. Great cities appeared. Scores of factories and mills sprang up. Our landscape would never be the same again. It was a revolution that transformed not only the country, but the world itself.""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Industrial Revolution,start,c. 1760,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Industrial Revolution,width,24.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Industrial Revolution,result,Industrial Revolution,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/LacrossePlayer; http://dbpedia.org/ontology/PersonFunction
+Nazi Germany,border,0.25,outgoing,http://dbpedia.org/ontology/Area,
+Nazi Germany,demonym,German,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Nazi Germany,deputy,Adolf Hitler,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,deputy,--04-30,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,deputy,--05-02,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,event,Death_of_Hitler,outgoing,http://dbpedia.org/ontology/Event,
+Nazi Germany,event,Enabling_Act_of_1933,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Comic
+Nazi Germany,governmentType,Unitary Nazi one-party fascist state under a totalitarian dictatorship,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Nazi Germany,house,,outgoing,http://dbpedia.org/ontology/Legislature,
+Nazi Germany,largestCity,capital,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Nazi Germany,leader,Adolf Hitler,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,leader,Karl Dönitz,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,leader,Paul von Hindenburg,outgoing,http://dbpedia.org/ontology/Person,
+Nazi Germany,quote,"If the experience of the Third Reich teaches us anything, it is that a love of great music, great art and great literature does not provide people with any kind of moral or political immunization against violence, atrocity, or subservience to dictatorship.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Nazi Germany,width,25.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Nazi Germany,width,230,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nazi Germany,width,260,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nazi Germany,affiliation,Nazi Germany,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,allegiance,Nazi Germany,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,birthDate,Nazi Germany,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,combatant,Nazi Germany,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,foundedBy,Nazi Germany,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,genre,Nazi Germany,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,nation,Nazi Germany,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,nationalTeam,Nazi Germany,incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,owner,Nazi Germany,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Nazi Germany,presenter,Nazi Germany,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Meiji Restoration,combatant,Tokugawa shogunate,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Meiji Restoration,commander,Emperor Meiji,outgoing,http://dbpedia.org/ontology/Person,
+Meiji Restoration,commander,Kido Takayoshi,outgoing,http://dbpedia.org/ontology/Person,
+Meiji Restoration,commander,Saigō Takamori,outgoing,http://dbpedia.org/ontology/Person,
+Meiji Restoration,commander,Tokugawa Yoshinobu,outgoing,http://dbpedia.org/ontology/Person,
+Meiji Restoration,commander,Ōkubo Toshimichi,outgoing,http://dbpedia.org/ontology/Person,
+Meiji Restoration,conflict,Meiji Restoration,outgoing,http://dbpedia.org/ontology/MilitaryConflict,
+Meiji Restoration,date,1868-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Meiji Restoration,result,"Overthrow of the Tokugawa Shogunate
+*Beginning of the Meiji era
+*Establishment of the Empire of Japan
+*Formation of an oligarchic government",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Meiji Restoration,title,Meiji Restoration,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+Reformation,date,February 2014,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Reformation,date,June 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Reformation,date,March 2015,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Reformation,width,135,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Reformation,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Reformation,width,186,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Reformation,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Reformation,width,350,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Russian Revolution,date,,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Russian Revolution,date,--03-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Russian Revolution,duration,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Russian Revolution,duration,*,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/MilitaryConflict
+Russian Revolution,duration,* Dual power,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Russian Revolution,duration,* February Revolution,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Russian Revolution,duration,October Revolution and Russian Civil War,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Russian Revolution,location,former Russian Empire,outgoing,http://dbpedia.org/ontology/Place,
+Russian Revolution,result,"* End of the Russian monarchy
+* Failure of the short-lived Russian Republic and Russian State
+* Establishment of Bolshevist Soviet republics in Russia proper, most of Ukraine, Belarus, Central Asia and Transcaucasia
+* Independence of Poland, Finland and the Baltics
+* End of Russia's participation in World War I
+* Bolshevik victory in the Russian Civil War
+* Reformation of the Bolshevik party and the establishment of the Soviet Union",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Qing Dynasty,allegiance,Qing Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Qing Dynasty,combatant,Qing Dynasty,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Country
+Qing Dynasty,introduced,Qing Dynasty,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Country
+Soviet Union,areaRank,1.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soviet Union,author,no,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,author,Sergei_Markov,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,commonName,Soviet Union,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Soviet Union,currencyCode,SUR,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soviet Union,date,2006-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2019-07-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2020-02-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2021-06-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2021-08-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2021-10-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2021-11-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2022-04-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2022-08-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,date,2022-08-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Soviet Union,demonym,Soviet_people,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+Soviet Union,deputy,Vladimir Lenin,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,event,,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,End of Russian Civil War,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,1924_Constitution_of_the_Soviet_Union,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,1936_Constitution_of_the_Soviet_Union,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,1977_Constitution_of_the_Soviet_Union,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,Act_of_the_Re-Establishment_of_the_State_of_Lithuania,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,Charter_of_the_United_Nations,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,De-Stalinization,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,event,Military_occupations_by_the_Soviet_Union,outgoing,http://dbpedia.org/ontology/Event,
+Soviet Union,flag,Flag of the Soviet Union,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soviet Union,governmentType,,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,Federal Leninist one-party socialist republic under a totalitarian dictatorship,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,Federal Marxist–Leninist one-party directorial parliamentary socialist republic,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,Federal Marxist–Leninist one-party socialist republic under a Stalinist totalitarian dictatorship,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,Federal one-party socialist republic,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,Federal semi-presidential republic,outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,governmentType,"See also: Government of the Soviet Union
+----",outgoing,http://dbpedia.org/ontology/GovernmentType,
+Soviet Union,house,,outgoing,http://dbpedia.org/ontology/Legislature,
+Soviet Union,house,Soviet_of_Republics,outgoing,http://dbpedia.org/ontology/Legislature,
+Soviet Union,largestCity,capital,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Soviet Union,leader,Georgy Malenkov,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,leader,Joseph Stalin,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,leader,Leonid Brezhnev,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,leader,Mikhail Gorbachev,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,leader,Nikita Khrushchev,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,leader,Vladimir Lenin,outgoing,http://dbpedia.org/ontology/Person,
+Soviet Union,legislature,,outgoing,http://dbpedia.org/ontology/Legislature,
+Soviet Union,mapCaption,The Soviet Union during the Cold War,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Soviet Union,representative,Mikhail Gorbachev,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Soviet Union,representative,Mikhail_Kalinin,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Soviet Union,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Soviet Union,title,Administrative division of the Soviet Union,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Soviet Union,title,Articles related to Soviet Union,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Soviet Union,affiliation,Soviet Union,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Soviet Union,allegiance,Soviet Union,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Soviet Union,almaMater,Soviet Union,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Soviet Union,area,Soviet Union,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Soviet Union,birthDate,Soviet Union,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Vietnam War,casualties,'''Total military captured:,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,'''Total military wounded:,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,*  North Vietnam & Viet Cong,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,* :,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"* Vietnamese civilian dead: 405,000–2,000,000
+* Vietnamese total dead: 966,000–3,010,000
+* Cambodian Civil War dead: 275,000–310,000
+* Laotian Civil War dead: 20,000–62,000
+* Non-Indochinese military dead: 65,494
+* Total dead: 1,326,494–3,447,494
+* For more information see Vietnam War casualties and Aircraft losses of the Vietnam War",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"≈ 1,000,000 captured
+* :",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"≈1,000,000+'''",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"≈1,100,000'''",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"≈1,340,000+'''",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,"≈604,200'''",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,17,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Vietnam War,casualties,30000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,58281,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,195000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,232000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,254256,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,333620,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,600000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,666000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,849018,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,1170000,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,casualties,--02-26,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+Vietnam War,combatant,"* 
+*",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,combatant,"* 
+* 
+*",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,combatant,"* 
+*  United States
+* 
+* 
+* 
+* 
+*  Cambodia 
+*",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,combatant,"* 
+*  Viet Cong and PRG
+*  Pathet Lao
+*  Khmer Rouge
+*",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,combatant,GRUNK,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Vietnam War,combatant,Khmer Republic,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,commander,"*  Creighton Abrams
+* ...and others",outgoing,http://dbpedia.org/ontology/Person,
+Vietnam War,commander,"*  Hồ Chí Minh
+*  Lê Duẩn
+*  Võ Nguyên Giáp
+*  Phạm Văn Đồng
+*  Trần Văn Trà
+* ...and others",outgoing,http://dbpedia.org/ontology/Person,
+Vietnam War,commander,"*  Ngô Đình Diệm † 
+*  Nguyễn Văn Thiệu
+*  Nguyễn Cao Kỳ
+*  Lyndon B. Johnson
+*  Richard Nixon
+*  Robert McNamara
+*",outgoing,http://dbpedia.org/ontology/Person,
+Vietnam War,commander,William Westmoreland,outgoing,http://dbpedia.org/ontology/Person,
+Vietnam War,conflict,Vietnam War,outgoing,http://dbpedia.org/ontology/MilitaryConflict,
+Vietnam War,date,September 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Vietnam War,date,--11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Vietnam War,date,2011-04-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Vietnam War,date,2012-08-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Vietnam War,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Vietnam War,place,Gulf_of_Thailand,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/NaturalPlace; http://dbpedia.org/ontology/Bay; http://dbpedia.org/ontology/BodyOfWater; http://dbpedia.org/ontology/Lake; http://dbpedia.org/ontology/Organisation
+Vietnam War,result,"North Vietnamese and Viet Cong/PRG victory
+* Withdrawal of U.S. coalition's forces from Vietnam in 1973 after the Paris Peace Accords
+* Communist forces take power in South Vietnam, Cambodia and Laos
+* Start of the boat people and refugee crises
+* Start of the Cambodian genocide and the Third Indochina War",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Vietnam War,strength,"*  Australia: 50,190 total",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,*  China:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"*  New Zealand: 3,500 total",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"*  Philippines: 2,061",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"Peak: 543,000 
+*  Khmer Republic:",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"~200,000",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"≈1,420,000 
+
+*  South Vietnam:",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,"≈860,000 
+
+*  North Vietnam:",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,48000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,70000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,72000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,170000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,200000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,320000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,690000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,850000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,1500000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,strength,2709918,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vietnam War,territory,Reunification of North Vietnam and South Vietnam into the Socialist Republic of Vietnam in 1976,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Vietnam War,battleHonours,Vietnam War,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+Vietnam War,place,Vietnam War,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,border,black,outgoing,http://dbpedia.org/ontology/Area,
+World War I,casualties,"Civilian dead: 3,700,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Civilian dead: 4,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Military dead: 4,386,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Military dead: 5,525,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Military wounded: 12,832,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Military wounded: 8,388,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Total: 12,774,000 KIA, WIA and MIA",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,"Total: 18,357,000 KIA, WIA and MIA",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,casualties,World_War_I_casualties,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War I,combatant,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,combatant,...and others,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,combatant,Central Powers:,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,combatant,--03-03,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,commander,,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Albert I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Alexander Kerensky,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Charles I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,David Lloyd George,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Eleftherios Venizelos,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Emperor Taishō,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Feng Guozhang,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Ferdinand I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Franz Joseph I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,George V,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Georges Clemenceau,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Herbert Henry Asquith,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Hussein bin Ali,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Mehmed V,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Mehmed VI,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Nicholas I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Nicholas II,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Peter I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Rama VI,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Raymond Poincaré,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Three Pashas,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Victor Emmanuel III,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Vittorio Orlando,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Wilhelm II,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Woodrow Wilson,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Xu Shichang,outgoing,http://dbpedia.org/ontology/Person,
+World War I,commander,Allied_leaders_of_World_War_I,outgoing,http://dbpedia.org/ontology/Person,
+World War I,conflict,World War I,outgoing,http://dbpedia.org/ontology/MilitaryConflict,
+World War I,date,,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,June 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,March 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,Treaty_of_Lausanne,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Agent
+World War I,date,Treaty_of_Neuilly-sur-Seine,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,Treaty_of_Saint-Germain-en-Laye_(1919),outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,Treaty_of_Sèvres,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TelevisionShow
+World War I,date,Treaty_of_Trianon,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Organisation
+World War I,date,Treaty_of_Versailles,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,U.S.–Austrian_Peace_Treaty_(1921),outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Agent
+World War I,date,U.S.–German_Peace_Treaty_(1921),outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Agent
+World War I,date,U.S.–Hungarian_Peace_Treaty_(1921),outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Agent
+World War I,date,--04-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--06-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--06-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--07-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--08-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--08-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--08-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--08-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--08-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--09-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--10-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--11-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,--12-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,2015-06-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,2019-05-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,2019-05-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,2020-11-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,date,2021-08-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War I,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+World War I,place,"Europe, Africa, the Middle East, the Pacific Islands, China, Indian Ocean, North and South Atlantic Ocean",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War I,relief,yes,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,result,--11-11,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,strength,"Total: 25,248,000",outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,strength,"Total: 42,928,000",outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,strength,68176000,outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War I,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+World War I,basedOn,World War I,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,battleHonours,World War I,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,genre,World War I,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,name,World War I,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,title,World War I,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War I,war,World War I,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War II,casualties,,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,...further details,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,Civilian dead:,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,Military dead:,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 12,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 16,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 4,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 45,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 61,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,"Over 8,000,000",outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,casualties,Total dead:,outgoing,http://www.w3.org/2001/XMLSchema#integer,
+World War II,combatant,Allies_of_World_War_II,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicFestival; http://dbpedia.org/ontology/Country
+World War II,combatant,Axis_powers,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+World War II,commander,,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Adolf Hitler,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Benito Mussolini,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Franklin D. Roosevelt,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Joseph Stalin,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Main Allied leaders:,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Main Axis leaders:,outgoing,http://dbpedia.org/ontology/Person,
+World War II,commander,Winston Churchill,outgoing,http://dbpedia.org/ontology/Person,
+World War II,conflict,World War II,outgoing,http://dbpedia.org/ontology/MilitaryConflict,
+World War II,date,July 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War II,date,November 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War II,date,--09-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War II,date,2017-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+World War II,place,,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,Atlantic,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/RecordLabel
+World War II,place,Central Africa,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,Horn of Africa,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,Indian Ocean,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,Major theaters:,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,Middle East,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,North Africa,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,North and South America,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,place,South-East Asia,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+World War II,result,"* Fall of Nazi Germany, Fascist Italy, and Imperial Japan
+* Allied military occupations of Germany, Japan, Austria, and Korea
+* Beginning of the Nuclear Age
+* Dissolution of the League of Nations and creation of the United Nations
+* Decolonisation of Asia and Africa and decline of European international influence
+* Emergence of the United States and the Soviet Union as rival superpowers and beginning of the Cold War",outgoing,http://www.w3.org/2001/XMLSchema#string,
+World War II,basedOn,World War II,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+World War II,battleHonours,World War II,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict

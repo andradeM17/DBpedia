@@ -1,0 +1,1582 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Tanya Biank,almaMater,Pennsylvania State University,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Tanya Biank,name,Tanya Biank,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tanya Biank,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Tanya Biank,occupation,"Journalist, author, and speaker",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Tanya Biank,spouse,COL Michael A. Marti,outgoing,http://dbpedia.org/ontology/Person,
+Antoninus of Piacenza,canonizedDate,Pre-congregation,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Pope
+Antoninus of Piacenza,deathDate,303,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Antoninus of Piacenza,deathPlace,Piacenza or Travo,outgoing,http://dbpedia.org/ontology/Place,
+Antoninus of Piacenza,feastDay,--09-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Antoninus of Piacenza,name,Saint Antoninus of Piacenza,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Antoninus of Piacenza,veneratedIn,Roman_Catholic_Church,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+James MacCullagh,birthDate,1809,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+James MacCullagh,birthPlace,"Landahaussy, County Tyrone, now Northern Ireland",outgoing,http://dbpedia.org/ontology/Place,
+James MacCullagh,deathDate,--10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+James MacCullagh,name,James MacCullagh,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+James MacCullagh,nationality,Irish,outgoing,http://dbpedia.org/ontology/Country,
+Lee Hyun-wook,birthDate,1985-06-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lee Hyun-wook,birthPlace,"Icheon, Gyeonggi Province, South Korea",outgoing,http://dbpedia.org/ontology/Place,
+Lee Hyun-wook,name,Lee Hyun-wook,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leena Chandavarkar,birthDate,1950-08-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Leena Chandavarkar,name,Leena Chandavarkar,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leena Chandavarkar,starring,Leena Chandavarkar,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+E. R. Tambimuttu,birthDate,c1890,outgoing,http://www.w3.org/2001/XMLSchema#date,
+E. R. Tambimuttu,name,E. R. Tambimuttu,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+E. R. Tambimuttu,office,Member of the Legislative Council of Ceylon,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. R. Tambimuttu,office,Member of the State Council of Ceylon,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. R. Tambimuttu,office,for Batticaloa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. R. Tambimuttu,office,for Eastern Province,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. R. Tambimuttu,office,for Trincomalee-Batticaloa,outgoing,http://www.w3.org/2001/XMLSchema#string,
+E. R. Tambimuttu,spouse,Laura née Chitty,outgoing,http://dbpedia.org/ontology/Person,
+Darren Shapland,birthName,Darren Mark Shapland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Darren Shapland,name,Darren Shapland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Darren Shapland,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Darren Shapland,spouse,Wendy Sarah Shapland,outgoing,http://dbpedia.org/ontology/Person,
+Darren Shapland,title,"Chairman, Maplin Electronics and Moo.com",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Matías Rodrigo Pérez,birthDate,1994-01-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Matías Rodrigo Pérez,birthPlace,"Asunción, Paraguay",outgoing,http://dbpedia.org/ontology/Place,
+Matías Rodrigo Pérez,name,Matías Rodrigo Pérez,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Matías Rodrigo Pérez,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Matías Rodrigo Pérez,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Matías Rodrigo Pérez,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Matías Rodrigo Pérez,name,Matías Rodrigo Pérez,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Jaylon Moore (wide receiver),birthDate,1997-07-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jaylon Moore (wide receiver),college,UT_Martin_Skyhawks_football,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Jaylon Moore (wide receiver),currentTeam,Jacksonville Jaguars,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Jaylon Moore (wide receiver),name,Jaylon Moore,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jaylon Moore (wide receiver),note,All values from Pro Day,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jaylon Moore (wide receiver),number,83,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Jaylon Moore (wide receiver),status,Practice squad,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jaylon Moore (wide receiver),weight,191,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",birthDate,1996-03-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Nathan (footballer, born 1996)",birthPlace,"Blumenau, Brazil",outgoing,http://dbpedia.org/ontology/Place,
+"Nathan (footballer, born 1996)",height,1.77 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+"Nathan (footballer, born 1996)",imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",name,Nathan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Nathan (footballer, born 1996)",years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+"Nathan (footballer, born 1996)",years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+"Nathan (footballer, born 1996)",years,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Nathan (footballer, born 1996)",name,"Nathan (footballer, born 1996)",incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Shafqat Amanat Ali,birthDate,1965-02-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Shafqat Amanat Ali,name,Shafqat Amanat Ali Khan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shafqat Amanat Ali,occupation,,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Shafqat Amanat Ali,occupation,composer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Shafqat Amanat Ali,occupation,songwriter,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Shafqat Amanat Ali,artist,Shafqat Amanat Ali,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+Giancarlo Valt,birthDate,1941-05-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Giancarlo Valt,name,Giancarlo Valt,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Karina Zhumabaikyzy,birthDate,1996-08-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Karina Zhumabaikyzy,height,1.71 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Karina Zhumabaikyzy,name,Karina Zhumabaikyzy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Karina Zhumabaikyzy,years,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Karina Zhumabaikyzy,name,Karina Zhumabaikyzy,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Latice Crawford,birthDate,1982-07-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Latice Crawford,birthName,Latice Tenae Crawford,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Latice Crawford,birthPlace,"Manhattan, New York",outgoing,http://dbpedia.org/ontology/Place,
+Latice Crawford,instrument,"Vocals, singer-songwriter",outgoing,http://dbpedia.org/ontology/Instrument,
+Latice Crawford,name,Latice Crawford,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Latice Crawford,occupation,"Singer, songwriter, actress",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Latice Crawford,origin,"Queens, New York",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Daniel H. Hastings,birthDate,1849-02-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Daniel H. Hastings,birthPlace,"Salona, Clinton County, Pennsylvania",outgoing,http://dbpedia.org/ontology/Place,
+Daniel H. Hastings,deathDate,1903-01-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Daniel H. Hastings,lieutenant,Walter_Lyon_(Pennsylvania_politician),outgoing,http://dbpedia.org/ontology/Person,
+Daniel H. Hastings,name,Daniel Hartman Hastings,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Daniel H. Hastings,office,Governor of Pennsylvania,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Daniel H. Hastings,spouse,Jane Armstrong Rankin,outgoing,http://dbpedia.org/ontology/Person,
+Daniel H. Hastings,title,Republican nominee for Governor of Pennsylvania,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Daniel H. Hastings,title,List_of_governors_of_Pennsylvania,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Daniel H. Hastings,years,1894,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Daniel H. Hastings,years,1895,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hryhoriy Hrynko,title,Mayor_of_Kyiv,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hryhoriy Hrynko,title,Ministry_of_Finance_(Soviet_Union),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Hryhoriy Hrynko,years,1924,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hryhoriy Hrynko,years,1930,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Kenji Hasegawa,birthDate,1960-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kenji Hasegawa,name,Kenji Hasegawa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kenji Hasegawa,nationality,Japanese,outgoing,http://dbpedia.org/ontology/Country,
+Tommaso Ceccarelli,birthDate,1992-06-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommaso Ceccarelli,name,Tommaso Ceccarelli,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tommaso Ceccarelli,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Tommaso Ceccarelli,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Tommaso Ceccarelli,years,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommaso Ceccarelli,name,Tommaso Ceccarelli,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Tora Teje,birthDate,1893-01-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tora Teje,birthPlace,"Stockholm, Sweden",outgoing,http://dbpedia.org/ontology/Place,
+Tora Teje,deathDate,1970-04-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tora Teje,name,Tora Teje,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mattias Lindström (ice hockey),birthDate,1991-03-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mattias Lindström (ice hockey),draft,88,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),draftYear,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),imageSize,230,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mattias Lindström (ice hockey),name,Mattias Lindström,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mattias Lindström (ice hockey),shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Mattias Lindström (ice hockey),team,Clemensnäs HC,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Anna May Wong,birthDate,1905-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anna May Wong,birthPlace,"Los Angeles, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Anna May Wong,deathDate,1961-02-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anna May Wong,deathPlace,"Santa Monica, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Anna May Wong,name,Anna May  Wong,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Anna May Wong,signature,Anna May Wong signature.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Anna May Wong,starring,Anna May Wong,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Star
+George W. Stone,birthDate,1811-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George W. Stone,birthName,George Washington Stone,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+George W. Stone,deathDate,1894-03-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George W. Stone,office,Associate Justice of the Alabama Supreme Court,outgoing,http://www.w3.org/2001/XMLSchema#string,
+George W. Stone,office,15,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+George W. Stone,title,List_of_justices_of_the_Alabama_Supreme_Court,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+George W. Stone,years,1856,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+George W. Stone,years,1876,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+George W. Stone,years,1884,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roland Zwahlen,birthDate,1977-05-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roland Zwahlen,birthPlace,"Bern, Switzerland",outgoing,http://dbpedia.org/ontology/Place,
+Roland Zwahlen,name,Roland Zwahlen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carrie Munn,birthDate,1898-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carrie Munn,birthName,Caroline Neunder,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carrie Munn,birthPlace,"Buffalo, New York",outgoing,http://dbpedia.org/ontology/Place,
+Carrie Munn,deathDate,1984-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carrie Munn,deathPlace,"New York, New York",outgoing,http://dbpedia.org/ontology/Place,
+Carrie Munn,name,Carrie Munn,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abbas Mohamed,birthDate,1963-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Abbas Mohamed,name,Abbas Mohamed,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abbas Mohamed,sport,Long-distance running,outgoing,http://dbpedia.org/ontology/Sport,
+Thamer Shaker,birthDate,"July, 1975",outgoing,http://www.w3.org/2001/XMLSchema#date,
+Thamer Shaker,name,Thamer Shaker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Thamer Shaker,occupation,"writer, businessman, and management consultant",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Paul Hauff,birthDate,1970-05-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul Hauff,birthPlace,"Cairns, Queensland, Australia",outgoing,http://dbpedia.org/ontology/Place,
+Paul Hauff,name,Paul Hauff,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paul Hauff,retired,yes,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Di Fábio (footballer),birthDate,1979-02-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Di Fábio (footballer),date,April 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Di Fábio (footballer),name,Di Fábio,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Di Fábio (footballer),years,–2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Di Fábio (footballer),years,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2006,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Di Fábio (footballer),years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Robbie Gould,birthDate,1982-12-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Robbie Gould,currentTeam,San Francisco 49ers,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Robbie Gould,imageSize,225,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Robbie Gould,name,Robbie Gould,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Robbie Gould,number,9,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Robbie Gould,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Annon Lee Silver,almaMater,,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Annon Lee Silver,almaMater,Mount Allison University,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Annon Lee Silver,almaMater,Royal College of Music,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Annon Lee Silver,birthDate,1938-11-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Annon Lee Silver,birthPlace,"Sydney Mines, Cape Breton, Nova Scotia, Canada",outgoing,http://dbpedia.org/ontology/Place,
+Annon Lee Silver,deathDate,1971-07-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Annon Lee Silver,deathPlace,"London, England, United Kingdom",outgoing,http://dbpedia.org/ontology/Place,
+Annon Lee Silver,name,Annon Lee Silver,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Annon Lee Silver,occupation,Lyric soprano,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Annon Lee Silver,spouse,Ronald Lumsden,outgoing,http://dbpedia.org/ontology/Person,
+Siobhán Phelan,name,Siobhán Phelan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Siobhán Phelan,office,Judge of the High Court,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Arlyn E. Danker,birthDate,1927-05-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Arlyn E. Danker,deathDate,2016-01-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Arlyn E. Danker,imageSize,180,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Arlyn E. Danker,name,Arlyn E. Danker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Arlyn E. Danker,occupation,farmer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Arlyn E. Danker,office,Member of the Iowa House of Representatives  for the 54th district,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Arlyn E. Danker,party,Republican,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Hans-Uwe Pilz,birthDate,1958-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hans-Uwe Pilz,height,1.71 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hans-Uwe Pilz,years,1977,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hans-Uwe Pilz,years,1982,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hans-Uwe Pilz,years,1990,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hans-Uwe Pilz,years,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hans-Uwe Pilz,name,Hans-Uwe Pilz,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerManager; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/SportsManager
+Suhail Yusuf Khan,birthDate,1988-02-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Suhail Yusuf Khan,birthPlace,"Delhi, National Capital Region, India",outgoing,http://dbpedia.org/ontology/Place,
+Suhail Yusuf Khan,name,Suhail Yusuf Khan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Suhail Yusuf Khan,origin,Sri_Venkateswara_College,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/EducationalInstitution; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/University
+William Dorrance Beach,birthDate,1856-06-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Dorrance Beach,birthPlace,"Brooklyn, New York City, New York, United States",outgoing,http://dbpedia.org/ontology/Place,
+William Dorrance Beach,deathDate,1932-06-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Dorrance Beach,name,William Beach,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+William Dorrance Beach,rank,25,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Michaël Bodegas,birthDate,1987-05-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Michaël Bodegas,birthPlace,"La Seyne-sur-Mer, France",outgoing,http://dbpedia.org/ontology/Place,
+Michaël Bodegas,club,CN_Marseille,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Agent
+Michaël Bodegas,name,Michaël Bodegas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michaël Bodegas,title,Italy squads,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michaël Bodegas,name,Michaël Bodegas,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+The Cistercian Monks of Stift Heiligenkreuz,name,The Cistercian Monks of Stift Heiligenkreuz,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Ballerini,name,Andrea Ballerini,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Ballerini,nationality,Italian,outgoing,http://dbpedia.org/ontology/Country,
+Krešimir Mišak,date,January 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul E. Meehl,birthDate,1920-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul E. Meehl,birthName,Paul Everett Swedal,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paul E. Meehl,birthPlace,"Minneapolis, Minnesota, US",outgoing,http://dbpedia.org/ontology/Place,
+Paul E. Meehl,deathDate,2003-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul E. Meehl,deathPlace,"Minneapolis, Minnesota, US",outgoing,http://dbpedia.org/ontology/Place,
+Ernest G. Eagleson,birthDate,1864-01-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ernest G. Eagleson,birthPlace,"Cadiz, Ohio, United States",outgoing,http://dbpedia.org/ontology/Place,
+Ernest G. Eagleson,deathDate,1956-08-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ernest G. Eagleson,deathPlace,"Boise, Idaho, United States",outgoing,http://dbpedia.org/ontology/Place,
+Ernest G. Eagleson,name,Ernest G. Eagleson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ernest G. Eagleson,office,"Mayor of Boise, Idaho",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ernest G. Eagleson,title,List_of_mayors_of_Boise,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ernest G. Eagleson,years,1919,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ernest G. Eagleson,years,1925,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Momma Dee,birthDate,1963-09-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Momma Dee,birthName,Deborah Gaither,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Momma Dee,birthPlace,"Brooklyn, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Momma Dee,name,Momma Dee,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Momma Dee,spouse,Ernest Bryant,outgoing,http://dbpedia.org/ontology/Person,
+Richard Haydn,birthDate,1905-03-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Haydn,birthName,George Richard Haydon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Haydn,birthPlace,"Camberwell, London, England",outgoing,http://dbpedia.org/ontology/Place,
+Richard Haydn,deathDate,1985-04-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Haydn,deathPlace,"Pacific Palisades, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Richard Haydn,name,Richard Haydn,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Haydn,starring,Richard Haydn,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Amorn Chantarasomboon,date,July 2017,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Nelson Hinkle,birthDate,1854-01-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Nelson Hinkle,deathDate,1905-10-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Nelson Hinkle,name,John Nelson Hinkle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Nelson Hinkle,office,34,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+John Nelson Hinkle,spouse,Samantha,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Name; http://dbpedia.org/ontology/GivenName
+John Nelson Hinkle,title,"List_of_Mayors_of_Columbus,_Ohio",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Nelson Hinkle,years,1901,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+J. S. Rajput,name,J. S. Rajput,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,birthDate,1878-03-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Herbert H. Lehman,birthPlace,"New York City, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Herbert H. Lehman,deathDate,1963-12-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Herbert H. Lehman,deathPlace,"New York City, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Herbert H. Lehman,description,"""Longines Chronoscope with Herbert H. Lehman""",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,description,"""Longines Chronoscope with Sen. Herbert H. Lehman """,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,id,gov.archives.arc.95748,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Herbert H. Lehman,id,gov.archives.arc.95875,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Herbert H. Lehman,lieutenant,Charles Poletti,outgoing,http://dbpedia.org/ontology/Person,
+Herbert H. Lehman,name,Herbert Lehman,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,office,Governor of New York,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Herbert H. Lehman,signature,Herbert Henry Lehman Signature.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Herbert H. Lehman,spouse,Edith Louise Altschul,outgoing,http://dbpedia.org/ontology/Person,
+Herbert H. Lehman,state,New York,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Herbert H. Lehman,state,expanded,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Herbert H. Lehman,state,United_States_congressional_delegations_from_New_York,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Herbert H. Lehman,title,Democratic nominee for U.S. Senator from New York,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,title,Democratic nominee for U.S. senator from New York,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,title,Director General of the United Nations Relief and Rehabilitation Administration,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,title,Liberal nominee for U.S. senator from New York,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Herbert H. Lehman,title,Governor_of_New_York,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MilitaryPerson
+Herbert H. Lehman,title,Lieutenant_Governor_of_New_York,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building
+Herbert H. Lehman,years,1929,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Herbert H. Lehman,years,1933,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Herbert H. Lehman,years,1943,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Herbert H. Lehman,years,1946,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Herbert H. Lehman,years,1949,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Herbert H. Lehman,years,19491950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Herbert H. Lehman,years,1932193419361938,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Joy Hanna,alias,Joy Lippard-Hanna,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Joy Hanna,birthDate,1990-10-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Joy Hanna,birthName,Joy Betty Lippard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Joy Hanna,instrument,"Vocals, singer-songwriter",outgoing,http://dbpedia.org/ontology/Instrument,
+Joy Hanna,name,Joy Hanna,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Joy Hanna,occupation,"Singer, songwriter, worship leader",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Richard McGuire,birthPlace,"New Jersey, US",outgoing,http://dbpedia.org/ontology/Place,
+Richard McGuire,name,Richard McGuire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tunku Abdul Rahman,birthDate,1903-02-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tunku Abdul Rahman,birthPlace,"Alor Setar, Kedah Sultanate, Siam",outgoing,http://dbpedia.org/ontology/Place,
+Tunku Abdul Rahman,deathDate,1990-12-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tunku Abdul Rahman,house,Mahawangsa,outgoing,http://dbpedia.org/ontology/Legislature,
+Tunku Abdul Rahman,monarch,,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,mother,Che Manjalara,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,office,Prime Minister of Malaysia,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tunku Abdul Rahman,office,Minister_of_Foreign_Affairs_(Malaysia),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tunku Abdul Rahman,office,Minister_of_Home_Affairs_(Malaysia),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tunku Abdul Rahman,office,Minister_of_Youth_and_Sports_(Malaysia),outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tunku Abdul Rahman,office,1,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,office,2,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,office,5,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,party,United Malays National Organisation,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Tunku Abdul Rahman,restingPlace,Kedah_Royal_Mausoleum,outgoing,http://dbpedia.org/ontology/Place,
+Tunku Abdul Rahman,signature,Tunku Abdul Rahman Putra al-haj signature.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tunku Abdul Rahman,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,spouse,Bibi Chong,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,spouse,divorced,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,spouse,Meriam_Chong,outgoing,http://dbpedia.org/ontology/Person,
+Tunku Abdul Rahman,spouse,1933,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,spouse,1935,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,spouse,1939,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,spouse,1946,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,spouse,1963,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,title,President of Asian Football Confederation,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tunku Abdul Rahman,title,Secretary General OIC,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tunku Abdul Rahman,title,Prime_Minister_of_Malaysia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person
+Tunku Abdul Rahman,years,1957,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,years,1958,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tunku Abdul Rahman,years,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sid Smith (ice hockey),birthDate,1925-07-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sid Smith (ice hockey),birthPlace,"Toronto, Ontario, Canada",outgoing,http://dbpedia.org/ontology/Place,
+Sid Smith (ice hockey),deathDate,2004-04-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sid Smith (ice hockey),deathPlace,"Wasaga Beach, Ontario, Canada",outgoing,http://dbpedia.org/ontology/Place,
+Sid Smith (ice hockey),name,Sid Smith,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sid Smith (ice hockey),shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sid Smith (ice hockey),title,Winner of the Lady Byng Trophy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sid Smith (ice hockey),title,List_of_Toronto_Maple_Leafs_captains,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sid Smith (ice hockey),years,1952,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sid Smith (ice hockey),years,1955,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Remi Wolf,birthDate,1996-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Remi Wolf,birthName,Remi Francis Wolf,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Remi Wolf,birthPlace,"Palo Alto, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Remi Wolf,genre,,outgoing,http://dbpedia.org/ontology/Genre,
+Remi Wolf,name,Remi Wolf,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Remi Wolf,artist,Remi Wolf,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Robert Weston,title,Lord_Chancellor_of_Ireland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building
+Robert Weston,years,1567,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Albert Young (American football),birthDate,1985-02-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Young (American football),name,Albert Young,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Albert Young (American football),number,343941,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Albert Young (American football),mvp,Albert Young (American football),incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/GridironFootballPlayer; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/AmericanFootballPlayer
+Lilla Cabot Perry,birthDate,1848-01-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lilla Cabot Perry,birthName,Lydia Cabot,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lilla Cabot Perry,birthPlace,"Boston, Massachusetts, US",outgoing,http://dbpedia.org/ontology/Place,
+Lilla Cabot Perry,deathDate,1933-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lilla Cabot Perry,deathPlace,"Hancock, New Hampshire, US",outgoing,http://dbpedia.org/ontology/Place,
+Lilla Cabot Perry,name,Lilla Cabot Perry,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lilla Cabot Perry,training,"* Cowles Art School
+* Académie Colarossi
+* Académie Julian",outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Kai Eide,birthDate,1949-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kai Eide,birthName,Kai Aage Eide,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kai Eide,imageSize,233,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Kai Eide,nationality,Norwegian,outgoing,http://dbpedia.org/ontology/Country,
+Kai Eide,occupation,Diplomat and writer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Kai Eide,title,Norwegian Permanent Representative to NATO,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kai Eide,years,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Jerod-Eddie,birthDate,1990-03-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tony Jerod-Eddie,name,Tony Jerod-Eddie,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tony Jerod-Eddie,number,63,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Fritz Stern,almaMater,Columbia University,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Fritz Stern,birthDate,1926-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fritz Stern,birthPlace,,outgoing,http://dbpedia.org/ontology/Place,
+Fritz Stern,birthPlace,Lower_Silesia_Province_(Prussia),outgoing,http://dbpedia.org/ontology/Place,
+Fritz Stern,deathDate,2016-05-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fritz Stern,deathPlace,"New York, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Fritz Stern,name,Fritz R. Stern,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fritz Stern,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Wilhelm Possak,birthDate,1905,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wilhelm Possak,name,Wilhelm Possak,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Anne Knüpp,birthDate,1954-01-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Anne Knüpp,name,Anne Knüpp,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Purnendu Sekhar Naskar,birthDate,March 1921,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Purnendu Sekhar Naskar,name,Purnendu Sekhar Naskar,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Purnendu Sekhar Naskar,office,Lok_Sabha,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Purnendu Sekhar Naskar,office,Member_of_Parliament,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Purnendu Sekhar Naskar,spouse,Suroma,outgoing,http://dbpedia.org/ontology/Person,
+Svend Olling,birthDate,1967-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Svend Olling,birthPlace,"Glostrup, Denmark",outgoing,http://dbpedia.org/ontology/Place,
+Svend Olling,name,Svend Olling,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paula Ritchie,date,--12-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paula Ritchie,name,Paula Ritchie,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paula Ritchie,role,middle order batswoman,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Paula Ritchie,year,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Andrea Fabbri,birthDate,1992-10-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Andrea Fabbri,birthPlace,"Milan, Italy",outgoing,http://dbpedia.org/ontology/Place,
+Andrea Fabbri,choreographer,Corrado Giordani,outgoing,http://dbpedia.org/ontology/Person,
+Andrea Fabbri,hometown,"Milan, Italy",outgoing,http://dbpedia.org/ontology/Settlement,
+Andrea Fabbri,id,13708,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andrea Fabbri,id,54525,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andrea Fabbri,id,103089,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andrea Fabbri,name,Alessia Busi / Andrea Fabbri,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Fabbri,name,Andrea Fabbri,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Fabbri,name,Carolina Moscheni / Andrea Fabbri,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Fabbri,name,Misato Komatsubara / Andrea Fabbri,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Andrea Fabbri,retired,2019-06-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isaac Taylor,birthDate,1787-08-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isaac Taylor,deathDate,1865-06-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isaac Taylor,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Boris Zhukov,birthDate,1959-12-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Boris Zhukov,birthPlace,"Roanoke, Virginia, United States",outgoing,http://dbpedia.org/ontology/Place,
+Boris Zhukov,debut,1978-05-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Boris Zhukov,height,187.96,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Boris Zhukov,name,Boris Zhukov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,names,Boris Zhukov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,names,Boris Zurhkov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,names,Jason,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/FictionalCharacter
+Boris Zhukov,names,Jim Nelson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,names,Mr. Russia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,names,Private Jim Nelson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boris Zhukov,retired,2012,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Boris Zhukov,trainer,Don Hogan,outgoing,http://dbpedia.org/ontology/Person,
+Boris Zhukov,trainer,Steve Savage,outgoing,http://dbpedia.org/ontology/Person,
+Boris Zhukov,weight,254.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Michaelle C. Solages,birthDate,1985-03-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Michaelle C. Solages,birthPlace,"Elmont, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Michaelle C. Solages,district,22,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Year
+Michaelle C. Solages,name,Michaelle C. Solages,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michaelle C. Solages,residence,"Elmont, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Michaelle C. Solages,representative,Michaelle C. Solages,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+William Coffey (cricketer),birthDate,Q4 1885,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Coffey (cricketer),date,--01-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Coffey (cricketer),deathDate,Unknown,outgoing,http://www.w3.org/2001/XMLSchema#date,
+William Coffey (cricketer),year,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Nieves Panadell,birthDate,1956-07-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Nieves Panadell,name,Nieves Panadell,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leo Deutsch (American football),name,Leo Deutsch,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leo Deutsch (American football),name,St. Benedict's,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leo Deutsch (American football),name,Benedictine_Ravens_football,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leo Deutsch (American football),ranking,no,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+Leo Deutsch (American football),year,1950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leo Deutsch (American football),year,1951,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leo Deutsch (American football),year,1952,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Beatrice of Brandenburg,date,August 2012,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Beatrice of Brandenburg,deathDate,--04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Beatrice of Brandenburg,mother,Judith of Henneberg,outgoing,http://dbpedia.org/ontology/Person,
+Beatrice of Brandenburg,name,Beatrice of Brandenburg,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Beatrice of Brandenburg,title,BRANDENBURG,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Henry Lee Junior,birthDate,1958-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Lee Junior,father,Henry Lee Hok-Ping,outgoing,http://dbpedia.org/ontology/Person,
+Henry Lee Junior,name,Henry Lee Junior,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Henry Lee Junior,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Henry Lee Junior,spouse,Yu Yang,outgoing,http://dbpedia.org/ontology/Person,
+Henry Lee Junior,spouse,1987,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+Henry Lee Junior,spouse,2003,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+Henry Lee Junior,spouse,2008,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+Henry Lee Junior,title,Asian_Touring_Car_Championship,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Henry Lee Junior,years,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Jonathan Williams (basketball, born 1995)",birthDate,1995-02-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Jonathan Williams (basketball, born 1995)",draftYear,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+"Jonathan Williams (basketball, born 1995)",name,Jonathan Williams,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Jonathan Williams (basketball, born 1995)",nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+"Jonathan Williams (basketball, born 1995)",team,Free Agent,outgoing,http://dbpedia.org/ontology/SportsTeam,
+"Jonathan Williams (basketball, born 1995)",team,GTK Gliwice,outgoing,http://dbpedia.org/ontology/SportsTeam,
+"Jonathan Williams (basketball, born 1995)",team,Okapi_Aalstar,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+"Jonathan Williams (basketball, born 1995)",years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+"Jonathan Williams (basketball, born 1995)",years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Jonathan Williams (basketball, born 1995)",years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Jonathan Williams (basketball, born 1995)",years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Hernán Cristante,birthDate,1969-09-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hernán Cristante,birthPlace,"La_Plata,_Argentina",outgoing,http://dbpedia.org/ontology/Place,
+Hernán Cristante,name,Hernán Cristante,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hernán Cristante,title,Hernán Cristante managerial positions,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hernán Cristante,years,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Hernán Cristante,years,1993,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,years,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,years,1996,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,years,1997,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hernán Cristante,name,Hernán Cristante,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerManager; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/SportsManager
+Sarpar Abejdan,officialName,Sarpar Abejdan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sarpar Abejdan,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sarpar Abejdan,populationTotal,83,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Sarpar Abejdan,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ludmila Polesná,date,2009-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ludmila Polesná,title,ICF medalists for Olympic and World Championships – Part 2: rest of flatwater  and remaining canoeing disciplines: 1936–2007,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+František Fadrhonc,birthDate,1914-12-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Fadrhonc,deathDate,1981-10-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Fadrhonc,deathPlace,"Nicosia, Cyprus",outgoing,http://dbpedia.org/ontology/Place,
+František Fadrhonc,name,František Fadrhonc,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+František Fadrhonc,title,František Fadrhonc managerial positions,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Peter Osterhoff,birthDate,1937-08-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Peter Osterhoff,birthPlace,"Hamburg, Germany",outgoing,http://dbpedia.org/ontology/Place,
+Peter Osterhoff,name,Peter Osterhoff,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Peter Osterhoff,years,1958,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Martín Ríos (judoka),birthDate,1978-07-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Martín Ríos (judoka),name,Martín Ríos,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ibrahim Bek,birthDate,1889,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ibrahim Bek,birthName,Ibrahimbek Chaqaboev,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ibrahim Bek,deathDate,1931-08-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ibrahim Bek,name,Ibrahim Bek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,birthDate,1924-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tomiichi Murayama,birthPlace,"Ōita, Japan",outgoing,http://dbpedia.org/ontology/Place,
+Tomiichi Murayama,name,Tomiichi Murayama,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,office,Member of the Ōita Assembly,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tomiichi Murayama,office,Member of the Ōita City Council,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tomiichi Murayama,office,for Oita 1st District,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tomiichi Murayama,office,for Ōita City,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tomiichi Murayama,office,House_of_Representatives_(Japan),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Tomiichi Murayama,office,Prime_Minister_of_Japan,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+Tomiichi Murayama,office,Social_Democratic_Party_(Japan),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PoliticalParty
+Tomiichi Murayama,party,Social Democratic Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Tomiichi Murayama,party,Socialist Party of Japan,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Tomiichi Murayama,signature,Signature of Tomiichi Murayama.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tomiichi Murayama,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Tomiichi Murayama,spouse,Yoshie Murayama,outgoing,http://dbpedia.org/ontology/Person,
+Tomiichi Murayama,spouse,1953,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,title,Chair of the Japan Socialist Party,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,title,Chair of the Social Democratic Party of Japan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,title,"Chair, JSP Diet Affairs Committee",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,title,Chairperson of APEC,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tomiichi Murayama,title,Prime_Minister_of_Japan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/PersonFunction
+Tomiichi Murayama,years,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,years,1993,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,years,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,years,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tomiichi Murayama,years,1996,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michele C. Edmondson,allegiance,United States,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Michele C. Edmondson,name,Michele C. Edmondson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,rank,Major_General_(United_States),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryPerson
+Michele C. Edmondson,title,Commander of the 381st Training Group,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,title,Commander of the 81st Training Wing,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,title,Commander of the Second Air Force,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,title,Director for Space Policy of the United States National Security Council,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,title,Senior Executive Officer to the Vice Chief of Staff of the United States Air Force,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,title,Commandant_of_Cadets_of_the_United_States_Air_Force_Academy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Michele C. Edmondson,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michele C. Edmondson,years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michele C. Edmondson,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Michele C. Edmondson,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michele C. Edmondson,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Michele C. Edmondson,years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Chad Copeland,birthDate,1971-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chad Copeland,college,"*Florida State 
+*Chattanooga",outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Chad Copeland,name,Chad Copeland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chad Copeland,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Wenceslas Kalibushi,birthDate,1919-06-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wenceslas Kalibushi,birthPlace,"Byimana, Rwanda",outgoing,http://dbpedia.org/ontology/Place,
+Wenceslas Kalibushi,consecration,1977-03-27,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Wenceslas Kalibushi,deathDate,1997-12-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wenceslas Kalibushi,name,Wenceslas Kalibushi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Wenceslas Kalibushi,ordination,1947-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wenceslas Kalibushi,title,"Bishop Emeritus of Nyundo, Rwanda",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chester Barnes,birthDate,1947-01-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chester Barnes,birthName,George Barnes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chester Barnes,birthPlace,"Forest Gate, Essex, England, UK",outgoing,http://dbpedia.org/ontology/Place,
+Chester Barnes,deathDate,2021-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chester Barnes,name,Chester Barnes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chester Barnes,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Chester Barnes,occupation,Racehorse Assistant Trainer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Chester Barnes,quote,"Early in his career, Barnes was involved in several clashes with officialdom. In a short time he became one of the best known sports personalities in England and demands for interviews, television appearances and exhibitions poured in. At the age of 16 he became the first English table tennis player in the history of the game to have a personal manager  to handle his business interests, and the publicity that surrounded his success is well documented. His fame and success was such that he was approached by a leading publisher at the time  to write his autobiography.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chester Barnes,width,30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Shahira Knight,name,Shahira Knight,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Shahira Knight,office,White House Director of Legislative Affairs,outgoing,http://www.w3.org/2001/XMLSchema#string,
+István Fehér,birthDate,1954-03-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+István Fehér,birthPlace,"Nagykőrös, Hungary",outgoing,http://dbpedia.org/ontology/Place,
+István Fehér,deathDate,March 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+István Fehér,name,István Fehér,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+István Fehér,nationality,Hungarian,outgoing,http://dbpedia.org/ontology/Country,
+Lay Khurin,officialName,Lay Khurin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lay Khurin,populationAsOf,2006,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lay Khurin,populationTotal,7,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Lay Khurin,utcOffset,210.0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Sultan Al-Anazi,birthDate,2001-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sultan Al-Anazi,name,(سلطان العنزي),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sultan Al-Anazi,name,Sultan Al-Anazi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sultan Al-Anazi,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sultan Al-Anazi,years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Sultan Al-Anazi,years,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Sultan Al-Anazi,name,Sultan Al-Anazi,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Roger Laurin,birthDate,1936,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Roger Laurin,name,Roger Laurin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Roger Laurin,occupation,Trainer / Owner,outgoing,http://dbpedia.org/ontology/PersonFunction,
+John Guard,birthDate,ca. 1791/1792,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Guard,birthName,John Guard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Guard,deathDate,1857-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+John Guard,name,Jacky Guard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+John Guard,occupation,"stonecutter, whaler, trader",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Pheidippides,imageSize,251,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pheidippides,name,Pheidippides,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Pheidippides,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Abdulla Atief,birthDate,1985-12-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Abdulla Atief,height,1.75 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Abdulla Atief,name,(عبد الله عاطف),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abdulla Atief,name,Abdulla Atief,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Abdulla Atief,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Abdulla Atief,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Maurice Darrow Bean,title,United_States_Ambassador_to_Burma,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Maurice Darrow Bean,years,1977,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+David Teivonen,birthDate,1889-06-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+David Teivonen,birthPlace,"Vyborg, Grand Duchy of Finland, Russian Empire",outgoing,http://dbpedia.org/ontology/Place,
+David Teivonen,club,Viipurin Reipas,outgoing,http://dbpedia.org/ontology/SportsTeam,
+David Teivonen,deathPlace,Soviet Union,outgoing,http://dbpedia.org/ontology/Place,
+David Teivonen,name,David Teivonen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+David Teivonen,nationalTeam,Finland,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+David Teivonen,sport,Artistic gymnastics,outgoing,http://dbpedia.org/ontology/Sport,
+Ignacio Walker,birthDate,1956-01-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ignacio Walker,birthName,Ignacio Walker Prieto,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ignacio Walker,name,Ignacio Walker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ignacio Walker,office,Minister of Foreign Affairs of Chile,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ignacio Walker,title,Ministry_of_Foreign_Affairs_(Chile),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building
+Ignacio Walker,years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Isabella Calthorpe,almaMater,,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Isabella Calthorpe,birthDate,1980-03-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Isabella Calthorpe,birthName,Isabella Amaryllis Charlotte Anstruther-Gough-Calthorpe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Isabella Calthorpe,birthPlace,"Winchester, Hampshire, England",outgoing,http://dbpedia.org/ontology/Place,
+Isabella Calthorpe,id,1671115,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Isabella Calthorpe,name,Isabella Calthorpe,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Isabella Calthorpe,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Isabella Calthorpe,spouse,Sam Branson,outgoing,http://dbpedia.org/ontology/Person,
+Isabella Calthorpe,spouse,2013,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Isabella Calthorpe,starring,Isabella Calthorpe,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Lee Glover,birthDate,1970-04-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Lee Glover,birthPlace,"Kettering, England",outgoing,http://dbpedia.org/ontology/Place,
+Lee Glover,name,Lee Glover,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lee Glover,years,1987,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Lee Glover,years,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Lee Glover,years,1990,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,1996,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,1997,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Lee Glover,years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Lee Glover,name,Lee Glover,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerManager; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/SportsManager
+Layton Maxwell,birthDate,1979-10-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Layton Maxwell,birthPlace,"St Asaph, Wales",outgoing,http://dbpedia.org/ontology/Place,
+Layton Maxwell,name,Layton Maxwell,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Layton Maxwell,years,1999,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2006,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Layton Maxwell,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Harold D. Cooley,birthDate,1897-07-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Harold D. Cooley,birthPlace,"Nashville, North Carolina, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Harold D. Cooley,deathDate,1974-01-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Harold D. Cooley,deathPlace,"Wilson, North Carolina, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Harold D. Cooley,district,4,outgoing,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Year
+Harold D. Cooley,name,Harold D. Cooley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Harold D. Cooley,occupation,lawyer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Harold D. Cooley,office,Chairman of the House Agriculture Committee,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Harold D. Cooley,state,North Carolina,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Harold D. Cooley,title,United_States_House_Committee_on_Agriculture,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Village
+Harold D. Cooley,years,1934,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Harold D. Cooley,years,1949,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Harold D. Cooley,years,1955,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Antoni Łaciak,id,33390,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Antoni Łaciak,name,A. Laciak,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tyrone Trice,birthDate,1963-10-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tyrone Trice,ko,35,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Tyrone Trice,name,Tyrone Trice,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tyrone Trice,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Tyrone Trice,weight,Welterweight and Middleweight,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Tyrone Trice,wins,43,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Claude Goasguen,birthDate,1945-03-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Goasguen,deathDate,2020-05-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Goasguen,deathPlace,"Issy-les-Moulineaux, France",outgoing,http://dbpedia.org/ontology/Place,
+Claude Goasguen,name,Claude Goasguen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Claude Goasguen,office,Mayor of the 16th arrondissement of Paris,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Goasguen,office,Member of the National Assembly,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Goasguen,office,"Minister of Reform of the State, Decentralisation and Citizenship",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Goasguen,office,for Paris,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Goasguen,office,List_of_Paris_councillors,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Goasguen,party,,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Tommy Butler,birthDate,1912-07-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommy Butler,birthPlace,"Fulham, London, England",outgoing,http://dbpedia.org/ontology/Place,
+Tommy Butler,deathDate,1970-04-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tommy Butler,department,Metropolitan_Police_Service,outgoing,http://dbpedia.org/ontology/Department,http://dbpedia.org/ontology/MilitaryUnit
+Tommy Butler,imageSize,200,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tommy Butler,name,Tommy Butler,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tommy Butler,rank,"Chief Superintendent, head of the Flying Squad",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Masataka Sakamoto,birthDate,1978-02-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Masataka Sakamoto,name,Masataka Sakamoto,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Masataka Sakamoto,name,坂本 將貴,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Masataka Sakamoto,years,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Masataka Sakamoto,years,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Masataka Sakamoto,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Masataka Sakamoto,name,Masataka Sakamoto,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Ricky Aramendi,birthDate,1937-03-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ricky Aramendi,birthName,Héctor Ricardo Aramendi Rueda,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ricky Aramendi,name,Ricky Aramendi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ricky Aramendi,years,1955,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ricky Aramendi,years,1959,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ricky Aramendi,years,1964,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ricky Aramendi,years,1966,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Wang Dong (swimmer),birthDate,1986-02-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Wang Dong (swimmer),name,Wang Dong,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fodé Doucouré,birthDate,2001-02-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fodé Doucouré,birthPlace,"Bamako, Mali",outgoing,http://dbpedia.org/ontology/Place,
+Fodé Doucouré,height,1.72 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Fodé Doucouré,name,Fodé Doucouré,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fodé Doucouré,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fodé Doucouré,years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Fodé Doucouré,years,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Fodé Doucouré,name,Fodé Doucouré,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Tony Ward (footballer),birthDate,1970-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tony Ward (footballer),birthPlace,"Warrington, England",outgoing,http://dbpedia.org/ontology/Place,
+Tony Ward (footballer),name,Tony Ward,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tony Ward (footballer),years,1988,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Ward (footballer),years,1989,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Tony Ward (footballer),years,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Ward (footballer),years,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Ward (footballer),years,1996,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tony Ward (footballer),years,1997,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Henry Calvert Simons,birthDate,1899-10-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Calvert Simons,deathDate,1946-06-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Henry Calvert Simons,name,Henry Calvert Simons,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paulo Baya,birthDate,1999-07-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paulo Baya,birthPlace,"Marabá, Brazil",outgoing,http://dbpedia.org/ontology/Place,
+Paulo Baya,height,1.86 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Paulo Baya,name,Paulo Baya,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paulo Baya,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Paulo Baya,years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Paulo Baya,years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Su Yiming,birthDate,2004-02-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Su Yiming,birthPlace,"Jilin City, Jilin, China",outgoing,http://dbpedia.org/ontology/Place,
+Su Yiming,event,Big_air,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/MusicGenre
+Su Yiming,event,Slopestyle,outgoing,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Su Yiming,name,Su Yiming,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Su Yiming,nationality,Chinese,outgoing,http://dbpedia.org/ontology/Country,
+Tim Wilson (British politician),birthDate,1961-05-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tim Wilson (British politician),birthPlace,"Derby, Derbyshire, England",outgoing,http://dbpedia.org/ontology/Place,
+Tim Wilson (British politician),name,Tim Wilson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tim Wilson (British politician),occupation,,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Tim Wilson (British politician),occupation,former politician,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Tim Wilson (British politician),occupation,professor,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Tim Wilson (British politician),party,,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Courtney Jaye,birthDate,1978-02-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Courtney Jaye,birthName,Courtney Jaye Goldberg,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Courtney Jaye,name,Courtney Jaye,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Courtney Jaye,origin,"Pittsburgh, Pennsylvania, U.S.; Nashville, Tennessee, U.S.",outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Courtney Jaye,artist,Courtney Jaye,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+Koh Eng Kian,birthDate,1956-11-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Koh Eng Kian,name,Koh Eng Kian,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Albert Pugsley,birthDate,1910-03-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Pugsley,birthPlace,"Mildura, Victoria",outgoing,http://dbpedia.org/ontology/Place,
+Albert Pugsley,deathDate,2002-11-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Albert Pugsley,name,Albert Pugsley,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rodman Teltull,birthDate,1994-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rodman Teltull,coach,Nathan_Podunajec,outgoing,http://dbpedia.org/ontology/Person,
+Rodman Teltull,event,100.0,outgoing,http://dbpedia.org/ontology/Event,
+Rodman Teltull,updated,2013-05-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mariló López Garrido,employer,"Cadena Continental, Grupo PRISA",outgoing,http://dbpedia.org/ontology/Organisation,
+Mariló López Garrido,imageSize,230,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mariló López Garrido,name,Mariló López Garrido,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Alfred Eisenack,birthDate,1891-05-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alfred Eisenack,birthPlace,"Altfelde, West Prussia",outgoing,http://dbpedia.org/ontology/Place,
+Alfred Eisenack,deathDate,1982-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alfred Eisenack,name,Alfred Eisenack,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Alfred Eisenack,nationality,German,outgoing,http://dbpedia.org/ontology/Country,
+Iva Jurišić,birthDate,1994-03-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Iva Jurišić,name,Iva Jurišić,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Iva Jurišić,nationality,Croatian,outgoing,http://dbpedia.org/ontology/Country,
+Desmond Lardner-Burke,birthDate,1909-10-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Desmond Lardner-Burke,deathDate,1984,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Desmond Lardner-Burke,name,Desmond Lardner-Burke,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Desmond Lardner-Burke,office,Ministry_of_Justice_(Rhodesia),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Desmond Lardner-Burke,title,Member of Parliament for Gwelo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Desmond Lardner-Burke,title,Ministry_of_Justice_(Rhodesia),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/GovernmentAgency; http://dbpedia.org/ontology/Organisation
+Desmond Lardner-Burke,years,19481954,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Desmond Lardner-Burke,years,19621970,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Desmond Lardner-Burke,years,19641976,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Desmond Lardner-Burke,years,19701974,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Christer Hammargren,birthDate,1944-10-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Christer Hammargren,name,Christer Hammargren,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Christer Hammargren,wins,11,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Christer Hammargren,years,1967,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Pearl (drag queen),birthDate,1990-09-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Pearl (drag queen),birthName,Matthew James Lent,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Pearl (drag queen),name,Pearl,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ChemicalSubstance; http://dbpedia.org/ontology/Currency; http://dbpedia.org/ontology/Mineral; http://dbpedia.org/ontology/Planet
+Pearl (drag queen),artist,Pearl (drag queen),incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Pearl (drag queen),producer,Pearl (drag queen),incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Eric Pohlmann,birthDate,1913-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eric Pohlmann,birthName,Erich Pollak,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eric Pohlmann,deathDate,1979-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eric Pohlmann,deathPlace,"Bad Reichenhall, Upper Bavaria, Germany",outgoing,http://dbpedia.org/ontology/Place,
+Eric Pohlmann,id,688384,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eric Pohlmann,name,Eric Pohlmann,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eric Pohlmann,spouse,Liselotte Goettinger ;,outgoing,http://dbpedia.org/ontology/Person,
+Eric Pohlmann,starring,Eric Pohlmann,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Viscount Monsell,motto,Mone Sale,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Viscount Monsell,title,Viscount Monsell,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lynda Applegate,birthName,Lynda McDonald Applegate,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lynda Applegate,name,Lynda Applegate,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Lynda Applegate,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Larry Manetti,birthDate,1947-07-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Larry Manetti,birthName,Lawrence Francis Manetti,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Manetti,birthPlace,"Chicago, Illinois, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Larry Manetti,name,Larry Manetti,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Manetti,occupation,"Actor, memoirist",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Larry Manetti,spouse,Nancy DeCarl Manetti,outgoing,http://dbpedia.org/ontology/Person,
+Larry Manetti,producer,Larry Manetti,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Larry Manetti,starring,Larry Manetti,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+David McDowall (criminologist),name,David McDowall,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boselli,imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Boselli,language,Italian,outgoing,http://dbpedia.org/ontology/Language,
+Boselli,meaning,Derived from boxwood,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Boselli,name,Bosselli,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Boselli,region,"Lombardy in northern Italy, particularly Milan",outgoing,http://dbpedia.org/ontology/Place,
+Tonislav Hristov,birthDate,1978-12-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tonislav Hristov,birthName,Tonislav Hristov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tonislav Hristov,birthPlace,Vratza,outgoing,http://dbpedia.org/ontology/Place,
+Tonislav Hristov,date,January 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tonislav Hristov,name,Tonislav Hristov,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tonislav Hristov,name,Тонислав Христов,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Vijayachandra,father,Govindachandra,outgoing,http://dbpedia.org/ontology/Person,
+Vijayachandra,house,Gahadavala,outgoing,http://dbpedia.org/ontology/Legislature,
+Vijayachandra,name,Vijayachandra,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+Vijayachandra,reign,c. 1155-1169 CE,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Vijayachandra,spouse,Sundri,outgoing,http://dbpedia.org/ontology/Person,
+Vijayachandra,title,Ashva-pati Nara-pati Gaja-pati Rajatrayadhipati,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Alessandro Zisa,birthDate,1965-04-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Alessandro Zisa,name,Alessandro Zisa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Alessandro Zisa,otherAppearances,European Mixed Championship: 1,outgoing,http://dbpedia.org/ontology/OlympicResult,
+Rob Bourdon,background,non_vocal_instrumentalist,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rob Bourdon,birthDate,1979-01-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rob Bourdon,birthName,Robert Gregory Bourdon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rob Bourdon,birthPlace,"Calabasas, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Rob Bourdon,genre,,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,genre,Alternative metal,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,genre,alternative rock,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,genre,hard rock,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,genre,heavy metal,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,genre,nu metal,outgoing,http://dbpedia.org/ontology/Genre,
+Rob Bourdon,instrument,,outgoing,http://dbpedia.org/ontology/Instrument,
+Rob Bourdon,instrument,Drums,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicalArtist
+Rob Bourdon,instrument,percussion,outgoing,http://dbpedia.org/ontology/Instrument,
+Rob Bourdon,name,Rob Bourdon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",birthDate,1654,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",deathDate,--01-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Thomas Grey, 2nd Earl of Stamford",monarch,William_III_and_II,outgoing,http://dbpedia.org/ontology/Person,
+"Thomas Grey, 2nd Earl of Stamford",name,The Earl of Stamford,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",office,President_of_the_Board_of_Trade,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Thomas Grey, 2nd Earl of Stamford",title,Chancellor_of_the_Duchy_of_Lancaster,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",title,Custos_Rotulorum_of_Devon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",title,Custos_Rotulorum_of_Leicestershire,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",title,Earl_of_Stamford,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",title,Lord_Lieutenant_of_Devon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",title,President_of_the_Board_of_Trade,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Thomas Grey, 2nd Earl of Stamford",years,1673,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",years,1689,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",years,1696,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",years,1697,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",years,1699,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Thomas Grey, 2nd Earl of Stamford",years,1707,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Matilda Castren,birthDate,1995-01-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Matilda Castren,birthPlace,"New York, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Matilda Castren,name,Matilda Castren,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Matilda Castren,residence,"San Diego, California",outgoing,http://dbpedia.org/ontology/Place,
+Mark Green (American football),birthDate,1967-03-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Green (American football),name,Mark Green,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mark Green (American football),number,31,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Skid Robot,title,The Skid Robot Project,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Arthur Smith (footballer, born 1887)",birthDate,1887,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Arthur Smith (footballer, born 1887)",birthPlace,"Stourbridge, England",outgoing,http://dbpedia.org/ontology/Place,
+"Arthur Smith (footballer, born 1887)",name,Arthur Smith,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Arthur Smith (footballer, born 1887)",years,1911,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Arthur Smith (footballer, born 1887)",years,1912,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Arthur Smith (footballer, born 1887)",years,1914,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,birthDate,1951-06-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Larry Robinson,birthPlace,"Winchester, Ontario, Canada",outgoing,http://dbpedia.org/ontology/Place,
+Larry Robinson,draft,20,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Larry Robinson,draftYear,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,imageSize,230,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Larry Robinson,title,Winner of the Conn Smythe Trophy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Robinson,title,Winner of the Norris Trophy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Robinson,title,List_of_Los_Angeles_Kings_head_coaches,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/SportsTeam
+Larry Robinson,title,List_of_New_Jersey_Devils_head_coaches,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Larry Robinson,years,1977,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,years,1978,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,years,1980,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,years,1995,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,years,2000,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Larry Robinson,years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Larry Robinson,mvp,Larry Robinson,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/IceHockeyPlayer; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/WinterSportPlayer
+Ramkrishna Ghosh,name,Ramkrishna Ghosh,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ramkrishna Ghosh,occupation,Member of Assam Legislative Assembly,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Ramkrishna Ghosh,office,Assam_Legislative_Assembly,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Ramkrishna Ghosh,party,Bhartiya Janata Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Ramkrishna Ghosh,spouse,Smt. Aparna Ghosh,outgoing,http://dbpedia.org/ontology/Person,
+Gilbert Dussier,birthDate,1949-12-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gilbert Dussier,birthPlace,Oïcha-Beri,outgoing,http://dbpedia.org/ontology/Place,
+Gilbert Dussier,deathDate,1979-01-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gilbert Dussier,height,1.78 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Gilbert Dussier,name,Gilbert Dussier,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gilbert Dussier,years,1967,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gilbert Dussier,years,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gilbert Dussier,years,1974,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gilbert Dussier,years,1975,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gilbert Dussier,years,1977,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gilbert Dussier,years,1978,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Christina Pazsitzky,birthDate,1976-06-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Christina Pazsitzky,birthPlace,"Windsor, Ontario, Canada",outgoing,http://dbpedia.org/ontology/Place,
+Christina Pazsitzky,genre,Mother,outgoing,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person
+Christina Pazsitzky,italicTitle,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Christina Pazsitzky,language,English,outgoing,http://dbpedia.org/ontology/Language,
+Christina Pazsitzky,length,-6000.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Christina Pazsitzky,name,Christina Pazsitzky,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Christina Pazsitzky,nationality,,outgoing,http://dbpedia.org/ontology/Country,
+Christina Pazsitzky,nationality,United States,outgoing,http://dbpedia.org/ontology/Country,
+Christina Pazsitzky,production,Your_Mom's_House,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/RadioProgram
+Christina Pazsitzky,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Christina Pazsitzky,spouse,2008,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+Christina Pazsitzky,title,Where My Moms At?,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Christina Pazsitzky,title,Christina Pazsitzky,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Comedian; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+Mehdi Karbalaei,birthDate,1993-03-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mehdi Karbalaei,name,Mehdi Karbalaei,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mehdi Karbalaei,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,years,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Mehdi Karbalaei,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mehdi Karbalaei,years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Mehdi Karbalaei,name,Mehdi Karbalaei,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Louise Overacker,birthDate,1891-11-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Louise Overacker,birthPlace,"Centreville, California",outgoing,http://dbpedia.org/ontology/Place,
+Louise Overacker,deathPlace,Los_Gatos,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band
+Louise Overacker,name,Louise Overacker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Oh Hu-seong,birthDate,1999-08-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Oh Hu-seong,birthPlace,South Korea,outgoing,http://dbpedia.org/ontology/Place,
+Oh Hu-seong,height,1.73 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Oh Hu-seong,name,Oh Hu-seong,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Oh Hu-seong,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Oh Hu-seong,name,Oh Hu-seong,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Filipe da Costa,birthDate,1984-08-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Filipe da Costa,birthPlace,"Lisbon, Portugal",outgoing,http://dbpedia.org/ontology/Place,
+Filipe da Costa,height,1.80 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Filipe da Costa,name,Filipe da Costa,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Filipe da Costa,years,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Filipe da Costa,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Filipe da Costa,name,Filipe da Costa,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Jean Renaux,birthDate,1933-06-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jean Renaux,deathDate,2018-02-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jean Renaux,name,Jean Renaux,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jeff Manday,birthDate,1995-03-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jeff Manday,birthPlace,"Bacolod, Philippines",outgoing,http://dbpedia.org/ontology/Place,
+Jeff Manday,college,Colegio_de_Santa_Ana_de_Victorias,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Jeff Manday,league,PBA_3x3,outgoing,http://dbpedia.org/ontology/SportsLeague,
+Jeff Manday,name,Jeff Manday,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jeff Manday,nationality,Filipino,outgoing,http://dbpedia.org/ontology/Country,
+Jeff Manday,number,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Jeff Manday,team,San Miguel Beermen 3x3,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Jeff Manday,years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Ante Milicic,birthDate,1974-04-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ante Milicic,imageSize,200,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,name,Ante Milicic,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ante Milicic,title,Awards,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Ante Milicic,years,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,1993,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,1997,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,1999,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Ante Milicic,years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Ante Milicic,years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Ante Milicic,years,2006,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Ante Milicic,years,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ante Milicic,name,Ante Milicic,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerManager; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/SportsManager
+Peter Cronjé,birthDate,1949-09-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Peter Cronjé,birthName,Peter Arnold Cronjé,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Peter Cronjé,deathDate,2020-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Peter Cronjé,height,1.82m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Peter Cronjé,name,Peter Cronjé,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Peter Cronjé,weight,86.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Nikolay Noritsyn,birthDate,1991-05-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Nikolay Noritsyn,birthPlace,"Kaliningrad,_Russia",outgoing,http://dbpedia.org/ontology/Place,
+Nikolay Noritsyn,name,Nikolay Noritsyn,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Nikolay Noritsyn,title,International_Master,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Teodoro R. Yangco,alongside,Jaime C. de Veyra,outgoing,http://dbpedia.org/ontology/Person,
+Teodoro R. Yangco,birthDate,1861-11-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Teodoro R. Yangco,deathDate,1939-04-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Teodoro R. Yangco,name,Teodoro R. Yangco,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Teodoro R. Yangco,nationality,Filipino,outgoing,http://dbpedia.org/ontology/Country,
+Teodoro R. Yangco,office,Resident_Commissioners_from_the_Philippines,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Teodoro R. Yangco,title,Resident_Commissioners_from_the_Philippines,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Teodoro R. Yangco,title,United_States_Congress,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Legislature; http://dbpedia.org/ontology/Organisation
+Teodoro R. Yangco,years,1917,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bill LaFortune,birthDate,1957-08-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bill LaFortune,name,Bill LaFortune,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bill LaFortune,office,37,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Bill LaFortune,title,37,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Bill LaFortune,years,--04-01,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Tieta,id,117910,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tieta,isbn,0,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Tieta,name,Tieta,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/WrittenWork
+Tieta,publisher,Distribuidora Record,outgoing,http://dbpedia.org/ontology/Agent,
+Tieta,releaseDate,1977,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Tieta,title,Tieta do Agreste,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tieta,translator,Barbara Shelby,outgoing,http://dbpedia.org/ontology/Person,
+Richard Coates (footballer),birthDate,1889,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Coates (footballer),birthPlace,"Stoke-upon-Trent, England",outgoing,http://dbpedia.org/ontology/Place,
+Richard Coates (footballer),deathDate,1960,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Coates (footballer),deathPlace,"Chester, England",outgoing,http://dbpedia.org/ontology/Place,
+Richard Coates (footballer),name,Richard Coates,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Coates (footballer),years,1912,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Richard Coates (footballer),years,1914,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Adam Christian Thebesius,birthDate,1686-01-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Adam Christian Thebesius,deathDate,1732-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Adam Christian Thebesius,imageSize,150,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/Year
+Adam Christian Thebesius,name,Adam Christian Thebesius,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Adam Christian Thebesius,nationality,German,outgoing,http://dbpedia.org/ontology/Country,
+Logan Warmoth,birthDate,1995-09-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Logan Warmoth,name,Logan Warmoth,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Logan Warmoth,team,Toronto Blue Jays,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Clotworthy Upton (Royal Navy officer),allegiance,United Kingdom,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Clotworthy Upton (Royal Navy officer),deathPlace,At sea,outgoing,http://dbpedia.org/ontology/Place,
+Clotworthy Upton (Royal Navy officer),name,Clotworthy Upton,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bruce Woodcock (computer games analyst),date,2011-11-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Ortmann,birthDate,1986-06-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Mark Ortmann,college,Michigan_Wolverines_football,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/SoccerClub
+Mark Ortmann,hometown,"Klein, Texas",outgoing,http://dbpedia.org/ontology/Settlement,
+Mark Ortmann,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mark Ortmann,name,Mark Ortmann,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Mark Ortmann,weight,270,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mark Ortmann,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Mark Ortmann,year,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Rebecca Doerge,name,Rebecca Whitbeck Doerge,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rebecca Doerge,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Rebecca Doerge,occupation,academic,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Jody Lynn Nye,date,December 2014,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Andreas Molinder,birthDate,1987-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Andreas Molinder,imageSize,230,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Andreas Molinder,shoots,Left,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Andreas Molinder,team,Free agent,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Samantha Fox (politician),district,Merrimack 23,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Samantha Fox (politician),name,Samantha Fox,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jānis Poruks,birthDate,1871-10-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jānis Poruks,birthPlace,Druviena_parish,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+Jānis Poruks,deathDate,1911-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jānis Poruks,name,Jānis Poruks,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jānis Poruks,occupation,"Poet, writer",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Raymond Wilson Chambers,author,yes,outgoing,http://dbpedia.org/ontology/Person,
+Raymond Wilson Chambers,id,"Chambers, Raymond Wilson",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Raymond Wilson Chambers,id,"Chambers,+R.+W.+",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Raymond Wilson Chambers,name,Raymond Wilson Chambers,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cherif Hamia,birthDate,1931-03-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cherif Hamia,birthPlace,"Guergou, Algeria",outgoing,http://dbpedia.org/ontology/Place,
+Cherif Hamia,deathDate,1991-06-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cherif Hamia,id,16296,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cherif Hamia,ko,15,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Cherif Hamia,name,Cherif Hamia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cherif Hamia,nationality,Algerain,outgoing,http://dbpedia.org/ontology/Country,
+Cherif Hamia,weight,Featherweight,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/PersonFunction
+Cherif Hamia,wins,33,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Leslie Cree,almaMater,Belfast College of Commerce,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Leslie Cree,birthDate,1941-07-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Leslie Cree,birthPlace,"Bangor, County Down, Northern Ireland, UK",outgoing,http://dbpedia.org/ontology/Place,
+Leslie Cree,name,Leslie Cree,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leslie Cree,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Leslie Cree,title,MLA for North Down,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leslie Cree,title,Mayor_of_North_Down,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leslie Cree,years,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Leslie Cree,years,2003,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Leslie Cree,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Péter Bajzát,birthDate,1981-06-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Péter Bajzát,birthPlace,"Eger, Hungary",outgoing,http://dbpedia.org/ontology/Place,
+Péter Bajzát,height,1.83 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Péter Bajzát,name,Péter Bajzát,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Péter Bajzát,years,1998,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2004,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2009,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2015,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2016,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Péter Bajzát,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Péter Bajzát,name,Péter Bajzát,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Emilio Bizzi,almaMater,University of Pisa  – 1968,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Emilio Bizzi,almaMater,University of Rome  – 1958,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Emilio Bizzi,birthDate,1933-02-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Emilio Bizzi,name,Emilio Bizzi,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Emilio Bizzi,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Emilio Bizzi,residence,United States,outgoing,http://dbpedia.org/ontology/Place,
+Zdenko Runjić,birthDate,1942-10-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Zdenko Runjić,deathDate,2004-10-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Zdenko Runjić,deathPlace,"Krapinske Toplice, Croatia",outgoing,http://dbpedia.org/ontology/Place,
+Zdenko Runjić,name,Zdenko Runjić,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Zdenko Runjić,nationality,Croatian,outgoing,http://dbpedia.org/ontology/Country,
+Zdenko Runjić,occupation,,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Zdenko Runjić,occupation,businessman,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Zdenko Runjić,occupation,music producer,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Zdenko Runjić,spouse,Vedrana Runjić,outgoing,http://dbpedia.org/ontology/Person,
+Hiroshi Naka,birthDate,1960-11-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hiroshi Naka,birthName,Hiroaki Nakamura,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hiroshi Naka,birthPlace,"Ōita Prefecture, Japan",outgoing,http://dbpedia.org/ontology/Place,
+Hiroshi Naka,height,168.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Hiroshi Naka,name,Hiroshi Naka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hiroshi Naka,occupation,,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Hiroshi Naka,occupation,narrator,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Hiroshi Naka,occupation,voice actor,outgoing,http://dbpedia.org/ontology/PersonFunction,
+Niq Mhlongo,birthDate,1973-06-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Niq Mhlongo,birthPlace,"Midway-Chiawelo, Soweto, South Africa",outgoing,http://dbpedia.org/ontology/Place,
+Niq Mhlongo,name,Niq Mhlongo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Niq Mhlongo,occupation,"Journalist, editor, writer and educator",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Simon Maina,countryCode,KEN,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Simon Maina,sport,Men's athletics,outgoing,http://dbpedia.org/ontology/Sport,
+Luis Scott-Vargas,date,August 2016,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Luis Scott-Vargas,title,List_of_Magic:_The_Gathering_national_champions,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person
+Luis Scott-Vargas,years,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ivan Johnson,birthDate,1953-06-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ivan Johnson,birthPlace,"Nassau, Bahamas",outgoing,http://dbpedia.org/ontology/Place,
+Ivan Johnson,deathDate,2021-10-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ivan Johnson,height,175.26,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Ivan Johnson,name,Ivan Johnson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ivan Johnson,role,All-rounder,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Cricketer
+Aneta Michałek,birthDate,1991-05-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Aneta Michałek,birthPlace,"Oświęcim, Poland",outgoing,http://dbpedia.org/ontology/Place,
+Aneta Michałek,choreographer,Liliana Zalewska,outgoing,http://dbpedia.org/ontology/Person,
+Aneta Michałek,coach,Iwona Mydlarz-Chruścińska,outgoing,http://dbpedia.org/ontology/Person,
+Aneta Michałek,id,7440,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aneta Michałek,id,7889,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Aneta Michałek,name,Aneta Michałek,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aneta Michałek,name,Aneta Michałek / Bartosz Paluchowski,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Aneta Michałek,retired,2013,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,birthDate,1989-05-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Guillermo Pfund,birthPlace,"Tornquist, Argentina",outgoing,http://dbpedia.org/ontology/Place,
+Guillermo Pfund,height,1.85 m,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Guillermo Pfund,name,Guillermo Pfund,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Guillermo Pfund,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Guillermo Pfund,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Guillermo Pfund,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guillermo Pfund,name,Guillermo Pfund,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Ferenc A. Jolesz,almaMater,Budapest,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Ferenc A. Jolesz,almaMater,Hungary,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+Ferenc A. Jolesz,birthDate,1946-05-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ferenc A. Jolesz,deathDate,2014-12-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ferenc A. Jolesz,deathPlace,United States,outgoing,http://dbpedia.org/ontology/Place,
+Ferenc A. Jolesz,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Gary Nelson (bishop),birthDate,1952-05-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gary Nelson (bishop),birthName,Gary Neville Nelson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Nelson (bishop),consecration,2012-04-14,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Gary Nelson (bishop),name,Gary Nelson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Nelson (bishop),ordination,1983,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Gary Nelson (bishop),province,Province_of_Western_Australia,outgoing,http://dbpedia.org/ontology/Province,http://dbpedia.org/ontology/Settlement
+Gary Nelson (bishop),spouse,Christine,outgoing,http://dbpedia.org/ontology/Person,
+Gary Nelson (bishop),title,Bishop of North West Australia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Nelson (bishop),title,Anglican_Bishop_of_North_West_Australia,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/ClericalAdministrativeRegion; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Diocese; http://dbpedia.org/ontology/AdministrativeRegion
+Gary Nelson (bishop),years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Edward Truelove,birthDate,1809-10-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Edward Truelove,deathDate,1899-04-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Edward Truelove,name,Edward Truelove,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Edward Truelove,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Edward Truelove,spouse,Harriett Potbory,outgoing,http://dbpedia.org/ontology/Person,
+Bojan Mališić,birthDate,1984-01-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bojan Mališić,height,185.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Bojan Mališić,imageSize,200,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,name,Bojan Mališić,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bojan Mališić,years,2002,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2012,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Bojan Mališić,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bojan Mališić,years,2021,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Bojan Mališić,name,Bojan Mališić,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Kjell Eriksson,name,Kjell Eriksson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kjell Eriksson,nationality,Swedish,outgoing,http://dbpedia.org/ontology/Country,
+Prince Henri of Orléans,birthDate,1867-10-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Prince Henri of Orléans,birthPlace,"Ham, London, England",outgoing,http://dbpedia.org/ontology/Place,
+Prince Henri of Orléans,deathDate,1901-08-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Prince Henri of Orléans,house,House_of_Orléans,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+Prince Henri of Orléans,name,Prince Henri,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Prince Henri of Orléans,volume,20,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Jim McCarthy (author),name,Jim McCarthy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jim McCarthy (author),nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Yuji Iga,birthDate,1965-07-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yuji Iga,birthPlace,"Tomakomai, Japan",outgoing,http://dbpedia.org/ontology/Place,
+Yuji Iga,name,Yuji Iga,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Yuji Iga,nationality,Japanese,outgoing,http://dbpedia.org/ontology/Country,
+František Cipro,birthDate,1947-04-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+František Cipro,name,František Cipro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+František Cipro,years,1966,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+František Cipro,years,1968,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+František Cipro,years,1970,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+František Cipro,years,1971,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+František Cipro,years,1980,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+František Cipro,years,1984,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chris Samnee,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Kochu Thampuratti,cinematography,P. N. Sundaram,outgoing,http://dbpedia.org/ontology/Person,
+Kochu Thampuratti,director,Rochy Alex,outgoing,http://dbpedia.org/ontology/Person,
+Kochu Thampuratti,distributor,Panchami Pictures,outgoing,http://dbpedia.org/ontology/Organisation,
+Kochu Thampuratti,editing,N. P. Suresh,outgoing,http://dbpedia.org/ontology/Person,
+Kochu Thampuratti,name,Kochu Thampuratti,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kochu Thampuratti,starring,Sharmila,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Name; http://dbpedia.org/ontology/GivenName
+Kochu Thampuratti,starring,Cochin_Haneefa,outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Kochu Thampuratti,starring,Vincent_(actor),outgoing,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Kochu Thampuratti,writer,Purushan Alappuzha,outgoing,http://dbpedia.org/ontology/Person,
+George Gillpatrick,birthDate,1875-02-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George Gillpatrick,deathDate,1941-12-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+George Gillpatrick,name,George Gillpatrick,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Dougie Lawrence,birthDate,1929-10-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dougie Lawrence,birthPlace,"Portobello, Midlothian, Scotland",outgoing,http://dbpedia.org/ontology/Place,
+Dougie Lawrence,club,Scotland_cricket_team,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Country
+Dougie Lawrence,date,--07-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dougie Lawrence,deathDate,2000-07-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dougie Lawrence,deathPlace,"Edinburgh, Midlothian, Scotland",outgoing,http://dbpedia.org/ontology/Place,
+Dougie Lawrence,year,1956,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dougie Lawrence,year,2022,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Juan Francisco Guevara,birthDate,1995-08-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Juan Francisco Guevara,birthPlace,"Lorca, Spain",outgoing,http://dbpedia.org/ontology/Place,
+Juan Francisco Guevara,name,Juan Francisco Guevara,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Juan Francisco Guevara,nationality,Spanish,outgoing,http://dbpedia.org/ontology/Country,
+Leandra Ramm,birthName,Leandra Erin Ramm,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leandra Ramm,birthPlace,"New York City, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Leandra Ramm,name,Leandra Ramm,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Leandra Ramm,occupation,Singer and actress,outgoing,http://dbpedia.org/ontology/PersonFunction,
+"William Dowdeswell (politician, born 1804)",title,Member of Parliament for Tewkesbury,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"William Dowdeswell (politician, born 1804)",years,1835,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Carlos Rodríguez (darts player),birthDate,1979-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Carlos Rodríguez (darts player),birthPlace,"Sabadell, Catalonia, Spain",outgoing,http://dbpedia.org/ontology/Place,
+Carlos Rodríguez (darts player),hometown,"Terrassa, Catalonia, Spain",outgoing,http://dbpedia.org/ontology/Settlement,
+Carlos Rodríguez (darts player),id,1561,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Carlos Rodríguez (darts player),laterality,Right-handed,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Carlos Rodríguez (darts player),name,Carlos Rodríguez,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Carlos Rodríguez (darts player),updated,2019-03-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,birthDate,1894-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,birthName,Roy R. Van Graafeiland,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Roy Van Graflan,birthPlace,"Rochester, New York, US",outgoing,http://dbpedia.org/ontology/Place,
+Roy Van Graflan,deathDate,1953-09-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Roy Van Graflan,deathPlace,"Rochester, New York, US",outgoing,http://dbpedia.org/ontology/Place,
+Roy Van Graflan,name,Roy Van Graflan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kandi Wyatt,birthDate,1991-03-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kandi Wyatt,height,170.18,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kandi Wyatt,ko,3,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Kandi Wyatt,name,Kandi Wyatt,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kandi Wyatt,weight,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kandi Wyatt,weight,Light_welterweight,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kandi Wyatt,weight,Welterweight,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Kandi Wyatt,wins,10,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Chaz Davies,birthDate,1987-02-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Chaz Davies,birthPlace,"Knighton, Powys, Wales",outgoing,http://dbpedia.org/ontology/Place,
+Chaz Davies,currentTeam,GoEleven,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Chaz Davies,name,Chaz Davies,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Chaz Davies,nationality,Welsh,outgoing,http://dbpedia.org/ontology/Country,
+José María Esquerdo,birthDate,1842-02-02,outgoing,http://www.w3.org/2001/XMLSchema#date,
+José María Esquerdo,birthPlace,"Villajoyosa, Spain",outgoing,http://dbpedia.org/ontology/Place,
+José María Esquerdo,deathDate,1912-01-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+José María Esquerdo,deathPlace,"Madrid, Spain",outgoing,http://dbpedia.org/ontology/Place,
+José María Esquerdo,name,José María Esquerdo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+José María Esquerdo,nationality,Spanish,outgoing,http://dbpedia.org/ontology/Country,
+José María Esquerdo,office,City_Council_of_Madrid,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+José María Esquerdo,office,Member_of_the_Congress_of_Deputies,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jacques Botherel,birthDate,1946-12-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jacques Botherel,name,Jacques Botherel,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jacques Botherel,role,Rider,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Horace M. Albright,birthDate,1890-01-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Horace M. Albright,deathDate,1987-03-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Horace M. Albright,name,Horace M. Albright,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Horace M. Albright,occupation,"Conservationist, Director of the National Park Service",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Horace M. Albright,spouse,Grace Noble,outgoing,http://dbpedia.org/ontology/Person,
+Horace M. Albright,title,Director of the National Park Service,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Horace M. Albright,years,1929,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Armine Pickett,birthDate,1800-07-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Armine Pickett,deathDate,1875-04-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Armine Pickett,deathPlace,"Pickett, Wisconsin, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Armine Pickett,district,Winnebago 3rd,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Armine Pickett,name,Armine Pickett,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Armine Pickett,party,,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Armine Pickett,party,Reform Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Armine Pickett,party,Republican Party,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Armine Pickett,spouse,Anne Pickett,outgoing,http://dbpedia.org/ontology/Person,
+Armine Pickett,years,--01-07,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Jessica Dickson,birthDate,1984-09-06,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jessica Dickson,college,South_Florida_Bulls,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsTeam; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/SoccerClub
+Jessica Dickson,draftLeague,WNBA,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jessica Dickson,draftPick,21,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Jessica Dickson,draftRound,2,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Jessica Dickson,draftYear,2007,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jessica Dickson,name,Jessica Dickson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jessica Dickson,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Cathy Vitale,birthDate,1964-08-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cathy Vitale,district,33.0,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Cathy Vitale,name,Cathy Vitale,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cathy Vitale,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Cathy Vitale,office,"Associate Judge, Anne Arundel County Circuit Court, 5th Judicial Circuit",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Cathy Vitale,spouse,Mark Muckellbauer,outgoing,http://dbpedia.org/ontology/Person,
+Cathy Vitale,stateDelegate,Maryland,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Region; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/AdministrativeRegion; http://dbpedia.org/ontology/Settlement
+Rebecca Downes,birthPlace,"Wolverhampton, England",outgoing,http://dbpedia.org/ontology/Place,
+Rebecca Downes,genre,Blues rock,outgoing,http://dbpedia.org/ontology/Genre,
+Rebecca Downes,instrument,Vocals,outgoing,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicalArtist
+Rebecca Downes,name,Rebecca Downes,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rebecca Downes,occupation,"Singer, guitarist, songwriter, vocal coach",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Maurice Moutat,birthDate,1954-12-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Maurice Moutat,name,Maurice Moutat,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ajay Pohankar,birthDate,1947-02-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ajay Pohankar,name,Pandit Ajay Pohankar,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ajay Pohankar,occupation,Indian_classical_music,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Yngve Brodd,birthDate,1930-06-09,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yngve Brodd,birthPlace,"Seglora, Sweden",outgoing,http://dbpedia.org/ontology/Place,
+Yngve Brodd,deathDate,2016-09-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Yngve Brodd,deathPlace,"Gothenburg, Sweden",outgoing,http://dbpedia.org/ontology/Place,
+Yngve Brodd,name,Yngve Brodd,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Yngve Brodd,years,–1952,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Yngve Brodd,years,1952,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Yngve Brodd,years,1953,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Yngve Brodd,years,1956,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Yngve Brodd,years,1960,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Yngve Brodd,years,1962,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Garrett Wilson,birthDate,2000-07-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Garrett Wilson,currentTeam,New York Jets,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Garrett Wilson,name,Garrett Wilson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Garrett Wilson,note,All values from NFL Combine,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Garrett Wilson,number,17,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Garrett Wilson,shuttle,4.36,outgoing,http://dbpedia.org/ontology/SpaceShuttle,
+Garrett Wilson,status,Active,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Garrett Wilson,weight,183,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eivind Melleby,birthDate,1972-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eivind Melleby,birthPlace,"Oslo, Norway",outgoing,http://dbpedia.org/ontology/Place,
+Eivind Melleby,classes,Star_(sailboat),outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+Eivind Melleby,name,Eivind Melleby,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eivind Melleby,nationality,Norwegian,outgoing,http://dbpedia.org/ontology/Country,
+Phoebe Waterman Haas,birthDate,1882-09-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Phoebe Waterman Haas,birthPlace,"North Dakota, United States",outgoing,http://dbpedia.org/ontology/Place,
+Phoebe Waterman Haas,name,Emma Phoebe Waterman Haas,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Phoebe Waterman Haas,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Phoebe Waterman Haas,spouse,Otto_Haas,outgoing,http://dbpedia.org/ontology/Person,
+Alexander Kopylov,id,Kopylov%2C_Alexander,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hugh Duffy,birthDate,1866-11-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hugh Duffy,deathDate,1954-10-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Hugh Duffy,name,Hugh Duffy,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hugh Duffy,title,Boston_Red_Sox,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/SportsTeam; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/BaseballTeam
+Hugh Duffy,title,Boston_Red_Sox_coaches,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hugh Duffy,years,1939,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hugh Duffy,name,Hugh Duffy,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/BaseballPlayer; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Franz Fuchsberger,birthDate,1910-09-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Franz Fuchsberger,deathDate,1992-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Franz Fuchsberger,name,Franz Fuchsberger,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fred Grossinger,birthDate,1936-01-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fred Grossinger,birthPlace,"Pittsburgh, Pennsylvania, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Fred Grossinger,deathDate,1995-11-21,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fred Grossinger,deathPlace,"Los Angeles, California, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Fred Grossinger,name,Fred Grossinger,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fred Grossinger,restingPlace,Mount_Sinai_Memorial_Park_Cemetery,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+Fred Grossinger,spouse,Judy Kapler,outgoing,http://dbpedia.org/ontology/Person,
+Fred Grossinger,spouse,Nancy King,outgoing,http://dbpedia.org/ontology/Person,
+Philippa Cross,birthDate,1966-07-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Philippa Cross,birthPlace,"Banbury, England",outgoing,http://dbpedia.org/ontology/Place,
+Philippa Cross,name,Philippa Cross,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Philippa Cross,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+William F. Ward,title,Chief of Staff for the Governor of Pennsylvania,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+William F. Ward,years,2011,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,birthDate,1951-07-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Bob Rigby,birthPlace,"Ridley Park, Pennsylvania, United States",outgoing,http://dbpedia.org/ontology/Place,
+Bob Rigby,name,Bob Rigby,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Bob Rigby,years,1973,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1976,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1977,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1979,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1981,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1982,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1983,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,years,1985,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Bob Rigby,name,Bob Rigby,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+Gary Leslie,birthName,Gary Leslie,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Leslie,name,Gary Leslie,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Gary Leslie,years,1994,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Henrique (footballer, born 1966)",birthDate,1966-03-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Henrique (footballer, born 1966)",name,Henrique,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Name; http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/GivenName
+"Henrique (footballer, born 1966)",years,1985,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Henrique (footballer, born 1966)",years,1988,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Henrique (footballer, born 1966)",years,1991,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Henrique (footballer, born 1966)",years,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Henrique (footballer, born 1966)",years,1998,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Adam Ingram (Labour politician),birthDate,1947-02-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Adam Ingram (Labour politician),birthPlace,"Glasgow, Scotland",outgoing,http://dbpedia.org/ontology/Place,
+Adam Ingram (Labour politician),name,Adam Ingram,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Adam Ingram (Labour politician),office,Parliamentary Private Secretary to the Leader of the Opposition,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Adam Ingram (Labour politician),office,"for East Kilbride, Strathaven and Lesmahagow",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Adam Ingram (Labour politician),office,Member_of_Parliament_(United_Kingdom),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Adam Ingram (Labour politician),office,"Minister_of_State,_Northern_Ireland",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Adam Ingram (Labour politician),office,Minister_of_State_for_the_Armed_Forces,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/RugbyPlayer
+Adam Ingram (Labour politician),title,Member of Parliament for East Kilbride,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Adam Ingram (Labour politician),title,"Member of Parliament for East Kilbride, Strathaven and Lesmahagow",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Adam Ingram (Labour politician),title,Minister_of_State_for_the_Armed_Forces,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/RugbyPlayer
+Adam Ingram (Labour politician),years,1987,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Adam Ingram (Labour politician),years,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Adam Ingram (Labour politician),years,2005,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Caroline Ducey,birthDate,1976-12-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Caroline Ducey,birthName,Caroline Trousselard,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Caroline Ducey,birthPlace,"Sainte-Adresse, France",outgoing,http://dbpedia.org/ontology/Place,
+Caroline Ducey,id,239764,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Caroline Ducey,name,Caroline Ducey,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Caroline Ducey,starring,Caroline Ducey,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Allan Marquand,birthDate,1853-12-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Allan Marquand,birthPlace,"New York City, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Allan Marquand,deathDate,1924-09-24,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Allan Marquand,deathPlace,"New York City, New York, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+Allan Marquand,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Allan Marquand,spouse,,outgoing,http://dbpedia.org/ontology/Person,
+Allan Marquand,spouse,Eleanor_Cross_Marquand,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Organisation
+Allan Marquand,spouse,1896-06-18,outgoing,http://dbpedia.org/ontology/Person,
+Jacob Post,birthDate,1774,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jacob Post,deathDate,1855,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jacob Post,name,Jacob Post,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jacob Post,nationality,British,outgoing,http://dbpedia.org/ontology/Country,
+Jacob Post,restingPlace,"Winchmore Hill, Middlesex",outgoing,http://dbpedia.org/ontology/Place,
+Steve Fox (American football),name,McPherson,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Steve Fox (American football),name,Steve Fox,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Steve Fox (American football),name,McPherson_Bulldogs_football,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Steve Fox (American football),overallRecord,4,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Steve Fox (American football),ranking,no,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+Steve Fox (American football),year,2014,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Fethi Demircan,birthDate,1938-06-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Fethi Demircan,birthPlace,"Elazığ, Turkey",outgoing,http://dbpedia.org/ontology/Place,
+Fethi Demircan,name,Fethi Demircan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Malvika Bansod,birthDate,2001-09-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Malvika Bansod,birthPlace,"Nagpur, Maharashtra, India",outgoing,http://dbpedia.org/ontology/Place,
+Malvika Bansod,coach,Sanjay Mishra,outgoing,http://dbpedia.org/ontology/Person,
+Malvika Bansod,event,Women's singles,outgoing,http://dbpedia.org/ontology/Event,
+Malvika Bansod,name,Malvika Bansod,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ursula Mancusi Ungaro,birthDate,1951-01-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ursula Mancusi Ungaro,date,June 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Ursula Mancusi Ungaro,name,Ursula Ungaro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ursula Mancusi Ungaro,office,Judge of the United States District Court for the Southern District of Florida,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ursula Mancusi Ungaro,office,Senior Judge of the United States District Court for the Southern District of Florida,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Ursula Mancusi Ungaro,title,Judge of the United States District Court for the Southern District of Florida,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Ursula Mancusi Ungaro,years,1992,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Ursula Mancusi Ungaro,name,Ursula Mancusi Ungaro,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Rosalía de Castro,birthDate,1837-02-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,birthName,María Rosalía Rita de Castro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rosalía de Castro,birthPlace,Galicia_(autonomous_community),outgoing,http://dbpedia.org/ontology/Place,
+Rosalía de Castro,date,2017-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,deathDate,1885-07-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Rosalía de Castro,deathPlace,"Padrón, Galicia, Spain",outgoing,http://dbpedia.org/ontology/Place,
+Rosalía de Castro,name,Rosalía de Castro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rosalía de Castro,signature,Rosalia de Castro Firma.svg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Overton,bbr,overtcl01,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Claude Overton,birthDate,1927-12-16,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Overton,deathDate,1996-04-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Claude Overton,draftPick,52,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Claude Overton,draftRound,5,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Claude Overton,draftYear,1950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Claude Overton,name,Claude Overton,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Claude Overton,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Claude Overton,team,Philadelphia_Warriors,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub
+Claude Overton,years,1950,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,birthDate,1985-04-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jo Tae-keun,birthPlace,"Gumi, Gyeongsangbuk-do, South Korea",outgoing,http://dbpedia.org/ontology/Place,
+Jo Tae-keun,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,name,(조 태근),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jo Tae-keun,name,Jo Tae-keun,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jo Tae-keun,years,2008,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Jo Tae-keun,years,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,years,2013,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,years,2017,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Jo Tae-keun,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jo Tae-keun,name,Jo Tae-keun,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/SoccerPlayer; http://dbpedia.org/ontology/Species
+McKayla Fricker,birthDate,1992-04-19,outgoing,http://www.w3.org/2001/XMLSchema#date,
+McKayla Fricker,birthPlace,"Canby, Oregon, U.S.",outgoing,http://dbpedia.org/ontology/Place,
+McKayla Fricker,club,Brooks_Sports,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+McKayla Fricker,coach,"Jonathan Marcus, High Performance West distance coach",outgoing,http://dbpedia.org/ontology/Person,
+McKayla Fricker,name,McKayla Fricker,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+McKayla Fricker,sport,Middle-distance running,outgoing,http://dbpedia.org/ontology/Sport,
+McKayla Fricker,team,Seattle_Pacific_University,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/SoccerClub; http://dbpedia.org/ontology/University
+Tsai Wan-lin,birthDate,1924-11-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tsai Wan-lin,deathDate,2004-09-27,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Tsai Wan-lin,name,Tsai Wan-lin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Tsai Wan-lin,spouse,Chou Pao-chin,outgoing,http://dbpedia.org/ontology/Person,
+Monjarás,name,Monjarás,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Monjarás,populationAsOf,2010,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Monjarás,populationTotal,585,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Monjarás,utcOffset,−5,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Raúl Lacabanne,birthDate,1914-07-25,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Raúl Lacabanne,deathDate,1985-03-07,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Raúl Lacabanne,deathPlace,"Buenos Aires, Argentina",outgoing,http://dbpedia.org/ontology/Place,
+Raúl Lacabanne,name,Raúl Oscar Lacabanne,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Raúl Lacabanne,office,Federal Interventor of Córdoba,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Raúl Lacabanne,party,none,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Raúl Lacabanne,title,Federal_Interventor_of_Córdoba,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Raúl Lacabanne,years,1974,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Morven Christie,birthDate,1981-09-01,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Morven Christie,birthPlace,"Glasgow, Scotland",outgoing,http://dbpedia.org/ontology/Place,
+Morven Christie,spouse,Scott Graham,outgoing,http://dbpedia.org/ontology/Person,
+Morven Christie,starring,Morven Christie,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Cyril Cartwright (cyclist),birthDate,1924-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cyril Cartwright (cyclist),birthPlace,"Dukinfield, Cheshire, England",outgoing,http://dbpedia.org/ontology/Place,
+Cyril Cartwright (cyclist),deathDate,2015-09-29,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Cyril Cartwright (cyclist),deathPlace,Pistyll Wales,outgoing,http://dbpedia.org/ontology/Place,
+Cyril Cartwright (cyclist),name,Cyril Cartwright,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cyril Cartwright (cyclist),role,Rider,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Justin Lehmiller,name,Justin J. Lehmiller,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Justin Lehmiller,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Kamaruzaman Mohamad,birthDate,1961-11-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Kamaruzaman Mohamad,name,Kamaruzaman Mohamad,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Kamaruzaman Mohamad,nationality,Malaysian,outgoing,http://dbpedia.org/ontology/Country,
+Jason Parris,birthDate,1982-06-05,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jason Parris,date,2020-11-13,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Jason Parris,name,Jason Parris,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Curtis McDaniel,birthDate,1952-01-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Curtis McDaniel,district,1.0,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Curtis McDaniel,name,Curtis McDaniel,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Curtis McDaniel,nationality,American,outgoing,http://dbpedia.org/ontology/Country,
+Curtis McDaniel,spouse,Debbie,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Name; http://dbpedia.org/ontology/GivenName
+Paul Vallely,birthDate,1951-11-08,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Paul Vallely,birthPlace,"Middlesbrough, England",outgoing,http://dbpedia.org/ontology/Place,
+Paul Vallely,name,Paul Vallely,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Paul Vallely,occupation,"Writer, broadcaster & academic",outgoing,http://dbpedia.org/ontology/PersonFunction,
+Richard Bacon (politician),birthDate,1962-12-03,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Richard Bacon (politician),birthPlace,"Solihull, Warwickshire, England",outgoing,http://dbpedia.org/ontology/Place,
+Richard Bacon (politician),name,Richard Bacon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Bacon (politician),office,for South Norfolk,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Richard Bacon (politician),office,Member_of_Parliament_(United_Kingdom),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Richard Bacon (politician),parliament,mr-richard-bacon/1451,outgoing,http://dbpedia.org/ontology/Parliament,
+Richard Bacon (politician),title,for South Norfolk,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Richard Bacon (politician),title,Member_of_Parliament_(United_Kingdom),outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Richard Bacon (politician),years,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Margaret of France, Queen of England",deathDate,1318-02-14,outgoing,http://www.w3.org/2001/XMLSchema#date,
+"Margaret of France, Queen of England",deathPlace,"Marlborough Castle, Wiltshire, England",outgoing,http://dbpedia.org/ontology/Place,
+"Margaret of France, Queen of England",house,House_of_Capet,outgoing,http://dbpedia.org/ontology/Legislature,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Margaret of France, Queen of England",name,Margaret of France,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Margaret of France, Queen of England",placeOfBurial,"Christ Church Greyfriars, Newgate, England",outgoing,http://dbpedia.org/ontology/Place,
+"Margaret of France, Queen of England",reign,--09-08,outgoing,http://www.w3.org/2001/XMLSchema#string,
+"Margaret of France, Queen of England",spouse,,outgoing,http://dbpedia.org/ontology/Person,
+"Margaret of France, Queen of England",spouse,died,outgoing,http://dbpedia.org/ontology/Person,
+"Margaret of France, Queen of England",spouse,1299,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Year
+"Margaret of France, Queen of England",spouse,1307,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+"Margaret of France, Queen of England",title,List_of_English_royal_consorts,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+"Margaret of France, Queen of England",years,--09-08,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+R. Scott Dingle,allegiance,United States,outgoing,http://www.w3.org/2001/XMLSchema#string,
+R. Scott Dingle,name,R. Scott Dingle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+R. Scott Dingle,number,0,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,
+R. Scott Dingle,number,1,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+R. Scott Dingle,rank,Lieutenant_general_(United_States),outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Plant
+R. Scott Dingle,title,Commanding General of the United States Army Medical Command,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+R. Scott Dingle,title,Deputy Commanding General  of the United States Army Medical Command,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+R. Scott Dingle,title,Deputy Surgeon General of the United States Army,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+R. Scott Dingle,title,Surgeon_General_of_the_United_States_Army,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+R. Scott Dingle,width,60,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+R. Scott Dingle,years,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+R. Scott Dingle,years,2019,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+R. Scott Dingle,years,2020,outgoing,http://www.w3.org/2001/XMLSchema#gYear,
+Inayatullah Khan,birthDate,1888-10-20,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Inayatullah Khan,deathDate,1946-08-12,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Inayatullah Khan,imageSize,200,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Inayatullah Khan,mother,Jamal_Begum,outgoing,http://dbpedia.org/ontology/Person,
+Inayatullah Khan,name,Inayatullah Khan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Inayatullah Khan,reign,--01-14,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Inayatullah Khan,title,King of the God granted Kingdom of Afghanistan and its dependencies,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Inayatullah Khan,title,King_of_Afghanistan,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Inayatullah Khan,years,1929,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year

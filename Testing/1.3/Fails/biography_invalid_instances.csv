@@ -1,0 +1,492 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Aristotle,birthPlace,Chalcidice,outgoing,http://dbpedia.org/ontology/Place,
+Chanakya,birthPlace,Takshashila,outgoing,http://dbpedia.org/ontology/Place,
+Chanakya,occupation,Chandragupta_Maurya,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Confucius,region,Chinese_philosophy,outgoing,http://dbpedia.org/ontology/Place,
+"Descartes, René",region,Dutch_philosophy,outgoing,http://dbpedia.org/ontology/Place,
+"Descartes, René",region,French_philosophy,outgoing,http://dbpedia.org/ontology/Place,
+"Freud, Sigmund",award,Royal_Society,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Freud, Sigmund",birthPlace,Freiberg_in_Mähren,outgoing,http://dbpedia.org/ontology/Place,
+"Keynes, John Maynard",foundedBy,"Keynes, John Maynard",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Laozi,deathPlace,State_of_Qin,outgoing,http://dbpedia.org/ontology/Place,
+Laozi,region,Chinese_philosophy,outgoing,http://dbpedia.org/ontology/Place,
+"Marx, Karl",almaMater,"Marx, Karl",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Philosopher
+"Nietzsche, Friedrich",deathPlace,Grand_Duchy_of_Saxe-Weimar-Eisenach,outgoing,http://dbpedia.org/ontology/Place,
+"Rousseau, Jean-Jacques",birthPlace,Republic_of_Geneva,outgoing,http://dbpedia.org/ontology/Place,
+Voltaire,restingPlace,Panthéon,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Voltaire,basedOn,Voltaire,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Voltaire,foundedBy,Voltaire,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Voltaire,genre,Voltaire,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Weber, Max",spouse,Marianne_Schnitger,outgoing,http://dbpedia.org/ontology/Person,
+"Weber, Max",award,"Weber, Max",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Academic; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Weber, Max",training,"Weber, Max",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Academic; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Zhu Xi,birthPlace,Fujian_Province,outgoing,http://dbpedia.org/ontology/Place,
+Zhu Xi,region,Chinese_philosophy,outgoing,http://dbpedia.org/ontology/Place,
+Abraham,veneratedIn,Baháʼí_Faith,outgoing,http://dbpedia.org/ontology/Organisation,
+Abraham,veneratedIn,Christianity,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Abraham,veneratedIn,Druze_faith,outgoing,http://dbpedia.org/ontology/Organisation,
+Abraham,veneratedIn,Islam,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Abraham,veneratedIn,Judaism,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+"Aquinas, Thomas",deathPlace,Fossanova_Abbey,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ReligiousBuilding
+"Aquinas, Thomas",veneratedIn,Latin_Church,outgoing,http://dbpedia.org/ontology/Organisation,
+Augustine of Hippo,birthPlace,Numidia_Cirtensis,outgoing,http://dbpedia.org/ontology/Place,
+Augustine of Hippo,deathPlace,Hippo_Regius,outgoing,http://dbpedia.org/ontology/Place,
+Augustine of Hippo,deathPlace,Numidia_Cirtensis,outgoing,http://dbpedia.org/ontology/Place,
+Jesus,saint,Jesus,incoming,http://dbpedia.org/ontology/Saint,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Luther, Martin",musicComposer,"Luther, Martin",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person
+"Luther, Martin",publisher,"Luther, Martin",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person
+Moses,birthPlace,Land_of_Goshen,outgoing,http://dbpedia.org/ontology/Place,
+Moses,deathPlace,Mount_Nebo_(Jordan),outgoing,http://dbpedia.org/ontology/Place,
+Moses,deathPlace,Transjordan_(region),outgoing,http://dbpedia.org/ontology/Place,
+Moses,parent,Pharaoh's_daughter_(Exodus),outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/FictionalCharacter
+Moses,veneratedIn,Baháʼí_Faith,outgoing,http://dbpedia.org/ontology/Organisation,
+Moses,veneratedIn,Christianity,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/MusicGenre
+Moses,veneratedIn,Druze_faith,outgoing,http://dbpedia.org/ontology/Organisation,
+Moses,veneratedIn,Islam,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/EthnicGroup
+Moses,veneratedIn,Judaism,outgoing,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Country
+Muhammad,country,Muhammad,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Religious
+Muhammad,employer,Muhammad,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Religious
+Nagarjuna,region,Eastern_philosophy,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/MusicGenre
+Nagarjuna,starring,Nagarjuna,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Philosopher
+Akbar,occupation,Akbar,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Alexander the Great,spouse,Parysatis_II,outgoing,http://dbpedia.org/ontology/Person,
+Alexander the Great,spouse,Stateira_(wife_of_Alexander_the_Great),outgoing,http://dbpedia.org/ontology/Person,
+Alexander the Great,notableWork,Alexander the Great,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Alexander the Great,place,Alexander the Great,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Ashoka,architect,Ashoka,incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Ashoka,award,Ashoka,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Ashoka,birthPlace,Ashoka,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Atatürk, Mustafa Kemal",award,List_of_Mustafa_Kemal_Atatürk's_awards,outgoing,http://dbpedia.org/ontology/Award,
+"Atatürk, Mustafa Kemal",deathPlace,Dolmabahçe_Palace,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Atatürk, Mustafa Kemal",party,Association_for_Defence_of_National_Rights,outgoing,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/Band
+"Atatürk, Mustafa Kemal",party,Vatan_ve_Hürriyet,outgoing,http://dbpedia.org/ontology/PoliticalParty,http://dbpedia.org/ontology/Organisation
+"Atatürk, Mustafa Kemal",restingPlace,Ethnography_Museum_of_Ankara,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Museum
+"Atatürk, Mustafa Kemal",spouse,Latife_Uşaklıgil,outgoing,http://dbpedia.org/ontology/Person,
+"Atatürk, Mustafa Kemal",foundedBy,"Atatürk, Mustafa Kemal",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MilitaryPerson; http://dbpedia.org/ontology/Politician
+"Caesar, Julius",award,Civic_Crown,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Saint
+"Caesar, Julius",deathPlace,Theatre_of_Pompey,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Caesar, Julius",restingPlace,Temple_of_Caesar,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Caesar, Julius",publisher,"Caesar, Julius",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/OfficeHolder
+Charlemagne,basedOn,Charlemagne,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+Charlemagne,foundedBy,Charlemagne,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+Charlemagne,notableWork,Charlemagne,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty; http://dbpedia.org/ontology/OfficeHolder
+"Churchill, Winston",award,Honours_of_Winston_Churchill,outgoing,http://dbpedia.org/ontology/Award,
+"Churchill, Winston",occupation,Winston_Churchill_as_painter,outgoing,http://dbpedia.org/ontology/PersonFunction,
+"Churchill, Winston",occupation,Winston_Churchill_as_writer,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person
+"Churchill, Winston",restingPlace,"St_Martin's_Church,_Bladon",outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+"Churchill, Winston",award,"Churchill, Winston",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Churchill, Winston",editor,"Churchill, Winston",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Churchill, Winston",notableWork,"Churchill, Winston",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Constantine the Great,parent,Helena_(mother_of_Constantine),outgoing,http://dbpedia.org/ontology/Person,
+Cyrus the Great,child,Artystone,outgoing,http://dbpedia.org/ontology/Person,
+"de Gaulle, Charles",party,Union_for_the_New_Republic_(France),outgoing,http://dbpedia.org/ontology/PoliticalParty,
+"de Gaulle, Charles",foundedBy,"de Gaulle, Charles",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"de Gaulle, Charles",starring,"de Gaulle, Charles",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Elizabeth I,foundedBy,Elizabeth I,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Gandhi, Mohandas Karamchand",alumni,"Gandhi, Mohandas Karamchand",incoming,http://dbpedia.org/ontology/Person,
+"Gandhi, Mohandas Karamchand",author,"Gandhi, Mohandas Karamchand",incoming,http://dbpedia.org/ontology/Person,
+"Gandhi, Mohandas Karamchand",parent,"Gandhi, Mohandas Karamchand",incoming,http://dbpedia.org/ontology/Person,
+Genghis Khan,parent,Yesügei,outgoing,http://dbpedia.org/ontology/Person,
+Genghis Khan,spouse,Khulan_(wife_of_Genghis_Khan),outgoing,http://dbpedia.org/ontology/Person,
+Genghis Khan,spouse,Möge_Khatun,outgoing,http://dbpedia.org/ontology/Person,
+"Guevara, Che",deathPlace,Ñancahuazú_Guerrilla,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/SocietalEvent; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Event; http://dbpedia.org/ontology/MilitaryConflict
+"Guevara, Che",nationality,Argentines,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/EthnicGroup
+"Hitler, Adolf",employer,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+"Hitler, Adolf",notableWork,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+"Hitler, Adolf",occupation,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+"Hitler, Adolf",owner,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+"Hitler, Adolf",producer,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+"Hitler, Adolf",starring,"Hitler, Adolf",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/Country
+Martin Luther King Jr.,restingPlace,Martin_Luther_King_Jr._National_Historical_Park,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Martin Luther King Jr.,location,Martin Luther King Jr.,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Martin Luther King Jr.,notableWork,Martin Luther King Jr.,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Martin Luther King Jr.,occupation,Martin Luther King Jr.,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+Martin Luther King Jr.,starring,Martin Luther King Jr.,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+"Lenin, Vladimir",foundedBy,"Lenin, Vladimir",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lenin, Vladimir",parentOrganisation,"Lenin, Vladimir",incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lincoln, Abraham",basedOn,"Lincoln, Abraham",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lincoln, Abraham",notableWork,"Lincoln, Abraham",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lincoln, Abraham",occupation,"Lincoln, Abraham",incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lincoln, Abraham",owner,"Lincoln, Abraham",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Lincoln, Abraham",owningCompany,"Lincoln, Abraham",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Louis XIV,child,Louise_Françoise_de_Bourbon,outgoing,http://dbpedia.org/ontology/Person,
+Louis XIV,basedOn,Louis XIV,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Louis XIV,employer,Louis XIV,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Louis XIV,foundedBy,Louis XIV,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Louis XIV,occupation,Louis XIV,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Louis XIV,owner,Louis XIV,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Luxemburg, Rosa",ideology,"Luxemburg, Rosa",incoming,http://dbpedia.org/ontology/Ideology,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Napoleon,spouse,Marie_Louise_of_Austria,outgoing,http://dbpedia.org/ontology/Person,
+Napoleon,country,Napoleon,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Napoleon,foundedBy,Napoleon,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Napoleon,notableWork,Napoleon,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Napoleon,starring,Napoleon,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Mandela, Nelson",award,List_of_awards_and_honours_received_by_Nelson_Mandela,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Mandela, Nelson",foundedBy,"Mandela, Nelson",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Mandela, Nelson",starring,"Mandela, Nelson",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Mao Zedong,starring,Mao Zedong,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Nehru, Jawaharlal",relation,Nehru–Gandhi_family,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+"Nehru, Jawaharlal",foundedBy,"Nehru, Jawaharlal",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Nehru, Jawaharlal",starring,"Nehru, Jawaharlal",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Nehru, Jawaharlal",subsequentWork,"Nehru, Jawaharlal",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Nkrumah, Kwame",foundedBy,"Nkrumah, Kwame",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Peter the Great,spouse,Martha_Skavronskaya,outgoing,http://dbpedia.org/ontology/Person,
+Peter the Great,foundedBy,Peter the Great,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Roosevelt, Franklin D.",relation,Delano_family,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Roosevelt, Franklin D.",restingPlace,Home_of_Franklin_D._Roosevelt_National_Historic_Site,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Roosevelt, Franklin D.",foundedBy,"Roosevelt, Franklin D.",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Roosevelt, Franklin D.",occupation,"Roosevelt, Franklin D.",incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Roosevelt, Franklin D.",owner,"Roosevelt, Franklin D.",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Saladin,parent,Ayyub_ibn_Shadi,outgoing,http://dbpedia.org/ontology/Person,
+Saladin,spouse,Ismat_ad-Din_Khatun,outgoing,http://dbpedia.org/ontology/Person,
+Saladin,garrison,Saladin,incoming,http://dbpedia.org/ontology/PopulatedPlace,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Noble; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+Saladin,occupation,Saladin,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Noble; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty
+"Stalin, Joseph",deathPlace,Kuntsevo_Dacha,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Album; http://dbpedia.org/ontology/Building
+"Stalin, Joseph",starring,"Stalin, Joseph",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Sun Yat-sen,award,Grand_Merit_Order,outgoing,http://dbpedia.org/ontology/Award,
+Sun Yat-sen,deathPlace,Peking_Union_Medical_College_Hospital,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/building; http://dbpedia.org/ontology/Hospital
+Sun Yat-sen,mother,Madame_Yang,outgoing,http://dbpedia.org/ontology/Person,
+Sun Yat-sen,partner,Haru_Asada,outgoing,http://dbpedia.org/ontology/Person,
+Sun Yat-sen,party,Revive_China_Society,outgoing,http://dbpedia.org/ontology/PoliticalParty,
+Sun Yat-sen,restingPlace,Sun_Yat-sen_Mausoleum,outgoing,http://dbpedia.org/ontology/Place,
+Sun Yat-sen,foundedBy,Sun Yat-sen,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Timur,child,Jahangir_Mirza_(Timurid_Prince),outgoing,http://dbpedia.org/ontology/Person,
+Umar,country,Umar,incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/Royalty
+Umar,employer,Umar,incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/Royalty
+"Washington, George",award,Thanks_of_Congress,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/TelevisionShow
+"Washington, George",deathPlace,Mount_Vernon,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Washington, George",occupation,Planter_class,outgoing,http://dbpedia.org/ontology/PersonFunction,
+"Washington, George",relation,Washington_family,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Washington, George",residence,Mount_Vernon,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Washington, George",restingPlace,Mount_Vernon,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Washington, George",country,"Washington, George",incoming,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Washington, George",employer,"Washington, George",incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Washington, George",foundedBy,"Washington, George",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Washington, George",notableWork,"Washington, George",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Washington, George",occupation,"Washington, George",incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+"Washington, George",restingPlace,"Washington, George",incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/OfficeHolder
+Archimedes,birthPlace,"Syracuse,Sicily",outgoing,http://dbpedia.org/ontology/Place,
+Archimedes,deathPlace,"Syracuse,Sicily",outgoing,http://dbpedia.org/ontology/Place,
+Avicenna,birthPlace,Transoxiana,outgoing,http://dbpedia.org/ontology/Place,
+Avicenna,deathPlace,Kakuyid_dynasty,outgoing,http://dbpedia.org/ontology/Place,
+Avicenna,award,Avicenna,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Avicenna,notableWork,Avicenna,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Berners-Lee, Tim",award,Foreign_Associate_of_the_National_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Award,
+"Berners-Lee, Tim",award,Order_of_Merit,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Eukaryote
+"Berners-Lee, Tim",award,Queen_Elizabeth_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Berners-Lee, Tim",developer,"Berners-Lee, Tim",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Berners-Lee, Tim",foundedBy,"Berners-Lee, Tim",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Brahmagupta,deathPlace,Chalukya_Empire,outgoing,http://dbpedia.org/ontology/Place,
+"Copernicus, Nicolaus",routeEnd,"Copernicus, Nicolaus",incoming,http://dbpedia.org/ontology/Station,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Curie, Marie",doctoralStudent,Francis_Perrin_(physicist),outgoing,http://dbpedia.org/ontology/Person,
+"Curie, Marie",location,"Curie, Marie",incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Darwin, Charles",award,Baly_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Darwin, Charles",award,Kingdom_of_Prussia,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Country
+"Darwin, Charles",award,Legum_Doctor,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/University
+"Edison, Thomas",foundedBy,"Edison, Thomas",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Edison, Thomas",producer,"Edison, Thomas",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Einstein, Albert",award,ForMemRS,outgoing,http://dbpedia.org/ontology/Award,
+"Einstein, Albert",award,Time_100:_The_Most_Important_People_of_the_Century,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Album
+"Einstein, Albert",institution,Swiss_Patent_Office,outgoing,http://dbpedia.org/ontology/Organisation,
+"Einstein, Albert",spouse,Elsa_Löwenthal,outgoing,http://dbpedia.org/ontology/Person,
+"Einstein, Albert",starring,"Einstein, Albert",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+Euclid,notableWork,Euclid,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Faraday, Michael",award,Rumford_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Fermi, Enrico",award,Hughes_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Fermi, Enrico",award,Nobel_Prize_for_Physics,outgoing,http://dbpedia.org/ontology/Award,
+"Fermi, Enrico",spouse,Laura_Capon_Fermi,outgoing,http://dbpedia.org/ontology/Person,
+"Fermi, Enrico",starring,"Fermi, Enrico",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Ford, Henry",spouse,Clara_Jane_Bryant,outgoing,http://dbpedia.org/ontology/Person,
+"Ford, Henry",designCompany,"Ford, Henry",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ford, Henry",foundedBy,"Ford, Henry",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ford, Henry",manufacturer,"Ford, Henry",incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ford, Henry",owner,"Ford, Henry",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Galen,notableWork,Galen,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+Galileo Galilei,academicAdvisor,Ostilio_Ricci_da_Fermo,outgoing,http://dbpedia.org/ontology/Person,
+"Hilbert, David",award,Foreign_Member_of_the_Royal_Society,outgoing,http://dbpedia.org/ontology/Award,
+"Hilbert, David",birthPlace,Wehlau,outgoing,http://dbpedia.org/ontology/Place,
+"Hilbert, David",doctoralStudent,Anne_Bosworth,outgoing,http://dbpedia.org/ontology/Person,
+"Mendeleev, Dmitri",award,Davy_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Mendeleev, Dmitri",award,Faraday_Lectureship_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Mendeleev, Dmitri",award,"Mendeleev, Dmitri",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Pasteur, Louis",award,Cameron_Prize_for_Therapeutics_of_the_University_of_Edinburgh,outgoing,http://dbpedia.org/ontology/Award,
+"Pasteur, Louis",award,Foreign_Associate_of_the_National_Academy_of_Sciences,outgoing,http://dbpedia.org/ontology/Award,
+"Pasteur, Louis",award,Foreign_Member_of_the_Royal_Society,outgoing,http://dbpedia.org/ontology/Award,
+"Pasteur, Louis",award,Leeuwenhoek_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Pasteur, Louis",award,Legion_of_Honour,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Eukaryote
+"Pasteur, Louis",award,Rumford_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Pasteur, Louis",spouse,Marie_Laurent,outgoing,http://dbpedia.org/ontology/Person,
+"Pasteur, Louis",foundedBy,"Pasteur, Louis",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Schrödinger, Erwin",award,Haitinger_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Schrödinger, Erwin",award,List_of_fellows_of_the_Royal_Society_elected_in_1949,outgoing,http://dbpedia.org/ontology/Award,
+"Tesla, Nikola",restingPlace,Nikola_Tesla_Museum,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Museum
+"Tesla, Nikola",architect,"Tesla, Nikola",incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Tesla, Nikola",award,"Tesla, Nikola",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Turing, Alan",award,Smith's_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Turing, Alan",developer,"Turing, Alan",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+"Watt, James",foundedBy,"Watt, James",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Scientist; http://dbpedia.org/ontology/Species
+Le Corbusier,award,AIA_Gold_Medal,outgoing,http://dbpedia.org/ontology/Award,
+Le Corbusier,award,Legion_of_Honour,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Eukaryote
+Le Corbusier,significantBuilding,Chandigarh,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/City; http://dbpedia.org/ontology/Settlement
+Le Corbusier,significantBuilding,India,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/MusicalArtist; http://dbpedia.org/ontology/Country
+Le Corbusier,significantBuilding,Marseille,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Le Corbusier,significantBuilding,Poissy,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Le Corbusier,significantBuilding,Ronchamp,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/Settlement
+Le Corbusier,significantBuilding,Unité_d'Habitation,outgoing,http://dbpedia.org/ontology/Building,
+Le Corbusier,starring,Le Corbusier,incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Architect; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dalí, Salvador",restingPlace,Crypt,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Organisation
+"Dalí, Salvador",training,Real_Academia_de_Bellas_Artes_de_San_Fernando,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Dalí, Salvador",associatedBand,"Dalí, Salvador",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Dalí, Salvador",associatedMusicalArtist,"Dalí, Salvador",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Dalí, Salvador",notableWork,"Dalí, Salvador",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Dalí, Salvador",starring,"Dalí, Salvador",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Dürer, Albrecht",spouse,Agnes_Frey,outgoing,http://dbpedia.org/ontology/Person,
+"Dürer, Albrecht",training,"Dürer, Albrecht",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Goya, Francisco",notableWork,List_of_works_by_Francisco_Goya,outgoing,http://dbpedia.org/ontology/Work,
+Hokusai,training,Hokusai,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+Leonardo da Vinci,deathPlace,Clos_Lucé,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Castle; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Leonardo da Vinci,architect,Leonardo da Vinci,incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Leonardo da Vinci,basedOn,Leonardo da Vinci,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Matisse, Henri",training,Gustave_Moreau,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Matisse, Henri",training,William-Adolphe_Bouguereau,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Matisse, Henri",training,"Matisse, Henri",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+Michelangelo,architect,Michelangelo,incoming,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/Writer
+Michelangelo,award,Michelangelo,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/Writer
+"Picasso, Pablo",child,Maya_Widmaier-Picasso,outgoing,http://dbpedia.org/ontology/Person,
+"Picasso, Pablo",notableWork,Portrait_of_Daniel-Henry_Kahnweiler,outgoing,http://dbpedia.org/ontology/Work,
+"Picasso, Pablo",restingPlace,Château_of_Vauvenargues,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Picasso, Pablo",training,Real_Academia_de_Bellas_Artes_de_San_Fernando,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Picasso, Pablo",starring,"Picasso, Pablo",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/Writer
+Raphael,restingPlace,"Pantheon,_Rome",outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+Rembrandt,notableWork,Self-portraits_by_Rembrandt,outgoing,http://dbpedia.org/ontology/Work,
+Rembrandt,notableWork,The_Hundred_Guilder_Print,outgoing,http://dbpedia.org/ontology/Work,
+Rembrandt,training,Jacob_van_Swanenburg,outgoing,http://dbpedia.org/ontology/EducationalInstitution,
+Rembrandt,training,Rembrandt,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/Writer
+"Rubens, Peter Paul",nationality,Flemish_people,outgoing,http://dbpedia.org/ontology/Country,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/EthnicGroup
+"Rubens, Peter Paul",training,Otto_van_Veen,outgoing,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Rubens, Peter Paul",training,"Rubens, Peter Paul",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Sinan, Mimar",significantBuilding,Mehmed_Paša_Sokolović_Bridge,outgoing,http://dbpedia.org/ontology/Building,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/RouteOfTransportation; http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Bridge
+"Sinan, Mimar",significantBuilding,Mihrimah_Mosque,outgoing,http://dbpedia.org/ontology/Building,
+"Sinan, Mimar",significantBuilding,Sokollu_Mehmed_Pasha_Mosque_(Azapkapı),outgoing,http://dbpedia.org/ontology/Building,
+"Velázquez, Diego",notableWork,List_of_works_by_Diego_Velázquez,outgoing,http://dbpedia.org/ontology/Work,
+"Velázquez, Diego",training,"Velázquez, Diego",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/Writer
+"Warhol, Andy",associatedBand,"Warhol, Andy",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Warhol, Andy",associatedMusicalArtist,"Warhol, Andy",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Warhol, Andy",award,"Warhol, Andy",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Warhol, Andy",producer,"Warhol, Andy",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Warhol, Andy",starring,"Warhol, Andy",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist
+"Wright, Frank Lloyd",award,AIA_Gold_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Wright, Frank Lloyd",award,Order_of_the_Star_of_Italian_Solidarity,outgoing,http://dbpedia.org/ontology/Award,
+"Wright, Frank Lloyd",award,Royal_Gold_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Wright, Frank Lloyd",significantBuilding,Affleck_House,outgoing,http://dbpedia.org/ontology/Building,
+"Wright, Frank Lloyd",significantBuilding,Larkin_Administration_Building,outgoing,http://dbpedia.org/ontology/Building,
+"Wright, Frank Lloyd",training,"Wright, Frank Lloyd",incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Architect; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Armstrong, Louis",associatedMusicalArtist,"Armstrong, Louis",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Band
+"Armstrong, Louis",musicComposer,"Armstrong, Louis",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Band
+"Armstrong, Louis",starring,"Armstrong, Louis",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Band
+"Bach, Johann Sebastian",genre,"Bach, Johann Sebastian",incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Beatles, The",associatedMusicalArtist,"Beatles, The",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",author,"Beatles, The",incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",basedOn,"Beatles, The",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",composer,"Beatles, The",incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",director,"Beatles, The",incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",genre,"Beatles, The",incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",lyrics,"Beatles, The",incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",musicBy,"Beatles, The",incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",musicComposer,"Beatles, The",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Beatles, The",starring,"Beatles, The",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Group; http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/Organisation
+"Dvořák, Antonín",openingTheme,"Dvořák, Antonín",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Handel, Georg Frideric",associatedMusicalArtist,"Handel, Georg Frideric",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Band
+"Haydn, Joseph",musicComposer,"Haydn, Joseph",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person
+"Jackson, Michael",award,List_of_awards_and_nominations_received_by_Michael_Jackson,outgoing,http://dbpedia.org/ontology/Award,
+"Jackson, Michael",artist,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",associatedBand,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",basedOn,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",foundedBy,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",owner,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",producer,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",productionCompany,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Jackson, Michael",starring,"Jackson, Michael",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",associatedBand,Abdel_Halim_Hafez,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",associatedBand,Mohamed_El_Qasabgi,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",associatedBand,Riad_Al_Sunbati,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",associatedBand,Sayed_Darwish,outgoing,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",recordLabel,Sono_Cairo,outgoing,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation
+"Kulthum, Umm",artist,"Kulthum, Umm",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",associatedBand,"Kulthum, Umm",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Kulthum, Umm",starring,"Kulthum, Umm",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Artist; http://dbpedia.org/ontology/MusicalArtist
+"Mozart, Wolfgang Amadeus",basedOn,"Mozart, Wolfgang Amadeus",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Palestrina, Giovanni Pierluigi da",musicComposer,"Palestrina, Giovanni Pierluigi da",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person
+"Puccini, Giacomo",associatedBand,"Puccini, Giacomo",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Puccini, Giacomo",basedOn,"Puccini, Giacomo",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Verdi, Giuseppe",associatedBand,"Verdi, Giuseppe",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Verdi, Giuseppe",basedOn,"Verdi, Giuseppe",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Vivaldi, Antonio",openingTheme,"Vivaldi, Antonio",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Wagner, Richard",genre,"Wagner, Richard",incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicalArtist
+"Bergman, Ingmar",basedOn,"Bergman, Ingmar",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person
+"Bergman, Ingmar",producer,"Bergman, Ingmar",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person
+"Bergman, Ingmar",starring,"Bergman, Ingmar",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person
+"Bernhardt, Sarah",starring,"Bernhardt, Sarah",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",artist,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",creator,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",developer,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",foundedBy,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",musicComposer,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",owner,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",producer,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",productionCompany,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Chaplin, Charlie",starring,"Chaplin, Charlie",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dietrich, Marlene",artist,"Dietrich, Marlene",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dietrich, Marlene",associatedBand,"Dietrich, Marlene",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dietrich, Marlene",associatedMusicalArtist,"Dietrich, Marlene",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dietrich, Marlene",producer,"Dietrich, Marlene",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Dietrich, Marlene",starring,"Dietrich, Marlene",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",award,Emmy_Award,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/TelevisionShow
+"Disney, Walt",restingPlace,Forest_Lawn_Memorial_Park_(Glendale),outgoing,http://dbpedia.org/ontology/Place,
+"Disney, Walt",associatedBand,"Disney, Walt",incoming,http://dbpedia.org/ontology/Band,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",associatedMusicalArtist,"Disney, Walt",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",creator,"Disney, Walt",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",distributor,"Disney, Walt",incoming,http://dbpedia.org/ontology/Organisation,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",foundedBy,"Disney, Walt",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",owner,"Disney, Walt",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",owningCompany,"Disney, Walt",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",producer,"Disney, Walt",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",productionCompany,"Disney, Walt",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",recordLabel,"Disney, Walt",incoming,http://dbpedia.org/ontology/RecordLabel,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Disney, Walt",starring,"Disney, Walt",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Eisenstein, Sergei",award,State_Stalin_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Eisenstein, Sergei",restingPlace,Novodevichy_Cemetery,outgoing,http://dbpedia.org/ontology/Place,
+"Eisenstein, Sergei",producer,"Eisenstein, Sergei",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Fellini, Federico",award,"Fellini, Federico",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Fellini, Federico",basedOn,"Fellini, Federico",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Fellini, Federico",producer,"Fellini, Federico",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Fellini, Federico",starring,"Fellini, Federico",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Hitchcock, Alfred",award,List_of_awards_and_nominations_received_by_Alfred_Hitchcock,outgoing,http://dbpedia.org/ontology/Award,
+"Hitchcock, Alfred",creator,"Hitchcock, Alfred",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Hitchcock, Alfred",producer,"Hitchcock, Alfred",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Hitchcock, Alfred",starring,"Hitchcock, Alfred",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kubrick, Stanley",spouse,Christiane_Harlan,outgoing,http://dbpedia.org/ontology/Person,
+"Kubrick, Stanley",creator,"Kubrick, Stanley",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kubrick, Stanley",foundedBy,"Kubrick, Stanley",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kubrick, Stanley",producer,"Kubrick, Stanley",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kubrick, Stanley",productionCompany,"Kubrick, Stanley",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kubrick, Stanley",starring,"Kubrick, Stanley",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kurosawa, Akira",restingPlace,"An'yō-in,_Kamakura,_Kanagawa",outgoing,http://dbpedia.org/ontology/Place,
+"Kurosawa, Akira",producer,"Kurosawa, Akira",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Kurosawa, Akira",starring,"Kurosawa, Akira",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Monroe, Marilyn",restingPlace,Pierce_Brothers_Westwood_Village_Memorial_Park_and_Mortuary,outgoing,http://dbpedia.org/ontology/Place,
+"Monroe, Marilyn",artist,"Monroe, Marilyn",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Monroe, Marilyn",basedOn,"Monroe, Marilyn",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Monroe, Marilyn",starring,"Monroe, Marilyn",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ray, Satyajit",award,List_of_awards_and_nominations_received_by_Satyajit_Ray,outgoing,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person
+"Ray, Satyajit",creator,"Ray, Satyajit",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ray, Satyajit",editor,"Ray, Satyajit",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ray, Satyajit",musicComposer,"Ray, Satyajit",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ray, Satyajit",producer,"Ray, Satyajit",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Ray, Satyajit",productionCompany,"Ray, Satyajit",incoming,http://dbpedia.org/ontology/Company,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Andersen, Hans Christian",birthPlace,"Odense,_Funen",outgoing,http://dbpedia.org/ontology/Place,
+"Andersen, Hans Christian",deathPlace,"Østerbro,_Copenhagen",outgoing,http://dbpedia.org/ontology/Place,
+"Andersen, Hans Christian",basedOn,"Andersen, Hans Christian",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Andersen, Hans Christian",creator,"Andersen, Hans Christian",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Austen, Jane",relative,Jane_Austen's_family_and_ancestry,outgoing,http://dbpedia.org/ontology/Person,
+"Austen, Jane",restingPlace,Winchester_Cathedral,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+"Austen, Jane",basedOn,"Austen, Jane",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Austen, Jane",genre,"Austen, Jane",incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Borges, Jorge Luis",relative,Leonor_Acevedo_Suarez,outgoing,http://dbpedia.org/ontology/Person,
+"Borges, Jorge Luis",starring,"Borges, Jorge Luis",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Lord Byron,restingPlace,"Church_of_St._Mary_Magdalene,_Hucknall",outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+Lord Byron,spouse,Anne_Isabella_Milbanke,outgoing,http://dbpedia.org/ontology/Person,
+"Cervantes, Miguel de",occupation,Avocation,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Sport
+"Cervantes, Miguel de",occupation,Farm_(revenue_leasing),outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/TopicalConcept
+"Cervantes, Miguel de",creator,"Cervantes, Miguel de",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Chaucer, Geoffrey",restingPlace,Westminster_Abbey,outgoing,http://dbpedia.org/ontology/Place,
+"Chekhov, Anton",award,Pushkin_Prize,outgoing,http://dbpedia.org/ontology/Award,
+"Chekhov, Anton",birthPlace,Ekaterinoslav_Governorate,outgoing,http://dbpedia.org/ontology/Place,
+"Chekhov, Anton",language,Russians,outgoing,http://dbpedia.org/ontology/Language,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+"Chekhov, Anton",restingPlace,Novodevichy_Cemetery,outgoing,http://dbpedia.org/ontology/Place,
+"Chekhov, Anton",basedOn,"Chekhov, Anton",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Dante Alighieri,nationality,Florentine_Republic,outgoing,http://dbpedia.org/ontology/Country,
+Dante Alighieri,occupation,Italian_poetry,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/TelevisionStation
+Dante Alighieri,occupation,Political_theory,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Dante Alighieri,restingPlace,Tomb_of_Dante,outgoing,http://dbpedia.org/ontology/Place,
+Dante Alighieri,notableWork,Dante Alighieri,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Dickens, Charles",restingPlace,Poets'_Corner,outgoing,http://dbpedia.org/ontology/Place,
+"Dickens, Charles",restingPlace,Westminster_Abbey,outgoing,http://dbpedia.org/ontology/Place,
+"Dickens, Charles",basedOn,"Dickens, Charles",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Dickens, Charles",creator,"Dickens, Charles",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Dickens, Charles",foundedBy,"Dickens, Charles",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Dostoyevsky, Fyodor",creator,"Dostoyevsky, Fyodor",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Writer
+"García Márquez, Gabriel",basedOn,"García Márquez, Gabriel",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Goethe, Johann Wolfgang von",birthPlace,Free_Imperial_City_of_Frankfurt,outgoing,http://dbpedia.org/ontology/Place,
+"Goethe, Johann Wolfgang von",child,August_von_Goethe,outgoing,http://dbpedia.org/ontology/Person,
+"Goethe, Johann Wolfgang von",notableWork,West–östlicher_Divan,outgoing,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person
+"Goethe, Johann Wolfgang von",relative,Johann_Georg_Schlosser,outgoing,http://dbpedia.org/ontology/Person,
+"Goethe, Johann Wolfgang von",relative,Ottilie_von_Goethe,outgoing,http://dbpedia.org/ontology/Person,
+Homer,basedOn,Homer,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Homer,creator,Homer,incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Homer,notableWork,Homer,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Hugo, Victor",genre,Theatre,outgoing,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+"Hugo, Victor",restingPlace,"Panthéon,_Paris",outgoing,http://dbpedia.org/ontology/Place,
+"Hugo, Victor",spouse,Adèle_Foucher,outgoing,http://dbpedia.org/ontology/Person,
+"Hugo, Victor",basedOn,"Hugo, Victor",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Hugo, Victor",creator,"Hugo, Victor",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Joyce, James",basedOn,"Joyce, James",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person
+"Joyce, James",creator,"Joyce, James",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person
+"Joyce, James",notableWork,"Joyce, James",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person
+"Kafka, Franz",restingPlace,"New_Jewish_Cemetery,_Prague",outgoing,http://dbpedia.org/ontology/Place,
+Li Bai,deathPlace,Dangtu,outgoing,http://dbpedia.org/ontology/Place,
+Naguib Mahfouz,award,Nobel_Prize_for_Literature,outgoing,http://dbpedia.org/ontology/Award,
+Molière,basedOn,Molière,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Ovid,birthPlace,Italy_(Ancient_Rome),outgoing,http://dbpedia.org/ontology/Place,
+Ovid,deathPlace,Scythia_Minor_(Dobruja),outgoing,http://dbpedia.org/ontology/Place,
+"Proust, Marcel",birthPlace,Neuilly-Auteuil-Passy,outgoing,http://dbpedia.org/ontology/Place,
+"Pushkin, Alexander",editor,"Pushkin, Alexander",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Shakespeare, William",restingPlace,"Church_of_the_Holy_Trinity,_Stratford-upon-Avon",outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+"Shakespeare, William",basedOn,"Shakespeare, William",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Shakespeare, William",creator,"Shakespeare, William",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Shakespeare, William",notableWork,"Shakespeare, William",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Shakespeare, William",occupation,"Shakespeare, William",incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Sophocles,birthPlace,Hippeios_Colonus,outgoing,http://dbpedia.org/ontology/Place,
+"Tagore, Rabindranath",notableWork,Amar_Shonar_Bangla,outgoing,http://dbpedia.org/ontology/Work,
+"Tagore, Rabindranath",notableWork,Works_of_Rabindranath_Tagore,outgoing,http://dbpedia.org/ontology/Work,
+"Tagore, Rabindranath",artist,"Tagore, Rabindranath",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tagore, Rabindranath",award,"Tagore, Rabindranath",incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tagore, Rabindranath",foundedBy,"Tagore, Rabindranath",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tagore, Rabindranath",musicComposer,"Tagore, Rabindranath",incoming,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tagore, Rabindranath",notableWork,"Tagore, Rabindranath",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tolstoy, Leo",birthPlace,Krapivensky_Uyezd,outgoing,http://dbpedia.org/ontology/Place,
+"Tolstoy, Leo",birthPlace,Yasnaya_Polyana,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Museum
+"Tolstoy, Leo",deathPlace,Ranenburgsky_Uyezd,outgoing,http://dbpedia.org/ontology/Place,
+"Tolstoy, Leo",occupation,Short_story,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicalWork; http://dbpedia.org/ontology/MusicGenre
+"Tolstoy, Leo",restingPlace,Yasnaya_Polyana,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Museum
+"Tolstoy, Leo",basedOn,"Tolstoy, Leo",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Tolstoy, Leo",creator,"Tolstoy, Leo",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Twain, Mark",deathPlace,Stormfield,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+"Twain, Mark",basedOn,"Twain, Mark",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+"Twain, Mark",creator,"Twain, Mark",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Writer
+Virgil,deathPlace,Italy_(Roman_Empire),outgoing,http://dbpedia.org/ontology/Place,
+"Amundsen, Roald",award,Charles_P._Daly_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Amundsen, Roald",award,Hubbard_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Amundsen, Roald",award,Order_of_Franz_Joseph,outgoing,http://dbpedia.org/ontology/Award,
+"Amundsen, Roald",award,Vega_Medal,outgoing,http://dbpedia.org/ontology/Award,
+"Amundsen, Roald",owner,"Amundsen, Roald",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Amundsen, Roald",producer,"Amundsen, Roald",incoming,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Armstrong, Neil",starring,"Armstrong, Neil",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Astronaut; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Cartier, Jacques",occupation,French_people,outgoing,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/PopulatedPlace; http://dbpedia.org/ontology/EthnicGroup; http://dbpedia.org/ontology/Country
+"Columbus, Christopher",restingPlace,Seville_Cathedral,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+"Columbus, Christopher",notableWork,"Columbus, Christopher",incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician
+"Cook, James",deathPlace,Kealakekua_Bay,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+"Cortés, Hernán",birthPlace,Medellín_(Spain),outgoing,http://dbpedia.org/ontology/Place,
+"Cortés, Hernán",child,Martín_Cortés_(son_of_Malinche),outgoing,http://dbpedia.org/ontology/Person,
+"Gagarin, Yuri",restingPlace,Kremlin_Wall_Necropolis,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Museum
+"Gagarin, Yuri",starring,"Gagarin, Yuri",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Astronaut; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"da Gama, Vasco",birthPlace,"Sines,_Portugal",outgoing,http://dbpedia.org/ontology/Place,
+"da Gama, Vasco",restingPlace,Jerónimos_Monastery,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/ReligiousBuilding
+"da Gama, Vasco",club,"da Gama, Vasco",incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/SoccerClub
+"da Gama, Vasco",ground,"da Gama, Vasco",incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/SoccerClub
+"da Gama, Vasco",team,"da Gama, Vasco",incoming,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Politician; http://dbpedia.org/ontology/SoccerClub
+Ibn Battuta,award,Ibn Battuta,incoming,http://dbpedia.org/ontology/Award,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+"Polo, Marco",parent,Niccolò_Polo,outgoing,http://dbpedia.org/ontology/Person,
+"Polo, Marco",restingPlace,"San_Lorenzo,_Venice",outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/ReligiousBuilding
+"Polo, Marco",starring,"Polo, Marco",incoming,http://dbpedia.org/ontology/Actor,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species
+Zheng He,birthPlace,Basalawarmi,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/Royalty

@@ -1,0 +1,205 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Aristotle,51,85,51,79,50,6
+"Beauvoir, Simone de",58,13,33,6,79,7
+Chanakya,73,13,71,12,100,1
+Confucius,58,30,56,26,75,4
+"Descartes, René",52,105,50,100,80,5
+"Freud, Sigmund",60,55,57,47,75,8
+"Hegel, Georg Wilhelm Friedrich",57,15,55,10,60,5
+"Heidegger, Martin",52,111,51,103,62,8
+Ibn Khaldun,72,9,75,6,67,3
+"Kant, Immanuel",52,113,52,106,57,7
+"Keynes, John Maynard",64,18,60,10,69,8
+Laozi,50,24,48,22,75,2
+"Locke, John",52,63,51,57,58,6
+"Machiavelli, Niccolò",52,65,51,62,83,3
+"Marx, Karl",71,35,72,23,71,12
+"Nietzsche, Friedrich",54,50,52,43,64,7
+Plato,53,73,52,66,57,7
+"Rousseau, Jean-Jacques",51,85,49,79,67,6
+"Sartre, Jean-Paul",50,77,48,70,71,7
+Sima Qian,72,9,64,7,100,2
+"Smith, Adam",52,63,50,55,62,8
+Socrates,53,36,53,32,50,4
+Voltaire,55,19,67,12,36,7
+"Weber, Max",33,9,0,2,43,7
+"Wittgenstein, Ludwig",51,203,50,194,67,9
+Zhu Xi,43,30,43,27,50,3
+Abraham,39,9,0,5,88,4
+"Aquinas, Thomas",58,24,53,17,71,7
+Augustine of Hippo,57,27,50,17,70,10
+Buddha,50,2,0,0,50,2
+Al-Ghazali,75,2,0,0,75,2
+Jesus,66,19,73,11,56,8
+"Luther, Martin",59,11,0,0,59,11
+Moses,62,25,57,22,100,3
+Muhammad,59,16,0,1,63,15
+Nagarjuna,44,17,46,13,38,4
+Akbar,78,25,81,16,72,9
+Alexander the Great,60,24,59,11,62,13
+Ashoka,71,17,89,9,50,8
+"Atatürk, Mustafa Kemal",70,38,62,21,79,17
+Augustus,89,22,88,13,89,9
+"von Bismarck, Otto",75,24,73,13,77,11
+"Bolívar, Simón",82,19,79,12,86,7
+"Caesar, Julius",59,23,25,10,85,13
+Charlemagne,62,21,70,10,55,11
+"Churchill, Winston",67,42,60,21,74,21
+Constantine the Great,55,10,30,5,80,5
+Cyrus the Great,77,15,72,9,83,6
+"de Gaulle, Charles",76,31,73,15,78,16
+Elizabeth I,54,13,50,7,58,6
+"Gandhi, Mohandas Karamchand",20,5,0,0,20,5
+Genghis Khan,73,22,69,16,83,6
+"Guevara, Che",72,25,69,18,79,7
+"Hitler, Adolf",68,39,71,12,67,27
+Joan of Arc,60,15,50,10,80,5
+Martin Luther King Jr.,65,31,68,14,62,17
+"Lenin, Vladimir",82,37,90,21,72,16
+"Lincoln, Abraham",68,40,76,19,60,21
+Louis XIV,64,32,80,20,38,12
+"Luxemburg, Rosa",74,29,76,23,67,6
+Napoleon,61,27,65,10,59,17
+"Mandela, Nelson",79,38,82,22,75,16
+Mao Zedong,85,40,90,21,79,19
+"Nehru, Jawaharlal",73,32,77,13,71,19
+"Nkrumah, Kwame",73,32,72,20,75,12
+Peter the Great,70,22,67,12,75,10
+Qin Shi Huang,75,12,75,6,75,6
+"Roosevelt, Franklin D.",72,37,72,20,71,17
+Saladin,47,18,45,10,50,8
+"Stalin, Joseph",79,35,79,19,78,16
+Suleiman the Magnificent,84,22,87,15,79,7
+Sun Yat-sen,69,42,66,31,77,11
+Timur,64,14,56,9,80,5
+Umar,68,22,73,11,64,11
+"Washington, George",63,46,62,20,63,26
+Archimedes,50,27,48,24,67,3
+Avicenna,24,19,15,13,42,6
+"Berners-Lee, Tim",50,23,43,15,62,8
+Brahmagupta,77,13,77,13,0,0
+"Copernicus, Nicolaus",73,22,73,13,72,9
+"Curie, Marie",73,28,74,21,71,7
+"Darwin, Charles",68,47,64,35,79,12
+"Edison, Thomas",52,47,49,36,64,11
+"Einstein, Albert",71,77,70,63,79,14
+Euclid,47,18,46,14,50,4
+"Euler, Leonhard",76,17,73,11,83,6
+"Faraday, Michael",55,40,54,37,67,3
+"Fermi, Enrico",78,58,79,52,75,6
+"Ford, Henry",59,29,58,18,59,11
+Galen,57,20,62,17,33,3
+Galileo Galilei,59,27,50,19,81,8
+"Gauss, Carl Friedrich",84,47,86,40,71,7
+"Gutenberg, Johannes",66,16,67,15,50,1
+"Hilbert, David",82,66,82,60,75,6
+"Joule, James Prescott",67,24,65,23,100,1
+"Kepler, Johannes",58,24,57,20,62,4
+"al-Khwarizmi, Muhammad ibn Musa",0,0,0,0,0,0
+"Leibniz, Gottfried Wilhelm",52,139,51,135,75,4
+"Linnaeus, Carl",78,27,75,18,83,9
+"Maxwell, James Clerk",67,18,59,11,79,7
+"Mendeleev, Dmitri",56,18,57,15,50,3
+"Newton, Sir Isaac",50,2,0,0,50,2
+"Pasteur, Louis",53,35,55,31,38,4
+"Planck, Max",83,6,0,0,83,6
+"Rutherford, Ernest",79,7,0,0,79,7
+"Schrödinger, Erwin",65,53,63,49,88,4
+"Tesla, Nikola",47,15,50,11,38,4
+"Turing, Alan",60,34,60,25,61,9
+"Watt, James",57,35,56,31,62,4
+Le Corbusier,46,24,42,18,58,6
+"Dalí, Salvador",66,34,73,24,50,10
+"Dürer, Albrecht",65,17,62,12,70,5
+"Gogh, Vincent van",55,10,43,7,83,3
+"Goya, Francisco",61,14,54,12,100,2
+Hokusai,64,14,64,11,67,3
+"Kahlo, Frida",64,18,50,13,100,5
+Leonardo da Vinci,48,20,41,11,56,9
+"Matisse, Henri",57,21,58,18,50,3
+Michelangelo,64,25,68,17,56,8
+"Picasso, Pablo",73,44,69,32,83,12
+Raphael,68,20,68,17,67,3
+Rembrandt,62,26,60,21,70,5
+"Rubens, Peter Paul",66,19,66,16,67,3
+"Sinan, Mimar",80,23,80,20,83,3
+"Velázquez, Diego",70,15,73,13,50,2
+"Warhol, Andy",58,25,64,11,54,14
+"Wright, Frank Lloyd",76,42,77,35,71,7
+"Armstrong, Louis",43,21,31,13,62,8
+"Bach, Johann Sebastian",57,14,33,6,75,8
+"Beatles, The",55,31,86,14,29,17
+"Beethoven, Ludwig van",86,7,0,0,86,7
+"Brahms, Johannes",70,5,0,0,70,5
+"Chopin, Frédéric",100,5,0,0,100,5
+"Dvořák, Antonín",67,3,0,0,67,3
+"Handel, Georg Frideric",50,2,0,0,50,2
+"Haydn, Joseph",25,2,0,0,25,2
+"Jackson, Michael",48,31,41,11,52,20
+"Kulthum, Umm",62,34,67,30,25,4
+"Mahler, Gustav",90,5,0,0,90,5
+"Mozart, Wolfgang Amadeus",82,11,0,0,82,11
+"Palestrina, Giovanni Pierluigi da",0,1,0,0,0,1
+"Puccini, Giacomo",58,6,0,0,58,6
+"Schubert, Franz",88,4,0,0,88,4
+"Stravinsky, Igor",100,1,0,0,100,1
+Pyotr_Ilyich_Tchaikovsky,100,5,0,0,100,5
+"Verdi, Giuseppe",67,6,0,0,67,6
+"Vivaldi, Antonio",67,3,0,0,67,3
+"Wagner, Richard",73,11,0,0,73,11
+"Bergman, Ingmar",77,15,0,0,77,15
+"Bernhardt, Sarah",38,13,30,10,67,3
+"Chaplin, Charlie",63,46,72,25,52,21
+"Dietrich, Marlene",40,21,46,13,31,8
+"Disney, Walt",51,39,53,15,50,24
+"Eisenstein, Sergei",58,26,55,22,75,4
+"Fellini, Federico",47,19,45,11,50,8
+"Hitchcock, Alfred",54,27,43,15,67,12
+"Kubrick, Stanley",48,20,44,9,50,11
+"Kurosawa, Akira",52,23,40,15,75,8
+"Monroe, Marilyn",46,26,44,17,50,9
+"Ray, Satyajit",65,40,62,24,69,16
+Abu Nuwas,80,5,80,5,0,0
+"Andersen, Hans Christian",62,17,67,12,50,5
+"Austen, Jane",52,20,45,11,61,9
+Matsuo_Bashō,46,13,42,12,100,1
+"Borges, Jorge Luis",70,22,75,16,58,6
+Lord Byron,73,22,58,12,90,10
+"Cervantes, Miguel de",71,19,71,14,70,5
+"Chaucer, Geoffrey",75,22,71,14,81,8
+"Chekhov, Anton",72,30,71,24,75,6
+Dante Alighieri,63,23,66,16,57,7
+"Dickens, Charles",79,40,82,28,71,12
+"Dostoyevsky, Fyodor",75,6,0,0,75,6
+"García Márquez, Gabriel",72,18,71,14,75,4
+"Goethe, Johann Wolfgang von",72,43,69,34,83,9
+Hafez,70,10,69,8,75,2
+Homer,58,13,100,4,39,9
+"Hugo, Victor",70,35,70,22,69,13
+"Joyce, James",50,11,0,0,50,11
+"Kafka, Franz",70,25,67,18,79,7
+Kālidāsa,100,1,0,0,100,1
+Li Bai,79,7,79,7,0,0
+Naguib Mahfouz,72,25,70,22,83,3
+Molière,53,17,50,13,62,4
+Ovid,67,15,64,11,75,4
+"Proust, Marcel",64,22,60,15,71,7
+"Pushkin, Alexander",77,15,80,10,70,5
+"Shakespeare, William",55,28,58,12,53,16
+Sophocles,85,13,89,9,75,4
+"Tagore, Rabindranath",69,44,74,25,63,19
+"Tolstoy, Leo",57,30,52,20,65,10
+"Twain, Mark",66,25,64,14,68,11
+Virgil,66,16,68,14,50,2
+"Amundsen, Roald",39,18,35,13,50,5
+"Armstrong, Neil",76,17,75,12,80,5
+"Cartier, Jacques",57,14,54,13,100,1
+"Columbus, Christopher",80,25,81,16,78,9
+"Cook, James",66,19,62,13,75,6
+"Cortés, Hernán",74,19,67,12,86,7
+"Gagarin, Yuri",64,22,66,19,50,3
+"da Gama, Vasco",66,22,77,13,50,9
+Ibn Battuta,65,13,70,10,50,3
+"Magellan, Ferdinand",47,15,41,11,62,4
+"Polo, Marco",50,13,54,12,0,1
+Zheng He,50,12,45,11,100,1

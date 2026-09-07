@@ -1,0 +1,260 @@
+Page Name,Score,Datapoints,Properties Score,Properties Checked,Incoming Score,Incoming Checked
+Science,49,35,50,2,48,33
+Nature,48,27,46,13,50,14
+Astronomy,46,23,25,2,48,21
+Asteroid,47,32,47,30,50,2
+Big Bang,38,20,38,16,38,4
+Black hole,40,30,41,27,33,3
+Comet,44,50,44,45,40,5
+Galaxy,40,30,41,28,25,2
+Milky Way,42,38,42,32,42,6
+Moon,39,104,39,92,42,12
+Planet,43,14,46,12,25,2
+Mercury,0,0,0,0,0,0
+Venus,37,86,37,79,43,7
+Earth,45,88,45,66,45,22
+Mars,44,100,44,79,43,21
+Jupiter,35,79,34,70,44,9
+Saturn,37,67,36,61,50,6
+Uranus,34,54,34,52,50,2
+Neptune,32,61,30,55,50,6
+Solar System,43,38,43,34,50,4
+Spaceflight,46,23,47,16,43,7
+Star,42,19,50,16,0,3
+Sun,49,106,49,92,46,14
+Universe,44,60,44,56,50,4
+Biology,42,33,44,9,42,24
+DNA,50,14,50,8,50,6
+Enzyme,44,16,43,15,50,1
+Hormone,50,1,0,0,50,1
+Protein,39,14,29,7,50,7
+Botany,40,31,32,14,47,17
+Death,40,24,44,9,37,15
+Suicide,41,50,41,41,39,9
+Ecology,34,59,29,38,43,21
+Endangered species,38,12,33,9,50,3
+Life,40,24,39,19,40,5
+Biological classification,0,0,0,0,0,0
+Species,46,12,43,7,50,5
+Metabolism,39,22,29,12,50,10
+Digestion,44,16,43,14,50,2
+Photosynthesis,46,14,44,9,50,5
+Respiration,0,0,0,0,0,0
+Evolution,43,35,40,25,50,10
+Reproduction,33,6,25,4,50,2
+Pregnancy,38,41,36,35,50,6
+Sex,44,17,42,13,50,4
+Organism,0,0,0,0,0,0
+Animal,39,14,38,12,50,2
+Nematode,46,14,46,13,50,1
+Mollusca,38,20,37,19,50,1
+Arthropod,43,43,43,42,50,1
+Insect,42,24,40,20,50,4
+Ant,41,16,42,13,33,3
+Bee,41,16,43,15,0,1
+Mosquito,38,12,35,10,50,2
+Spider,44,59,44,58,50,1
+Chordate,40,26,40,25,50,1
+Amphibian,35,17,37,15,25,2
+Bird,30,46,31,37,28,9
+Chicken,43,22,39,14,50,8
+Columbidae,36,22,39,18,25,4
+Fish,32,31,28,20,41,11
+Shark,35,23,42,18,10,5
+Mammal,42,39,43,36,33,3
+Camel,43,37,45,31,33,6
+Cat,36,22,41,16,25,6
+Cattle,44,125,45,115,35,10
+Cetacea,44,41,44,41,0,0
+Dog,45,84,45,77,43,7
+Horse,36,40,41,23,29,17
+Sheep,35,46,38,36,25,10
+Rodent,42,13,42,13,0,0
+Pig,34,34,39,28,8,6
+Primate,34,46,34,45,0,1
+Human,44,90,46,80,25,10
+Reptile,38,12,39,9,33,3
+Dinosaur,44,34,47,31,17,3
+Snake,38,21,32,14,50,7
+Algae,42,18,39,14,50,4
+Archaea,47,15,45,10,50,5
+Bacteria,43,14,38,8,50,6
+Fungus,44,42,43,38,50,4
+Plant,41,16,43,14,25,2
+Flower,45,29,48,22,36,7
+Fruit,39,14,36,7,43,7
+Tree,30,5,0,0,30,5
+Protist,35,10,35,10,0,0
+Anatomy,48,25,43,14,55,11
+Cell,50,1,50,1,0,0
+Circulatory system,45,21,43,15,50,6
+Blood,38,17,39,14,33,3
+Heart,34,59,31,48,45,11
+Endocrine system,45,11,44,8,50,3
+Human gastrointestinal tract,50,2,0,0,50,2
+Large intestine,46,14,41,11,67,3
+Small intestine,62,13,68,11,25,2
+Liver,43,22,43,14,44,8
+Muscle,33,3,0,0,33,3
+Nervous system,42,13,44,8,40,5
+Brain,30,10,25,2,31,8
+Nerve,46,12,45,11,50,1
+Sensory system,50,1,0,0,50,1
+Ear,36,18,38,13,30,5
+Nose,38,4,33,3,50,1
+Eye,38,12,39,9,33,3
+Taste,50,2,0,0,50,2
+Reproductive system,44,9,43,7,50,2
+Respiratory system,43,35,42,32,50,3
+Skeleton,25,8,33,3,20,5
+Skin,35,17,35,10,36,7
+Medicine,46,38,50,8,45,30
+Dentistry,49,48,49,34,50,14
+Disease,50,11,50,5,50,6
+Medication,44,8,38,4,50,4
+Antibiotic,50,13,50,11,50,2
+Health,48,22,0,0,48,22
+Immune system,50,6,50,4,50,2
+Menstruation,41,17,41,16,50,1
+Pandemic,50,22,50,22,0,0
+Vaccine,46,12,33,6,58,6
+Virus,44,32,44,26,42,6
+Addiction,41,27,39,23,50,4
+Ethanol,44,52,43,44,50,8
+Tobacco,54,26,53,19,57,7
+Alzheimer's disease,0,0,0,0,0,0
+Cancer,42,40,41,23,44,17
+Chronic obstructive pulmonary disease,36,48,36,44,38,4
+Common cold,41,34,41,32,50,2
+Disability,50,8,0,0,50,8
+Blindness,25,4,0,0,25,4
+Deafness,50,1,0,0,50,1
+Mental disorder,42,37,44,33,25,4
+Epilepsy,43,38,43,28,45,10
+Gastroenteritis,45,40,45,38,50,2
+Headache,42,24,40,20,50,4
+Heart attack,33,3,0,0,33,3
+Influenza,44,41,41,34,57,7
+Malaria,42,49,38,39,55,10
+Malnutrition,41,29,41,23,42,6
+Obesity,41,60,39,46,46,14
+Pneumonia,42,51,42,45,42,6
+Polio,47,36,45,31,60,5
+Sexually_transmitted_infection,36,18,38,17,0,1
+AIDS,43,7,0,0,43,7
+Smallpox,45,56,43,49,57,7
+Stroke,39,46,38,30,41,16
+Tuberculosis,45,62,45,46,47,16
+Diabetes mellitus,41,11,50,1,40,10
+Chemistry,46,26,50,2,46,24
+Inorganic chemistry,43,7,0,0,43,7
+Biochemistry,50,25,45,10,53,15
+Chemical compound,50,4,50,4,0,0
+Acid,56,8,50,6,75,2
+Base (chemistry),0,0,0,0,0,0
+Salt,44,27,44,17,45,10
+Chemical element,50,1,0,0,50,1
+Periodic table,36,11,33,9,50,2
+Aluminium,35,17,30,5,38,12
+Carbon,46,13,50,7,42,6
+Copper,42,20,25,4,47,16
+Gold,45,29,20,5,50,24
+Hydrogen,42,25,41,17,44,8
+Iron,41,46,44,24,39,22
+Nitrogen,50,8,50,4,50,4
+Oxygen,38,17,35,13,50,4
+Silver,50,29,47,16,54,13
+Tin,43,22,41,17,50,5
+Organic chemistry,46,14,43,7,50,7
+Alcohol,50,1,0,0,50,1
+Carbohydrate,40,5,25,2,50,3
+Lipid,50,2,0,0,50,2
+Molecule,45,11,45,11,0,0
+Analytical chemistry,44,9,0,0,44,9
+Physical chemistry,57,7,0,0,57,7
+Climate,50,4,0,0,50,4
+Earth water cycle,0,0,0,0,0,0
+El Niño–Southern Oscillation,50,9,50,8,50,1
+Global warming,50,5,0,0,50,5
+Earthquake,50,6,50,5,50,1
+Geology,45,22,44,8,46,14
+Mineral,40,10,33,6,50,4
+Diamond,44,60,44,43,44,17
+Plate tectonics,31,8,29,7,50,1
+Rock,0,1,0,0,0,1
+Natural disaster,30,5,25,4,50,1
+Flood,50,2,0,0,50,2
+Tsunami,43,7,43,7,0,0
+Volcano,29,7,0,0,29,7
+Weather,41,11,0,0,41,11
+Cloud,33,6,25,2,38,4
+Rain,31,18,25,14,50,4
+Snow,37,19,35,13,42,6
+Tornado,35,13,38,8,30,5
+Tropical cyclone,50,2,0,0,50,2
+Wind,40,5,0,0,40,5
+Physics,46,49,50,21,43,28
+Acceleration,38,16,37,15,50,1
+Atom,50,6,50,6,0,0
+Energy,46,45,44,24,48,21
+Conservation of energy,0,0,0,0,0,0
+Electromagnetic radiation,44,9,43,7,50,2
+Infrared,46,13,40,5,50,8
+Ultraviolet,48,21,47,16,50,5
+Light,17,3,0,0,17,3
+Color,50,11,50,4,50,7
+Classical mechanics,50,3,0,0,50,3
+Force,43,14,42,13,50,1
+Electromagnetism,50,10,50,5,50,5
+Magnetic field,48,25,48,25,0,0
+Gravitation,50,4,0,0,50,4
+Strong interaction,50,2,0,0,50,2
+Weak interaction,50,9,50,5,50,4
+Magnet,40,5,25,2,50,3
+Mass,40,10,38,8,50,2
+Metal,38,16,25,10,58,6
+Steel,44,27,50,2,44,25
+Nuclear fission,38,4,25,2,50,2
+State of matter,46,12,46,12,0,0
+Gas,50,3,0,0,50,3
+Liquid,50,1,0,0,50,1
+Plasma,0,0,0,0,0,0
+Solid,43,7,43,7,0,0
+Quantum mechanics,50,8,0,0,50,8
+Radioactive decay,29,7,25,6,50,1
+General relativity,33,9,12,4,50,5
+Special relativity,37,31,37,30,50,1
+Semiconductor,43,7,25,2,50,5
+Sound,38,26,36,18,44,8
+Velocity,40,10,39,9,50,1
+Speed of light,48,42,48,41,50,1
+Temperature,48,32,48,29,50,3
+Time,36,14,32,11,50,3
+Thermodynamics,50,8,0,0,50,8
+Vacuum,50,3,50,2,50,1
+Mathematics,39,51,36,18,41,33
+Arithmetic,50,3,0,0,50,3
+Logarithm,29,14,27,13,50,1
+Number,33,12,33,12,0,0
+Number theory,50,7,0,0,50,7
+Algebra,50,6,0,0,50,6
+Complex number,25,8,25,8,0,0
+Equation,0,0,0,0,0,0
+Linear algebra,43,7,0,2,60,5
+Geometry,47,19,43,7,50,12
+Angle,32,22,32,20,25,2
+Area,45,19,44,16,50,3
+Coordinate system,36,7,33,6,50,1
+Pi,41,23,41,22,50,1
+Pythagorean theorem,39,23,40,21,25,2
+Symmetry,42,6,25,2,50,4
+Trigonometry,38,12,35,10,50,2
+Mathematical analysis,42,6,25,2,50,4
+Differential equation,50,1,0,0,50,1
+Numerical analysis,42,20,36,14,58,6
+Probability,44,17,39,9,50,8
+Statistics,48,24,43,7,50,17
+Function (mathematics),0,0,0,0,0,0
+Infinity,30,15,25,8,36,7
+Mathematical proof,50,1,0,0,50,1
+Set theory,38,17,32,11,50,6

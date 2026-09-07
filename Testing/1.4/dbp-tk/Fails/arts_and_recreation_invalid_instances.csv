@@ -1,0 +1,520 @@
+page_name,property,target_resource,direction,expected_ranges,actual_types
+Culture,date,2004-12-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Culture,date,2016-01-30,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Culture,date,2017-11-18,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Culture,width,230,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Culture,longtype,Culture,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Culture,parent,Culture,incoming,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/MusicGenre
+Art,area,Art,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/MusicGenre
+Art,free,Art,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Art,occupation,Art,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Art,purpose,Art,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Comics,height,85,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Comics,width,180,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Painting,area,Painting,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Painting,genre,Painting,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Painting,training,Painting,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/PersonFunction
+Photography,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Photography,name,Photography,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Photography,otherName,Science or art of creating durable images,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Photography,occupation,Photography,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Work; http://dbpedia.org/ontology/MusicGenre
+Sculpture,date,2009-08-31,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Sculpture,genre,Sculpture,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/PersonFunction
+Dance,occupation,Dance,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Dance,sport,Dance,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/MusicGenre
+Fashion,author,Laura Fantone quoted Said,outgoing,http://dbpedia.org/ontology/Person,
+Fashion,author,Jean_Baptiste_Say,outgoing,http://dbpedia.org/ontology/Person,
+Fashion,title,"Local Invisibility, Postcolonial Feminisms Asian American Contemporary Artists in California",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Fashion,occupation,Fashion,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Theatre,genre,Theatre,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Theatre,purpose,Theatre,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Calligraphy,date,April 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Calligraphy,date,August 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Calligraphy,date,August 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Calligraphy,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Calligraphy,width,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Calligraphy,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Architecture,date,2021-08-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Architecture,almaMater,Architecture,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/MusicGenre
+Architecture,area,Architecture,incoming,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/MusicGenre
+Architecture,occupation,Architecture,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Bridge,date,2011-06-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Canal,date,June 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Dome,height,127,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Dome,height,169,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,307,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,319,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,938,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,1003,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,1200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,2000,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,height,2160,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dome,height,2848,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dome,width,151,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,193,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,390,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,401,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,1600,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,1763,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Dome,width,2880,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dome,width,3008,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Dome,width,4288,outgoing,http://www.w3.org/2001/XMLSchema#double,
+House,occupation,House,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/MusicGenre
+Angkor Wat,mapCaption,Location in Cambodia,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Angkor Wat,location,Angkor Wat,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Band; http://dbpedia.org/ontology/HistoricBuilding
+Colosseum,imageSize,270,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Colosseum,location,"Regio III Isis et Serapis, Rome, Italy",outgoing,http://dbpedia.org/ontology/Place,
+Colosseum,mapCaption,Shown within Augustan Rome,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Colosseum,name,Colosseum,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Venue
+Great Wall of China,date,2009-02-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Great Wall of China,mapCaption,Map of all the wall constructions,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Great Wall of China,name,Great Wall of China,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Great Wall of China,location,Great Wall of China,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Eiffel Tower,completionDate,1889-03-15,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eiffel Tower,elevatorCount,8,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Eiffel Tower,floorCount,3,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Year
+Eiffel Tower,height,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eiffel Tower,id,20000021,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Eiffel Tower,location,7,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Year
+Eiffel Tower,name,The Eiffel Tower,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eiffel Tower,owner,"City of Paris, France",outgoing,http://dbpedia.org/ontology/Agent,
+Eiffel Tower,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Eiffel Tower,startDate,1887-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Eiffel Tower,title,Eiffel Tower,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eiffel Tower,title,List_of_tallest_towers,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eiffel Tower,title,World's_tallest_structure,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Eiffel Tower,years,1889,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eiffel Tower,years,1957,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Eiffel Tower,model,Eiffel Tower,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building
+Empire State Building,completionDate,1931-04-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Empire State Building,cost,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Empire State Building,cost,4.09489E7,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Empire State Building,developer,"Empire State Inc., including John J. Raskob and Al Smith",outgoing,http://dbpedia.org/ontology/Agent,
+Empire State Building,elevatorCount,73,outgoing,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Year
+Empire State Building,floorCount,102,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Year
+Empire State Building,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Empire State Building,location,"Manhattan, New York 10118",outgoing,http://dbpedia.org/ontology/Place,
+Empire State Building,location,350,outgoing,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Empire State Building,name,Empire State Building,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Empire State Building,observatory,80,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Year
+Empire State Building,owner,Empire State Realty Trust,outgoing,http://dbpedia.org/ontology/Agent,
+Empire State Building,startDate,1930-03-17,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Empire State Building,status,Complete,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Empire State Building,title,List_of_tallest_buildings_in_New_York_City,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Building
+Empire State Building,title,List_of_tallest_buildings_in_the_United_States,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Empire State Building,title,Skyscraper,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Empire State Building,title,World's_tallest_freestanding_structure_on_land,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Empire State Building,title,World's_tallest_structure,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Empire State Building,years,1931,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Empire State Building,years,2001,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Empire State Building,location,Empire State Building,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/Building
+Empire State Building,space,Empire State Building,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Building
+Hagia Sophia,author,Doukas,outgoing,http://dbpedia.org/ontology/Person,
+Hagia Sophia,designer,Anthemius_of_Tralles,outgoing,http://dbpedia.org/ontology/Person,
+Hagia Sophia,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hagia Sophia,mapCaption,Location in the Fatih district of Istanbul,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Hagia Sophia,title,De aedificiis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Hagia Sophia,width,240,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hagia Sophia,restingPlace,Hagia Sophia,incoming,http://dbpedia.org/ontology/Place,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/Monument
+Parthenon,architect,Callicrates,outgoing,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person
+Parthenon,architect,Iktinos,outgoing,http://dbpedia.org/ontology/Architect,
+Parthenon,completionDate,432,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Parthenon,date,2013-01-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Parthenon,date,2020-07-28,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Parthenon,destructionDate,--09-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Parthenon,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Parthenon,location,"Athens, Greece",outgoing,http://dbpedia.org/ontology/Place,
+Parthenon,name,Parthenon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/ArchitecturalStructure; http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/HistoricBuilding
+Parthenon,startDate,447,outgoing,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Parthenon,width,210,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Giza_pyramid_complex,date,2008-10-11,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Giza_pyramid_complex,imageSize,300,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Giza_pyramid_complex,location,"Giza, Greater Cairo, Egypt",outgoing,http://dbpedia.org/ontology/Place,
+Giza_pyramid_complex,name,Giza pyramid complex,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Giza_pyramid_complex,region,Middle Egypt,outgoing,http://dbpedia.org/ontology/Place,
+Giza_pyramid_complex,relief,yes,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Statue of Liberty,height,,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Statue of Liberty,height,From ground level to torch:,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Statue of Liberty,height,Height of copper statue :,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Statue of Liberty,id,ny1251,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Statue of Liberty,id,ny2026,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Statue of Liberty,id,ny2027,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Statue of Liberty,id,20000068,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Statue of Liberty,name,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,name,Liberty Enlightening the World,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,name,Statue of Liberty,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,title,Other articles related to the Statue of Liberty,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,title,Statue of Liberty,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,title,"Statue of Liberty, Administration Building",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,title,"Statue of Liberty, Concessions Building",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,title,"Statue of Liberty, Liberty Island, Manhattan, New York City County, NY",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Statue of Liberty,space,Statue of Liberty,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/Location; http://dbpedia.org/ontology/Artwork; http://dbpedia.org/ontology/HistoricPlace; http://dbpedia.org/ontology/MusicalArtist
+Taj Mahal,architect,Ustad_Ahmad_Lahauri,outgoing,http://dbpedia.org/ontology/Architect,http://dbpedia.org/ontology/Person
+Taj Mahal,governingBody,Government of India,outgoing,http://dbpedia.org/ontology/Organisation,
+Taj Mahal,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Taj Mahal,location,"Agra, Uttar Pradesh, India",outgoing,http://dbpedia.org/ontology/Place,
+Taj Mahal,mapCaption,Location of Taj Mahal in Uttar Pradesh,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Taj Mahal,name,Taj Mahal,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Three Gorges Dam,cost,2.03E11,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Three Gorges Dam,dam,Three Gorges Dam,outgoing,http://dbpedia.org/ontology/Animal,
+Three Gorges Dam,imageSize,260,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Three Gorges Dam,name,Three Gorges Dam,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Three Gorges Dam,owner,China Yangtze Power,outgoing,http://dbpedia.org/ontology/Agent,
+Three Gorges Dam,purpose,"Flood control, power, navigation",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Three Gorges Dam,status,O,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/RadioStation; http://dbpedia.org/ontology/SoccerClub
+Three Gorges Dam,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Three Gorges Dam,start,Three Gorges Dam,incoming,http://www.w3.org/2001/XMLSchema#date,http://dbpedia.org/ontology/Infrastructure; http://dbpedia.org/ontology/Dam; http://dbpedia.org/ontology/ArchitecturalStructure
+Pyramid,symbol,Pyramid,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/RecordLabel
+Tower,meaning,Tower,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Building; http://dbpedia.org/ontology/RecordLabel
+Film,border,1,outgoing,http://dbpedia.org/ontology/Area,http://dbpedia.org/ontology/Year
+Film,width,25.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Film,genre,Film,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Film,production,Film,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Film,purpose,Film,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction; http://dbpedia.org/ontology/TelevisionShow
+Animation,height,80,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Animation,height,160,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Animation,width,85,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Animation,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Animation,occupation,Animation,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Animation,production,Animation,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Election; http://dbpedia.org/ontology/MusicGenre
+Radio,width,108,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Radio,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Radio,genre,Radio,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Radio,note,Radio,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Television,genre,Television,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/PersonFunction
+Music,description,Die Walküre by Richard Wagner,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,description,Symphony 40 G minor by W.A. Mozart,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,description,Toccata and Fugue by J.S. Bach,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,description,by Léonin or Pérotin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,filename,Breves dies hominis.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Music,filename,Toccata et Fugue BWV565.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Music,filename,Wagner - die walkure fantasie.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Music,filename,Wolfgang Amadeus Mozart - Symphony 40 g-moll - 1. Molto allegro.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Music,title,Breves dies hominis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,title,Die Walküre,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,title,Symphony No. 40 G minor,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,title,"Toccata and Fugue in D minor, BWV 565",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Music,basedOn,Music,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Music,features,Music,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/MusicGenre
+Music,free,Music,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Music,instrument,Music,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/MusicGenre
+Music,occupation,Music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Music,purpose,Music,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Song,instrument,Song,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Song,meaning,Song,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Song,occupation,Song,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Song,prefix,Song,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Book; http://dbpedia.org/ontology/MusicGenre
+Blues,name,Blues,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Blues,quote,"""Blues singing is about emotion. Its influence on popular singing has been so widespread that, at least among males, singing and emoting have become almost identical—it is a matter of projection rather than hitting the notes.""",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Blues,width,23.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Blues,title,Blues,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Classical music,date,June 2018,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Classical music,title,Major eras,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Classical music,occupation,Classical music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicGenre
+Opera,description,Aria from Ruggero Leoncavallo's Pagliacci. Performed by Enrico Caruso,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,description,"Enrico Caruso sings ""La donna è mobile"", from Giuseppe Verdi's Rigoletto",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,description,Overture to Don Giovanni,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,description,Pasquale Amato's 1911 rendition of the Toréador's song from Georges Bizet's Carmen .,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,description,"Scene from Purcell's Dido and Aeneas. The witches' messenger, in the form of Mercury himself, attempts to convince Aeneas to leave Carthage.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,filename,La_Donna_E_Mobile_Rigoletto.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Opera,filename,No Pagliaccio non son.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Opera,filename,"Pasquale_Amato,_Georges_Bizet,_Chanson_du_toréador,_Carmen.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Opera,filename,"Stay, Prince and hear.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Opera,filename,Wolfgang Amadeus Mozart - Don Giovanni - Overtüre.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Opera,title,Carmen: Chanson du toréador,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,title,La donna è mobile,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,title,Mozart K. 527,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,title,No Pagliaccio non-son,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,title,"Stay, Prince and hear",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Opera,description,Opera,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/MusicGenre
+Opera,occupation,Opera,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Opera,production,Opera,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/MusicGenre
+Symphony,date,June 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Symphony,description,Performed by the Skidmore College Orchestra. Music courtesy of Musopen,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Symphony,filename,"Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - i. allegro con brio.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,filename,"Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - ii. andante con moto.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,filename,"Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - iv. allegro.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,filename,"Ludwig van Beethoven - symphony no. 5 in c minor, op. 67 - iii. allegro.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Anon. 2008. ""Symphony."" The Oxford Dictionary of Music, second edition, revised, edited by Michael Kennedy, associate editor Joyce Bourne. Oxford Music Online  .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Anon. n.d. ""Mannheim School"". Encyclopædia Britannica .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Bowman, Carl Byron. 1971. ""The Ecclesiastiche Sinfonie  of Adriano Banchieri "". Ph.D. diss. New York: New York University.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Brown, Howard Mayer. 2001. ""Symphonia"". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Eisen, Cliff, and Stanley Sadie. 2001. ""Mozart :  Wolfgang Amadeus Mozart"". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Jackson, Timothy L. 1999. Tchaikovsky, Symphony No. 6 . Cambridge Music Handbooks. Cambridge and New York: Cambridge University Press.  ;  .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Kennedy, Michael. 2006a. ""Sinfonietta"". The Oxford Dictionary of Music, second edition, revised, Joyce Bourne, associate editor. Oxford and New York: Oxford University Press.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"LaRue, Jan, Mark Evan Bonds, Stephen Walsh, and Charles Wilson. 2001. ""Symphony"". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"LaRue, Jan. 1959. ""A Union Thematic Catalogue of 18th Century Symphonies"". Fontes Artis Musicae 6:18–20.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"LaRue, Jan. 1988. A Catalogue of 18th-Century Symphonies, i: Thematic Identifier. Bloomington, Indiana.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Libbey, Theodore. 1999. The NPR Guide to Building a Classical CD Collection, second edition. New York: Workman Publishing.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Macdonald, Hugh. 2001b. ""Berlioz, Hector"". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Marcuse, Sybil. 1975. Musical Instruments: A Comprehensive Dictionary. Revised edition. The Norton Library. New York: W. W. Norton. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Prout, Ebenezer. 1895. Applied Forms: A Sequel to 'Musical Form', third edition. Augener's Edition, no. 9183. London: Augener. Facsimile reprint, New York: AMS Press, 1971. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Stein, Leon. 1979. Structure & Style: The Study and Analysis of Musical Forms, expanded edition. Princeton, New Jersey: Summy-Birchard Music. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Steinberg, Michael. 1995. The Symphony: A Listener's Guide. Oxford and New York: Oxford University Press.  ;   .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Tawa, Nicholas E. From Psalm to Symphony: A History of Music in New England. Boston: Northeastern University Press. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Temperley, Nicholas. 2001. ""Sinfonietta."" The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Vande Moortele, Steven. 2013. ""'Two-dimensional' Symphonic Forms: Schoenberg's Chamber Symphony, Before and After"". In The Cambridge Companion to the Symphony, edited by Julian Horton, 268–284. Cambridge Companions to Music. Cambridge and New York: Cambridge University Press. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,reference,"Webster, James, and Georg Feder. 2001. ""Haydn,  Joseph"". The New Grove Dictionary of Music and Musicians, second edition, edited by Stanley Sadie and John Tyrrell. London: Macmillan.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Symphony,title,First movement: Allegro con brio,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Symphony,title,Fourth movement: Allegro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Symphony,title,Second movement: Andante con moto,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Symphony,title,Third movement: Scherzo. Allegro,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Electronic music,date,April 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,date,December 2011,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,date,January 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,date,October 2012,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,date,2010-06-26,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,date,2012-08-10,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Electronic music,name,Electronic music,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Electronic music,reference,"Gayou, Évelyne. . ""The GRM: Landmarks on a Historic Route"". Organised Sound 12, no. 3:203–211.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Electronic music,reference,"Lange, A[rt]. . ""Musique concrète and Early Electronic Music"". In The Wire Primers: A Guide To Modern Music, edited by Rob Young, 173–180. London: Verso.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Electronic music,reference,"Palombini, Carlos . ""Machine Songs V: Pierre Schaeffer: From Research into Noises to Experimental Music"". Computer Music Journal 17, no. 3 : 14–19. . .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Electronic music,width,102,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Electronic music,width,114,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Electronic music,width,126,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Electronic music,width,220,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Electronic music,instrument,Electronic music,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Electronic music,occupation,Electronic music,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Flamenco,date,April 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Flamenco,date,October 2019,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Flamenco,date,2021-05-23,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Flamenco,id,363,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Flamenco,name,Flamenco,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Flamenco,reference,.,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SoccerClub
+Flamenco,reference,"Anon. ""Palos & compas "". Flamenco-Events.com .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Anon. ""Palos del Flamenco: Categorías"". flamencoexport.com .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"García Lorca, Federico. ""El cante jondo (Primitivo canto andaluz)"".",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Manuel, Peter. ""Flamenco in Focus: An Analysis of a Performance of Soleares."" In Analytical Studies in World Music, edited by Michael Tenzer. New York: Oxford University Press, 2006, pp. 92–119.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Mendoza, Gabriela. ""Ser flamenco no es una música, es un estilo de vida"". El Diario de Hoy : .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Pohren, Donn E. The Art of Flamenco. Westport, Connecticut: Bold Strummer, 2005. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Real Academia Española. ""flamenco, ca"". Diccionario de la lengua Española, tricentenary edition. Madrid: Real Academia Español, 2019. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Rossy, Hipólito: Teoría del Cante Jondo, Cresda, Barcelona, 1998.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Ríos Ruiz, Manuel. Ayer y hoy del cante flamenco, Ediciones Istmo, Tres Cantos , 1997. .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,"Torres Cortés, Norberto. ""El compromiso y la generosidad de manolo Sanlúcar "". El Olivo, no. 88 .",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,--10-22,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,reference,--11-16,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Flamenco,region,ENA,outgoing,http://dbpedia.org/ontology/Place,
+Flamenco,year,2010,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Hip hop,occupation,Hip hop,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/MusicGenre
+Jazz,description,"The Original Dixieland Jass Band performing ""Jazz Me Blues"", an example of a jazz piece from 1921",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jazz,filename,OriginalDixielandJassBand-JazzMeBlues.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Jazz,name,Jazz,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Jazz,title,Jazz Me Blues,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Jazz,width,300,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Jazz,width,385,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Reggae,id,1398,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Reggae,name,Reggae,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Reggae,region,The Caribbean,outgoing,http://dbpedia.org/ontology/Place,
+Reggae,year,2018,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Rock music,name,Rock music,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rock music,quote,"A good definition of rock, in fact, is that it's popular music that to a certain degree doesn't care if it's popular.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rock music,quote,"A strange time, 1971—although rock's balkanization into genres was well underway, it was often hard to tell one catch-phrase from the next. ""Art-rock"" could mean anything from the Velvets to the Moody Blues, and although Led Zeppelin was launched and Black Sabbath celebrated, ""heavy metal"" remained an amorphous concept.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rock music,quote,"Rock and roll was conceived as an outlet for adolescent yearnings ... To make rock and roll is also an ideal way to explore intersections of sex, love, violence, and fun, to broadcast the delights and limitations of the regional, and to deal with the depredations and benefits of mass culture itself.",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Rock music,show,55,outgoing,http://dbpedia.org/ontology/TelevisionShow,http://dbpedia.org/ontology/Year
+Rock music,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Rock music,title,Crammer: A lively cram course on the history of rock and some other things,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Rock music,width,18.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Samba,author,Bide,outgoing,http://dbpedia.org/ontology/Person,
+Samba,author,Ismael Silva,outgoing,http://dbpedia.org/ontology/Person,
+Samba,date,January 2022,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Samba,description,"""Pelo Telephone"" is considered the landmark of samba as a musical genre.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,Composed by Assis Valente. Recorded by Carmen Miranda in 1939.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,Composed by Bide and Marçal. Recorded by Mario Reis in 1933.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,Composed by Heitor dos Prazeres. Recording by Benedito Lacerda with accompaniment by Gente do Morro in 1930.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,Composed by Homero Dornelas. Recorded by Bando de Tangarás. Hit in the Rio carnival of 1930.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,"Composed by Ismael Silva, Nilson Bastos and Francisco Alves. Recorded by Francisco Alves and Mário Reis in 1931.",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,description,Composed by Pixinguinha and Cícero de Almeida. Recorded by Patrício Teixeira and Trio T.B.T in 1932.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,filename,Agora é Cinza-Mario Reis-Bide e Marçal1933.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,Na Pavuna-Almirante-Homero Dornelas1929.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,O QUE SERÁ DE MIM- Francisco Alves e Mário Reis 1931.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,Pelo Telephone .ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,Primeira Linha-Benedito Lacerda e Gente do Morro-Heitor dos Prazeres1930.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,Samba de fato 1932.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,filename,UVA DE CAMINHÃO - Carmen Miranda 1939.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Samba,name,Samba,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Genre; http://dbpedia.org/ontology/TopicalConcept; http://dbpedia.org/ontology/MusicGenre
+Samba,title,Agora é Cinza,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,Na Pavuna,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,O que será de mim,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,Pelo Telefone,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,Primeira Linha,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,Samba de fato,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Samba,title,Uva de caminhão,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Drum,description,Snare drum cadences performed by the United States Navy Band,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Drum,filename,Drum - Cadence A.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Drum,filename,Drum - Cadence B.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Drum,filename,Drums - Four Flams.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Drum,title,Drum - Cadence A,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Drum,title,Drum - Cadence B,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Drum,title,Drum - Four Flams,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Drum,classification,Drum,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Drum,instrument,Drum,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/MusicGenre
+Flute,date,May 2020,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Flute,width,154,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Flute,width,250,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Flute,instrument,Flute,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/PersonFunction
+Flute,note,Flute,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/PersonFunction
+Guitar,background,string,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Guitar,classification,String instrument,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Guitar,description,Spanish Romance.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Guitar,filename,romanza_española.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Guitar,name,Guitar,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,range,130,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Year
+Guitar,title,Classical Guitar Sample,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Guitar,width,140,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Guitar,width,200,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guitar,width,215,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guitar,width,248,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Guitar,genre,Guitar,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,instrument,Guitar,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,name,Guitar,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,names,Guitar,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Guitar,occupation,Guitar,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Piano,background,keyboard,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Piano,description,"Frédéric Chopin's Étude Op. 25, No. 12, on an Erard piano made in 1851",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Piano,description,Played by Kimiko Douglass-Ishizaka,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Piano,description,"The same piece, on a modern piano",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Piano,filename,Frederic Chopin - Opus 25 - Twelve Grand Etudes - c minor.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Piano,filename,"Frederic Chopin - etude no. 12 in c minor, op. 25.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Piano,filename,"Kimiko_Ishizaka_-_Bach_-_Well-Tempered_Clavier,_Book_1_-_01_Prelude_No._1_in_C_major,_BWV_846.ogg",outgoing,http://www.w3.org/2001/XMLSchema#string,
+Piano,musicians,Pianists,outgoing,http://dbpedia.org/ontology/MusicalArtist,http://dbpedia.org/ontology/PersonFunction
+Piano,name,Piano,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,range,File:PianoRange.tif,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+Piano,title,Modern piano sound,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Piano,title,"The Well-Tempered Clavier, first prelude of Book I",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Piano,title,19,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Year
+Piano,width,(50 * 22 / 22) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Piano,width,(50 * 40 / 26) round 0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Piano,genre,Piano,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,instrument,Piano,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Piano,training,Piano,incoming,http://dbpedia.org/ontology/EducationalInstitution,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Trumpet,background,brass,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Trumpet,classification,,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Trumpet,classification,Aerophone,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Trumpet,classification,Brass_instrument,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent
+Trumpet,classification,Wind_instrument,outgoing,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Agent
+Trumpet,name,Trumpet,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Trumpet,range,"{
+      \new Staff \with { \remove ""Time_signature_engraver"" }
+      \clef treble \key c \major \cadenzaOn
+      fis1 \glissando c'''1
+    }",outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,
+Trumpet,instrument,Trumpet,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Trumpet,occupation,Trumpet,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/MusicalArtist
+Violin,background,string,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Violin,description,A major scale,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,A major scale played col legno,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,Artificial  harmonic of A7,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,Beginning of an A major scale with vibrato,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,Harmonic glissando on the A string – 566 KB.,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,"Natural harmonics of an A, E, and an A",outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,description,Open strings,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,filename,Violin sounds and techniques.ogg,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Violin,musicians,*List of violinists,outgoing,http://dbpedia.org/ontology/MusicalArtist,
+Violin,name,Violin,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,names,Fiddle,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/PersonFunction
+Violin,range,130,outgoing,http://www.w3.org/2001/XMLSchema#positiveInteger,http://dbpedia.org/ontology/Year
+Violin,title,Violin sounds and techniques,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Violin,genre,Violin,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,instrument,Violin,incoming,http://dbpedia.org/ontology/Instrument,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,name,Violin,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Violin,names,Violin,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/PersonFunction
+Game,callsignMeaning,Game,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/MusicGenre
+Backgammon,italicTitle,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Backgammon,playingTime,-3600.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Backgammon,setupTime,-30.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Backgammon,title,Backgammon,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Backgammon,years,1646,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chess,imageSize,250,outgoing,http://www.w3.org/2001/XMLSchema#integer,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Chess,italicTitle,no,outgoing,http://www.w3.org/2001/XMLSchema#string,
+Chess,playingTime,22200.0,outgoing,http://www.w3.org/2001/XMLSchema#double,
+Chess,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Chess,title,Chess,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,years,15,outgoing,http://www.w3.org/2001/XMLSchema#gYear,http://dbpedia.org/ontology/Year
+Chess,free,Chess,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,games,Chess,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,genre,Chess,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,occupation,Chess,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Chess,purpose,Chess,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/Game; http://dbpedia.org/ontology/VideoGame
+Video game,occupation,Video game,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/VideoGame; http://dbpedia.org/ontology/MusicGenre
+Gambling,date,2018-11-04,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Gambling,family,Gambling,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Gambling,occupation,Gambling,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Gambling,title,Gambling,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Company; http://dbpedia.org/ontology/MusicGenre
+Martial arts,occupation,Martial arts,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/MusicGenre
+Martial arts,purpose,Martial arts,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/MusicGenre
+Martial arts,sport,Martial arts,incoming,http://dbpedia.org/ontology/Sport,http://dbpedia.org/ontology/Place; http://dbpedia.org/ontology/MusicGenre
+Judo,creator,Kanō_Jigorō,outgoing,http://dbpedia.org/ontology/Agent,http://dbpedia.org/ontology/Person; http://dbpedia.org/ontology/Animal; http://dbpedia.org/ontology/Athlete; http://dbpedia.org/ontology/Eukaryote; http://dbpedia.org/ontology/Species; http://dbpedia.org/ontology/MartialArtist
+Judo,name,,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Judo,name,Judo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Sport
+Judo,state,collapsed,outgoing,http://dbpedia.org/ontology/PopulatedPlace,
+Judo,title,Articles and topics related to judo,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Judo,event,Judo,incoming,http://dbpedia.org/ontology/Event,http://dbpedia.org/ontology/Sport
+Judo,name,Judo,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Sport
+Judo,occupation,Judo,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Sport
+Olympic Games,mascot,Olympic Games,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/SportsEvent; http://dbpedia.org/ontology/MusicGenre
+Olympic Games,occupation,Olympic Games,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/SportsEvent; http://dbpedia.org/ontology/MusicGenre
+Sport,author,UNESCO,outgoing,http://dbpedia.org/ontology/Person,http://dbpedia.org/ontology/Agent; http://dbpedia.org/ontology/Organisation; http://dbpedia.org/ontology/Country
+Sport,title,Strengthening the rule of law through education: a guide for policymakers,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Sport,occupation,Sport,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/MusicGenre
+Sport,production,Sport,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/MusicGenre
+Baseball,name,Baseball,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+Baseball,team,9,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Year
+Baseball,title,Articles relating to Baseball,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Baseball,genre,Baseball,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,occupation,Baseball,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,seatingCapacity,Baseball,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Baseball,title,Baseball,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Basketball,date,2011-02-22,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Basketball,name,Basketball,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+Basketball,team,5,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Year
+Basketball,title,Articles related to basketball,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Basketball,capacity,Basketball,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,features,Basketball,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,free,Basketball,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,genre,Basketball,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,name,Basketball,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,occupation,Basketball,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,seatingCapacity,Basketball,incoming,http://www.w3.org/2001/XMLSchema#nonNegativeInteger,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Basketball,title,Basketball,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Cricket,height,340,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/TimePeriod; http://dbpedia.org/ontology/Year
+Cricket,name,Cricket,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Cricket,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+Cricket,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Cricket,team,11,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Year
+Cricket,title,Articles relating to Cricket,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Cricket,width,150,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Cricket,width,500,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Cricket,free,Cricket,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Cricket,genre,Cricket,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Cricket,role,Cricket,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/VideoGame
+Association football,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+Association football,name,Association football,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,
+Association football,team,11,outgoing,http://dbpedia.org/ontology/SportsTeam,http://dbpedia.org/ontology/Year
+Association football,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Association football,description,Association football,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,features,Association football,incoming,http://dbpedia.org/ontology/Work,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,free,Association football,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,genre,Association football,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,leaderTitle,Association football,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,name,Association football,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,occupation,Association football,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,purpose,Association football,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Association football,specialist,Association football,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Golf,species,no,outgoing,http://dbpedia.org/ontology/Species,
+Golf,free,Golf,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Golf,genre,Golf,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Golf,name,Golf,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport; http://dbpedia.org/ontology/SoccerClub
+Tennis,name,Tennis,outgoing,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Tennis,region,Worldwide,outgoing,http://dbpedia.org/ontology/Place,
+Tennis,team,Singles or doubles,outgoing,http://dbpedia.org/ontology/SportsTeam,
+Tennis,width,100,outgoing,http://www.w3.org/2001/XMLSchema#double,http://dbpedia.org/ontology/Year
+Tennis,free,Tennis,incoming,http://www.w3.org/2001/XMLSchema#string,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Tennis,genre,Tennis,incoming,http://dbpedia.org/ontology/Genre,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Tennis,name,Tennis,incoming,http://www.w3.org/1999/02/22-rdf-syntax-ns#langString,http://dbpedia.org/ontology/Activity; http://dbpedia.org/ontology/Sport
+Swimming,date,August 2021,outgoing,http://www.w3.org/2001/XMLSchema#date,
+Swimming,occupation,Swimming,incoming,http://dbpedia.org/ontology/PersonFunction,
+Swimming,sport,Swimming,incoming,http://dbpedia.org/ontology/Sport,
+Toy,occupation,Toy,incoming,http://dbpedia.org/ontology/PersonFunction,http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre
+Toy,species,Toy,incoming,http://dbpedia.org/ontology/Species,http://dbpedia.org/ontology/Food; http://dbpedia.org/ontology/MusicGenre
